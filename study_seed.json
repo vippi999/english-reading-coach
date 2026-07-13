@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "purpose": "実読で読了したLessonと30回読み対象をアプリへ渡すための正本",
+  "completed_lessons": [
+    {
+      "book": "The Rules 1",
+      "lesson": 1,
+      "session": 1,
+      "completed_on": "2026-07-13",
+      "status": "completed",
+      "question_status": "deferred_until_lesson_12"
+    },
+    {
+      "book": "The Rules 1",
+      "lesson": 2,
+      "session": 2,
+      "completed_on": "2026-07-13",
+      "status": "completed",
+      "question_status": "deferred_until_lesson_12"
+    }
+  ],
+  "thirty_reading_targets": []
+}
