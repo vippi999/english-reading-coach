@@ -576,6 +576,294 @@
       "cue": "Cが前に出て、the fact that以下のSが後ろに来る形を見る。",
       "created_at": "2026-07-13",
       "learned_on": "2026-07-13"
+    },
+    {
+      "id": "rules1-l1-moreover",
+      "source": { "book": "The Rules 1", "unit": "Lesson 1", "location": "Session 1", "excerpt": "Moreover" },
+      "target": "Moreover",
+      "category": "discourse_marker",
+      "prompt": "Moreover",
+      "answer_core": "さらに",
+      "usage_examples": [
+        { "english": "Moreover, soccer is safer.", "japanese": "さらに、サッカーのほうが安全だ。" }
+      ],
+      "card_sentence": { "before": "Moreoverは、普通に", "hidden": "「さらに」", "after": "と訳す。" },
+      "initial_processing": "役割の切り替えで止まった。",
+      "cue": "前の内容に情報を足す。",
+      "created_at": "2026-07-13",
+      "learned_on": "2026-07-13"
+    },
+    {
+      "id": "rules1-l1-even-comparative",
+      "source": { "book": "The Rules 1", "unit": "Lesson 1", "location": "Session 1", "excerpt": "even + comparative" },
+      "target": "even + 比較級",
+      "category": "grammar_or_quantity",
+      "prompt": "even + 比較級",
+      "answer_core": "比較級を強調する。",
+      "usage_examples": [
+        { "english": "even more impressive", "japanese": "さらに印象的な" }
+      ],
+      "card_sentence": { "before": "evenは、", "hidden": "比較級を強調", "after": "することができる。" },
+      "initial_processing": "比較級の強調を即時処理できなかった。",
+      "cue": "比較級の直前を見る。",
+      "created_at": "2026-07-13",
+      "learned_on": "2026-07-13"
+    },
+    {
+      "id": "rules1-l1-with-oc",
+      "source": { "book": "The Rules 1", "unit": "Lesson 1", "location": "Session 1", "excerpt": "with over 3 million children playing soccer" },
+      "target": "付帯のwith O C",
+      "category": "grammar_or_quantity",
+      "prompt": "付帯のwith O C",
+      "answer_core": "OとCがS-Vの関係で、主文とゆるくつながる。",
+      "usage_examples": [
+        { "english": "with over 3 million children playing soccer", "japanese": "300万人を超える子どもがサッカーをしていて" }
+      ],
+      "card_sentence": { "before": "付帯のwithのwith以下は、", "hidden": "OとCがS-Vの関係", "after": "でできていて、主文とゆるくつなげる。" },
+      "initial_processing": "with以下の内部関係で止まった。",
+      "cue": "Oを主語、Cを述語として見る。",
+      "created_at": "2026-07-13",
+      "learned_on": "2026-07-13"
+    },
+    {
+      "id": "rules1-l1-in-these-past-years",
+      "source": { "book": "The Rules 1", "unit": "Lesson 1", "location": "Session 1", "excerpt": "in these past forty years" },
+      "target": "in these past 〜 years",
+      "category": "word_or_chunk",
+      "prompt": "in these past 〜 years",
+      "answer_core": "この〜年間で",
+      "usage_examples": [
+        { "english": "in these past forty years", "japanese": "この40年間で" }
+      ],
+      "card_sentence": { "before": "in these past 〜 yearsは、", "hidden": "「この〜年間で」", "after": "と訳す。" },
+      "initial_processing": "まとまりで取れなかった。",
+      "cue": "期間を表すひとかたまり。",
+      "created_at": "2026-07-13",
+      "learned_on": "2026-07-13"
+    },
+    {
+      "id": "rules1-l1-such-as",
+      "source": { "book": "The Rules 1", "unit": "Lesson 1", "location": "Session 1", "excerpt": "such soccer-loving areas as California" },
+      "target": "such 〜〜〜 as B",
+      "category": "word_or_chunk",
+      "prompt": "such 〜〜〜 as B",
+      "answer_core": "Bのような〜〜〜",
+      "usage_examples": [
+        { "english": "such soccer-loving areas as California", "japanese": "カリフォルニアのようなサッカー好きの地域" }
+      ],
+      "card_sentence": { "before": "such 〜〜〜 as Bは", "hidden": "「Bのような〜〜〜」", "after": "で、suchとasの間が長いこともある。" },
+      "initial_processing": "suchとasが離れていてまとまりを取れなかった。",
+      "cue": "suchとasを対応させる。",
+      "created_at": "2026-07-13",
+      "learned_on": "2026-07-13"
+    },
+    {
+      "id": "rules1-l1-due-to-arrow",
+      "source": { "book": "The Rules 1", "unit": "Lesson 1", "location": "Session 1", "excerpt": "due to" },
+      "target": "due to",
+      "category": "discourse_marker",
+      "prompt": "due to",
+      "answer_core": "右向き矢印",
+      "usage_examples": [
+        { "english": "The game stopped due to rain.", "japanese": "雨のため試合が止まった。" }
+      ],
+      "card_sentence": { "before": "due toは", "hidden": "右向き矢印", "after": "。" },
+      "initial_processing": "原因から結果への向きを即時処理できなかった。",
+      "cue": "due toの右側が原因。",
+      "created_at": "2026-07-13",
+      "learned_on": "2026-07-13"
+    },
+    {
+      "id": "rules1-l1-both-subject",
+      "source": { "book": "The Rules 1", "unit": "Lesson 1", "location": "Session 1", "excerpt": "Both are played outdoors." },
+      "target": "both",
+      "category": "grammar_or_quantity",
+      "prompt": "both",
+      "answer_core": "主語になる（代名詞）。",
+      "usage_examples": [
+        { "english": "Both are played outdoors.", "japanese": "両方とも屋外で行われる。" }
+      ],
+      "card_sentence": { "before": "bothは", "hidden": "主語になる（代名詞）", "after": "。" },
+      "initial_processing": "bothを主語として取れなかった。",
+      "cue": "直後の動詞を見る。",
+      "created_at": "2026-07-13",
+      "learned_on": "2026-07-13"
+    },
+    {
+      "id": "rules1-l1-contact",
+      "source": { "book": "The Rules 1", "unit": "Lesson 1", "location": "Session 1", "excerpt": "contact sports" },
+      "target": "contact",
+      "category": "word_or_chunk",
+      "prompt": "contact",
+      "answer_core": "接触",
+      "usage_examples": [
+        { "english": "contact sports", "japanese": "接触のあるスポーツ" }
+      ],
+      "card_sentence": { "before": "contact：", "hidden": "接触", "after": "" },
+      "initial_processing": "文脈内の意味を確定できなかった。",
+      "cue": "人や物が触れること。",
+      "created_at": "2026-07-13",
+      "learned_on": "2026-07-13"
+    },
+    {
+      "id": "rules1-l1-much-comparative",
+      "source": { "book": "The Rules 1", "unit": "Lesson 1", "location": "Session 1", "excerpt": "much safer" },
+      "target": "much + 比較級",
+      "category": "grammar_or_quantity",
+      "prompt": "much + 比較級",
+      "answer_core": "比較を強調する。",
+      "usage_examples": [
+        { "english": "much safer", "japanese": "はるかに安全な" }
+      ],
+      "card_sentence": { "before": "muchは", "hidden": "比較を強調", "after": "できる。" },
+      "initial_processing": "比較級の強調を即時処理できなかった。",
+      "cue": "比較級の直前を見る。",
+      "created_at": "2026-07-13",
+      "learned_on": "2026-07-13"
+    },
+    {
+      "id": "rules1-l1-whereas",
+      "source": { "book": "The Rules 1", "unit": "Lesson 1", "location": "Session 1", "excerpt": "whereas" },
+      "target": "whereas",
+      "category": "discourse_marker",
+      "prompt": "whereas",
+      "answer_core": "対比を表す。",
+      "usage_examples": [
+        { "english": "Soccer is global, whereas football is mainly American.", "japanese": "サッカーは世界的だが、一方でフットボールは主にアメリカのものだ。" }
+      ],
+      "card_sentence": { "before": "whereasは", "hidden": "対比", "after": "を表す。" },
+      "initial_processing": "前後の対比をすぐに取れなかった。",
+      "cue": "前後を対照させる。",
+      "created_at": "2026-07-13",
+      "learned_on": "2026-07-13"
+    },
+    {
+      "id": "rules1-l1-thus",
+      "source": { "book": "The Rules 1", "unit": "Lesson 1", "location": "Session 1", "excerpt": "thus" },
+      "target": "thus",
+      "category": "discourse_marker",
+      "prompt": "thus",
+      "answer_core": "そのため",
+      "usage_examples": [
+        { "english": "Thus, soccer became more popular.", "japanese": "そのため、サッカーはより人気になった。" }
+      ],
+      "card_sentence": { "before": "thus：", "hidden": "そのため", "after": "" },
+      "initial_processing": "論理関係を即時処理できなかった。",
+      "cue": "前の内容を原因として結果へ進む。",
+      "created_at": "2026-07-13",
+      "learned_on": "2026-07-13"
+    },
+    {
+      "id": "rules1-l1-as-proportion",
+      "source": { "book": "The Rules 1", "unit": "Lesson 1", "location": "Session 1", "excerpt": "as" },
+      "target": "as（比例）",
+      "category": "discourse_marker",
+      "prompt": "as（比例）",
+      "answer_core": "〜するにつれて",
+      "usage_examples": [
+        { "english": "As interest grew, more children began to play.", "japanese": "関心が高まるにつれて、より多くの子どもが始めた。" }
+      ],
+      "card_sentence": { "before": "asは", "hidden": "比例の意味", "after": "もある。" },
+      "initial_processing": "比例のasとして取れなかった。",
+      "cue": "二つの変化が一緒に進む。",
+      "created_at": "2026-07-13",
+      "learned_on": "2026-07-13"
+    },
+    {
+      "id": "rules1-l2-while-concession",
+      "source": { "book": "The Rules 1", "unit": "Lesson 2", "location": "Session 2", "excerpt": "while" },
+      "target": "while（対比・譲歩）",
+      "category": "discourse_marker",
+      "prompt": "while（対比・譲歩）",
+      "answer_core": "対比・譲歩を表す。",
+      "usage_examples": [
+        { "english": "While there are problems, immigration has benefits.", "japanese": "問題はあるが、移民には利点がある。" }
+      ],
+      "card_sentence": { "before": "whileは「〜の間」だけでなく、", "hidden": "対比・譲歩", "after": "もある。" },
+      "initial_processing": "時間の意味で処理した。",
+      "cue": "前後の内容が対立していないかを見る。",
+      "created_at": "2026-07-13",
+      "learned_on": "2026-07-13"
+    },
+    {
+      "id": "rules1-l2-parallel-verbs",
+      "source": { "book": "The Rules 1", "unit": "Lesson 2", "location": "Session 2", "excerpt": "V1, V2, and V3" },
+      "target": "V1・V2・and V3の並列",
+      "category": "grammar_or_quantity",
+      "prompt": "V1・V2・and V3の並列",
+      "answer_core": "同じ主語に三つの動詞が並ぶ。",
+      "usage_examples": [
+        { "english": "They open businesses, create jobs, and build ties.", "japanese": "彼らは事業を始め、雇用を生み、つながりを築く。" }
+      ],
+      "card_sentence": { "before": "同じ主語に", "hidden": "V1・V2・and V3", "after": "が並ぶことがある。" },
+      "initial_processing": "三つ目の動詞を主語と誤認した。",
+      "cue": "andの後ろと前の品詞・形をそろえる。",
+      "created_at": "2026-07-13",
+      "learned_on": "2026-07-13"
+    },
+    {
+      "id": "rules1-l2-homeland",
+      "source": { "book": "The Rules 1", "unit": "Lesson 2", "location": "Session 2", "excerpt": "homelands" },
+      "target": "homeland",
+      "category": "word_or_chunk",
+      "prompt": "homeland",
+      "answer_core": "母国",
+      "usage_examples": [
+        { "english": "ties with their homelands", "japanese": "彼らの母国とのつながり" }
+      ],
+      "card_sentence": { "before": "homeland：", "hidden": "母国", "after": "" },
+      "initial_processing": "意味を知らなかった。",
+      "cue": "home + land。",
+      "created_at": "2026-07-13",
+      "learned_on": "2026-07-13"
+    },
+    {
+      "id": "rules1-l2-make-o-verb",
+      "source": { "book": "The Rules 1", "unit": "Lesson 2", "location": "Session 2", "excerpt": "make O do" },
+      "target": "make O 原形",
+      "category": "grammar_or_quantity",
+      "prompt": "make O 原形",
+      "answer_core": "Oに〜させる。",
+      "usage_examples": [
+        { "english": "make the public pay attention", "japanese": "世間に注意を向けさせる" }
+      ],
+      "card_sentence": { "before": "make O 原形は、", "hidden": "Oに〜させる", "after": "。" },
+      "initial_processing": "makeの骨格を確定できなかった。",
+      "cue": "Oの後ろの原形を見る。",
+      "created_at": "2026-07-13",
+      "learned_on": "2026-07-13"
+    },
+    {
+      "id": "rules1-l2-for-example-close",
+      "source": { "book": "The Rules 1", "unit": "Lesson 2", "location": "Session 2", "excerpt": "..., for example." },
+      "target": "文末のfor example",
+      "category": "discourse_marker",
+      "prompt": "文末のfor example",
+      "answer_core": "その文全体を具体例として閉じる。",
+      "usage_examples": [
+        { "english": "Many cities have changed, for example.", "japanese": "例えば、多くの都市が変化している。" }
+      ],
+      "card_sentence": { "before": "文末のfor exampleは、", "hidden": "その文全体を具体例として閉じる", "after": "。" },
+      "initial_processing": "文末位置で役割を確定できなかった。",
+      "cue": "直前の文全体を例として見る。",
+      "created_at": "2026-07-13",
+      "learned_on": "2026-07-13"
+    },
+    {
+      "id": "rules1-l2-significantly",
+      "source": { "book": "The Rules 1", "unit": "Lesson 2", "location": "Session 2", "excerpt": "contribute significantly" },
+      "target": "significantly",
+      "category": "word_or_chunk",
+      "prompt": "significantly",
+      "answer_core": "大きく",
+      "usage_examples": [
+        { "english": "contribute significantly", "japanese": "大きく貢献する" }
+      ],
+      "card_sentence": { "before": "significantly：", "hidden": "大きく", "after": "" },
+      "initial_processing": "「著名な」に近く処理した。",
+      "cue": "程度を表す副詞。",
+      "created_at": "2026-07-13",
+      "learned_on": "2026-07-13"
     }
   ]
 }
