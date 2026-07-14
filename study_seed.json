@@ -1,23 +1,425 @@
 {
-  "schema_version": 1,
-  "purpose": "実読で読了したLessonと30回読み対象をアプリへ渡すための正本",
-  "completed_lessons": [
+  "schemaVersion": 2,
+  "planDays": [
+    {
+      "date": "2026-07-13",
+      "note": "The Rules 1のLesson 1〜3で暫定診断を検証する初日。",
+      "tasks": [
+        {
+          "id": "rules-l1",
+          "area": "初見・診断",
+          "title": "The Rules 1 · Lesson 1",
+          "detail": "二段階報告→精読→音読3〜5回",
+          "minutes": 75,
+          "kind": "first_read"
+        },
+        {
+          "id": "jukko-39-40",
+          "area": "英文解釈",
+          "title": "英文熟考 下 · 第39〜40題",
+          "detail": "長ければ1題で止めて実測を残す",
+          "minutes": 35,
+          "kind": "interpretation"
+        },
+        {
+          "id": "target-1-200",
+          "area": "単語",
+          "title": "ターゲット1900 · 1〜200",
+          "detail": "1秒で語義が出るかを判定",
+          "minutes": 20,
+          "kind": "vocabulary"
+        },
+        {
+          "id": "idiom-1-30",
+          "area": "熟語",
+          "title": "英熟語 最前線1515 · 30項目",
+          "detail": "Part 1先頭から速度復習",
+          "minutes": 10,
+          "kind": "idiom"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-14",
+      "note": "Lesson 1の翌日再読を挟み、初見順序を維持する。",
+      "tasks": [
+        {
+          "id": "rules-l2",
+          "area": "初見・診断",
+          "title": "The Rules 1 · Lesson 2",
+          "detail": "二段階報告→精読→音読3〜5回",
+          "minutes": 75,
+          "kind": "first_read"
+        },
+        {
+          "id": "reread-l1-next",
+          "area": "長文再読",
+          "title": "The Rules 1 · Lesson 1",
+          "detail": "全文再読2回。止まった箇所を記録",
+          "minutes": 15,
+          "kind": "reread"
+        },
+        {
+          "id": "jukko-41-42",
+          "area": "英文解釈",
+          "title": "英文熟考 下 · 第41〜42題",
+          "detail": "長ければ1題で止める",
+          "minutes": 35,
+          "kind": "interpretation"
+        },
+        {
+          "id": "target-201-400",
+          "area": "単語",
+          "title": "ターゲット1900 · 201〜400",
+          "detail": "前日の失敗語も確認",
+          "minutes": 20,
+          "kind": "vocabulary"
+        },
+        {
+          "id": "idiom-31-60",
+          "area": "熟語",
+          "title": "英熟語 最前線1515 · 次の30項目",
+          "detail": "Part 1を速度復習",
+          "minutes": 10,
+          "kind": "idiom"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-15",
+      "note": "3セッション目。終了後に継続中の報告MDを完成扱いへ更新する。",
+      "tasks": [
+        {
+          "id": "rules-l3",
+          "area": "初見・診断",
+          "title": "The Rules 1 · Lesson 3",
+          "detail": "3セッション目の診断を完了",
+          "minutes": 75,
+          "kind": "first_read"
+        },
+        {
+          "id": "reread-l2-next",
+          "area": "長文再読",
+          "title": "The Rules 1 · Lesson 2",
+          "detail": "全文再読2回",
+          "minutes": 12,
+          "kind": "reread"
+        },
+        {
+          "id": "reread-l1-day3",
+          "area": "長文再読",
+          "title": "The Rules 1 · Lesson 1",
+          "detail": "全文再読1回",
+          "minutes": 8,
+          "kind": "reread"
+        },
+        {
+          "id": "jukko-43-44",
+          "area": "英文解釈",
+          "title": "英文熟考 下 · 第43〜44題",
+          "detail": "実測を残す",
+          "minutes": 35,
+          "kind": "interpretation"
+        },
+        {
+          "id": "target-401-600",
+          "area": "単語",
+          "title": "ターゲット1900 · 401〜600",
+          "detail": "失敗語を追加",
+          "minutes": 20,
+          "kind": "vocabulary"
+        },
+        {
+          "id": "idiom-61-90",
+          "area": "熟語",
+          "title": "英熟語 最前線1515 · 次の30項目",
+          "detail": "速度復習",
+          "minutes": 10,
+          "kind": "idiom"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-16",
+      "note": "新規初見なし。実読報告を司令塔へ渡して後半計画を再判定する。",
+      "reassessment": true,
+      "tasks": [
+        {
+          "id": "reread-l3-next",
+          "area": "長文再読",
+          "title": "The Rules 1 · Lesson 3",
+          "detail": "全文再読2回",
+          "minutes": 12,
+          "kind": "reread"
+        },
+        {
+          "id": "reread-l2-day3",
+          "area": "長文再読",
+          "title": "The Rules 1 · Lesson 2",
+          "detail": "全文再読1回",
+          "minutes": 8,
+          "kind": "reread"
+        },
+        {
+          "id": "jukko-45-46",
+          "area": "英文解釈",
+          "title": "英文熟考 下 · 第45〜46題",
+          "detail": "実測を残す",
+          "minutes": 35,
+          "kind": "interpretation"
+        },
+        {
+          "id": "target-601-800",
+          "area": "単語",
+          "title": "ターゲット1900 · 601〜800",
+          "detail": "失敗語を追加",
+          "minutes": 20,
+          "kind": "vocabulary"
+        },
+        {
+          "id": "idiom-91-120",
+          "area": "熟語",
+          "title": "英熟語 最前線1515 · 次の30項目",
+          "detail": "速度復習",
+          "minutes": 10,
+          "kind": "idiom"
+        },
+        {
+          "id": "handoff-session-report",
+          "area": "再判定",
+          "title": "実読報告を司令塔へ渡す",
+          "detail": "採用・修正・却下を判断する",
+          "minutes": 15,
+          "kind": "handoff"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-17",
+      "note": "再判定で維持された場合の暫定計画。新指示が出た場合は置き換える。",
+      "tasks": [
+        {
+          "id": "rules-l4",
+          "area": "初見",
+          "title": "The Rules 1 · Lesson 4",
+          "detail": "再判定で維持された場合のみ",
+          "minutes": 65,
+          "kind": "first_read"
+        },
+        {
+          "id": "reread-l3-day3",
+          "area": "長文再読",
+          "title": "The Rules 1 · Lesson 3",
+          "detail": "全文再読1回",
+          "minutes": 8,
+          "kind": "reread"
+        },
+        {
+          "id": "jukko-47-48",
+          "area": "英文解釈",
+          "title": "英文熟考 下 · 第47〜48題",
+          "detail": "実測を残す",
+          "minutes": 35,
+          "kind": "interpretation"
+        },
+        {
+          "id": "target-801-1000",
+          "area": "単語",
+          "title": "ターゲット1900 · 801〜1000",
+          "detail": "失敗語を追加",
+          "minutes": 20,
+          "kind": "vocabulary"
+        },
+        {
+          "id": "idiom-121-150",
+          "area": "熟語",
+          "title": "英熟語 最前線1515 · 次の30項目",
+          "detail": "速度復習",
+          "minutes": 10,
+          "kind": "idiom"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-18",
+      "note": "再判定で維持された場合の暫定計画。",
+      "tasks": [
+        {
+          "id": "rules-l5",
+          "area": "初見",
+          "title": "The Rules 1 · Lesson 5",
+          "detail": "再判定で維持された場合のみ",
+          "minutes": 65,
+          "kind": "first_read"
+        },
+        {
+          "id": "reread-l4-next",
+          "area": "長文再読",
+          "title": "The Rules 1 · Lesson 4",
+          "detail": "全文再読2回",
+          "minutes": 12,
+          "kind": "reread"
+        },
+        {
+          "id": "jukko-49-50",
+          "area": "英文解釈",
+          "title": "英文熟考 下 · 第49〜50題",
+          "detail": "実測を残す",
+          "minutes": 35,
+          "kind": "interpretation"
+        },
+        {
+          "id": "target-1001-1200",
+          "area": "単語",
+          "title": "ターゲット1900 · 1001〜1200",
+          "detail": "失敗語を追加",
+          "minutes": 20,
+          "kind": "vocabulary"
+        },
+        {
+          "id": "idiom-151-180",
+          "area": "熟語",
+          "title": "英熟語 最前線1515 · 次の30項目",
+          "detail": "速度復習",
+          "minutes": 10,
+          "kind": "idiom"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-19",
+      "note": "週次結果を次週計画へ反映する。",
+      "tasks": [
+        {
+          "id": "prenote-2",
+          "area": "初見・測定",
+          "title": "40分プレノート · 第2回",
+          "detail": "未読回を40分通し",
+          "minutes": 40,
+          "kind": "first_read"
+        },
+        {
+          "id": "reread-week1",
+          "area": "長文再読",
+          "title": "L1〜5の詰まりが強い題",
+          "detail": "止まらず読めるか確認",
+          "minutes": 25,
+          "kind": "reread"
+        },
+        {
+          "id": "review-jukko-39-50",
+          "area": "英文解釈",
+          "title": "英文熟考 下 · 第39〜50題見直し",
+          "detail": "詰まった題だけ",
+          "minutes": 25,
+          "kind": "review"
+        },
+        {
+          "id": "review-target-1-1200",
+          "area": "単語",
+          "title": "ターゲット1900 · 失敗語",
+          "detail": "1〜1200の失敗語だけ",
+          "minutes": 20,
+          "kind": "review"
+        },
+        {
+          "id": "weekly-review",
+          "area": "週次",
+          "title": "今週の実績を次週へ反映",
+          "detail": "計画と実績を分けて確認",
+          "minutes": 20,
+          "kind": "handoff"
+        }
+      ]
+    }
+  ],
+  "rereadItems": [
+    {
+      "id": "reread-2026-07-13-rules-l1",
+      "book": "The Rules 1",
+      "unit": "Lesson 1",
+      "title": "The Rules 1 · Lesson 1",
+      "firstReadDate": "2026-07-13",
+      "dueDates": [
+        "2026-07-14",
+        "2026-07-16"
+      ],
+      "minimumRounds": 30,
+      "targetRounds": 30,
+      "attempts": [],
+      "addedBy": "Codex",
+      "sourceNote": "実読チャット報告_2026-07-13.md"
+    }
+  ],
+  "weaknessSummaries": [
+    {
+      "id": "session1-dog-cat-nz-2026-07-12",
+      "source": "weakness_data.md（犬猫・NZ羊、全31事例からOK・回復3件を除外）",
+      "observedTexts": 2,
+      "confirmedCases": 28,
+      "note": "過去の集計を移行した基準値。今後は実読セッションの個別事例から自動集計する。分類は重複を含む。",
+      "rows": [
+        {
+          "key": "chunks",
+          "label": "機能チャンク・基本動詞・数量",
+          "count": 11,
+          "ratio": 39,
+          "tone": "blue"
+        },
+        {
+          "key": "word_use",
+          "label": "単語の運用",
+          "count": 6,
+          "ratio": 21,
+          "tone": "violet"
+        },
+        {
+          "key": "segmentation",
+          "label": "切れ目・保持",
+          "count": 5,
+          "ratio": 18,
+          "tone": "teal"
+        },
+        {
+          "key": "automation",
+          "label": "未処理・未自動化",
+          "count": 3,
+          "ratio": 11,
+          "tone": "orange"
+        },
+        {
+          "key": "punctuation",
+          "label": "記号",
+          "count": 2,
+          "ratio": 7,
+          "tone": "gray"
+        },
+        {
+          "key": "discourse",
+          "label": "談話構造",
+          "count": 2,
+          "ratio": 7,
+          "tone": "gray"
+        }
+      ]
+    }
+  ],
+  "completedLessons": [
     {
       "book": "The Rules 1",
-      "lesson": 1,
+      "unit": "Lesson 1",
       "session": 1,
-      "completed_on": "2026-07-13",
+      "completedOn": "2026-07-13",
       "status": "completed",
-      "question_status": "deferred_until_lesson_12"
+      "questionStatus": "deferred_until_lesson_12"
     },
     {
       "book": "The Rules 1",
-      "lesson": 2,
+      "unit": "Lesson 2",
       "session": 2,
-      "completed_on": "2026-07-13",
+      "completedOn": "2026-07-13",
       "status": "completed",
-      "question_status": "deferred_until_lesson_12"
+      "questionStatus": "deferred_until_lesson_12"
     }
-  ],
-  "thirty_reading_targets": []
+  ]
 }
