@@ -24,8 +24,7 @@
       "usage_examples": [
         {
           "english": "Many athletes trained together as youngsters.",
-          "japanese": "多くの選手は、子どものころ一緒に練習した。",
-          "reading_note": "as + 年齢・立場で『〜のころ／〜として』。"
+          "japanese": "多くの選手は、子どものころ一緒に練習した。"
         }
       ],
       "card_sentence": {
@@ -94,8 +93,7 @@
       "usage_examples": [
         {
           "english": "The road was covered in snow, so that buses could not run.",
-          "japanese": "道路が雪で覆われ、その結果バスは走れなかった。",
-          "reading_note": "コンマ付き so that は目的ではなく、前の内容から生じた結果。"
+          "japanese": "道路が雪で覆われ、その結果バスは走れなかった。"
         }
       ],
       "card_sentence": {
@@ -197,8 +195,7 @@
       "usage_examples": [
         {
           "english": "They have always supported local schools.",
-          "japanese": "彼らはこれまでずっと地域の学校を支援してきた。",
-          "reading_note": "have always + 過去分詞で、過去から現在までの継続を読む。"
+          "japanese": "彼らはこれまでずっと地域の学校を支援してきた。"
         }
       ],
       "card_sentence": {
@@ -302,8 +299,7 @@
       "usage_examples": [
         {
           "english": "She did finish the report before noon.",
-          "japanese": "彼女は実際に正午前にレポートを終えた。",
-          "reading_note": "did + 動詞原形で、事実だったことを強調する。"
+          "japanese": "彼女は実際に正午前にレポートを終えた。"
         }
       ],
       "card_sentence": {
@@ -373,8 +369,7 @@
       "usage_examples": [
         {
           "english": "The plan is expensive. Still, we decided to try it.",
-          "japanese": "その計画は費用がかかる。それでも、私たちは試すことにした。",
-          "reading_note": "文頭の Still は、前の内容を受けて『それでも』と反転する。"
+          "japanese": "その計画は費用がかかる。それでも、私たちは試すことにした。"
         }
       ],
       "card_sentence": {
@@ -409,8 +404,7 @@
       "usage_examples": [
         {
           "english": "You should trust him; after all, he has helped us for years.",
-          "japanese": "彼を信頼すべきだ。何しろ、彼は何年も私たちを助けてくれている。",
-          "reading_note": "After all は、直前の主張を支える理由を後ろに出す。"
+          "japanese": "彼を信頼すべきだ。何しろ、彼は何年も私たちを助けてくれている。"
         }
       ],
       "card_sentence": {
@@ -479,9 +473,8 @@
       "answer_core": "前置詞として使われ、『アメリカの外で』を表す",
       "usage_examples": [
         {
-          "english": "The company operates both in and outside the United States.",
-          "japanese": "その会社は、アメリカ国内と国外の両方で事業を行っている。",
-          "reading_note": "in と outside が並び、どちらも後ろの the United States と結び付く。"
+          "english": "both in and outside the United States",
+          "japanese": "アメリカ国内と国外の両方で"
         }
       ],
       "card_sentence": {
@@ -515,8 +508,7 @@
       "usage_examples": [
         {
           "english": "She bought a small red car.",
-          "japanese": "彼女は小さな赤い車を買った。",
-          "reading_note": "a（冠詞）→ small・red（形容詞）→ car（名詞）の順。"
+          "japanese": "彼女は小さな赤い車を買った。"
         }
       ],
       "card_sentence": {
@@ -571,9 +563,8 @@
       "answer_core": "CVSになりやすい。",
       "usage_examples": [
         {
-          "english": "Of great importance is the fact that the river supplies the town with water.",
-          "japanese": "非常に重要なのは、その川が町に水を供給しているという事実だ。",
-          "reading_note": "Of great importance がC、is がV、the fact that以下がSのCVS。"
+          "english": "Of primary importance is the fact that ...",
+          "japanese": "特に重要なのは、…という事実だ。"
         }
       ],
       "card_sentence": {
