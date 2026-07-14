@@ -21,6 +21,13 @@
       "prompt_mode": "context_meaning",
       "prompt": "as youngsters は、この文脈でどんなまとまり・意味か。",
       "answer_core": "youngstersで1語。as + 年齢・立場で『子供のころ／子供として』",
+      "usage_examples": [
+        {
+          "english": "Many athletes trained together as youngsters.",
+          "japanese": "多くの選手は、子どものころ一緒に練習した。",
+          "reading_note": "as + 年齢・立場で『〜のころ／〜として』。"
+        }
+      ],
       "card_sentence": {
         "before": "as + 年齢・立場は、",
         "hidden": "「〜のころ／〜として」",
@@ -50,6 +57,12 @@
       "prompt_mode": "context_meaning",
       "prompt": "throughout their lives をどう切り、どう読むか。",
       "answer_core": "their livesが名詞句で、『生涯を通じて』",
+      "usage_examples": [
+        {
+          "english": "They remained close friends throughout their lives.",
+          "japanese": "彼らは生涯を通じて親しい友人であり続けた。"
+        }
+      ],
       "card_sentence": {
         "before": "throughout their livesは、their livesでまとまり、",
         "hidden": "「生涯を通じて」",
@@ -78,6 +91,13 @@
       "prompt_mode": "function",
       "prompt": "このコンマ付き so that は、前後をどんな関係でつなぐか。",
       "answer_core": "前の内容から生じた結果を示す",
+      "usage_examples": [
+        {
+          "english": "The road was covered in snow, so that buses could not run.",
+          "japanese": "道路が雪で覆われ、その結果バスは走れなかった。",
+          "reading_note": "コンマ付き so that は目的ではなく、前の内容から生じた結果。"
+        }
+      ],
       "card_sentence": {
         "before": "コンマ付き so that は、",
         "hidden": "結果",
@@ -106,6 +126,12 @@
       "prompt_mode": "quantity",
       "prompt": "thirty times greater は、比較元に対してどれくらいか。",
       "answer_core": "30倍",
+      "usage_examples": [
+        {
+          "english": "The risk was thirty times greater than before.",
+          "japanese": "そのリスクは以前の30倍だった。"
+        }
+      ],
       "card_sentence": {
         "before": "thirty times greaterは、比較元の",
         "hidden": "30倍",
@@ -134,6 +160,12 @@
       "prompt_mode": "context_meaning",
       "prompt": "one of soccer's rivals は、何の一つか。",
       "answer_core": "サッカーのライバル競技の一つ",
+      "usage_examples": [
+        {
+          "english": "Basketball is one of soccer's rivals for young viewers.",
+          "japanese": "バスケットボールは、若い視聴者をめぐるサッカーのライバル競技の一つだ。"
+        }
+      ],
       "card_sentence": {
         "before": "one of soccer's rivalsは、",
         "hidden": "サッカーのライバル競技の一つ",
@@ -162,6 +194,13 @@
       "prompt_mode": "function",
       "prompt": "have always + 過去分詞 は、時間的にどんな状態を表すか。",
       "answer_core": "過去から現在まで、これまでずっと〜である",
+      "usage_examples": [
+        {
+          "english": "They have always supported local schools.",
+          "japanese": "彼らはこれまでずっと地域の学校を支援してきた。",
+          "reading_note": "have always + 過去分詞で、過去から現在までの継続を読む。"
+        }
+      ],
       "card_sentence": {
         "before": "have always + 過去分詞は、",
         "hidden": "「これまでずっと〜」",
@@ -190,6 +229,12 @@
       "prompt_mode": "context_meaning",
       "prompt": "get excited about は、どんな状態変化・意味か。",
       "answer_core": "〜に興奮する／熱中する状態になる",
+      "usage_examples": [
+        {
+          "english": "Children get excited about the school festival.",
+          "japanese": "子どもたちは学校祭にわくわくする。"
+        }
+      ],
       "card_sentence": {
         "before": "get excited aboutは、",
         "hidden": "「〜に興奮する／熱中する状態になる」",
@@ -219,6 +264,12 @@
       "prompt_mode": "function",
       "prompt": "この there は何をしている語か。",
       "answer_core": "前に出た場所を指す場所副詞。ここではアメリカで",
+      "usage_examples": [
+        {
+          "english": "The museum is in Boston, and many visitors go there every year.",
+          "japanese": "その博物館はボストンにあり、毎年多くの訪問者がそこへ行く。"
+        }
+      ],
       "card_sentence": {
         "before": "thereは、前に出た場所を受けて",
         "hidden": "「そこで」",
@@ -248,6 +299,13 @@
       "prompt_mode": "function",
       "prompt": "肯定文の did + 動詞原形 は、ここで何を表すか。",
       "answer_core": "『実際に／確かに〜した』という強調",
+      "usage_examples": [
+        {
+          "english": "She did finish the report before noon.",
+          "japanese": "彼女は実際に正午前にレポートを終えた。",
+          "reading_note": "did + 動詞原形で、事実だったことを強調する。"
+        }
+      ],
       "card_sentence": {
         "before": "did + 原形は、実際にそうだったんだと",
         "hidden": "強調",
@@ -277,6 +335,12 @@
       "prompt_mode": "context_meaning",
       "prompt": "prompt A は、この文でどんな品詞・意味か。",
       "answer_core": "動詞で、Aを促す／引き起こす",
+      "usage_examples": [
+        {
+          "english": "The speech prompted Aiko to apply for the program.",
+          "japanese": "そのスピーチが、アキコにそのプログラムへの応募を促した。"
+        }
+      ],
       "card_sentence": {
         "before": "prompt Aは「即座」ではなく、",
         "hidden": "Aを促したり引き起こしたりする",
@@ -306,6 +370,13 @@
       "prompt_mode": "function",
       "prompt": "文頭の Still は、前の内容に対して何を示す合図か。",
       "answer_core": "逆接・反転。前の内容を認めたうえで『それでも』と切り替える",
+      "usage_examples": [
+        {
+          "english": "The plan is expensive. Still, we decided to try it.",
+          "japanese": "その計画は費用がかかる。それでも、私たちは試すことにした。",
+          "reading_note": "文頭の Still は、前の内容を受けて『それでも』と反転する。"
+        }
+      ],
       "card_sentence": {
         "before": "文頭のStillは、",
         "hidden": "「それでも」という逆説",
@@ -335,6 +406,13 @@
       "prompt_mode": "function",
       "prompt": "After all は、前後をどうつなぐ合図か。",
       "answer_core": "直前の判断・主張の理由を示す",
+      "usage_examples": [
+        {
+          "english": "You should trust him; after all, he has helped us for years.",
+          "japanese": "彼を信頼すべきだ。何しろ、彼は何年も私たちを助けてくれている。",
+          "reading_note": "After all は、直前の主張を支える理由を後ろに出す。"
+        }
+      ],
       "card_sentence": {
         "before": "After allは、",
         "hidden": "前の内容の理由",
@@ -364,6 +442,12 @@
       "prompt_mode": "context_meaning",
       "prompt": "fourth は、数と順位のどちらを表すか。",
       "answer_core": "序数で『4番目』",
+      "usage_examples": [
+        {
+          "english": "She finished fourth in the race.",
+          "japanese": "彼女はそのレースで4位に入った。"
+        }
+      ],
       "card_sentence": {
         "before": "fourthは4つではなく",
         "hidden": "4番目",
@@ -393,6 +477,13 @@
       "prompt_mode": "function",
       "prompt": "この outside は、どんな働きをしているか。",
       "answer_core": "前置詞として使われ、『アメリカの外で』を表す",
+      "usage_examples": [
+        {
+          "english": "The company operates both in and outside the United States.",
+          "japanese": "その会社は、アメリカ国内と国外の両方で事業を行っている。",
+          "reading_note": "in と outside が並び、どちらも後ろの the United States と結び付く。"
+        }
+      ],
       "card_sentence": {
         "before": "outsideは",
         "hidden": "前置詞にもなれて",
@@ -421,6 +512,13 @@
       "category": "grammar_or_quantity",
       "prompt": "冠詞の後ろに空所があり、その後ろに名詞があるとき、よくある順番は何か。",
       "answer_core": "冠詞・形容詞・名詞の順番はよくある。",
+      "usage_examples": [
+        {
+          "english": "She bought a small red car.",
+          "japanese": "彼女は小さな赤い車を買った。",
+          "reading_note": "a（冠詞）→ small・red（形容詞）→ car（名詞）の順。"
+        }
+      ],
       "card_sentence": {
         "before": "",
         "hidden": "冠詞・形容詞・名詞",
@@ -443,6 +541,12 @@
       "category": "word_or_chunk",
       "prompt": "largely",
       "answer_core": "ほとんど",
+      "usage_examples": [
+        {
+          "english": "The area is largely rural.",
+          "japanese": "その地域は大部分が農村地帯だ。"
+        }
+      ],
       "card_sentence": {
         "before": "largely：",
         "hidden": "ほとんど",
@@ -465,6 +569,13 @@
       "category": "grammar_or_quantity",
       "prompt": "同格のthatを使ったSVCは、どんな語順になりやすいか。",
       "answer_core": "CVSになりやすい。",
+      "usage_examples": [
+        {
+          "english": "Of great importance is the fact that the river supplies the town with water.",
+          "japanese": "非常に重要なのは、その川が町に水を供給しているという事実だ。",
+          "reading_note": "Of great importance がC、is がV、the fact that以下がSのCVS。"
+        }
+      ],
       "card_sentence": {
         "before": "同格のthatを使ったSVCは、",
         "hidden": "CVSになりやすい",
@@ -477,3 +588,4 @@
     }
   ]
 }
+
