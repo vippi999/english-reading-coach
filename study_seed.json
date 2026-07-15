@@ -420,6 +420,14 @@
       "completedOn": "2026-07-13",
       "status": "completed",
       "questionStatus": "deferred_until_lesson_12"
+    },
+    {
+      "book": "The Rules 1",
+      "unit": "Lesson 3",
+      "session": 3,
+      "completedOn": "2026-07-15",
+      "status": "completed",
+      "questionStatus": "deferred_until_lesson_12"
     }
   ]
 }
