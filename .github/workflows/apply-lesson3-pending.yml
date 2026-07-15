@@ -1,0 +1,87 @@
+name: Apply Lesson 3 pending data
+
+on:
+  push:
+    paths:
+      - lesson3_pending_update.json
+
+permissions:
+  contents: write
+
+jobs:
+  apply:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Apply pending data
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          pending_path = Path('lesson3_pending_update.json')
+          pending = json.loads(pending_path.read_text(encoding='utf-8'))
+
+          review_path = Path('review_items.json')
+          review = json.loads(review_path.read_text(encoding='utf-8'))
+          items = review.setdefault('items', [])
+          index = {item.get('id'): i for i, item in enumerate(items)}
+          for card in pending['cards']:
+              card_id = card['id']
+              if card_id in index:
+                  merged = dict(items[index[card_id]])
+                  merged.update(card)
+                  items[index[card_id]] = merged
+              else:
+                  index[card_id] = len(items)
+                  items.append(card)
+          review_path.write_text(json.dumps(review, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+
+          report_path = Path('実読チャット報告_2026-07-13.md')
+          report = report_path.read_text(encoding='utf-8')
+          report = report.replace(
+              '> 作業中。Session 3の第2段落まで、本文参照後の初読処理を記録済み。以後この1ファイルへ追記する。',
+              '> Session 3・Lesson 3まで完了。以後この1ファイルへ追記する。'
+          )
+          if '#### 第3段落' not in report:
+              report = report.replace('\n### 精読・原因整理\n', '\n' + pending['report_paragraphs'] + '\n### 精読・原因整理\n', 1)
+          if '### Lesson 3完了時の追記' not in report:
+              report = report.replace('\n### 設問の扱い\n', '\n' + pending['report_completion'] + '\n### 設問の扱い\n', 1)
+          report = report.replace(
+              '- Lesson 3第1〜2段落の参考書確認箇所を照合し、カード文面を確定する。',
+              '- Lesson 4本文を、時間を気にせず一度でゆっくり正確に読む。'
+          )
+          report = report.replace(
+              '- Lesson 3第3段落以降について、本文参照後の初読処理を確認する。',
+              '- Lesson 4でも設問は解かず、Lesson 12終了後まで保留する。'
+          )
+          report_path.write_text(report, encoding='utf-8')
+
+          seed_path = Path('study_seed.json')
+          seed = json.loads(seed_path.read_text(encoding='utf-8'))
+          completed = seed.setdefault('completedLessons', [])
+          exists = any(x.get('book') == 'The Rules 1' and x.get('unit') == 'Lesson 3' for x in completed)
+          if not exists:
+              completed.append({
+                  'book': 'The Rules 1',
+                  'unit': 'Lesson 3',
+                  'session': 3,
+                  'completedOn': '2026-07-15',
+                  'status': 'completed',
+                  'questionStatus': 'deferred_until_lesson_12'
+              })
+          seed_path.write_text(json.dumps(seed, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+
+          pending_path.unlink()
+          PY
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add review_items.json study_seed.json '実読チャット報告_2026-07-13.md' lesson3_pending_update.json
+          git commit -m "Complete Lesson 3 reading data"
+          git push
