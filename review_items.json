@@ -2112,6 +2112,34 @@
       "cue": "the wayを先行する名詞として、その後ろの節を待つ。",
       "created_at": "2026-07-15",
       "learned_on": "2026-07-15"
+    },
+    {
+      "id": "rules1-l4-here-after-done",
+      "source": {
+        "book": "The Rules 1",
+        "unit": "Lesson 4",
+        "location": "Session 4",
+        "excerpt": "Here is ... exercise after learning ... if done ..."
+      },
+      "target": "Here is／after／done",
+      "category": "word_or_chunk",
+      "prompt": "Here is／after／done",
+      "answer_core": "Here is は「ここに」、after は右向き矢印、done はおとなしく「される」と訳す。",
+      "usage_examples": [
+        {
+          "english": "Here is ... exercise after learning ... if done ...",
+          "japanese": "「ここに」／学習→運動／「される」"
+        }
+      ],
+      "card_sentence": {
+        "before": "Here is／after／done：",
+        "hidden": "「ここに」／右向き矢印／おとなしく「される」",
+        "after": ""
+      },
+      "initial_processing": "Here is・after・doneの読み方を第一段落で確認した。",
+      "cue": "Here isは「ここに」、afterは右向き矢印、doneはおとなしく「される」。",
+      "created_at": "2026-07-17",
+      "learned_on": "2026-07-17"
     }
   ]
 }
