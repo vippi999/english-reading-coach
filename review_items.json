@@ -1913,7 +1913,13 @@
       "initial_processing": "asの働きを速度内で確定できなかった。",
       "cue": "as節内で前と同じ動詞が省略されていないか、doなどの代動詞がないかを見る。",
       "created_at": "2026-07-15",
-      "learned_on": "2026-07-15"
+      "learned_on": "2026-07-15",
+      "usage_examples": [
+        {
+          "english": "Do as I say.",
+          "japanese": "私の言うようにしなさい。"
+        }
+      ]
     },
     {
       "id": "rules1-l3-need-noun",
@@ -1935,7 +1941,13 @@
       "initial_processing": "needを動詞の印象で見やすかった。",
       "cue": "冠詞・所有格・形容詞の後ろなら名詞を疑う。",
       "created_at": "2026-07-15",
-      "learned_on": "2026-07-15"
+      "learned_on": "2026-07-15",
+      "usage_examples": [
+        {
+          "english": "Children have emotional needs.",
+          "japanese": "子どもにも感情的な欲求がある。"
+        }
+      ]
     },
     {
       "id": "rules1-l3-suffering",
@@ -1957,7 +1969,13 @@
       "initial_processing": "意味を即時に確定できなかった。",
       "cue": "sufferの名詞形として見る。",
       "created_at": "2026-07-15",
-      "learned_on": "2026-07-15"
+      "learned_on": "2026-07-15",
+      "usage_examples": [
+        {
+          "english": "The medicine eased her suffering.",
+          "japanese": "その薬は彼女の苦しみを和らげた。"
+        }
+      ]
     },
     {
       "id": "rules1-l3-would-future-in-past",
@@ -1979,7 +1997,13 @@
       "initial_processing": "wouldの時間関係を即時に取れなかった。",
       "cue": "基準となる過去時点より後のことかを見る。",
       "created_at": "2026-07-15",
-      "learned_on": "2026-07-15"
+      "learned_on": "2026-07-15",
+      "usage_examples": [
+        {
+          "english": "He knew that he would need help.",
+          "japanese": "彼は、自分が助けを必要とするだろうと分かっていた。"
+        }
+      ]
     },
     {
       "id": "rules1-l3-ever-any-time",
@@ -2001,7 +2025,13 @@
       "initial_processing": "everの働きを確定できなかった。",
       "cue": "疑問・否定・条件などで、時間範囲のどこか一度でもという広がりを見る。",
       "created_at": "2026-07-15",
-      "learned_on": "2026-07-15"
+      "learned_on": "2026-07-15",
+      "usage_examples": [
+        {
+          "english": "Have you ever visited Kyoto?",
+          "japanese": "これまでに京都を訪れたことはありますか。"
+        }
+      ]
     },
     {
       "id": "rules1-l3-even-repetition",
@@ -2023,7 +2053,13 @@
       "initial_processing": "AIが一度『反復ではない』と誤って訂正したが、参考書写真で反復の用法を確認した。",
       "cue": "evenを含む後続内容が、前の内容をさらに強く言い直していないかを見る。",
       "created_at": "2026-07-15",
-      "learned_on": "2026-07-15"
+      "learned_on": "2026-07-15",
+      "usage_examples": [
+        {
+          "english": "It could hurt him and even break his trust.",
+          "japanese": "それは彼を傷つけ、さらには信頼まで壊しかねない。"
+        }
+      ]
     },
     {
       "id": "rules1-l3-out-of",
@@ -2045,7 +2081,13 @@
       "initial_processing": "out ofを含むまとまりで止まった。",
       "cue": "空間的な外か、材料・起点を示す『〜から』かを文脈で見る。",
       "created_at": "2026-07-15",
-      "learned_on": "2026-07-15"
+      "learned_on": "2026-07-15",
+      "usage_examples": [
+        {
+          "english": "She made a bag out of old jeans.",
+          "japanese": "彼女は古いジーンズからバッグを作った。"
+        }
+      ]
     },
     {
       "id": "rules1-l3-accordingly",
@@ -2067,7 +2109,13 @@
       "initial_processing": "意味を即時に出せなかった。",
       "cue": "前の状況に対応して後ろが変化する関係を見る。",
       "created_at": "2026-07-15",
-      "learned_on": "2026-07-15"
+      "learned_on": "2026-07-15",
+      "usage_examples": [
+        {
+          "english": "The weather changed, and we adjusted our plan accordingly.",
+          "japanese": "天気が変わったので、それに応じて計画を調整した。"
+        }
+      ]
     },
     {
       "id": "rules1-l3-handle",
@@ -2089,7 +2137,13 @@
       "initial_processing": "意味を即時に出せなかった。",
       "cue": "物事・問題を扱う動詞として見る。",
       "created_at": "2026-07-15",
-      "learned_on": "2026-07-15"
+      "learned_on": "2026-07-15",
+      "usage_examples": [
+        {
+          "english": "This box is easy to handle.",
+          "japanese": "この箱は取り扱いやすい。"
+        }
+      ]
     },
     {
       "id": "rules1-l3-the-way-clause",
@@ -2111,7 +2165,13 @@
       "initial_processing": "the way以降のまとまりを即時に確定できなかった。",
       "cue": "the wayを先行する名詞として、その後ろの節を待つ。",
       "created_at": "2026-07-15",
-      "learned_on": "2026-07-15"
+      "learned_on": "2026-07-15",
+      "usage_examples": [
+        {
+          "english": "I like the way she explains things.",
+          "japanese": "私は、彼女が説明するやり方が好きだ。"
+        }
+      ]
     },
     {
       "id": "rules1-l4-here-after-done",
