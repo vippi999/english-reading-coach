@@ -2200,6 +2200,214 @@
       "cue": "Here isは「ここに」、afterは右向き矢印、doneはおとなしく「される」。",
       "created_at": "2026-07-17",
       "learned_on": "2026-07-17"
+    },
+    {
+      "id": "rules1-l4-here-is",
+      "source": {
+        "book": "The Rules 1",
+        "unit": "Lesson 4",
+        "location": "本文第1段落",
+        "excerpt": "Here's a possible strategy to boost memory"
+      },
+      "target": "here is",
+      "category": "term",
+      "prompt": "here is",
+      "answer_core": "ここにある",
+      "usage_examples": [
+        {
+          "english": "Here is the answer.",
+          "japanese": "ここに答えがある。"
+        }
+      ],
+      "card_sentence": {
+        "before": "here is：",
+        "hidden": "ここにある",
+        "after": ""
+      },
+      "created_at": "2026-07-18",
+      "learned_on": "2026-07-18"
+    },
+    {
+      "id": "rules1-l4-after-arrow",
+      "source": {
+        "book": "The Rules 1",
+        "unit": "Lesson 4",
+        "location": "本文第1段落",
+        "excerpt": "exercise four hours after you learn something"
+      },
+      "target": "after",
+      "category": "tip",
+      "prompt": "afterの向き",
+      "answer_core": "afterは右向き矢印",
+      "usage_examples": [
+        {
+          "english": "We exercised after class.",
+          "japanese": "私たちは授業の後に運動した。"
+        }
+      ],
+      "card_sentence": {
+        "before": "afterは",
+        "hidden": "右向き矢印",
+        "after": "。"
+      },
+      "created_at": "2026-07-18",
+      "learned_on": "2026-07-18"
+    },
+    {
+      "id": "rules1-l4-but-pause",
+      "source": {
+        "book": "The Rules 1",
+        "unit": "Lesson 4",
+        "location": "本文第4段落",
+        "excerpt": "but more research is needed to understand this phenomenon"
+      },
+      "target": "but",
+      "category": "tip",
+      "prompt": "butが来たら",
+      "answer_core": "心の中で区切る",
+      "usage_examples": [
+        {
+          "english": "The idea is simple, but it needs more testing.",
+          "japanese": "その考えは単純だが、さらに検証が必要だ。"
+        }
+      ],
+      "card_sentence": {
+        "before": "butが来たら",
+        "hidden": "心の中で区切る",
+        "after": "。"
+      },
+      "created_at": "2026-07-18",
+      "learned_on": "2026-07-18"
+    },
+    {
+      "id": "rules1-l4-link-a-with-b",
+      "source": {
+        "book": "The Rules 1",
+        "unit": "Lesson 4",
+        "location": "本文第2段落",
+        "excerpt": "mentally linking an image with new information"
+      },
+      "target": "link A with B",
+      "category": "tip",
+      "prompt": "link A with B",
+      "answer_core": "結びつける",
+      "usage_examples": [
+        {
+          "english": "Link the name with the picture.",
+          "japanese": "名前と写真を結びつける。"
+        }
+      ],
+      "card_sentence": {
+        "before": "link A with B で、",
+        "hidden": "結びつける",
+        "after": "。"
+      },
+      "created_at": "2026-07-18",
+      "learned_on": "2026-07-18"
+    },
+    {
+      "id": "rules1-l4-those-who",
+      "source": {
+        "book": "The Rules 1",
+        "unit": "Lesson 4",
+        "location": "本文第3段落",
+        "excerpt": "Those who exercised four hours after the learning session"
+      },
+      "target": "those who",
+      "category": "tip",
+      "prompt": "those who",
+      "answer_core": "〜な人々",
+      "usage_examples": [
+        {
+          "english": "Those who practice improve.",
+          "japanese": "練習する人々は上達する。"
+        }
+      ],
+      "card_sentence": {
+        "before": "those who で、",
+        "hidden": "〜な人々",
+        "after": "。"
+      },
+      "created_at": "2026-07-18",
+      "learned_on": "2026-07-18"
+    },
+    {
+      "id": "rules1-l4-nested-relative-clauses",
+      "source": {
+        "book": "The Rules 1",
+        "unit": "Lesson 4",
+        "location": "関連理解",
+        "excerpt": ""
+      },
+      "target": "関係代名詞の入れ子",
+      "category": "tip",
+      "prompt": "詳しく説明されると",
+      "answer_core": "関代の中に関代が入ることがある",
+      "usage_examples": [
+        {
+          "english": "The people who read books that explain science learn a lot.",
+          "japanese": "科学を説明する本を読む人々は多くを学ぶ。"
+        }
+      ],
+      "card_sentence": {
+        "before": "詳しく説明されると、",
+        "hidden": "関代の中に関代が入る",
+        "after": "ことがある。"
+      },
+      "created_at": "2026-07-18",
+      "learned_on": "2026-07-18"
+    },
+    {
+      "id": "rules1-l4-dummy-it-adjective-noun-clause",
+      "source": {
+        "book": "The Rules 1",
+        "unit": "Lesson 4",
+        "location": "本文第4段落",
+        "excerpt": "It is also not clear why four hours was more beneficial, or if another time frame might produce a similar effect."
+      },
+      "target": "仮主語の形容詞の後",
+      "category": "tip",
+      "prompt": "仮主語の形容詞の後",
+      "answer_core": "名詞節をおける。that以外にも、if、to不定詞など。",
+      "usage_examples": [
+        {
+          "english": "It is not clear whether he will come.",
+          "japanese": "彼が来るかどうかは明らかではない。"
+        }
+      ],
+      "card_sentence": {
+        "before": "仮主語の形容詞の後は",
+        "hidden": "名詞節をおける",
+        "after": "。that以外にも、if、to不定詞など。"
+      },
+      "created_at": "2026-07-18",
+      "learned_on": "2026-07-18"
+    },
+    {
+      "id": "rules1-l4-dummy-it-koto",
+      "source": {
+        "book": "The Rules 1",
+        "unit": "Lesson 4",
+        "location": "本文第4段落",
+        "excerpt": "It is also not clear why four hours was more beneficial"
+      },
+      "target": "仮主語",
+      "category": "tip",
+      "prompt": "仮主語をみたら",
+      "answer_core": "こと と訳す用意をする",
+      "usage_examples": [
+        {
+          "english": "It is important to rest.",
+          "japanese": "休むことは重要だ。"
+        }
+      ],
+      "card_sentence": {
+        "before": "仮主語をみたら、",
+        "hidden": "こと と訳す用意をする",
+        "after": ""
+      },
+      "created_at": "2026-07-18",
+      "learned_on": "2026-07-18"
     }
   ]
 }
