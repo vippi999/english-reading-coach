@@ -1,0 +1,137 @@
+name: Append review cards once
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/append-review-items-once.yml
+
+permissions:
+  contents: write
+
+jobs:
+  append:
+    if: github.event.head_commit.message == 'Add one-shot review card workflow'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Append cards
+        shell: bash
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          path = Path('review_items.json')
+          data = json.loads(path.read_text(encoding='utf-8'))
+          additions = [
+            {
+              "id": "eibunjukou-ge-nominal-construction-verb-koto",
+              "source": {"book": "英文熟考 下", "unit": "", "location": "", "excerpt": ""},
+              "target": "名詞構文",
+              "category": "tip",
+              "prompt": "名詞構文は",
+              "answer_core": "日本語の名詞に直訳せず、元の動詞＋こと で考える",
+              "usage_examples": [{"english": "Her decision to leave surprised us.", "japanese": "彼女が去ると決めたことは私たちを驚かせた。"}],
+              "card_sentence": {"before": "名詞構文は日本語の名詞に直訳せず、", "hidden": "元の動詞＋こと", "after": "で考える。"},
+              "created_at": "2026-07-20",
+              "learned_on": "2026-07-20"
+            },
+            {
+              "id": "eibunjukou-ge-production-produce",
+              "source": {"book": "英文熟考 下", "unit": "", "location": "", "excerpt": "production"},
+              "target": "production",
+              "category": "tip",
+              "prompt": "productionの元の動詞",
+              "answer_core": "produce",
+              "usage_examples": [{"english": "The production of cars increased.", "japanese": "車を生産することが増えた。"}],
+              "card_sentence": {"before": "productionの元の動詞は", "hidden": "produce", "after": "。"},
+              "created_at": "2026-07-20",
+              "learned_on": "2026-07-20"
+            },
+            {
+              "id": "eibunjukou-ge-belief-believe",
+              "source": {"book": "英文熟考 下", "unit": "", "location": "", "excerpt": "belief"},
+              "target": "belief",
+              "category": "tip",
+              "prompt": "beliefの元の動詞",
+              "answer_core": "believe",
+              "usage_examples": [{"english": "Her belief in him was strong.", "japanese": "彼女が彼を信じる気持ちは強かった。"}],
+              "card_sentence": {"before": "beliefの元の動詞は", "hidden": "believe", "after": "。"},
+              "created_at": "2026-07-20",
+              "learned_on": "2026-07-20"
+            },
+            {
+              "id": "eibunjukou-ge-nominal-construction-roles",
+              "source": {"book": "英文熟考 下", "unit": "", "location": "", "excerpt": ""},
+              "target": "名詞構文の目的語と主語",
+              "category": "tip",
+              "prompt": "名詞構文の目的語と主語",
+              "answer_core": "目的語はofかone'sで表し、主語はbyで表す",
+              "usage_examples": [{"english": "the destruction of the city by the army", "japanese": "軍が都市を破壊すること"}],
+              "card_sentence": {"before": "名詞構文の目的語は", "hidden": "ofかone's", "after": "で表し、主語はbyで表す。"},
+              "created_at": "2026-07-20",
+              "learned_on": "2026-07-20"
+            },
+            {
+              "id": "eibunjukou-ge-ones-second",
+              "source": {"book": "英文熟考 下", "unit": "", "location": "", "excerpt": "one's"},
+              "target": "one's",
+              "category": "tip",
+              "prompt": "one'sは",
+              "answer_core": "二個目",
+              "usage_examples": [{"english": "one's belief", "japanese": "人の信念"}],
+              "card_sentence": {"before": "one's は", "hidden": "二個目", "after": "。"},
+              "created_at": "2026-07-20",
+              "learned_on": "2026-07-20"
+            },
+            {
+              "id": "rules1-l5-last-continue",
+              "source": {"book": "The Rules 1", "unit": "Lesson 5", "location": "本文第3段落", "excerpt": "Each tour lasts approximately 90 minutes."},
+              "target": "last",
+              "category": "tip",
+              "prompt": "last",
+              "answer_core": "続く。公演や、サービスなどにつかわれる",
+              "usage_examples": [{"english": "The show lasts two hours.", "japanese": "その公演は2時間続く。"}],
+              "card_sentence": {"before": "last は", "hidden": "続く", "after": "。公演や、サービスなどにつかわれる。"},
+              "created_at": "2026-07-20",
+              "learned_on": "2026-07-20"
+            },
+            {
+              "id": "rules1-l5-at-short-notice",
+              "source": {"book": "The Rules 1", "unit": "Lesson 5", "location": "本文第4段落", "excerpt": "Plans may change at short notice."},
+              "target": "at short notice",
+              "category": "term",
+              "prompt": "at short notice",
+              "answer_core": "急に",
+              "usage_examples": [{"english": "The meeting was canceled at short notice.", "japanese": "その会議は急に中止された。"}],
+              "card_sentence": {"before": "at short notice：", "hidden": "急に", "after": ""},
+              "created_at": "2026-07-20",
+              "learned_on": "2026-07-20"
+            },
+            {
+              "id": "rules1-l5-accessible",
+              "source": {"book": "The Rules 1", "unit": "Lesson 5", "location": "本文最終段落", "excerpt": "The tour route is fully accessible to wheelchair users."},
+              "target": "accessible",
+              "category": "term",
+              "prompt": "accessible",
+              "answer_core": "利用しやすい",
+              "usage_examples": [{"english": "The website is accessible to everyone.", "japanese": "そのウェブサイトは誰にでも利用しやすい。"}],
+              "card_sentence": {"before": "accessible：", "hidden": "利用しやすい", "after": ""},
+              "created_at": "2026-07-20",
+              "learned_on": "2026-07-20"
+            }
+          ]
+
+          existing = {item.get('id') for item in data.get('items', [])}
+          data.setdefault('items', []).extend(item for item in additions if item['id'] not in existing)
+          path.write_text(json.dumps(data, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+          PY
+      - name: Commit cards
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add review_items.json
+          git commit -m "英文熟考とLesson 5のカードを保存"
+          git push
