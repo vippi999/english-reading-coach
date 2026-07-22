@@ -1,0 +1,173 @@
+name: Append Lesson 7 review cards once
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/append-lesson7-review-items-once.yml
+
+permissions:
+  contents: write
+
+jobs:
+  append:
+    if: github.event.head_commit.message == 'Add one-shot Lesson 7 review card workflow'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Append cards
+        shell: bash
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          path = Path('review_items.json')
+          data = json.loads(path.read_text(encoding='utf-8'))
+          additions = [
+            {
+              "id": "rules1-l7-there-location-front",
+              "source": {"book": "The Rules 1", "unit": "Lesson 7", "location": "本文第1段落", "excerpt": "There I would spend hours in one place"},
+              "target": "文頭のthere",
+              "category": "tip",
+              "prompt": "there is とか以外の文頭のthereは",
+              "answer_core": "場所の指定",
+              "usage_examples": [{"english": "There I found an old photograph.", "japanese": "そこで私は古い写真を見つけた。"}],
+              "card_sentence": {"before": "there is とか以外の文頭のthereは", "hidden": "場所の指定", "after": "。"},
+              "created_at": "2026-07-22", "learned_on": "2026-07-22"
+            },
+            {
+              "id": "rules1-l7-remember-that-omission",
+              "source": {"book": "The Rules 1", "unit": "Lesson 7", "location": "本文第3段落", "excerpt": "I still remember the first one off to the left was engineering"},
+              "target": "rememberの後ろ",
+              "category": "tip",
+              "prompt": "rememberも後ろに",
+              "answer_core": "that取りやすい",
+              "usage_examples": [{"english": "I remember she was very kind.", "japanese": "彼女がとても親切だったことを覚えている。"}],
+              "card_sentence": {"before": "rememberも後ろに", "hidden": "that取りやすい", "after": "。"},
+              "created_at": "2026-07-22", "learned_on": "2026-07-22"
+            },
+            {
+              "id": "rules1-l7-neither-hot-nor-cold",
+              "source": {"book": "The Rules 1", "unit": "Lesson 7", "location": "本文第2段落", "excerpt": "neither too hot nor too cold"},
+              "target": "neither hot nor cold",
+              "category": "tip",
+              "prompt": "neither hot nor cold",
+              "answer_core": "暑くも寒くもない",
+              "usage_examples": [{"english": "The room was neither hot nor cold.", "japanese": "その部屋は暑くも寒くもなかった。"}],
+              "card_sentence": {"before": "neither hot nor cold：", "hidden": "暑くも寒くもない", "after": ""},
+              "created_at": "2026-07-22", "learned_on": "2026-07-22"
+            },
+            {
+              "id": "rules1-l7-mind",
+              "source": {"book": "The Rules 1", "unit": "Lesson 7", "location": "本文第2段落", "excerpt": "I did not mind that things were much the same"},
+              "target": "mind",
+              "category": "term",
+              "prompt": "mind",
+              "answer_core": "気にする",
+              "usage_examples": [{"english": "I do not mind the noise.", "japanese": "私はその音を気にしない。"}],
+              "card_sentence": {"before": "mind：", "hidden": "気にする", "after": ""},
+              "created_at": "2026-07-22", "learned_on": "2026-07-22"
+            },
+            {
+              "id": "rules1-l7-each-one-by-one",
+              "source": {"book": "The Rules 1", "unit": "Lesson 7", "location": "本文第3段落", "excerpt": "I would visit each exhibit."},
+              "target": "each",
+              "category": "tip",
+              "prompt": "eachは",
+              "answer_core": "1個1個",
+              "usage_examples": [{"english": "She checked each answer.", "japanese": "彼女は答えを1つ1つ確認した。"}],
+              "card_sentence": {"before": "eachは", "hidden": "1個1個", "after": "。"},
+              "created_at": "2026-07-22", "learned_on": "2026-07-22"
+            },
+            {
+              "id": "rules1-l7-and-such-pronoun",
+              "source": {"book": "The Rules 1", "unit": "Lesson 7", "location": "本文第3段落", "excerpt": "fish, birds, insects, animals and such"},
+              "target": "and such",
+              "category": "tip",
+              "prompt": "and such は",
+              "answer_core": "代名詞的で取りまとめられている",
+              "usage_examples": [{"english": "They sell pens, notebooks, and such.", "japanese": "そこではペンやノートなどを売っている。"}],
+              "card_sentence": {"before": "and such は", "hidden": "代名詞的で取りまとめられている", "after": "。"},
+              "created_at": "2026-07-22", "learned_on": "2026-07-22"
+            },
+            {
+              "id": "rules1-l7-ask-me-if-noun-clause",
+              "source": {"book": "The Rules 1", "unit": "Lesson 7", "location": "本文第4段落", "excerpt": "My father always asked me if I was not bored"},
+              "target": "ask me if 〜",
+              "category": "tip",
+              "prompt": "ask me if 〜は",
+              "answer_core": "ifが名詞節で、〜を質問内容になる",
+              "usage_examples": [{"english": "She asked me if I was tired.", "japanese": "彼女は私に、疲れているかどうか尋ねた。"}],
+              "card_sentence": {"before": "ask me if 〜は、", "hidden": "ifが名詞節で、〜を質問内容になる", "after": "。"},
+              "created_at": "2026-07-22", "learned_on": "2026-07-22"
+            },
+            {
+              "id": "rules1-l7-reported-speech-first-person",
+              "source": {"book": "The Rules 1", "unit": "Lesson 7", "location": "本文第4段落", "excerpt": "My father always asked me if I was not bored"},
+              "target": "他人から自分への疑問や発言をあとから一人称が言う時",
+              "category": "tip",
+              "prompt": "他人から自分への疑問や発言をあとから一人称が言う時",
+              "answer_core": "主語は常に自分になる",
+              "usage_examples": [{"english": "He asked me if I was ready.", "japanese": "彼は私に、私が準備できているか尋ねた。"}],
+              "card_sentence": {"before": "他人から自分への疑問や発言をあとから一人称が言う時、", "hidden": "主語は常に自分になる", "after": "。"},
+              "created_at": "2026-07-22", "learned_on": "2026-07-22"
+            },
+            {
+              "id": "rules1-l7-would-criticize-habit",
+              "source": {"book": "The Rules 1", "unit": "Lesson 7", "location": "本文中", "excerpt": "would"},
+              "target": "would",
+              "category": "tip",
+              "prompt": "習慣を批判する意味で",
+              "answer_core": "wouldが使われる",
+              "usage_examples": [{"english": "He would leave the door open every night.", "japanese": "彼は毎晩きまってドアを開けっぱなしにしたものだった。"}],
+              "card_sentence": {"before": "習慣を批判する意味で、", "hidden": "wouldが使われる", "after": "。"},
+              "created_at": "2026-07-22", "learned_on": "2026-07-22"
+            },
+            {
+              "id": "rules1-l7-enough-ellipsis-context",
+              "source": {"book": "The Rules 1", "unit": "Lesson 7", "location": "本文第5段落", "excerpt": "When they were old enough"},
+              "target": "enoughの説明",
+              "category": "tip",
+              "prompt": "enoughの説明は",
+              "answer_core": "省かれるので、文脈を理解する",
+              "usage_examples": [{"english": "She was old enough to travel alone.", "japanese": "彼女は一人で旅行できるほど十分に成長していた。"}],
+              "card_sentence": {"before": "enoughの説明は、", "hidden": "省かれるので、文脈を理解する", "after": "。"},
+              "created_at": "2026-07-22", "learned_on": "2026-07-22"
+            },
+            {
+              "id": "rules1-l7-cause-take-person-pattern",
+              "source": {"book": "The Rules 1", "unit": "Lesson 7", "location": "本文第5〜6段落", "excerpt": "I took them to my old hometown museum / a short walk took us to the new state museum"},
+              "target": "原因、take 人の形",
+              "category": "tip",
+              "prompt": "原因、take 人の形に",
+              "answer_core": "慣れる",
+              "usage_examples": [{"english": "A short walk took us to the station.", "japanese": "少し歩くと私たちは駅に着いた。"}],
+              "card_sentence": {"before": "原因、take 人の形に", "hidden": "慣れる", "after": "。"},
+              "created_at": "2026-07-22", "learned_on": "2026-07-22"
+            },
+            {
+              "id": "rules1-l7-the-same-set",
+              "source": {"book": "The Rules 1", "unit": "Lesson 7", "location": "本文第2段落", "excerpt": "much the same"},
+              "target": "the same",
+              "category": "tip",
+              "prompt": "the sameで",
+              "answer_core": "セット",
+              "usage_examples": [{"english": "The two answers are the same.", "japanese": "その2つの答えは同じだ。"}],
+              "card_sentence": {"before": "the sameで", "hidden": "セット", "after": "。"},
+              "created_at": "2026-07-22", "learned_on": "2026-07-22"
+            }
+          ]
+
+          existing = {item.get('id') for item in data.get('items', [])}
+          data.setdefault('items', []).extend(item for item in additions if item['id'] not in existing)
+          path.write_text(json.dumps(data, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+          PY
+      - name: Commit cards
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add review_items.json
+          git commit -m "Lesson 7のカードを保存"
+          git push
