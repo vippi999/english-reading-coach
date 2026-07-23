@@ -41,6 +41,30 @@
       "completedOn": "2026-07-15",
       "status": "completed",
       "questionStatus": "deferred_until_lesson_12"
+    },
+    {
+      "book": "The Rules 1",
+      "unit": "Lesson 4",
+      "session": 4,
+      "completedOn": "2026-07-18",
+      "status": "completed",
+      "questionStatus": "deferred_until_lesson_12"
+    },
+    {
+      "book": "The Rules 1",
+      "unit": "Lesson 5",
+      "session": 5,
+      "completedOn": "2026-07-20",
+      "status": "completed",
+      "questionStatus": "deferred_until_lesson_12"
+    },
+    {
+      "book": "The Rules 1",
+      "unit": "Lesson 7",
+      "session": 7,
+      "completedOn": "2026-07-22",
+      "status": "completed",
+      "questionStatus": "deferred_until_lesson_12"
     }
   ]
 }
