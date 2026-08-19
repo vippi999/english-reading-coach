@@ -2928,6 +2928,370 @@
       },
       "created_at": "2026-07-22",
       "learned_on": "2026-07-22"
+    },
+    {
+      "id": "target1900-place-put",
+      "source": {
+        "book": "ターゲット1900",
+        "unit": "",
+        "location": "",
+        "excerpt": "place"
+      },
+      "target": "動詞のplaceはほぼputの意",
+      "category": "tip",
+      "prompt": "動詞のplaceはほぼputの意",
+      "answer_core": "動詞のplaceはほぼputの意",
+      "usage_examples": [
+        {
+          "english": "She placed the book on the desk.",
+          "japanese": "彼女はその本を机の上に置いた。"
+        }
+      ],
+      "card_sentence": {
+        "before": "",
+        "hidden": "動詞のplaceはほぼputの意",
+        "after": ""
+      },
+      "created_at": "2026-08-19",
+      "learned_on": "2026-08-19"
+    },
+    {
+      "id": "target1900-give-gave",
+      "source": {
+        "book": "ターゲット1900",
+        "unit": "",
+        "location": "",
+        "excerpt": "gave"
+      },
+      "target": "giveの過去形はgave",
+      "category": "tip",
+      "prompt": "giveの過去形はgave",
+      "answer_core": "giveの過去形はgave",
+      "usage_examples": [
+        {
+          "english": "She gave me a book.",
+          "japanese": "彼女は私に本をくれた。"
+        }
+      ],
+      "card_sentence": {
+        "before": "",
+        "hidden": "giveの過去形はgave",
+        "after": ""
+      },
+      "created_at": "2026-08-19",
+      "learned_on": "2026-08-19"
+    },
+    {
+      "id": "target1900-give-thought",
+      "source": {
+        "book": "ターゲット1900",
+        "unit": "",
+        "location": "",
+        "excerpt": "give thought"
+      },
+      "target": "give thought",
+      "category": "term",
+      "prompt": "give thought",
+      "answer_core": "考慮する",
+      "usage_examples": [
+        {
+          "english": "We should give thought to the cost.",
+          "japanese": "私たちは費用を考慮すべきだ。"
+        }
+      ],
+      "card_sentence": {
+        "before": "give thought：",
+        "hidden": "考慮する",
+        "after": ""
+      },
+      "created_at": "2026-08-19",
+      "learned_on": "2026-08-19"
+    },
+    {
+      "id": "target1900-enjoy-benefit",
+      "source": {
+        "book": "ターゲット1900",
+        "unit": "",
+        "location": "",
+        "excerpt": "enjoy"
+      },
+      "target": "enjoy",
+      "category": "term",
+      "prompt": "enjoy",
+      "answer_core": "享受する！！！！！！！！",
+      "usage_examples": [
+        {
+          "english": "Many people enjoy the benefits of technology.",
+          "japanese": "多くの人が技術の恩恵を享受している。"
+        }
+      ],
+      "card_sentence": {
+        "before": "enjoy：",
+        "hidden": "享受する！！！！！！！！",
+        "after": ""
+      },
+      "created_at": "2026-08-19",
+      "learned_on": "2026-08-19"
+    },
+    {
+      "id": "target1900-practice-put-do",
+      "source": {
+        "book": "ターゲット1900",
+        "unit": "",
+        "location": "",
+        "excerpt": "practice"
+      },
+      "target": "practiceはputする 実行する",
+      "category": "tip",
+      "prompt": "practiceはputする 実行する",
+      "answer_core": "practiceはputする 実行する",
+      "usage_examples": [
+        {
+          "english": "They put the plan into practice.",
+          "japanese": "彼らはその計画を実行した。"
+        }
+      ],
+      "card_sentence": {
+        "before": "",
+        "hidden": "practiceはputする 実行する",
+        "after": ""
+      },
+      "created_at": "2026-08-19",
+      "learned_on": "2026-08-19"
+    },
+    {
+      "id": "target1900-role-play",
+      "source": {
+        "book": "ターゲット1900",
+        "unit": "",
+        "location": "",
+        "excerpt": "role"
+      },
+      "target": "roleはplayする 役割を果たす",
+      "category": "tip",
+      "prompt": "roleはplayする 役割を果たす",
+      "answer_core": "roleはplayする 役割を果たす",
+      "usage_examples": [
+        {
+          "english": "Education plays an important role in society.",
+          "japanese": "教育は社会で重要な役割を果たす。"
+        }
+      ],
+      "card_sentence": {
+        "before": "",
+        "hidden": "roleはplayする 役割を果たす",
+        "after": ""
+      },
+      "created_at": "2026-08-19",
+      "learned_on": "2026-08-19"
+    },
+    {
+      "id": "target1900-imperative-subject-omission",
+      "source": {
+        "book": "ターゲット1900",
+        "unit": "",
+        "location": "",
+        "excerpt": "命令文"
+      },
+      "target": "命令文は主語を省く",
+      "category": "tip",
+      "prompt": "命令文は主語を省く",
+      "answer_core": "命令文は主語を省く",
+      "usage_examples": [
+        {
+          "english": "Open the window.",
+          "japanese": "窓を開けなさい。"
+        }
+      ],
+      "card_sentence": {
+        "before": "",
+        "hidden": "命令文は主語を省く",
+        "after": ""
+      },
+      "created_at": "2026-08-19",
+      "learned_on": "2026-08-19"
+    },
+    {
+      "id": "target1900-something-subject",
+      "source": {
+        "book": "ターゲット1900",
+        "unit": "",
+        "location": "",
+        "excerpt": "something"
+      },
+      "target": "somethingは主語になる",
+      "category": "tip",
+      "prompt": "somethingは主語になる",
+      "answer_core": "somethingは主語になる",
+      "usage_examples": [
+        {
+          "english": "Something has changed.",
+          "japanese": "何かが変わった。"
+        }
+      ],
+      "card_sentence": {
+        "before": "",
+        "hidden": "somethingは主語になる",
+        "after": ""
+      },
+      "created_at": "2026-08-19",
+      "learned_on": "2026-08-19"
+    },
+    {
+      "id": "target1900-time-conjunction",
+      "source": {
+        "book": "ターゲット1900",
+        "unit": "",
+        "location": "",
+        "excerpt": "time"
+      },
+      "target": "〜timeで接続詞になることがあるを",
+      "category": "tip",
+      "prompt": "〜timeで接続詞になることがあるを",
+      "answer_core": "〜timeで接続詞になることがあるを",
+      "usage_examples": [
+        {
+          "english": "Every time I see him, he smiles.",
+          "japanese": "彼に会うたびに、彼は笑う。"
+        }
+      ],
+      "card_sentence": {
+        "before": "",
+        "hidden": "〜timeで接続詞になることがあるを",
+        "after": ""
+      },
+      "created_at": "2026-08-19",
+      "learned_on": "2026-08-19"
+    },
+    {
+      "id": "target1900-long-object-preposition-order",
+      "source": {
+        "book": "ターゲット1900",
+        "unit": "",
+        "location": "",
+        "excerpt": "svo前置詞"
+      },
+      "target": "svo前置詞は、Oが長いと先に前置詞がくる。",
+      "category": "tip",
+      "prompt": "svo前置詞は、Oが長いと先に前置詞がくる。",
+      "answer_core": "svo前置詞は、Oが長いと先に前置詞がくる。",
+      "usage_examples": [
+        {
+          "english": "She explained to me what had happened.",
+          "japanese": "彼女は何が起きたのかを私に説明した。"
+        }
+      ],
+      "card_sentence": {
+        "before": "",
+        "hidden": "svo前置詞は、Oが長いと先に前置詞がくる。",
+        "after": ""
+      },
+      "created_at": "2026-08-19",
+      "learned_on": "2026-08-19"
+    },
+    {
+      "id": "target1900-people-who-those-who",
+      "source": {
+        "book": "ターゲット1900",
+        "unit": "",
+        "location": "",
+        "excerpt": "people who=those who"
+      },
+      "target": "people who=those who",
+      "category": "tip",
+      "prompt": "people who=those who",
+      "answer_core": "people who=those who",
+      "usage_examples": [
+        {
+          "english": "Those who work hard often improve.",
+          "japanese": "努力する人々はよく上達する。"
+        }
+      ],
+      "card_sentence": {
+        "before": "",
+        "hidden": "people who=those who",
+        "after": ""
+      },
+      "created_at": "2026-08-19",
+      "learned_on": "2026-08-19"
+    },
+    {
+      "id": "target1900-much-as-concession",
+      "source": {
+        "book": "ターゲット1900",
+        "unit": "",
+        "location": "",
+        "excerpt": "much as sv"
+      },
+      "target": "much as sv  どんなに〜しても",
+      "category": "tip",
+      "prompt": "much as sv  どんなに〜しても",
+      "answer_core": "much as sv  どんなに〜しても",
+      "usage_examples": [
+        {
+          "english": "Much as I wanted to go, I stayed home.",
+          "japanese": "どんなに行きたくても、私は家にいた。"
+        }
+      ],
+      "card_sentence": {
+        "before": "",
+        "hidden": "much as sv  どんなに〜しても",
+        "after": ""
+      },
+      "created_at": "2026-08-19",
+      "learned_on": "2026-08-19"
+    },
+    {
+      "id": "target1900-sharp-rise",
+      "source": {
+        "book": "ターゲット1900",
+        "unit": "",
+        "location": "",
+        "excerpt": "sharp rise"
+      },
+      "target": "sharp rise 急上昇",
+      "category": "tip",
+      "prompt": "sharp rise 急上昇",
+      "answer_core": "sharp rise 急上昇",
+      "usage_examples": [
+        {
+          "english": "There was a sharp rise in prices.",
+          "japanese": "価格が急上昇した。"
+        }
+      ],
+      "card_sentence": {
+        "before": "",
+        "hidden": "sharp rise 急上昇",
+        "after": ""
+      },
+      "created_at": "2026-08-19",
+      "learned_on": "2026-08-19"
+    },
+    {
+      "id": "target1900-process-processing",
+      "source": {
+        "book": "ターゲット1900",
+        "unit": "",
+        "location": "",
+        "excerpt": "process"
+      },
+      "target": "processは処理という意味もある",
+      "category": "tip",
+      "prompt": "processは処理という意味もある",
+      "answer_core": "processは処理という意味もある",
+      "usage_examples": [
+        {
+          "english": "The computer processes the data quickly.",
+          "japanese": "そのコンピューターはデータを素早く処理する。"
+        }
+      ],
+      "card_sentence": {
+        "before": "",
+        "hidden": "processは処理という意味もある",
+        "after": ""
+      },
+      "created_at": "2026-08-19",
+      "learned_on": "2026-08-19"
     }
   ]
 }

@@ -65,6 +65,12 @@
       "completedOn": "2026-07-22",
       "status": "completed",
       "questionStatus": "deferred_until_lesson_12"
+    },
+    {
+      "book": "ターゲット1900",
+      "unit": "",
+      "completedOn": "2026-08-19",
+      "status": "completed"
     }
   ]
 }
