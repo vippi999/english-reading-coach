@@ -3292,6 +3292,734 @@
       },
       "created_at": "2026-08-21",
       "learned_on": "2026-08-21"
+    },
+    {
+      "id": "zento-20260728-progressive-future",
+      "source": {
+        "book": "全統模試",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "予定を表す進行形がある",
+      "category": "tip",
+      "prompt": "予定を表す進行形がある",
+      "answer_core": "進行形がある",
+      "usage_examples": [
+        {
+          "english": "I am meeting her tomorrow.",
+          "japanese": "私は明日彼女に会う予定です。"
+        }
+      ],
+      "card_sentence": {
+        "before": "予定を表す",
+        "hidden": "進行形がある",
+        "after": "。"
+      },
+      "created_at": "2026-07-28",
+      "learned_on": "2026-07-28"
+    },
+    {
+      "id": "zento-20260728-either-family",
+      "source": {
+        "book": "全統模試",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "eitherは、文法的にboth 、not only とかと似てる部類",
+      "category": "tip",
+      "prompt": "eitherは、文法的にboth 、not only とかと似てる部類",
+      "answer_core": "both 、not only とかと似てる部類",
+      "usage_examples": [
+        {
+          "english": "Either answer is possible.",
+          "japanese": "どちらの答えもあり得ます。"
+        }
+      ],
+      "card_sentence": {
+        "before": "eitherは、文法的に",
+        "hidden": "both 、not only とかと似てる部類",
+        "after": "。"
+      },
+      "created_at": "2026-07-28",
+      "learned_on": "2026-07-28"
+    },
+    {
+      "id": "zento-20260728-since-reason",
+      "source": {
+        "book": "全統模試",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "sinceは当たり前の理由とかを述べる時に使う",
+      "category": "tip",
+      "prompt": "sinceは当たり前の理由とかを述べる時に使う",
+      "answer_core": "当たり前の理由とかを述べる時に使う",
+      "usage_examples": [
+        {
+          "english": "Since you are here, we can start.",
+          "japanese": "あなたがここにいるので、始められます。"
+        }
+      ],
+      "card_sentence": {
+        "before": "sinceは",
+        "hidden": "当たり前の理由とかを述べる時に使う",
+        "after": "。"
+      },
+      "created_at": "2026-07-28",
+      "learned_on": "2026-07-28"
+    },
+    {
+      "id": "zento-20260728-rest-of-you",
+      "source": {
+        "book": "全統模試",
+        "unit": "",
+        "location": "",
+        "excerpt": "the rest of you"
+      },
+      "target": "the rest of you：のこったあなた",
+      "category": "term",
+      "prompt": "the rest of you：のこったあなた",
+      "answer_core": "のこったあなた",
+      "usage_examples": [
+        {
+          "english": "The rest of you can wait here.",
+          "japanese": "残りのあなたたちはここで待てます。"
+        }
+      ],
+      "card_sentence": {
+        "before": "the rest of you：",
+        "hidden": "のこったあなた",
+        "after": ""
+      },
+      "created_at": "2026-07-28",
+      "learned_on": "2026-07-28"
+    },
+    {
+      "id": "zento-20260728-make-causation",
+      "source": {
+        "book": "全統模試",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "makeは因果",
+      "category": "tip",
+      "prompt": "makeは因果",
+      "answer_core": "因果",
+      "usage_examples": [
+        {
+          "english": "The news made me happy.",
+          "japanese": "その知らせで私はうれしくなりました。"
+        }
+      ],
+      "card_sentence": {
+        "before": "makeは",
+        "hidden": "因果",
+        "after": "。"
+      },
+      "created_at": "2026-07-28",
+      "learned_on": "2026-07-28"
+    },
+    {
+      "id": "zento-20260728-in-adverb-bring-in",
+      "source": {
+        "book": "全統模試",
+        "unit": "",
+        "location": "",
+        "excerpt": "bring in"
+      },
+      "target": "inには副詞があり、bring inは、その1例",
+      "category": "tip",
+      "prompt": "inには副詞があり、bring inは、その1例",
+      "answer_core": "その1例",
+      "usage_examples": [
+        {
+          "english": "Please bring the chair in.",
+          "japanese": "その椅子を中に持ってきてください。"
+        }
+      ],
+      "card_sentence": {
+        "before": "inには副詞があり、bring inは、",
+        "hidden": "その1例",
+        "after": "。"
+      },
+      "created_at": "2026-07-28",
+      "learned_on": "2026-07-28"
+    },
+    {
+      "id": "zento-20260728-want-svoc",
+      "source": {
+        "book": "全統模試",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "wantはsvocになる",
+      "category": "tip",
+      "prompt": "wantはsvocになる",
+      "answer_core": "svocになる",
+      "usage_examples": [
+        {
+          "english": "I want you to come.",
+          "japanese": "私はあなたに来てほしいです。"
+        }
+      ],
+      "card_sentence": {
+        "before": "wantは",
+        "hidden": "svocになる",
+        "after": "。"
+      },
+      "created_at": "2026-07-28",
+      "learned_on": "2026-07-28"
+    },
+    {
+      "id": "zento-20260728-would-like-want",
+      "source": {
+        "book": "全統模試",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "would likeはwantで一語として考えれる",
+      "category": "tip",
+      "prompt": "would likeはwantで一語として考えれる",
+      "answer_core": "wantで一語として考えれる",
+      "usage_examples": [
+        {
+          "english": "I would like some water.",
+          "japanese": "私は水が欲しいです。"
+        }
+      ],
+      "card_sentence": {
+        "before": "would likeは",
+        "hidden": "wantで一語として考えれる",
+        "after": "。"
+      },
+      "created_at": "2026-07-28",
+      "learned_on": "2026-07-28"
+    },
+    {
+      "id": "zento-20260728-be-to",
+      "source": {
+        "book": "全統模試",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "be動詞 toは、svcで、ただの名詞的用法になるか、be to構文になるか",
+      "category": "tip",
+      "prompt": "be動詞 toは、svcで、ただの名詞的用法になるか、be to構文になるか",
+      "answer_core": "ただの名詞的用法になるか、be to構文になるか",
+      "usage_examples": [
+        {
+          "english": "My goal is to study abroad.",
+          "japanese": "私の目標は留学することです。"
+        }
+      ],
+      "card_sentence": {
+        "before": "be動詞 toは、svcで、",
+        "hidden": "ただの名詞的用法になるか、be to構文になるか",
+        "after": "。"
+      },
+      "created_at": "2026-07-28",
+      "learned_on": "2026-07-28"
+    },
+    {
+      "id": "zento-20260728-far-comparative",
+      "source": {
+        "book": "全統模試",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "farは比較級を強調できる。",
+      "category": "tip",
+      "prompt": "farは比較級を強調できる。",
+      "answer_core": "比較級を強調できる",
+      "usage_examples": [
+        {
+          "english": "This book is far better.",
+          "japanese": "この本のほうがはるかに良いです。"
+        }
+      ],
+      "card_sentence": {
+        "before": "farは",
+        "hidden": "比較級を強調できる",
+        "after": "。"
+      },
+      "created_at": "2026-07-28",
+      "learned_on": "2026-07-28"
+    },
+    {
+      "id": "zento-20260728-confirm",
+      "source": {
+        "book": "全統模試",
+        "unit": "",
+        "location": "",
+        "excerpt": "confirm"
+      },
+      "target": "confirm：裏付ける",
+      "category": "term",
+      "prompt": "confirm：裏付ける",
+      "answer_core": "裏付ける",
+      "usage_examples": [
+        {
+          "english": "The data confirmed the theory.",
+          "japanese": "そのデータは理論を裏付けました。"
+        }
+      ],
+      "card_sentence": {
+        "before": "confirm：",
+        "hidden": "裏付ける",
+        "after": ""
+      },
+      "created_at": "2026-07-28",
+      "learned_on": "2026-07-28"
+    },
+    {
+      "id": "zento-20260728-in-terms-of",
+      "source": {
+        "book": "全統模試",
+        "unit": "",
+        "location": "",
+        "excerpt": "In terms of"
+      },
+      "target": "In terms of：関して言えば",
+      "category": "term",
+      "prompt": "In terms of：関して言えば",
+      "answer_core": "関して言えば",
+      "usage_examples": [
+        {
+          "english": "In terms of cost, this is better.",
+          "japanese": "費用に関して言えば、こちらのほうがよいです。"
+        }
+      ],
+      "card_sentence": {
+        "before": "In terms of：",
+        "hidden": "関して言えば",
+        "after": ""
+      },
+      "created_at": "2026-07-28",
+      "learned_on": "2026-07-28"
+    },
+    {
+      "id": "zento-20260728-improvements",
+      "source": {
+        "book": "全統模試",
+        "unit": "",
+        "location": "",
+        "excerpt": "improvements"
+      },
+      "target": "improvements：改善",
+      "category": "term",
+      "prompt": "improvements：改善",
+      "answer_core": "改善",
+      "usage_examples": [
+        {
+          "english": "We saw major improvements.",
+          "japanese": "大きな改善が見られました。"
+        }
+      ],
+      "card_sentence": {
+        "before": "improvements：",
+        "hidden": "改善",
+        "after": ""
+      },
+      "created_at": "2026-07-28",
+      "learned_on": "2026-07-28"
+    },
+    {
+      "id": "zento-20260728-60s-age",
+      "source": {
+        "book": "全統模試",
+        "unit": "",
+        "location": "",
+        "excerpt": "60s"
+      },
+      "target": "60sは、60代",
+      "category": "tip",
+      "prompt": "60sは、60代",
+      "answer_core": "60代",
+      "usage_examples": [
+        {
+          "english": "He is in his 60s.",
+          "japanese": "彼は60代です。"
+        }
+      ],
+      "card_sentence": {
+        "before": "60sは、",
+        "hidden": "60代",
+        "after": "。"
+      },
+      "created_at": "2026-07-28",
+      "learned_on": "2026-07-28"
+    },
+    {
+      "id": "zento-20260728-there-are-coordinate-omission",
+      "source": {
+        "book": "全統模試",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "There areを等位で繋ぐとき、2個目が省略されてnotから始まることがよくある。",
+      "category": "tip",
+      "prompt": "There areを等位で繋ぐとき、2個目が省略されてnotから始まることがよくある。",
+      "answer_core": "2個目が省略されてnotから始まることがよくある",
+      "usage_examples": [
+        {
+          "english": "There are many books, but not many chairs.",
+          "japanese": "本はたくさんありますが、椅子は多くありません。"
+        }
+      ],
+      "card_sentence": {
+        "before": "There areを等位で繋ぐとき、",
+        "hidden": "2個目が省略されてnotから始まることがよくある",
+        "after": "。"
+      },
+      "created_at": "2026-07-28",
+      "learned_on": "2026-07-28"
+    },
+    {
+      "id": "zento-20260728-days-away",
+      "source": {
+        "book": "全統模試",
+        "unit": "",
+        "location": "",
+        "excerpt": "days away"
+      },
+      "target": "days away：あと数日",
+      "category": "term",
+      "prompt": "days away：あと数日",
+      "answer_core": "あと数日",
+      "usage_examples": [
+        {
+          "english": "The exam is only two days away.",
+          "japanese": "試験まであと2日です。"
+        }
+      ],
+      "card_sentence": {
+        "before": "days away：",
+        "hidden": "あと数日",
+        "after": ""
+      },
+      "created_at": "2026-07-28",
+      "learned_on": "2026-07-28"
+    },
+    {
+      "id": "zento-20260728-remember-being",
+      "source": {
+        "book": "全統模試",
+        "unit": "",
+        "location": "",
+        "excerpt": "remember being"
+      },
+      "target": "remember beingは過去を覚えている",
+      "category": "tip",
+      "prompt": "remember beingは過去を覚えている",
+      "answer_core": "過去を覚えている",
+      "usage_examples": [
+        {
+          "english": "I remember being nervous.",
+          "japanese": "緊張していたことを覚えています。"
+        }
+      ],
+      "card_sentence": {
+        "before": "remember beingは",
+        "hidden": "過去を覚えている",
+        "after": "。"
+      },
+      "created_at": "2026-07-28",
+      "learned_on": "2026-07-28"
+    },
+    {
+      "id": "zento-20260728-adverb-that-degree",
+      "source": {
+        "book": "全統模試",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "thatの後に文が来なくて形容詞とかが来てたら副詞のthatで、それほど",
+      "category": "tip",
+      "prompt": "thatの後に文が来なくて形容詞とかが来てたら副詞のthatで、それほど",
+      "answer_core": "副詞のthatで、それほど",
+      "usage_examples": [
+        {
+          "english": "It is not that difficult.",
+          "japanese": "それほど難しくありません。"
+        }
+      ],
+      "card_sentence": {
+        "before": "thatの後に文が来なくて形容詞とかが来てたら",
+        "hidden": "副詞のthatで、それほど",
+        "after": "。"
+      },
+      "created_at": "2026-07-28",
+      "learned_on": "2026-07-28"
+    },
+    {
+      "id": "zento-20260728-blankly",
+      "source": {
+        "book": "全統模試",
+        "unit": "",
+        "location": "",
+        "excerpt": "blankly"
+      },
+      "target": "blankly：ぼんやり",
+      "category": "term",
+      "prompt": "blankly：ぼんやり",
+      "answer_core": "ぼんやり",
+      "usage_examples": [
+        {
+          "english": "He stared blankly at the wall.",
+          "japanese": "彼は壁をぼんやり見つめました。"
+        }
+      ],
+      "card_sentence": {
+        "before": "blankly：",
+        "hidden": "ぼんやり",
+        "after": ""
+      },
+      "created_at": "2026-07-28",
+      "learned_on": "2026-07-28"
+    },
+    {
+      "id": "zento-20260728-them-things",
+      "source": {
+        "book": "全統模試",
+        "unit": "",
+        "location": "",
+        "excerpt": "them"
+      },
+      "target": "themは物も入る意識",
+      "category": "tip",
+      "prompt": "themは物も入る意識",
+      "answer_core": "物も入る意識",
+      "usage_examples": [
+        {
+          "english": "I bought the books and read them.",
+          "japanese": "私はその本を買って、それらを読みました。"
+        }
+      ],
+      "card_sentence": {
+        "before": "themは",
+        "hidden": "物も入る意識",
+        "after": "。"
+      },
+      "created_at": "2026-07-28",
+      "learned_on": "2026-07-28"
+    },
+    {
+      "id": "zento-20260728-it-plural-they",
+      "source": {
+        "book": "全統模試",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "itの複数形はthey",
+      "category": "tip",
+      "prompt": "itの複数形はthey",
+      "answer_core": "they",
+      "usage_examples": [
+        {
+          "english": "It is useful, and they are useful too.",
+          "japanese": "それは役立ち、それらも役立ちます。"
+        }
+      ],
+      "card_sentence": {
+        "before": "itの複数形は",
+        "hidden": "they",
+        "after": "。"
+      },
+      "created_at": "2026-07-28",
+      "learned_on": "2026-07-28"
+    },
+    {
+      "id": "zento-20260728-could-suggestion",
+      "source": {
+        "book": "全統模試",
+        "unit": "",
+        "location": "",
+        "excerpt": "could"
+      },
+      "target": "could提案に使う",
+      "category": "tip",
+      "prompt": "could提案に使う",
+      "answer_core": "提案に使う",
+      "usage_examples": [
+        {
+          "english": "You could ask her.",
+          "japanese": "彼女に聞いてみてもよいでしょう。"
+        }
+      ],
+      "card_sentence": {
+        "before": "could",
+        "hidden": "提案に使う",
+        "after": "。"
+      },
+      "created_at": "2026-07-28",
+      "learned_on": "2026-07-28"
+    },
+    {
+      "id": "zento-20260728-forecast-say",
+      "source": {
+        "book": "全統模試",
+        "unit": "",
+        "location": "",
+        "excerpt": "forecast"
+      },
+      "target": "forecastはsayする",
+      "category": "tip",
+      "prompt": "forecastはsayする",
+      "answer_core": "sayする",
+      "usage_examples": [
+        {
+          "english": "The forecast says it will rain.",
+          "japanese": "予報では雨が降ると言っています。"
+        }
+      ],
+      "card_sentence": {
+        "before": "forecastは",
+        "hidden": "sayする",
+        "after": "。"
+      },
+      "created_at": "2026-07-28",
+      "learned_on": "2026-07-28"
+    },
+    {
+      "id": "zento-20260728-final-though-but",
+      "source": {
+        "book": "全統模試",
+        "unit": "",
+        "location": "",
+        "excerpt": "though"
+      },
+      "target": "文末のthoughは、付け足しのbut",
+      "category": "tip",
+      "prompt": "文末のthoughは、付け足しのbut",
+      "answer_core": "付け足しのbut",
+      "usage_examples": [
+        {
+          "english": "It was expensive. I liked it, though.",
+          "japanese": "高かったです。でも気に入りました。"
+        }
+      ],
+      "card_sentence": {
+        "before": "文末のthoughは、",
+        "hidden": "付け足しのbut",
+        "after": "。"
+      },
+      "created_at": "2026-07-28",
+      "learned_on": "2026-07-28"
+    },
+    {
+      "id": "zento-20260728-itll-be-fine",
+      "source": {
+        "book": "全統模試",
+        "unit": "",
+        "location": "",
+        "excerpt": "it'll be fine"
+      },
+      "target": "it'll be fine：大丈夫なんちゃう",
+      "category": "term",
+      "prompt": "it'll be fine：大丈夫なんちゃう",
+      "answer_core": "大丈夫なんちゃう",
+      "usage_examples": [
+        {
+          "english": "It'll be fine.",
+          "japanese": "大丈夫なんちゃう。"
+        }
+      ],
+      "card_sentence": {
+        "before": "it'll be fine：",
+        "hidden": "大丈夫なんちゃう",
+        "after": ""
+      },
+      "created_at": "2026-07-28",
+      "learned_on": "2026-07-28"
+    },
+    {
+      "id": "zento-20260728-by-the-time",
+      "source": {
+        "book": "全統模試",
+        "unit": "",
+        "location": "",
+        "excerpt": "by the time"
+      },
+      "target": "by the timeでsvが続く副詞節。その時までには",
+      "category": "tip",
+      "prompt": "by the timeでsvが続く副詞節。その時までには",
+      "answer_core": "その時までには",
+      "usage_examples": [
+        {
+          "english": "By the time you arrive, I will be ready.",
+          "japanese": "あなたが着くころまでには、準備できています。"
+        }
+      ],
+      "card_sentence": {
+        "before": "by the timeでsvが続く副詞節。",
+        "hidden": "その時までには",
+        "after": "。"
+      },
+      "created_at": "2026-07-28",
+      "learned_on": "2026-07-28"
+    },
+    {
+      "id": "zento-20260728-tell-distinguish",
+      "source": {
+        "book": "全統模試",
+        "unit": "",
+        "location": "",
+        "excerpt": "tell"
+      },
+      "target": "tellの後に人がなかったら見分けると訳す",
+      "category": "tip",
+      "prompt": "tellの後に人がなかったら見分けると訳す",
+      "answer_core": "見分けると訳す",
+      "usage_examples": [
+        {
+          "english": "I cannot tell the difference.",
+          "japanese": "その違いを見分けられません。"
+        }
+      ],
+      "card_sentence": {
+        "before": "tellの後に人がなかったら",
+        "hidden": "見分けると訳す",
+        "after": "。"
+      },
+      "created_at": "2026-07-28",
+      "learned_on": "2026-07-28"
+    },
+    {
+      "id": "zento-20260728-hit-success",
+      "source": {
+        "book": "全統模試",
+        "unit": "",
+        "location": "",
+        "excerpt": "hit"
+      },
+      "target": "hit：大成功",
+      "category": "term",
+      "prompt": "hit：大成功",
+      "answer_core": "大成功",
+      "usage_examples": [
+        {
+          "english": "The movie was a big hit.",
+          "japanese": "その映画は大成功でした。"
+        }
+      ],
+      "card_sentence": {
+        "before": "hit：",
+        "hidden": "大成功",
+        "after": ""
+      },
+      "created_at": "2026-07-28",
+      "learned_on": "2026-07-28"
     }
   ]
 }
