@@ -2940,17 +2940,17 @@
       "target": "動詞のplaceはほぼputの意",
       "category": "tip",
       "prompt": "動詞のplaceはほぼputの意",
-      "answer_core": "動詞のplaceはほぼputの意",
+      "answer_core": "putの意",
       "usage_examples": [
         {
-          "english": "They placed the box on the table.",
-          "japanese": "彼らは箱をテーブルの上に置いた。"
+          "english": "Place the book on the desk.",
+          "japanese": "本を机の上に置いてください。"
         }
       ],
       "card_sentence": {
-        "before": "",
-        "hidden": "動詞のplaceはほぼputの意",
-        "after": ""
+        "before": "動詞のplaceはほぼ",
+        "hidden": "putの意",
+        "after": "。"
       },
       "created_at": "2026-08-21",
       "learned_on": "2026-08-21"
@@ -2966,7 +2966,7 @@
       "target": "giveの過去形はgave",
       "category": "tip",
       "prompt": "giveの過去形はgave",
-      "answer_core": "giveの過去形はgave",
+      "answer_core": "gave",
       "usage_examples": [
         {
           "english": "She gave me a book.",
@@ -2974,9 +2974,9 @@
         }
       ],
       "card_sentence": {
-        "before": "",
-        "hidden": "giveの過去形はgave",
-        "after": ""
+        "before": "giveの過去形は",
+        "hidden": "gave",
+        "after": "。"
       },
       "created_at": "2026-08-21",
       "learned_on": "2026-08-21"
@@ -2989,14 +2989,14 @@
         "location": "",
         "excerpt": "give thought"
       },
-      "target": "give thought",
+      "target": "give thought：考慮する",
       "category": "term",
-      "prompt": "give thought",
+      "prompt": "give thought：考慮する",
       "answer_core": "考慮する",
       "usage_examples": [
         {
-          "english": "Please give thought to the proposal.",
-          "japanese": "その提案を考慮してください。"
+          "english": "Please give thought to the problem.",
+          "japanese": "その問題を考慮してください。"
         }
       ],
       "card_sentence": {
@@ -3015,9 +3015,9 @@
         "location": "",
         "excerpt": "enjoy"
       },
-      "target": "enjoy",
+      "target": "enjoy：享受する！！！！！！！！",
       "category": "term",
-      "prompt": "enjoy",
+      "prompt": "enjoy：享受する！！！！！！！！",
       "answer_core": "享受する！！！！！！！！",
       "usage_examples": [
         {
@@ -3044,7 +3044,7 @@
       "target": "practiceはputする 実行する",
       "category": "tip",
       "prompt": "practiceはputする 実行する",
-      "answer_core": "practiceはputする 実行する",
+      "answer_core": "putする 実行する",
       "usage_examples": [
         {
           "english": "They put the plan into practice.",
@@ -3052,9 +3052,9 @@
         }
       ],
       "card_sentence": {
-        "before": "",
-        "hidden": "practiceはputする 実行する",
-        "after": ""
+        "before": "practiceは",
+        "hidden": "putする 実行する",
+        "after": "。"
       },
       "created_at": "2026-08-21",
       "learned_on": "2026-08-21"
@@ -3070,7 +3070,7 @@
       "target": "roleはplayする 役割を果たす",
       "category": "tip",
       "prompt": "roleはplayする 役割を果たす",
-      "answer_core": "roleはplayする 役割を果たす",
+      "answer_core": "playする 役割を果たす",
       "usage_examples": [
         {
           "english": "Education plays an important role in society.",
@@ -3078,9 +3078,9 @@
         }
       ],
       "card_sentence": {
-        "before": "",
-        "hidden": "roleはplayする 役割を果たす",
-        "after": ""
+        "before": "roleは",
+        "hidden": "playする 役割を果たす",
+        "after": "。"
       },
       "created_at": "2026-08-21",
       "learned_on": "2026-08-21"
@@ -3096,7 +3096,7 @@
       "target": "命令文は主語を省く",
       "category": "tip",
       "prompt": "命令文は主語を省く",
-      "answer_core": "命令文は主語を省く",
+      "answer_core": "主語を省く",
       "usage_examples": [
         {
           "english": "Open the window.",
@@ -3104,9 +3104,9 @@
         }
       ],
       "card_sentence": {
-        "before": "",
-        "hidden": "命令文は主語を省く",
-        "after": ""
+        "before": "命令文は",
+        "hidden": "主語を省く",
+        "after": "。"
       },
       "created_at": "2026-08-21",
       "learned_on": "2026-08-21"
@@ -3122,7 +3122,7 @@
       "target": "somethingは主語になる",
       "category": "tip",
       "prompt": "somethingは主語になる",
-      "answer_core": "somethingは主語になる",
+      "answer_core": "主語になる",
       "usage_examples": [
         {
           "english": "Something has changed.",
@@ -3130,9 +3130,9 @@
         }
       ],
       "card_sentence": {
-        "before": "",
-        "hidden": "somethingは主語になる",
-        "after": ""
+        "before": "somethingは",
+        "hidden": "主語になる",
+        "after": "。"
       },
       "created_at": "2026-08-21",
       "learned_on": "2026-08-21"
@@ -3145,10 +3145,10 @@
         "location": "",
         "excerpt": "time"
       },
-      "target": "〜timeで接続詞になることがあるを",
+      "target": "〜timeで接続詞になることがある",
       "category": "tip",
-      "prompt": "〜timeで接続詞になることがあるを",
-      "answer_core": "〜timeで接続詞になることがあるを",
+      "prompt": "〜timeで接続詞になることがある",
+      "answer_core": "接続詞になることがある",
       "usage_examples": [
         {
           "english": "Every time I see him, he smiles.",
@@ -3156,9 +3156,9 @@
         }
       ],
       "card_sentence": {
-        "before": "",
-        "hidden": "〜timeで接続詞になることがあるを",
-        "after": ""
+        "before": "〜timeで",
+        "hidden": "接続詞になることがある",
+        "after": "。"
       },
       "created_at": "2026-08-21",
       "learned_on": "2026-08-21"
@@ -3174,7 +3174,7 @@
       "target": "svo前置詞は、Oが長いと先に前置詞がくる。",
       "category": "tip",
       "prompt": "svo前置詞は、Oが長いと先に前置詞がくる。",
-      "answer_core": "svo前置詞は、Oが長いと先に前置詞がくる。",
+      "answer_core": "先に前置詞がくる",
       "usage_examples": [
         {
           "english": "He explained to us the reason for the delay.",
@@ -3182,9 +3182,9 @@
         }
       ],
       "card_sentence": {
-        "before": "",
-        "hidden": "svo前置詞は、Oが長いと先に前置詞がくる。",
-        "after": ""
+        "before": "svo前置詞は、Oが長いと",
+        "hidden": "先に前置詞がくる",
+        "after": "。"
       },
       "created_at": "2026-08-21",
       "learned_on": "2026-08-21"
@@ -3195,12 +3195,12 @@
         "book": "ターゲット1900",
         "unit": "",
         "location": "",
-        "excerpt": "people who=those who"
+        "excerpt": "people who / those who"
       },
       "target": "people who=those who",
       "category": "tip",
       "prompt": "people who=those who",
-      "answer_core": "people who=those who",
+      "answer_core": "those who",
       "usage_examples": [
         {
           "english": "Those who work hard often improve.",
@@ -3208,8 +3208,8 @@
         }
       ],
       "card_sentence": {
-        "before": "",
-        "hidden": "people who=those who",
+        "before": "people who=",
+        "hidden": "those who",
         "after": ""
       },
       "created_at": "2026-08-21",
@@ -3221,12 +3221,12 @@
         "book": "ターゲット1900",
         "unit": "",
         "location": "",
-        "excerpt": "much as sv"
+        "excerpt": "much as"
       },
       "target": "much as sv  どんなに〜しても",
       "category": "tip",
       "prompt": "much as sv  どんなに〜しても",
-      "answer_core": "much as sv  どんなに〜しても",
+      "answer_core": "どんなに〜しても",
       "usage_examples": [
         {
           "english": "Much as I wanted to go, I stayed home.",
@@ -3234,8 +3234,8 @@
         }
       ],
       "card_sentence": {
-        "before": "",
-        "hidden": "much as sv  どんなに〜しても",
+        "before": "much as sv",
+        "hidden": "どんなに〜しても",
         "after": ""
       },
       "created_at": "2026-08-21",
@@ -3252,7 +3252,7 @@
       "target": "sharp rise 急上昇",
       "category": "tip",
       "prompt": "sharp rise 急上昇",
-      "answer_core": "sharp rise 急上昇",
+      "answer_core": "急上昇",
       "usage_examples": [
         {
           "english": "There was a sharp rise in prices.",
@@ -3260,8 +3260,8 @@
         }
       ],
       "card_sentence": {
-        "before": "",
-        "hidden": "sharp rise 急上昇",
+        "before": "sharp rise",
+        "hidden": "急上昇",
         "after": ""
       },
       "created_at": "2026-08-21",
@@ -3278,7 +3278,7 @@
       "target": "processは処理という意味もある",
       "category": "tip",
       "prompt": "processは処理という意味もある",
-      "answer_core": "processは処理という意味もある",
+      "answer_core": "処理という意味もある",
       "usage_examples": [
         {
           "english": "The computer processes the data quickly.",
@@ -3286,9 +3286,9 @@
         }
       ],
       "card_sentence": {
-        "before": "",
-        "hidden": "processは処理という意味もある",
-        "after": ""
+        "before": "processは",
+        "hidden": "処理という意味もある",
+        "after": "。"
       },
       "created_at": "2026-08-21",
       "learned_on": "2026-08-21"
