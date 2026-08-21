@@ -1,0 +1,75 @@
+name: Fix Target 1900 card display once
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/fix-target1900-display-once.yml
+
+permissions:
+  contents: write
+
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Rebuild Target 1900 cards
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          p = Path('review_items.json')
+          data = json.loads(p.read_text(encoding='utf-8'))
+          data['items'] = [x for x in data.get('items', []) if not str(x.get('id','')).startswith('target1900-')]
+
+          def card(id_, target, category, before, hidden, after, ex_en, ex_ja, excerpt=''):
+              return {
+                'id': id_,
+                'source': {'book':'ターゲット1900','unit':'','location':'','excerpt':excerpt},
+                'target': target,
+                'category': category,
+                'prompt': target,
+                'answer_core': hidden,
+                'usage_examples':[{'english':ex_en,'japanese':ex_ja}],
+                'card_sentence': {'before':before,'hidden':hidden,'after':after},
+                'created_at':'2026-08-21','learned_on':'2026-08-21'
+              }
+
+          cards = [
+            card('target1900-place-put','動詞のplaceはほぼputの意','tip','動詞のplaceはほぼ','putの意','。','Place the book on the desk.','本を机の上に置いてください。','place'),
+            card('target1900-give-gave','giveの過去形はgave','tip','giveの過去形は','gave','。','She gave me a book.','彼女は私に本をくれた。','give / gave'),
+            card('target1900-give-thought','give thought：考慮する','term','give thought：','考慮する','','Please give thought to the problem.','その問題を考慮してください。','give thought'),
+            card('target1900-enjoy-benefit','enjoy：享受する！！！！！！！！','term','enjoy：','享受する！！！！！！！！','','Many people enjoy the benefits of technology.','多くの人が技術の恩恵を享受している。','enjoy'),
+            card('target1900-practice-put','practiceはputする 実行する','tip','practiceは','putする 実行する','。','They put the plan into practice.','彼らはその計画を実行した。','practice'),
+            card('target1900-role-play','roleはplayする 役割を果たす','tip','roleは','playする 役割を果たす','。','Education plays an important role in society.','教育は社会で重要な役割を果たす。','role'),
+            card('target1900-imperative-subject','命令文は主語を省く','tip','命令文は','主語を省く','。','Open the window.','窓を開けなさい。','命令文'),
+            card('target1900-something-subject','somethingは主語になる','tip','somethingは','主語になる','。','Something has changed.','何かが変わった。','something'),
+            card('target1900-time-conjunction','〜timeで接続詞になることがある','tip','〜timeで','接続詞になることがある','。','Every time I see him, he smiles.','彼に会うたびに、彼は笑う。','time'),
+            card('target1900-long-object-preposition','svo前置詞は、Oが長いと先に前置詞がくる。','tip','svo前置詞は、Oが長いと','先に前置詞がくる','。','He explained to us the reason for the delay.','彼は私たちに遅延の理由を説明した。','svo前置詞'),
+            card('target1900-people-those-who','people who=those who','tip','people who=','those who','','Those who work hard often improve.','努力する人々はよく上達する。','people who / those who'),
+            card('target1900-much-as','much as sv  どんなに〜しても','tip','much as sv','どんなに〜しても','','Much as I wanted to go, I stayed home.','どんなに行きたくても、私は家にいた。','much as'),
+            card('target1900-sharp-rise','sharp rise 急上昇','tip','sharp rise','急上昇','','There was a sharp rise in prices.','価格が急上昇した。','sharp rise'),
+            card('target1900-process-processing','processは処理という意味もある','tip','processは','処理という意味もある','。','The computer processes the data quickly.','そのコンピューターはデータを素早く処理する。','process')
+          ]
+          data['items'].extend(cards)
+          p.write_text(json.dumps(data, ensure_ascii=False, indent=2)+'\n', encoding='utf-8')
+
+          sp = Path('study_seed.json')
+          seed = json.loads(sp.read_text(encoding='utf-8'))
+          done = seed.setdefault('completedLessons', [])
+          if not any(x.get('book')=='ターゲット1900' and x.get('unit','')=='' for x in done):
+              done.append({'book':'ターゲット1900','unit':'','completedOn':'2026-08-21','status':'completed'})
+          sp.write_text(json.dumps(seed, ensure_ascii=False, indent=2)+'\n', encoding='utf-8')
+
+          cp = Path('カード候補.md')
+          cp.write_text('# カード候補\n\n実践チャットが「カードにして」と言われた候補の一時置き場です。\n保存後、保存済み候補は削除します。\n\n## 語句\n\n## コツ\n', encoding='utf-8')
+          PY
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add review_items.json study_seed.json カード候補.md
+          git commit -m "ターゲット1900カードの表示を修正"
+          git push
