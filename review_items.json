@@ -3292,6 +3292,136 @@
       },
       "created_at": "2026-08-19",
       "learned_on": "2026-08-19"
+    },
+    {
+      "id": "target1900-practice-put",
+      "source": {
+        "book": "ターゲット1900",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "practiceはputする 実行する",
+      "category": "tip",
+      "prompt": "practiceはputする 実行する",
+      "answer_core": "practiceはputする 実行する",
+      "usage_examples": [
+        {
+          "english": "They put the plan into practice.",
+          "japanese": "彼らはその計画を実行した。"
+        }
+      ],
+      "card_sentence": {
+        "before": "",
+        "hidden": "practiceはputする 実行する",
+        "after": ""
+      },
+      "created_at": "2026-08-21",
+      "learned_on": "2026-08-21"
+    },
+    {
+      "id": "target1900-imperative-subject",
+      "source": {
+        "book": "ターゲット1900",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "命令文は主語を省く",
+      "category": "tip",
+      "prompt": "命令文は主語を省く",
+      "answer_core": "命令文は主語を省く",
+      "usage_examples": [
+        {
+          "english": "Open the window.",
+          "japanese": "窓を開けなさい。"
+        }
+      ],
+      "card_sentence": {
+        "before": "",
+        "hidden": "命令文は主語を省く",
+        "after": ""
+      },
+      "created_at": "2026-08-21",
+      "learned_on": "2026-08-21"
+    },
+    {
+      "id": "target1900-long-object-preposition",
+      "source": {
+        "book": "ターゲット1900",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "svo前置詞は、Oが長いと先に前置詞がくる。",
+      "category": "tip",
+      "prompt": "svo前置詞は、Oが長いと先に前置詞がくる。",
+      "answer_core": "svo前置詞は、Oが長いと先に前置詞がくる。",
+      "usage_examples": [
+        {
+          "english": "He explained to us the reason for the delay.",
+          "japanese": "彼は私たちに遅延の理由を説明した。"
+        }
+      ],
+      "card_sentence": {
+        "before": "",
+        "hidden": "svo前置詞は、Oが長いと先に前置詞がくる。",
+        "after": ""
+      },
+      "created_at": "2026-08-21",
+      "learned_on": "2026-08-21"
+    },
+    {
+      "id": "target1900-people-those-who",
+      "source": {
+        "book": "ターゲット1900",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "people who=those who",
+      "category": "tip",
+      "prompt": "people who=those who",
+      "answer_core": "people who=those who",
+      "usage_examples": [
+        {
+          "english": "Those who work hard often improve.",
+          "japanese": "努力する人々はよく上達する。"
+        }
+      ],
+      "card_sentence": {
+        "before": "",
+        "hidden": "people who=those who",
+        "after": ""
+      },
+      "created_at": "2026-08-21",
+      "learned_on": "2026-08-21"
+    },
+    {
+      "id": "target1900-much-as",
+      "source": {
+        "book": "ターゲット1900",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "much as sv  どんなに〜しても",
+      "category": "tip",
+      "prompt": "much as sv  どんなに〜しても",
+      "answer_core": "much as sv  どんなに〜しても",
+      "usage_examples": [
+        {
+          "english": "Much as I wanted to go, I stayed home.",
+          "japanese": "どんなに行きたくても、私は家にいた。"
+        }
+      ],
+      "card_sentence": {
+        "before": "",
+        "hidden": "much as sv  どんなに〜しても",
+        "after": ""
+      },
+      "created_at": "2026-08-21",
+      "learned_on": "2026-08-21"
     }
   ]
 }
