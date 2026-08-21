@@ -77,6 +77,14 @@
       "unit": "",
       "completedOn": "2026-07-28",
       "status": "completed"
+    },
+    {
+      "book": "The Rules 1",
+      "unit": "Lesson 8",
+      "session": 8,
+      "completedOn": "2026-07-27",
+      "status": "completed",
+      "questionStatus": "deferred_until_lesson_12"
     }
   ]
 }

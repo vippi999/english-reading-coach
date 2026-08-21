@@ -4020,6 +4020,318 @@
       },
       "created_at": "2026-07-28",
       "learned_on": "2026-07-28"
+    },
+    {
+      "id": "rules1-l8-20260727-vary",
+      "source": {
+        "book": "The Rules 1",
+        "unit": "Lesson 8",
+        "location": "",
+        "excerpt": "vary"
+      },
+      "target": "vary：変化する",
+      "category": "term",
+      "prompt": "vary：変化する",
+      "answer_core": "変化する",
+      "usage_examples": [
+        {
+          "english": "Prices vary widely.",
+          "japanese": "価格は大きく変化する。"
+        }
+      ],
+      "card_sentence": {
+        "before": "vary：",
+        "hidden": "変化する",
+        "after": ""
+      },
+      "created_at": "2026-07-27",
+      "learned_on": "2026-07-27"
+    },
+    {
+      "id": "rules1-l8-20260727-aim-to",
+      "source": {
+        "book": "The Rules 1",
+        "unit": "Lesson 8",
+        "location": "",
+        "excerpt": "aim to 原型"
+      },
+      "target": "aim to 原型：目指す",
+      "category": "term",
+      "prompt": "aim to 原型：目指す",
+      "answer_core": "目指す",
+      "usage_examples": [
+        {
+          "english": "We aim to improve the service.",
+          "japanese": "私たちはサービスの改善を目指す。"
+        }
+      ],
+      "card_sentence": {
+        "before": "aim to 原型：",
+        "hidden": "目指す",
+        "after": ""
+      },
+      "created_at": "2026-07-27",
+      "learned_on": "2026-07-27"
+    },
+    {
+      "id": "rules1-l8-20260727-produce",
+      "source": {
+        "book": "The Rules 1",
+        "unit": "Lesson 8",
+        "location": "",
+        "excerpt": "produce"
+      },
+      "target": "produce：つくる",
+      "category": "term",
+      "prompt": "produce：つくる",
+      "answer_core": "つくる",
+      "usage_examples": [
+        {
+          "english": "The factory produces cars.",
+          "japanese": "その工場は車をつくる。"
+        }
+      ],
+      "card_sentence": {
+        "before": "produce：",
+        "hidden": "つくる",
+        "after": ""
+      },
+      "created_at": "2026-07-27",
+      "learned_on": "2026-07-27"
+    },
+    {
+      "id": "rules1-l8-20260727-subject-verb-confirm",
+      "source": {
+        "book": "The Rules 1",
+        "unit": "Lesson 8",
+        "location": "",
+        "excerpt": "主語と動詞の関係を"
+      },
+      "target": "主語と動詞の関係を憶測にしようとしない。確定させる。",
+      "category": "tip",
+      "prompt": "主語と動詞の関係を憶測にしようとしない。確定させる。",
+      "answer_core": "憶測にしようとしない。確定させる。",
+      "usage_examples": [
+        {
+          "english": "The new rule affects students.",
+          "japanese": "その新しい規則は生徒に影響する。"
+        }
+      ],
+      "card_sentence": {
+        "before": "主語と動詞の関係を",
+        "hidden": "憶測にしようとしない。確定させる。",
+        "after": ""
+      },
+      "created_at": "2026-07-27",
+      "learned_on": "2026-07-27"
+    },
+    {
+      "id": "rules1-l8-20260727-verb-chunk",
+      "source": {
+        "book": "The Rules 1",
+        "unit": "Lesson 8",
+        "location": "",
+        "excerpt": "動詞のカタマリがどこか考えるのが"
+      },
+      "target": "動詞のカタマリがどこか考えるのが一番大事",
+      "category": "tip",
+      "prompt": "動詞のカタマリがどこか考えるのが一番大事",
+      "answer_core": "一番大事",
+      "usage_examples": [
+        {
+          "english": "She may also join us.",
+          "japanese": "彼女も参加するかもしれない。"
+        }
+      ],
+      "card_sentence": {
+        "before": "動詞のカタマリがどこか考えるのが",
+        "hidden": "一番大事",
+        "after": ""
+      },
+      "created_at": "2026-07-27",
+      "learned_on": "2026-07-27"
+    },
+    {
+      "id": "rules1-l8-20260727-certain-some",
+      "source": {
+        "book": "The Rules 1",
+        "unit": "Lesson 8",
+        "location": "",
+        "excerpt": "certain名詞="
+      },
+      "target": "certain名詞=some名詞",
+      "category": "tip",
+      "prompt": "certain名詞=some名詞",
+      "answer_core": "some名詞",
+      "usage_examples": [
+        {
+          "english": "Certain people disagree.",
+          "japanese": "ある人々は反対している。"
+        }
+      ],
+      "card_sentence": {
+        "before": "certain名詞=",
+        "hidden": "some名詞",
+        "after": ""
+      },
+      "created_at": "2026-07-27",
+      "learned_on": "2026-07-27"
+    },
+    {
+      "id": "rules1-l8-20260727-for-short",
+      "source": {
+        "book": "The Rules 1",
+        "unit": "Lesson 8",
+        "location": "",
+        "excerpt": "for short"
+      },
+      "target": "for short：略して",
+      "category": "term",
+      "prompt": "for short：略して",
+      "answer_core": "略して",
+      "usage_examples": [
+        {
+          "english": "We call it AI for short.",
+          "japanese": "略してAIと呼ぶ。"
+        }
+      ],
+      "card_sentence": {
+        "before": "for short：",
+        "hidden": "略して",
+        "after": ""
+      },
+      "created_at": "2026-07-27",
+      "learned_on": "2026-07-27"
+    },
+    {
+      "id": "rules1-l8-20260727-family-species",
+      "source": {
+        "book": "The Rules 1",
+        "unit": "Lesson 8",
+        "location": "",
+        "excerpt": "family"
+      },
+      "target": "family：種",
+      "category": "term",
+      "prompt": "family：種",
+      "answer_core": "種",
+      "usage_examples": [
+        {
+          "english": "Cats belong to this family.",
+          "japanese": "猫はこの種に属する。"
+        }
+      ],
+      "card_sentence": {
+        "before": "family：",
+        "hidden": "種",
+        "after": ""
+      },
+      "created_at": "2026-07-27",
+      "learned_on": "2026-07-27"
+    },
+    {
+      "id": "rules1-l8-20260727-appear",
+      "source": {
+        "book": "The Rules 1",
+        "unit": "Lesson 8",
+        "location": "",
+        "excerpt": "appear"
+      },
+      "target": "appear：見受けられる",
+      "category": "term",
+      "prompt": "appear：見受けられる",
+      "answer_core": "見受けられる",
+      "usage_examples": [
+        {
+          "english": "He appears tired.",
+          "japanese": "彼は疲れているように見受けられる。"
+        }
+      ],
+      "card_sentence": {
+        "before": "appear：",
+        "hidden": "見受けられる",
+        "after": ""
+      },
+      "created_at": "2026-07-27",
+      "learned_on": "2026-07-27"
+    },
+    {
+      "id": "rules1-l8-20260727-be-existence",
+      "source": {
+        "book": "The Rules 1",
+        "unit": "Lesson 8",
+        "location": "",
+        "excerpt": "be動詞はとりあえず とりあえず"
+      },
+      "target": "be動詞はとりあえず とりあえずある",
+      "category": "tip",
+      "prompt": "be動詞はとりあえず とりあえずある",
+      "answer_core": "ある",
+      "usage_examples": [
+        {
+          "english": "There is a problem.",
+          "japanese": "問題がある。"
+        }
+      ],
+      "card_sentence": {
+        "before": "be動詞はとりあえず とりあえず",
+        "hidden": "ある",
+        "after": ""
+      },
+      "created_at": "2026-07-27",
+      "learned_on": "2026-07-27"
+    },
+    {
+      "id": "rules1-l8-20260727-modal-adverb",
+      "source": {
+        "book": "The Rules 1",
+        "unit": "Lesson 8",
+        "location": "",
+        "excerpt": "助動詞 副詞の順に"
+      },
+      "target": "助動詞 副詞の順に慣れる。(may also)",
+      "category": "tip",
+      "prompt": "助動詞 副詞の順に慣れる。(may also)",
+      "answer_core": "慣れる。(may also)",
+      "usage_examples": [
+        {
+          "english": "He may also come.",
+          "japanese": "彼も来るかもしれない。"
+        }
+      ],
+      "card_sentence": {
+        "before": "助動詞 副詞の順に",
+        "hidden": "慣れる。(may also)",
+        "after": ""
+      },
+      "created_at": "2026-07-27",
+      "learned_on": "2026-07-27"
+    },
+    {
+      "id": "rules1-l8-20260727-bother",
+      "source": {
+        "book": "The Rules 1",
+        "unit": "Lesson 8",
+        "location": "",
+        "excerpt": "bother"
+      },
+      "target": "bother：不快",
+      "category": "term",
+      "prompt": "bother：不快",
+      "answer_core": "不快",
+      "usage_examples": [
+        {
+          "english": "The noise bothers me.",
+          "japanese": "その音は私を不快にする。"
+        }
+      ],
+      "card_sentence": {
+        "before": "bother：",
+        "hidden": "不快",
+        "after": ""
+      },
+      "created_at": "2026-07-27",
+      "learned_on": "2026-07-27"
     }
   ]
 }
