@@ -1,0 +1,100 @@
+name: Save Target 1900 final once
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/save-target1900-final-once.yml
+
+permissions:
+  contents: write
+
+jobs:
+  save:
+    if: github.event.head_commit.message == 'Save Target 1900 cards and completion'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Save cards and completion
+        shell: bash
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          from datetime import date
+
+          today = '2026-08-21'
+          review = Path('review_items.json')
+          data = json.loads(review.read_text(encoding='utf-8'))
+          items = [
+            ('target1900-place-put','動詞のplaceはほぼputの意','tip','The verb place is close to put in meaning.','動詞の place は意味として put に近い。'),
+            ('target1900-give-gave','giveの過去形はgave','tip','She gave me a book.','彼女は私に本をくれた。'),
+            ('target1900-give-thought','give thought ：考慮する','term','We should give thought to the problem.','私たちはその問題を考慮すべきだ。'),
+            ('target1900-enjoy-benefit','enjoy：享受する！！！！！！！！','term','They enjoy many benefits.','彼らは多くの恩恵を享受している。'),
+            ('target1900-practice-put','practiceはputする 実行する','tip','They put the plan into practice.','彼らはその計画を実行した。'),
+            ('target1900-role-play','roleはplayする 役割を果たす','tip','Education plays an important role.','教育は重要な役割を果たす。'),
+            ('target1900-imperative-subject','命令文は主語を省く','tip','Open the window.','窓を開けなさい。'),
+            ('target1900-something-subject','somethingは主語になる','tip','Something happened yesterday.','昨日何かが起きた。'),
+            ('target1900-time-conjunction','〜timeで接続詞になることがある','tip','The first time I met him, he was quiet.','初めて彼に会った時、彼は静かだった。'),
+            ('target1900-long-object-preposition','svo前置詞は、Oが長いと先に前置詞がくる。','tip','He explained to us the reason for the delay.','彼は私たちに遅延の理由を説明した。'),
+            ('target1900-people-those-who','people who=those who','tip','Those who work hard often improve.','努力する人々はよく上達する。'),
+            ('target1900-much-as','much as sv  どんなに〜しても','tip','Much as I wanted to go, I stayed home.','どんなに行きたくても、私は家にいた。'),
+            ('target1900-sharp-rise','sharp rise 急上昇','tip','There was a sharp rise in prices.','価格が急上昇した。'),
+            ('target1900-process-processing','processは処理という意味もある','tip','The computer processes the data quickly.','そのコンピューターはデータを素早く処理する。')
+          ]
+          existing = {x.get('id') for x in data.get('items', [])}
+          for id_, text, cat, en, ja in items:
+              if id_ in existing:
+                  continue
+              if '：' in text:
+                  left, right = text.split('：',1)
+                  target = left.strip()
+                  prompt = left.strip()
+                  answer = right.strip()
+                  before = left.strip() + '：'
+                  hidden = right.strip()
+                  after = ''
+              else:
+                  target = text
+                  prompt = text
+                  answer = text
+                  before = ''
+                  hidden = text
+                  after = ''
+              data.setdefault('items', []).append({
+                  'id': id_,
+                  'source': {'book':'ターゲット1900','unit':'','location':'','excerpt':''},
+                  'target': target,
+                  'category': cat,
+                  'prompt': prompt,
+                  'answer_core': answer,
+                  'usage_examples':[{'english':en,'japanese':ja}],
+                  'card_sentence': {'before':before,'hidden':hidden,'after':after},
+                  'created_at': today,
+                  'learned_on': today
+              })
+          review.write_text(json.dumps(data, ensure_ascii=False, indent=2)+'\n', encoding='utf-8')
+
+          seedp = Path('study_seed.json')
+          seed = json.loads(seedp.read_text(encoding='utf-8'))
+          completed = seed.setdefault('completedLessons', [])
+          found = False
+          for x in completed:
+              if x.get('book') == 'ターゲット1900' and x.get('unit','') == '':
+                  x.update({'completedOn':today,'status':'completed'})
+                  found = True
+                  break
+          if not found:
+              completed.append({'book':'ターゲット1900','unit':'','completedOn':today,'status':'completed'})
+          seedp.write_text(json.dumps(seed, ensure_ascii=False, indent=2)+'\n', encoding='utf-8')
+
+          cand = Path('カード候補.md')
+          cand.write_text('# カード候補\n\n実践チャットが「カードにして」と言われた候補の一時置き場です。\n保存後、保存済み候補は削除します。\n\n## 語句\n\n## コツ\n', encoding='utf-8')
+          PY
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add review_items.json study_seed.json 'カード候補.md'
+          git commit -m 'ターゲット1900を保存' || exit 0
+          git push
