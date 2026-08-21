@@ -1,0 +1,45 @@
+name: Save Rules 1 Lesson 8 once
+on:
+  push:
+    branches: [main]
+    paths: [.github/workflows/save-rules1-l8-20260727-once.yml]
+permissions:
+  contents: write
+jobs:
+  save:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - shell: bash
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          p=Path('review_items.json'); d=json.loads(p.read_text())
+          rows=[
+          ('vary','変化する'),('aim to 原型','目指す'),('produce','つくる'),
+          ('主語と動詞の関係を','憶測にしようとしない。確定させる。'),
+          ('動詞のカタマリがどこか考えるのが','一番大事'),('certain名詞=','some名詞'),
+          ('for short','略して'),('family','種'),('appear','見受けられる'),
+          ('be動詞はとりあえず とりあえず','ある'),('助動詞 副詞の順に','慣れる。(may also)'),('bother','不快')]
+          terms={'vary','aim to 原型','produce','for short','family','appear','bother'}
+          ids=['vary','aim-to','produce','subject-verb-confirm','verb-chunk','certain-some','for-short','family-species','appear','be-existence','modal-adverb','bother']
+          examples=[('Prices vary widely.','価格は大きく変化する。'),('We aim to improve the service.','私たちはサービスの改善を目指す。'),('The factory produces cars.','その工場は車をつくる。'),('The new rule affects students.','その新しい規則は生徒に影響する。'),('She may also join us.','彼女も参加するかもしれない。'),('Certain people disagree.','ある人々は反対している。'),('We call it AI for short.','略してAIと呼ぶ。'),('Cats belong to this family.','猫はこの種に属する。'),('He appears tired.','彼は疲れているように見受けられる。'),('There is a problem.','問題がある。'),('He may also come.','彼も来るかもしれない。'),('The noise bothers me.','その音は私を不快にする。')]
+          existing={x.get('id') for x in d['items']}
+          for i,((before,hidden),(en,ja)) in enumerate(zip(rows,examples)):
+            id='rules1-l8-20260727-'+ids[i]
+            if id in existing: continue
+            target=before+'：'+hidden if before in terms else before+hidden
+            d['items'].append({'id':id,'source':{'book':'The Rules 1','unit':'Lesson 8','location':'','excerpt':before},'target':target,'category':'term' if before in terms else 'tip','prompt':target,'answer_core':hidden,'usage_examples':[{'english':en,'japanese':ja}],'card_sentence':{'before':before+('：' if before in terms else ''),'hidden':hidden,'after':''},'created_at':'2026-07-27','learned_on':'2026-07-27'})
+          p.write_text(json.dumps(d,ensure_ascii=False,indent=2)+'\n')
+          s=Path('study_seed.json'); sd=json.loads(s.read_text())
+          if not any(x.get('book')=='The Rules 1' and x.get('unit')=='Lesson 8' for x in sd['completedLessons']):
+            sd['completedLessons'].append({'book':'The Rules 1','unit':'Lesson 8','session':8,'completedOn':'2026-07-27','status':'completed','questionStatus':'deferred_until_lesson_12'})
+          s.write_text(json.dumps(sd,ensure_ascii=False,indent=2)+'\n')
+          c=Path('カード候補.md'); c.write_text('# カード候補\n\n実践チャットが「カードにして」と言われた候補の一時置き場です。\n保存後、保存済み候補は削除します。\n\n## 語句\n\n## コツ\n')
+          PY
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add review_items.json study_seed.json カード候補.md
+          git commit -m 'The Rules 1 Lesson 8 を2026-07-27で保存'
+          git push
