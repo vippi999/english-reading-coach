@@ -4514,6 +4514,266 @@
       },
       "created_at": "2026-08-23",
       "learned_on": "2026-08-23"
+    },
+    {
+      "id": "komazawa2022-q2-championed",
+      "source": {
+        "book": "駒澤大学 2022",
+        "unit": "問題II",
+        "location": "Bauhaus本文・第1段落",
+        "excerpt": "championed an abstract style"
+      },
+      "target": "championed：強く支持する",
+      "category": "term",
+      "prompt": "championed：強く支持する",
+      "answer_core": "強く支持する",
+      "usage_examples": [
+        {
+          "english": "championed an abstract style",
+          "japanese": "抽象的な様式を強く支持した"
+        }
+      ],
+      "card_sentence": {
+        "before": "championed：",
+        "hidden": "強く支持する",
+        "after": ""
+      },
+      "created_at": "2026-08-23",
+      "learned_on": "2026-08-23"
+    },
+    {
+      "id": "komazawa2022-q2-little-no-a",
+      "source": {
+        "book": "駒澤大学 2022",
+        "unit": "問題II",
+        "location": "Bauhaus本文・第1段落",
+        "excerpt": "featuring little emotion"
+      },
+      "target": "aがつかないlittleは、「ない」と言いたい",
+      "category": "tip",
+      "prompt": "aがつかないlittleは、「ない」と言いたい",
+      "answer_core": "「ない」と言いたい",
+      "usage_examples": [
+        {
+          "english": "featuring little emotion",
+          "japanese": "感情表現がほとんどない"
+        }
+      ],
+      "card_sentence": {
+        "before": "aがつかないlittleは、",
+        "hidden": "「ない」と言いたい",
+        "after": ""
+      },
+      "created_at": "2026-08-23",
+      "learned_on": "2026-08-23"
+    },
+    {
+      "id": "komazawa2022-q2-architect-chemist-person",
+      "source": {
+        "book": "駒澤大学 2022",
+        "unit": "問題II",
+        "location": "Bauhaus本文・第2段落",
+        "excerpt": "architect Walter Gropius"
+      },
+      "target": "architectで、人。chemistで、人。",
+      "category": "tip",
+      "prompt": "architectで、人。chemistで、人。",
+      "answer_core": "人。chemistで、人。",
+      "usage_examples": [
+        {
+          "english": "architect Walter Gropius",
+          "japanese": "建築家ウォルター・グロピウス"
+        }
+      ],
+      "card_sentence": {
+        "before": "architectで、",
+        "hidden": "人。chemistで、人。",
+        "after": ""
+      },
+      "created_at": "2026-08-23",
+      "learned_on": "2026-08-23"
+    },
+    {
+      "id": "komazawa2022-q2-pronoun-all-both",
+      "source": {
+        "book": "駒澤大学 2022",
+        "unit": "問題II",
+        "location": "Bauhaus本文・第2段落",
+        "excerpt": "these all found a place"
+      },
+      "target": "代名詞に後ろから all や bothで付け足す",
+      "category": "tip",
+      "prompt": "代名詞に後ろから all や bothで付け足す",
+      "answer_core": "all や bothで付け足す",
+      "usage_examples": [
+        {
+          "english": "these all found a place",
+          "japanese": "これらはすべて居場所を得た"
+        }
+      ],
+      "card_sentence": {
+        "before": "代名詞に後ろから ",
+        "hidden": "all や bothで付け足す",
+        "after": ""
+      },
+      "created_at": "2026-08-23",
+      "learned_on": "2026-08-23"
+    },
+    {
+      "id": "komazawa2022-q2-as-participle-as-normal",
+      "source": {
+        "book": "駒澤大学 2022",
+        "unit": "問題II",
+        "location": "Bauhaus本文・第3段落",
+        "excerpt": "characterize as looking as if"
+      },
+      "target": "as分詞asは至って普通",
+      "category": "tip",
+      "prompt": "as分詞asは至って普通",
+      "answer_core": "至って普通",
+      "usage_examples": [
+        {
+          "english": "characterize as looking as if ...",
+          "japanese": "…のように見えると評する"
+        }
+      ],
+      "card_sentence": {
+        "before": "as分詞asは",
+        "hidden": "至って普通",
+        "after": ""
+      },
+      "created_at": "2026-08-23",
+      "learned_on": "2026-08-23"
+    },
+    {
+      "id": "komazawa2022-q2-direct-verb",
+      "source": {
+        "book": "駒澤大学 2022",
+        "unit": "問題II",
+        "location": "Bauhaus本文・第4段落",
+        "excerpt": "directed the school's move"
+      },
+      "target": "direct動詞で指示。ディレクター",
+      "category": "tip",
+      "prompt": "direct動詞で指示。ディレクター",
+      "answer_core": "指示。ディレクター",
+      "usage_examples": [
+        {
+          "english": "directed the school's move",
+          "japanese": "学校の移転を指揮した"
+        }
+      ],
+      "card_sentence": {
+        "before": "direct動詞で",
+        "hidden": "指示。ディレクター",
+        "after": ""
+      },
+      "created_at": "2026-08-23",
+      "learned_on": "2026-08-23"
+    },
+    {
+      "id": "komazawa2022-q2-manifest",
+      "source": {
+        "book": "駒澤大学 2022",
+        "unit": "問題II",
+        "location": "Bauhaus本文・第4段落",
+        "excerpt": "to manifest in the school's physical space"
+      },
+      "target": "manifest：表す",
+      "category": "term",
+      "prompt": "manifest：表す",
+      "answer_core": "表す",
+      "usage_examples": [
+        {
+          "english": "to manifest in the school's physical space",
+          "japanese": "学校の物理的空間に表れる"
+        }
+      ],
+      "card_sentence": {
+        "before": "manifest：",
+        "hidden": "表す",
+        "after": ""
+      },
+      "created_at": "2026-08-23",
+      "learned_on": "2026-08-23"
+    },
+    {
+      "id": "komazawa2022-q2-participle-original-verb-usage",
+      "source": {
+        "book": "駒澤大学 2022",
+        "unit": "問題II",
+        "location": "Bauhaus本文・第4段落",
+        "excerpt": "Following this decision"
+      },
+      "target": "分詞になっても、元々の動詞形の語法を忘れない",
+      "category": "tip",
+      "prompt": "分詞になっても、元々の動詞形の語法を忘れない",
+      "answer_core": "元々の動詞形の語法を忘れない",
+      "usage_examples": [
+        {
+          "english": "Following this decision",
+          "japanese": "この決定を受けて"
+        }
+      ],
+      "card_sentence": {
+        "before": "分詞になっても、",
+        "hidden": "元々の動詞形の語法を忘れない",
+        "after": ""
+      },
+      "created_at": "2026-08-23",
+      "learned_on": "2026-08-23"
+    },
+    {
+      "id": "komazawa2022-q2-whose-plus-noun",
+      "source": {
+        "book": "駒澤大学 2022",
+        "unit": "問題II",
+        "location": "Bauhaus本文・第4段落",
+        "excerpt": "whose interference demanded"
+      },
+      "target": "関係代名詞whoseは、その後の単語まで関係代名詞",
+      "category": "tip",
+      "prompt": "関係代名詞whoseは、その後の単語まで関係代名詞",
+      "answer_core": "その後の単語まで関係代名詞",
+      "usage_examples": [
+        {
+          "english": "whose interference demanded ...",
+          "japanese": "その干渉が…を要求した"
+        }
+      ],
+      "card_sentence": {
+        "before": "関係代名詞whoseは、",
+        "hidden": "その後の単語まで関係代名詞",
+        "after": ""
+      },
+      "created_at": "2026-08-23",
+      "learned_on": "2026-08-23"
+    },
+    {
+      "id": "komazawa2022-q2-have-match-noun",
+      "source": {
+        "book": "駒澤大学 2022",
+        "unit": "問題II",
+        "location": "Bauhaus本文・第3段落",
+        "excerpt": "had a hand in their creation"
+      },
+      "target": "haveは名詞側に訳をあわせる",
+      "category": "tip",
+      "prompt": "haveは名詞側に訳をあわせる",
+      "answer_core": "名詞側に訳をあわせる",
+      "usage_examples": [
+        {
+          "english": "had a hand in their creation",
+          "japanese": "その創造に関与した"
+        }
+      ],
+      "card_sentence": {
+        "before": "haveは",
+        "hidden": "名詞側に訳をあわせる",
+        "after": ""
+      },
+      "created_at": "2026-08-23",
+      "learned_on": "2026-08-23"
     }
   ]
 }
