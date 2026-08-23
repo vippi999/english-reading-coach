@@ -1,0 +1,125 @@
+name: Save Komazawa 2022 Q3 cards once
+on:
+  push:
+    branches: [main]
+    paths: [.github/workflows/save-komazawa2022-q3-20260823-once.yml]
+permissions:
+  contents: write
+jobs:
+  save:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - shell: bash
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          p = Path('review_items.json')
+          d = json.loads(p.read_text(encoding='utf-8'))
+          existing = {x.get('id') for x in d.get('items', [])}
+
+          cards = [
+            {
+              'id':'komazawa2022-q3-further-quantity',
+              'source':{'book':'駒澤大学 2022','unit':'問題III','location':'food waste本文・第1段落','excerpt':'a further 244 and 118 million tons'},
+              'target':'further 数量で さらに追加で',
+              'category':'term',
+              'prompt':'further 数量で さらに追加で',
+              'answer_core':'数量の前で「さらに追加で」',
+              'usage_examples':[{'english':'a further 244 and 118 million tons','japanese':'さらに2億4400万トンと1億1800万トン'}],
+              'card_sentence':{'before':'further + 数量は、','hidden':'「さらに追加で」','after':''},
+              'created_at':'2026-08-23','learned_on':'2026-08-23'
+            },
+            {
+              'id':'komazawa2022-q3-respectively-correspondence',
+              'source':{'book':'駒澤大学 2022','unit':'問題III','location':'food waste本文・第1段落','excerpt':'244 and 118 million tons, respectively'},
+              'target':'respectively は対応関係を明示する役割',
+              'category':'tip',
+              'prompt':'respectively は対応関係を明示する役割',
+              'answer_core':'対応関係を明示する役割',
+              'usage_examples':[{'english':'244 and 118 million tons, respectively','japanese':'それぞれ2億4400万トン、1億1800万トン'}],
+              'card_sentence':{'before':'respectively は','hidden':'対応関係を明示する役割','after':''},
+              'created_at':'2026-08-23','learned_on':'2026-08-23'
+            },
+            {
+              'id':'komazawa2022-q3-and-discourse-marker',
+              'source':{'book':'駒澤大学 2022','unit':'問題III','location':'food waste本文・第1段落','excerpt':'and, therefore, widespread improvement is necessary'},
+              'target':'SVをandで繋ぐ時は直後にディスコースマーカーが来る場合がある。',
+              'category':'tip',
+              'prompt':'SVをandで繋ぐ時は直後にディスコースマーカーが来る場合がある。',
+              'answer_core':'直後にディスコースマーカーが来る場合がある',
+              'usage_examples':[{'english':'and, therefore, widespread improvement is necessary','japanese':'そして、したがって、広範な改善が必要である'}],
+              'card_sentence':{'before':'SVをandで繋ぐ時は、','hidden':'直後にディスコースマーカーが来る場合がある','after':'。'},
+              'created_at':'2026-08-23','learned_on':'2026-08-23'
+            },
+            {
+              'id':'komazawa2022-q3-level-stage',
+              'source':{'book':'駒澤大学 2022','unit':'問題III','location':'food waste本文・第2段落','excerpt':'at consumer level'},
+              'target':'level：段階',
+              'category':'term',
+              'prompt':'level：段階',
+              'answer_core':'段階',
+              'usage_examples':[{'english':'at consumer level','japanese':'消費者段階で'}],
+              'card_sentence':{'before':'level：','hidden':'段階','after':''},
+              'created_at':'2026-08-23','learned_on':'2026-08-23'
+            },
+            {
+              'id':'komazawa2022-q3-note-point-out',
+              'source':{'book':'駒澤大学 2022','unit':'問題III','location':'food waste本文・第3段落','excerpt':'The Food Waste Index notes that ...'},
+              'target':'note：指摘する',
+              'category':'term',
+              'prompt':'note：指摘する',
+              'answer_core':'指摘する',
+              'usage_examples':[{'english':'The Food Waste Index notes that ...','japanese':'食品廃棄指数は…と指摘している'}],
+              'card_sentence':{'before':'note：','hidden':'指摘する','after':''},
+              'created_at':'2026-08-23','learned_on':'2026-08-23'
+            },
+            {
+              'id':'komazawa2022-q3-just-wh-emphasis',
+              'source':{'book':'駒澤大学 2022','unit':'問題III','location':'food waste本文・第3段落','excerpt':'So just how much food ...?'},
+              'target':'justは疑問詞を強調する',
+              'category':'tip',
+              'prompt':'justは疑問詞を強調する',
+              'answer_core':'疑問詞を強調する',
+              'usage_examples':[{'english':'So just how much food ...?','japanese':'では、いったいどれほどの食料を…？'}],
+              'card_sentence':{'before':'justは','hidden':'疑問詞を強調する','after':'。'},
+              'created_at':'2026-08-23','learned_on':'2026-08-23'
+            }
+          ]
+
+          for card in cards:
+            if card['id'] not in existing:
+              d['items'].append(card)
+          p.write_text(json.dumps(d, ensure_ascii=False, indent=2)+'\n', encoding='utf-8')
+
+          s = Path('study_seed.json')
+          sd = json.loads(s.read_text(encoding='utf-8'))
+          done = sd.setdefault('completedLessons', [])
+          if not any(x.get('book')=='駒澤大学 2022' and x.get('unit')=='問題III' for x in done):
+            done.append({'book':'駒澤大学 2022','unit':'問題III','completedOn':'2026-08-23','status':'completed'})
+          s.write_text(json.dumps(sd, ensure_ascii=False, indent=2)+'\n', encoding='utf-8')
+
+          w = Path('weakness_data.md')
+          wt = w.read_text(encoding='utf-8')
+          memo = '| 2026-08-23 | 駒澤大学 2022・問題III | food waste本文 | furtherは数量でさらに追加、respectivelyは対応関係を明示、SVをandで繋ぐ時は直後にディスコースマーカーが来る場合がある、levelは段階、noteは指摘する、justは疑問詞を強調する。 |'
+          if memo not in wt:
+            if not wt.endswith('\n'):
+              wt += '\n'
+            wt += memo + '\n'
+            w.write_text(wt, encoding='utf-8')
+
+          c = Path('カード候補.md')
+          if c.exists():
+            txt = c.read_text(encoding='utf-8')
+            for raw in ['further 数量で さらに追加で','respectively は対応関係を明示する役割','SVをandで繋ぐ時は直後にディスコースマーカーが来る場合がある。','level：段階','note：指摘する','justは疑問詞を強調する']:
+              txt = '\n'.join(line for line in txt.splitlines() if raw not in line) + '\n'
+            c.write_text(txt, encoding='utf-8')
+          PY
+          rm .github/workflows/save-komazawa2022-q3-20260823-once.yml
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add review_items.json study_seed.json weakness_data.md カード候補.md .github/workflows/save-komazawa2022-q3-20260823-once.yml
+          git commit -m '駒澤大学2022 問題IIIの読解カードを保存'
+          git push
