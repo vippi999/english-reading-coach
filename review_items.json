@@ -4339,7 +4339,7 @@
         "book": "駒澤大学 2022",
         "unit": "問題1",
         "location": "woodblock prints本文・第1段落",
-        "excerpt": "Ever since Japanese woodblock prints were introduced to Europe and America in the 19th century, they have been the most popular form of Japanese art in the Western world."
+        "excerpt": "Ever since Japanese woodblock prints were introduced to Europe and America"
       },
       "target": "ever since：since の強意",
       "category": "term",
@@ -4347,8 +4347,8 @@
       "answer_core": "since の強意",
       "usage_examples": [
         {
-          "english": "Ever since Japanese woodblock prints were introduced to Europe and America in the 19th century, they have been the most popular form of Japanese art in the Western world.",
-          "japanese": "日本の木版画が19世紀にヨーロッパとアメリカへ紹介されて以来ずっと、それらは西洋世界で最も人気のある日本美術の形式であり続けている。"
+          "english": "Ever since Japanese woodblock prints were introduced to Europe and America",
+          "japanese": "日本の木版画がヨーロッパとアメリカに紹介されて以来ずっと"
         }
       ],
       "card_sentence": {
@@ -4365,7 +4365,7 @@
         "book": "駒澤大学 2022",
         "unit": "問題1",
         "location": "woodblock prints本文・第2段落",
-        "excerpt": "they were not collected seriously until the past few decades."
+        "excerpt": "they were not collected seriously"
       },
       "target": "serious：重大、本気",
       "category": "term",
@@ -4373,8 +4373,8 @@
       "answer_core": "重大、本気",
       "usage_examples": [
         {
-          "english": "They were not collected seriously until the past few decades.",
-          "japanese": "それらが本格的に収集されるようになったのは、ここ数十年のことである。"
+          "english": "they were not collected seriously",
+          "japanese": "それらは本格的には収集されなかった"
         }
       ],
       "card_sentence": {
@@ -4391,7 +4391,7 @@
         "book": "駒澤大学 2022",
         "unit": "問題1",
         "location": "woodblock prints本文・第2段落",
-        "excerpt": "Because prints were originally mass-produced and cheap, they are still widely available, although the finest prints can now cost large sums of money."
+        "excerpt": "prints were originally mass-produced and cheap"
       },
       "target": "originally：もともと",
       "category": "term",
@@ -4399,8 +4399,8 @@
       "answer_core": "もともと",
       "usage_examples": [
         {
-          "english": "Because prints were originally mass-produced and cheap, they are still widely available, although the finest prints can now cost large sums of money.",
-          "japanese": "版画はもともと大量生産され安価だったため、今でも広く入手できるが、最上級の版画は現在では多額の金がかかることもある。"
+          "english": "prints were originally mass-produced and cheap",
+          "japanese": "版画はもともと大量生産され、安価だった"
         }
       ],
       "card_sentence": {
@@ -4417,7 +4417,7 @@
         "book": "駒澤大学 2022",
         "unit": "問題1",
         "location": "woodblock prints本文・第2段落",
-        "excerpt": "they are still widely available, although the finest prints can now cost large sums of money."
+        "excerpt": "although the finest prints can now cost large sums of money"
       },
       "target": "although は譲歩",
       "category": "tip",
@@ -4425,8 +4425,8 @@
       "answer_core": "譲歩",
       "usage_examples": [
         {
-          "english": "They are still widely available, although the finest prints can now cost large sums of money.",
-          "japanese": "最上級の版画は現在では多額の金がかかることもあるが、それでも版画は今なお広く入手できる。"
+          "english": "although the finest prints can now cost large sums of money",
+          "japanese": "最上級の版画は今では多額の金がかかることもあるが"
         }
       ],
       "card_sentence": {
@@ -4443,7 +4443,7 @@
         "book": "駒澤大学 2022",
         "unit": "問題1",
         "location": "woodblock prints本文・第2段落",
-        "excerpt": "the finest prints can now cost large sums of money."
+        "excerpt": "cost large sums of money"
       },
       "target": "large sums of money 名詞 of 名詞",
       "category": "tip",
@@ -4451,8 +4451,8 @@
       "answer_core": "名詞 of 名詞",
       "usage_examples": [
         {
-          "english": "The finest prints can now cost large sums of money.",
-          "japanese": "最上級の版画は現在では多額の金がかかることもある。"
+          "english": "cost large sums of money",
+          "japanese": "多額の金がかかる"
         }
       ],
       "card_sentence": {
@@ -4469,7 +4469,7 @@
         "book": "駒澤大学 2022",
         "unit": "問題1",
         "location": "woodblock prints本文・第2段落",
-        "excerpt": "Some collectors today are concentrating on contemporary prints, which are still relatively cheap, because they continue to reveal the genius of the Japanese artists."
+        "excerpt": "prints, which are still relatively cheap, because they continue to reveal ..."
       },
       "target": "目的語に関係代名詞が来るときは、惑わされずその後の接続詞をちゃんと主文と繋げるようにする",
       "category": "tip",
@@ -4477,8 +4477,8 @@
       "answer_core": "関係代名詞節を挟んでも、その後の接続詞は主文とのつながりを確認する",
       "usage_examples": [
         {
-          "english": "Some collectors today are concentrating on contemporary prints, which are still relatively cheap, because they continue to reveal the genius of the Japanese artists.",
-          "japanese": "今日では現代版画に注目している収集家もいる。それらはまだ比較的安価であり、しかも日本の芸術家の才能を今なお示しているからである。"
+          "english": "prints, which are still relatively cheap, because they continue to reveal ...",
+          "japanese": "版画はまだ比較的安価で、しかも…を示し続けているため"
         }
       ],
       "card_sentence": {
@@ -4495,7 +4495,7 @@
         "book": "駒澤大学 2022",
         "unit": "問題1",
         "location": "woodblock prints本文・第3段落",
-        "excerpt": "each designed thousands of prints that included every subject you could imagine."
+        "excerpt": "every subject you could imagine"
       },
       "target": "you can imagine は英語の強調",
       "category": "tip",
@@ -4503,8 +4503,8 @@
       "answer_core": "英語の強調",
       "usage_examples": [
         {
-          "english": "Each designed thousands of prints that included every subject you could imagine.",
-          "japanese": "それぞれが、考えられるあらゆる題材を含む何千もの版画を制作した。"
+          "english": "every subject you could imagine",
+          "japanese": "考えられるあらゆる題材"
         }
       ],
       "card_sentence": {
