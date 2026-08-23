@@ -1,0 +1,57 @@
+name: Fix Komazawa 2022 Q3 full sentences once
+on:
+  push:
+    branches: [main]
+    paths: [.github/workflows/fix-komazawa2022-q3-full-sentences-once.yml]
+permissions:
+  contents: write
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - shell: bash
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          p=Path('review_items.json')
+          d=json.loads(p.read_text(encoding='utf-8'))
+          full={
+            'komazawa2022-q3-further-quantity':(
+              'Most of that figure, 569 million tons, falls under the category of household waste while the food service and retail sectors account for a further 244 and 118 million tons, respectively.',
+              'そのうち5億6900万トンは家庭ごみに分類される一方、外食部門と小売部門はそれぞれさらに2億4400万トンと1億1800万トンを占める。'
+            ),
+            'komazawa2022-q3-respectively-correspondence':(
+              'Most of that figure, 569 million tons, falls under the category of household waste while the food service and retail sectors account for a further 244 and 118 million tons, respectively.',
+              'そのうち5億6900万トンは家庭ごみに分類される一方、外食部門と小売部門はそれぞれさらに2億4400万トンと1億1800万トンを占める。'
+            ),
+            'komazawa2022-q3-and-discourse-marker':(
+              'This figure is broadly similar across both rich and poor countries, and, therefore, widespread improvement is necessary.',
+              'この数値は富裕国でも貧困国でも概ね同様であり、したがって広範な改善が必要である。'
+            ),
+            'komazawa2022-q3-level-stage':(
+              'That is, the global waste, at consumer level, for example, at home and in restaurants, is more than twice as high as previously estimated.',
+              'つまり、家庭やレストランなど消費者段階での世界の廃棄量は、以前の推定の2倍を超えている。'
+            ),
+            'komazawa2022-q3-note-point-out':(
+              "UNEP's 2021 Food Waste Index notes that if food loss and waste were a country, it would be the third biggest source of greenhouse gas emissions on the planet.",
+              'UNEPの2021年食品廃棄指数は、食品ロスと廃棄が一つの国だとすれば、地球上で3番目に大きい温室効果ガス排出源になると指摘している。'
+            ),
+            'komazawa2022-q3-just-wh-emphasis':(
+              'So just how much food do different countries throw away each year?',
+              'では、各国はいったい毎年どれほどの食料を捨てているのだろうか。'
+            )
+          }
+          for item in d.get('items',[]):
+            if item.get('id') in full:
+              en,ja=full[item['id']]
+              item['usage_examples']=[{'english':en,'japanese':ja}]
+          p.write_text(json.dumps(d,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+          PY
+          rm .github/workflows/fix-komazawa2022-q3-full-sentences-once.yml
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add review_items.json .github/workflows/fix-komazawa2022-q3-full-sentences-once.yml
+          git commit -m '駒澤大学2022 問題IIIの例文を全文に戻す'
+          git push
