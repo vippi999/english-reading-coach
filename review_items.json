@@ -4930,6 +4930,84 @@
       },
       "created_at": "2026-08-23",
       "learned_on": "2026-08-23"
+    },
+    {
+      "id": "target1900-found-two-forms",
+      "source": {
+        "book": "ターゲット1900",
+        "unit": "",
+        "location": "",
+        "excerpt": "found / founded / found"
+      },
+      "target": "foundは、findの過去分詞形でもあり、設立するという動詞でもある",
+      "category": "tip",
+      "prompt": "foundは、findの過去分詞形でもあり、設立するという動詞でもある",
+      "answer_core": "findの過去分詞形でもあり、設立するという動詞でもある",
+      "usage_examples": [
+        {
+          "english": "The company was founded in 1990; the missing file was found later.",
+          "japanese": "その会社は1990年に設立され、なくなっていたファイルは後で見つかった。"
+        }
+      ],
+      "card_sentence": {
+        "before": "foundは、",
+        "hidden": "findの過去分詞形でもあり、設立するという動詞でもある",
+        "after": ""
+      },
+      "created_at": "2026-08-23",
+      "learned_on": "2026-08-23"
+    },
+    {
+      "id": "target1900-separate-part",
+      "source": {
+        "book": "ターゲット1900",
+        "unit": "",
+        "location": "",
+        "excerpt": "separate"
+      },
+      "target": "separate：別れる",
+      "category": "term",
+      "prompt": "separate：別れる",
+      "answer_core": "別れる",
+      "usage_examples": [
+        {
+          "english": "The two paths separate here.",
+          "japanese": "2つの道はここで分かれる。"
+        }
+      ],
+      "card_sentence": {
+        "before": "separate：",
+        "hidden": "別れる",
+        "after": ""
+      },
+      "created_at": "2026-08-23",
+      "learned_on": "2026-08-23"
+    },
+    {
+      "id": "target1900-encourage-promote",
+      "source": {
+        "book": "ターゲット1900",
+        "unit": "",
+        "location": "",
+        "excerpt": "encourage"
+      },
+      "target": "encourage：奨励する",
+      "category": "term",
+      "prompt": "encourage：奨励する",
+      "answer_core": "奨励する",
+      "usage_examples": [
+        {
+          "english": "Teachers encourage students to ask questions.",
+          "japanese": "教師は生徒に質問するよう奨励する。"
+        }
+      ],
+      "card_sentence": {
+        "before": "encourage：",
+        "hidden": "奨励する",
+        "after": ""
+      },
+      "created_at": "2026-08-23",
+      "learned_on": "2026-08-23"
     }
   ]
 }
