@@ -76,3 +76,4 @@
 | 2026-07-22 | The Rules 1・Lesson 7 | no game centers or movies with school friends／for me | noはその後の文全体を否定し、前置詞句も否定するのか。ここは動詞がなく文ではないが何なのか。for meは主語的に見えるが、forにそういう文法的意味があるのか。 |
 | 2026-07-25 | The Rules 1・Lesson 7 | they／them | theyとかthemは確定させて読む。 |
 | 2026-08-19 | ターゲット1900 |  | 動詞のplaceはほぼputの意。giveの過去形はgave。give thought：考慮する。enjoy：享受する。practiceはputする・実行する。roleはplayする・役割を果たす。命令文は主語を省く。somethingは主語になる。〜timeで接続詞になることがある。SVO＋前置詞はOが長いと先に前置詞がくる。people who=those who。much as SV＝どんなに〜しても。sharp rise＝急上昇。processは処理という意味もある。 |
+| 2026-08-23 | 駒澤大学 2022 | woodblock prints本文 | ever since：sinceの強意。serious：重大、本気。originally：もともと。althoughは譲歩。large sums of moneyは名詞＋of＋名詞。目的語に関係代名詞が来るときは、惑わされずその後の接続詞をちゃんと主文と繋げるようにする。you can imagineは英語の強調。 |
