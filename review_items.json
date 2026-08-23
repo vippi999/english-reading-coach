@@ -4332,6 +4332,188 @@
       },
       "created_at": "2026-07-27",
       "learned_on": "2026-07-27"
+    },
+    {
+      "id": "komazawa2022-q1-ever-since",
+      "source": {
+        "book": "駒澤大学 2022",
+        "unit": "問題1",
+        "location": "woodblock prints本文・第1段落",
+        "excerpt": "Ever since Japanese woodblock prints were introduced to Europe and America in the 19th century, they have been the most popular form of Japanese art in the Western world."
+      },
+      "target": "ever since：since の強意",
+      "category": "term",
+      "prompt": "ever since：since の強意",
+      "answer_core": "since の強意",
+      "usage_examples": [
+        {
+          "english": "Ever since Japanese woodblock prints were introduced to Europe and America in the 19th century, they have been the most popular form of Japanese art in the Western world.",
+          "japanese": "日本の木版画が19世紀にヨーロッパとアメリカへ紹介されて以来ずっと、それらは西洋世界で最も人気のある日本美術の形式であり続けている。"
+        }
+      ],
+      "card_sentence": {
+        "before": "ever since：",
+        "hidden": "since の強意",
+        "after": ""
+      },
+      "created_at": "2026-08-23",
+      "learned_on": "2026-08-23"
+    },
+    {
+      "id": "komazawa2022-q1-serious",
+      "source": {
+        "book": "駒澤大学 2022",
+        "unit": "問題1",
+        "location": "woodblock prints本文・第2段落",
+        "excerpt": "they were not collected seriously until the past few decades."
+      },
+      "target": "serious：重大、本気",
+      "category": "term",
+      "prompt": "serious：重大、本気",
+      "answer_core": "重大、本気",
+      "usage_examples": [
+        {
+          "english": "They were not collected seriously until the past few decades.",
+          "japanese": "それらが本格的に収集されるようになったのは、ここ数十年のことである。"
+        }
+      ],
+      "card_sentence": {
+        "before": "serious：",
+        "hidden": "重大、本気",
+        "after": ""
+      },
+      "created_at": "2026-08-23",
+      "learned_on": "2026-08-23"
+    },
+    {
+      "id": "komazawa2022-q1-originally",
+      "source": {
+        "book": "駒澤大学 2022",
+        "unit": "問題1",
+        "location": "woodblock prints本文・第2段落",
+        "excerpt": "Because prints were originally mass-produced and cheap, they are still widely available, although the finest prints can now cost large sums of money."
+      },
+      "target": "originally：もともと",
+      "category": "term",
+      "prompt": "originally：もともと",
+      "answer_core": "もともと",
+      "usage_examples": [
+        {
+          "english": "Because prints were originally mass-produced and cheap, they are still widely available, although the finest prints can now cost large sums of money.",
+          "japanese": "版画はもともと大量生産され安価だったため、今でも広く入手できるが、最上級の版画は現在では多額の金がかかることもある。"
+        }
+      ],
+      "card_sentence": {
+        "before": "originally：",
+        "hidden": "もともと",
+        "after": ""
+      },
+      "created_at": "2026-08-23",
+      "learned_on": "2026-08-23"
+    },
+    {
+      "id": "komazawa2022-q1-although-concession",
+      "source": {
+        "book": "駒澤大学 2022",
+        "unit": "問題1",
+        "location": "woodblock prints本文・第2段落",
+        "excerpt": "they are still widely available, although the finest prints can now cost large sums of money."
+      },
+      "target": "although は譲歩",
+      "category": "tip",
+      "prompt": "although は譲歩",
+      "answer_core": "譲歩",
+      "usage_examples": [
+        {
+          "english": "They are still widely available, although the finest prints can now cost large sums of money.",
+          "japanese": "最上級の版画は現在では多額の金がかかることもあるが、それでも版画は今なお広く入手できる。"
+        }
+      ],
+      "card_sentence": {
+        "before": "although は",
+        "hidden": "譲歩",
+        "after": ""
+      },
+      "created_at": "2026-08-23",
+      "learned_on": "2026-08-23"
+    },
+    {
+      "id": "komazawa2022-q1-large-sums-of-money",
+      "source": {
+        "book": "駒澤大学 2022",
+        "unit": "問題1",
+        "location": "woodblock prints本文・第2段落",
+        "excerpt": "the finest prints can now cost large sums of money."
+      },
+      "target": "large sums of money 名詞 of 名詞",
+      "category": "tip",
+      "prompt": "large sums of money 名詞 of 名詞",
+      "answer_core": "名詞 of 名詞",
+      "usage_examples": [
+        {
+          "english": "The finest prints can now cost large sums of money.",
+          "japanese": "最上級の版画は現在では多額の金がかかることもある。"
+        }
+      ],
+      "card_sentence": {
+        "before": "large sums of money は",
+        "hidden": "名詞 of 名詞",
+        "after": ""
+      },
+      "created_at": "2026-08-23",
+      "learned_on": "2026-08-23"
+    },
+    {
+      "id": "komazawa2022-q1-relative-clause-return-main",
+      "source": {
+        "book": "駒澤大学 2022",
+        "unit": "問題1",
+        "location": "woodblock prints本文・第2段落",
+        "excerpt": "Some collectors today are concentrating on contemporary prints, which are still relatively cheap, because they continue to reveal the genius of the Japanese artists."
+      },
+      "target": "目的語に関係代名詞が来るときは、惑わされずその後の接続詞をちゃんと主文と繋げるようにする",
+      "category": "tip",
+      "prompt": "目的語に関係代名詞が来るときは、惑わされずその後の接続詞をちゃんと主文と繋げるようにする",
+      "answer_core": "関係代名詞節を挟んでも、その後の接続詞は主文とのつながりを確認する",
+      "usage_examples": [
+        {
+          "english": "Some collectors today are concentrating on contemporary prints, which are still relatively cheap, because they continue to reveal the genius of the Japanese artists.",
+          "japanese": "今日では現代版画に注目している収集家もいる。それらはまだ比較的安価であり、しかも日本の芸術家の才能を今なお示しているからである。"
+        }
+      ],
+      "card_sentence": {
+        "before": "目的語に関係代名詞が来るときは、",
+        "hidden": "惑わされずその後の接続詞をちゃんと主文と繋げるようにする",
+        "after": ""
+      },
+      "created_at": "2026-08-23",
+      "learned_on": "2026-08-23"
+    },
+    {
+      "id": "komazawa2022-q1-you-can-imagine-emphasis",
+      "source": {
+        "book": "駒澤大学 2022",
+        "unit": "問題1",
+        "location": "woodblock prints本文・第3段落",
+        "excerpt": "each designed thousands of prints that included every subject you could imagine."
+      },
+      "target": "you can imagine は英語の強調",
+      "category": "tip",
+      "prompt": "you can imagine は英語の強調",
+      "answer_core": "英語の強調",
+      "usage_examples": [
+        {
+          "english": "Each designed thousands of prints that included every subject you could imagine.",
+          "japanese": "それぞれが、考えられるあらゆる題材を含む何千もの版画を制作した。"
+        }
+      ],
+      "card_sentence": {
+        "before": "you can imagine は",
+        "hidden": "英語の強調",
+        "after": ""
+      },
+      "created_at": "2026-08-23",
+      "learned_on": "2026-08-23"
     }
   ]
 }
