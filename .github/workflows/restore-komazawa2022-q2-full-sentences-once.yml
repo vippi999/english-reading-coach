@@ -1,0 +1,77 @@
+name: Restore Komazawa 2022 Q2 full-sentence examples once
+on:
+  push:
+    branches: [main]
+    paths: [.github/workflows/restore-komazawa2022-q2-full-sentences-once.yml]
+permissions:
+  contents: write
+jobs:
+  restore:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - shell: bash
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          p = Path('review_items.json')
+          data = json.loads(p.read_text(encoding='utf-8'))
+          full = {
+            'komazawa2022-q2-championed': (
+              'The movement championed an abstract style featuring little emotion and no historical references, and its aesthetic continues to influence architects, designers and artists.',
+              'その運動は感情表現がほとんどなく歴史的参照もない抽象的な様式を強く支持し、その美学は今も建築家、デザイナー、芸術家に影響を与え続けている。'
+            ),
+            'komazawa2022-q2-little-no-a': (
+              'The movement championed an abstract style featuring little emotion and no historical references, and its aesthetic continues to influence architects, designers and artists.',
+              'その運動は感情表現がほとんどなく歴史的参照もない抽象的な様式を強く支持し、その美学は今も建築家、デザイナー、芸術家に影響を与え続けている。'
+            ),
+            'komazawa2022-q2-architect-chemist-person': (
+              'The Weimar art school was founded by architect Walter Gropius in 1919.',
+              'ワイマールの美術学校は1919年に建築家ウォルター・グロピウスによって設立された。'
+            ),
+            'komazawa2022-q2-pronoun-all-both': (
+              'Painting, architecture, fabric design, furniture-making, theater design, stained glass, woodworking, metalworking—these all found a place in the Bauhaus movement.',
+              '絵画、建築、織物デザイン、家具製作、舞台デザイン、ステンドグラス、木工、金属加工――これらはすべてバウハウス運動の中に居場所を得た。'
+            ),
+            'komazawa2022-q2-as-participle-as-normal': (
+              'The Bauhaus style of architecture featured sharp angles of glass, stone, and steel, together creating patterns and resulting in buildings that some historians characterize as looking as if no human had a hand in their creation.',
+              'バウハウス様式の建築はガラス、石、鋼鉄の鋭い角を特徴とし、それらが一体となって模様を作り、人間がその創造に関わっていないかのように見えると一部の歴史家が評する建物を生み出した。'
+            ),
+            'komazawa2022-q2-direct-verb': (
+              "Starting in 1925, Gropius directed the school's move to the town of Dessau.",
+              '1925年から、グロピウスは学校のデッサウへの移転を指揮した。'
+            ),
+            'komazawa2022-q2-manifest': (
+              "He designed several buildings for the new campus allowing the principles of the Bauhaus movement to manifest in the school's physical space.",
+              '彼は新キャンパスのためにいくつかの建物を設計し、バウハウス運動の原理が学校の物理的空間に表れるようにした。'
+            ),
+            'komazawa2022-q2-participle-original-verb-usage': (
+              'Following this decision, Gropius and many others within the Bauhaus movement fled to the United States, where they had a deep and lasting influence on 20th-century art and design.',
+              'この決定を受けて、グロピウスとバウハウス運動の多くの人々はアメリカへ逃れ、そこで20世紀の芸術とデザインに深く永続的な影響を与えた。'
+            ),
+            'komazawa2022-q2-whose-plus-noun': (
+              "The school moved during a struggle for survival with Germany's dictatorship, whose interference demanded experimental work be toned down as it seized control of the school.",
+              '学校はドイツの独裁政権との生き残りをかけた闘争の中で移転し、その干渉によって、政権が学校の支配権を握るにつれて実験的な活動を抑えることが要求された。'
+            ),
+            'komazawa2022-q2-have-match-noun': (
+              'The Bauhaus style of architecture featured sharp angles of glass, stone, and steel, together creating patterns and resulting in buildings that some historians characterize as looking as if no human had a hand in their creation.',
+              'バウハウス様式の建築はガラス、石、鋼鉄の鋭い角を特徴とし、それらが一体となって模様を作り、人間がその創造に関わっていないかのように見えると一部の歴史家が評する建物を生み出した。'
+            ),
+          }
+
+          for card in data.get('items', []):
+              if card.get('id') in full:
+                  en, ja = full[card['id']]
+                  card['usage_examples'] = [{'english': en, 'japanese': ja}]
+                  card.setdefault('source', {})['excerpt'] = en
+
+          p.write_text(json.dumps(data, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+          Path('.github/workflows/restore-komazawa2022-q2-full-sentences-once.yml').unlink()
+          PY
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add review_items.json .github/workflows/restore-komazawa2022-q2-full-sentences-once.yml
+          git commit -m '駒澤大学2022 問題IIの例文を全文に戻す'
+          git push
