@@ -80,3 +80,4 @@
 | 2026-08-23 | 駒澤大学 2022・問題II | Bauhaus本文 | championed：強く支持する／aがつかないlittleは「ない」と言いたい／architect・chemistは人／代名詞の後ろにall・both／as分詞as／direct動詞／manifest／分詞でも元の動詞語法／whose＋その後の語／haveは名詞側に訳をあわせる。 |
 | 2026-08-23 | 駒澤大学 2022・問題III | food waste本文 | furtherは数量でさらに追加、respectivelyは対応関係を明示、SVをandで繋ぐ時は直後にディスコースマーカーが来る場合がある、levelは段階、noteは指摘する、justは疑問詞を強調する。 |
 | 2026-08-25 | 近畿大学 2024・VII | 自動販売機本文 p.12-13 | vend／for currency／century／devise／to不定詞／string／OCの受動関係／plug／tie／名詞use／get／otherwise／for／penny／figure／practical⇔ideal／to不定詞受動態／there＋助動詞。 |
+| 2026-08-25 | 近畿大学 2024・II | ゾウの記憶についての本文 p.5 | fairly／square kilometers／名詞→形容詞→副詞の修飾／in the same way／as is the case with／It's time for〜／when it comes toの限定／hold true。 |

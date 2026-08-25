@@ -5476,6 +5476,214 @@
       },
       "created_at": "2026-08-25",
       "learned_on": "2026-08-25"
+    },
+    {
+      "id": "kinki2024-ii-fairly",
+      "source": {
+        "book": "近畿大学 2024",
+        "unit": "II",
+        "location": "本文 p.5 第1段落",
+        "excerpt": "It was fairly common for people at that time to think that the bigger the brain, the better the memory."
+      },
+      "target": "fairly：まあまあまあまあかなり",
+      "category": "term",
+      "prompt": "fairly：まあまあまあまあかなり",
+      "answer_core": "まあまあまあまあかなり",
+      "usage_examples": [
+        {
+          "english": "It was fairly common for people at that time to think that the bigger the brain, the better the memory.",
+          "japanese": "当時の人々が、脳が大きければ大きいほど記憶力もよいと考えることは、かなり一般的だった。"
+        }
+      ],
+      "card_sentence": {
+        "before": "fairly：",
+        "hidden": "まあまあまあまあかなり",
+        "after": ""
+      },
+      "created_at": "2026-08-25",
+      "learned_on": "2026-08-25"
+    },
+    {
+      "id": "kinki2024-ii-square-kilometers",
+      "source": {
+        "book": "近畿大学 2024",
+        "unit": "II",
+        "location": "本文 p.5 第1段落",
+        "excerpt": "An elephant's home territory can be over 3,000 square kilometers."
+      },
+      "target": "square kilometers：平方キロメートル",
+      "category": "term",
+      "prompt": "square kilometers：平方キロメートル",
+      "answer_core": "平方キロメートル",
+      "usage_examples": [
+        {
+          "english": "An elephant's home territory can be over 3,000 square kilometers.",
+          "japanese": "ゾウの生息領域は3,000平方キロメートルを超えることもある。"
+        }
+      ],
+      "card_sentence": {
+        "before": "square kilometers：",
+        "hidden": "平方キロメートル",
+        "after": ""
+      },
+      "created_at": "2026-08-25",
+      "learned_on": "2026-08-25"
+    },
+    {
+      "id": "kinki2024-ii-noun-adjective-adverb",
+      "source": {
+        "book": "近畿大学 2024",
+        "unit": "II",
+        "location": "本文 p.5 第1段落",
+        "excerpt": "That's about the same size as the relatively small American state of Rhode Island."
+      },
+      "target": "名詞は形容詞で修飾されることができて、その形容詞は副詞で修飾されることができる。",
+      "category": "tip",
+      "prompt": "名詞は形容詞で修飾されることができて、その形容詞は副詞で修飾されることができる。",
+      "answer_core": "その形容詞は副詞で修飾されることができる",
+      "usage_examples": [
+        {
+          "english": "That's about the same size as the relatively small American state of Rhode Island.",
+          "japanese": "それは、比較的小さなアメリカの州であるロードアイランド州とほぼ同じ大きさである。"
+        }
+      ],
+      "card_sentence": {
+        "before": "名詞は形容詞で修飾されることができて、",
+        "hidden": "その形容詞は副詞で修飾されることができる",
+        "after": "。"
+      },
+      "created_at": "2026-08-25",
+      "learned_on": "2026-08-25"
+    },
+    {
+      "id": "kinki2024-ii-in-the-same-way",
+      "source": {
+        "book": "近畿大学 2024",
+        "unit": "II",
+        "location": "本文 p.5 第1段落",
+        "excerpt": "much in the same way humans retain a memory of the familiar area in which they grew up"
+      },
+      "target": "in the same way：同様に",
+      "category": "term",
+      "prompt": "in the same way：同様に",
+      "answer_core": "同様に",
+      "usage_examples": [
+        {
+          "english": "But research has shown that elephants can remember their entire territory, much in the same way humans retain a memory of the familiar area in which they grew up.",
+          "japanese": "しかし研究によれば、ゾウは自分の領域全体を覚えておくことができ、それは人間が自分の育ったなじみの地域の記憶を保つのとほぼ同じである。"
+        }
+      ],
+      "card_sentence": {
+        "before": "in the same way：",
+        "hidden": "同様に",
+        "after": ""
+      },
+      "created_at": "2026-08-25",
+      "learned_on": "2026-08-25"
+    },
+    {
+      "id": "kinki2024-ii-as-is-the-case-with",
+      "source": {
+        "book": "近畿大学 2024",
+        "unit": "II",
+        "location": "本文 p.5 第2段落",
+        "excerpt": "As is the case with humans"
+      },
+      "target": "as is the case with：同様に",
+      "category": "term",
+      "prompt": "as is the case with：同様に",
+      "answer_core": "同様に",
+      "usage_examples": [
+        {
+          "english": "As is the case with humans, though, when things get a little too crowded, it's time for one of the kids to move out.",
+          "japanese": "しかし人間の場合と同様に、少し混み合いすぎると、子どもの一頭が外へ出ていく時になる。"
+        }
+      ],
+      "card_sentence": {
+        "before": "as is the case with：",
+        "hidden": "同様に",
+        "after": ""
+      },
+      "created_at": "2026-08-25",
+      "learned_on": "2026-08-25"
+    },
+    {
+      "id": "kinki2024-ii-its-time-for",
+      "source": {
+        "book": "近畿大学 2024",
+        "unit": "II",
+        "location": "本文 p.5 第2段落",
+        "excerpt": "it's time for one of the kids to move out"
+      },
+      "target": "It's time for〜：する時です！",
+      "category": "term",
+      "prompt": "It's time for〜：する時です！",
+      "answer_core": "する時です！",
+      "usage_examples": [
+        {
+          "english": "As is the case with humans, though, when things get a little too crowded, it's time for one of the kids to move out.",
+          "japanese": "しかし人間の場合と同様に、少し混み合いすぎると、子どもの一頭が外へ出ていく時になる。"
+        }
+      ],
+      "card_sentence": {
+        "before": "It's time for〜：",
+        "hidden": "する時です！",
+        "after": ""
+      },
+      "created_at": "2026-08-25",
+      "learned_on": "2026-08-25"
+    },
+    {
+      "id": "kinki2024-ii-when-it-comes-to-limiting",
+      "source": {
+        "book": "近畿大学 2024",
+        "unit": "II",
+        "location": "本文 p.5 第2段落",
+        "excerpt": "when it comes to elephants"
+      },
+      "target": "when it comes toは〜場合にはという限定",
+      "category": "tip",
+      "prompt": "when it comes toは〜場合にはという限定",
+      "answer_core": "〜場合にはという限定",
+      "usage_examples": [
+        {
+          "english": "The one who moves out, when it comes to elephants, is the eldest daughter.",
+          "japanese": "ゾウの場合、外へ出ていくのは最年長の娘である。"
+        }
+      ],
+      "card_sentence": {
+        "before": "when it comes toは",
+        "hidden": "〜場合にはという限定",
+        "after": ""
+      },
+      "created_at": "2026-08-25",
+      "learned_on": "2026-08-25"
+    },
+    {
+      "id": "kinki2024-ii-hold-true",
+      "source": {
+        "book": "近畿大学 2024",
+        "unit": "II",
+        "location": "本文 p.5 第2段落",
+        "excerpt": "definitely holds true"
+      },
+      "target": "true が hold して正しいまま",
+      "category": "tip",
+      "prompt": "true が hold して正しいまま",
+      "answer_core": "正しいまま",
+      "usage_examples": [
+        {
+          "english": "So, it seems that the old adage about an elephant's memory definitely holds true.",
+          "japanese": "したがって、ゾウの記憶についての昔からの格言は確かに正しいままであるようだ。"
+        }
+      ],
+      "card_sentence": {
+        "before": "true が hold して",
+        "hidden": "正しいまま",
+        "after": ""
+      },
+      "created_at": "2026-08-25",
+      "learned_on": "2026-08-25"
     }
   ]
 }
