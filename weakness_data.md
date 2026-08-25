@@ -79,3 +79,4 @@
 | 2026-08-23 | 駒澤大学 2022 | woodblock prints本文 | ever since：sinceの強意。serious：重大、本気。originally：もともと。althoughは譲歩。large sums of moneyは名詞＋of＋名詞。目的語に関係代名詞が来るときは、惑わされずその後の接続詞をちゃんと主文と繋げるようにする。you can imagineは英語の強調。 |
 | 2026-08-23 | 駒澤大学 2022・問題II | Bauhaus本文 | championed：強く支持する／aがつかないlittleは「ない」と言いたい／architect・chemistは人／代名詞の後ろにall・both／as分詞as／direct動詞／manifest／分詞でも元の動詞語法／whose＋その後の語／haveは名詞側に訳をあわせる。 |
 | 2026-08-23 | 駒澤大学 2022・問題III | food waste本文 | furtherは数量でさらに追加、respectivelyは対応関係を明示、SVをandで繋ぐ時は直後にディスコースマーカーが来る場合がある、levelは段階、noteは指摘する、justは疑問詞を強調する。 |
+| 2026-08-25 | 近畿大学 2024・VII | 自動販売機本文 p.12-13 | vend／for currency／century／devise／to不定詞／string／OCの受動関係／plug／tie／名詞use／get／otherwise／for／penny／figure／practical⇔ideal／to不定詞受動態／there＋助動詞。 |
