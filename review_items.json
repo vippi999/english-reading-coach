@@ -5684,6 +5684,630 @@
       },
       "created_at": "2026-08-25",
       "learned_on": "2026-08-25"
+    },
+    {
+      "id": "senshu2024-ii-amid",
+      "source": {
+        "book": "専修大学 2024",
+        "unit": "II",
+        "location": "本文 p.8",
+        "excerpt": "amid fears that students will use it to write their essays"
+      },
+      "target": "amid：さなか",
+      "category": "term",
+      "prompt": "amid：さなか",
+      "answer_core": "さなか",
+      "usage_examples": [
+        {
+          "english": "Many schools and universities have already implemented policies that ban the use of ChatGPT amid fears that students will use it to write their essays, while the academic journal Nature has had to publish policies explaining why the program cannot be listed as an author of research papers.",
+          "japanese": "多くの学校や大学は、学生がChatGPTを使って作文を書くのではないかという懸念のさなか、ChatGPTの使用を禁止する方針をすでに導入している一方、学術誌Natureは、そのプログラムを研究論文の著者として記載できない理由を説明する方針を公表しなければならなくなっている。"
+        }
+      ],
+      "card_sentence": {
+        "before": "amid：",
+        "hidden": "さなか",
+        "after": ""
+      },
+      "created_at": "2026-08-26",
+      "learned_on": "2026-08-26"
+    },
+    {
+      "id": "senshu2024-ii-pretty-comparison",
+      "source": {
+        "book": "専修大学 2024",
+        "unit": "II",
+        "location": "本文 p.8",
+        "excerpt": "It's pretty much the most useful application of the tool"
+      },
+      "target": "pretty は比較を強調する。",
+      "category": "tip",
+      "prompt": "pretty は比較を強調する。",
+      "answer_core": "比較を強調する",
+      "usage_examples": [
+        {
+          "english": "It's pretty much the most useful application of the tool: “Hey, here's a thing I'm thinking about, can you tell me some more?”",
+          "japanese": "それは、その道具のかなり有用な使い方だ。「ねえ、今考えていることがあるんだけど、もう少し教えてくれる？」"
+        }
+      ],
+      "card_sentence": {
+        "before": "pretty は",
+        "hidden": "比較を強調する",
+        "after": "。"
+      },
+      "created_at": "2026-08-26",
+      "learned_on": "2026-08-26"
+    },
+    {
+      "id": "senshu2024-ii-state-verb",
+      "source": {
+        "book": "専修大学 2024",
+        "unit": "II",
+        "location": "本文 p.8",
+        "excerpt": "a note at the bottom stated"
+      },
+      "target": "state 動詞：述べる",
+      "category": "term",
+      "prompt": "state 動詞：述べる",
+      "answer_core": "述べる",
+      "usage_examples": [
+        {
+          "english": "While the letter spoke of the value of community, mutual respect and togetherness, a note at the bottom stated that it was written by ChatGPT—which felt both morally wrong and somehow false to many.",
+          "japanese": "その手紙は共同体、相互尊重、団結の価値を語っていたが、下部の注記にはChatGPTによって書かれたと記されており、多くの人には道徳的に誤っていて、どこか偽りのようにも感じられた。"
+        }
+      ],
+      "card_sentence": {
+        "before": "state 動詞：",
+        "hidden": "述べる",
+        "after": ""
+      },
+      "created_at": "2026-08-26",
+      "learned_on": "2026-08-26"
+    },
+    {
+      "id": "senshu2024-ii-oblige-intransitive",
+      "source": {
+        "book": "専修大学 2024",
+        "unit": "II",
+        "location": "本文 p.8",
+        "excerpt": "And ChatGPT obliged."
+      },
+      "target": "oblige 自：応じる",
+      "category": "term",
+      "prompt": "oblige 自：応じる",
+      "answer_core": "応じる",
+      "usage_examples": [
+        {
+          "english": "And ChatGPT obliged.",
+          "japanese": "そしてChatGPTはそれに応じた。"
+        }
+      ],
+      "card_sentence": {
+        "before": "oblige 自：",
+        "hidden": "応じる",
+        "after": ""
+      },
+      "created_at": "2026-08-26",
+      "learned_on": "2026-08-26"
+    },
+    {
+      "id": "senshu2024-ii-inherently",
+      "source": {
+        "book": "専修大学 2024",
+        "unit": "II",
+        "location": "本文 p.9",
+        "excerpt": "ChatGPT is inherently biased"
+      },
+      "target": "inherently：本質的に",
+      "category": "term",
+      "prompt": "inherently：本質的に",
+      "answer_core": "本質的に",
+      "usage_examples": [
+        {
+          "english": "This didn't happen because ChatGPT is inherently biased.",
+          "japanese": "これはChatGPTが本質的に偏っているから起きたのではない。"
+        }
+      ],
+      "card_sentence": {
+        "before": "inherently：",
+        "hidden": "本質的に",
+        "after": ""
+      },
+      "created_at": "2026-08-26",
+      "learned_on": "2026-08-26"
+    },
+    {
+      "id": "senshu2024-ii-be-supposed-to",
+      "source": {
+        "book": "専修大学 2024",
+        "unit": "II",
+        "location": "本文 p.9",
+        "excerpt": "what human language is supposed to sound like"
+      },
+      "target": "be supposed to do：することになっている",
+      "category": "term",
+      "prompt": "be supposed to do：することになっている",
+      "answer_core": "することになっている",
+      "usage_examples": [
+        {
+          "english": "It has read most of the internet, and it knows what human language is supposed to sound like, but it has no relation to (カ) whatsoever.",
+          "japanese": "それはインターネットの大部分を読み、人間の言語がどのように聞こえることになっているかを知っているが、（カ）とは少しも関係がない。"
+        }
+      ],
+      "card_sentence": {
+        "before": "be supposed to do：",
+        "hidden": "することになっている",
+        "after": ""
+      },
+      "created_at": "2026-08-26",
+      "learned_on": "2026-08-26"
+    },
+    {
+      "id": "senshu2024-ii-whatsoever",
+      "source": {
+        "book": "専修大学 2024",
+        "unit": "II",
+        "location": "本文 p.9",
+        "excerpt": "no relation to whatsoever"
+      },
+      "target": "whatsoever：少しも",
+      "category": "term",
+      "prompt": "whatsoever：少しも",
+      "answer_core": "少しも",
+      "usage_examples": [
+        {
+          "english": "It has read most of the internet, and it knows what human language is supposed to sound like, but it has no relation to (カ) whatsoever.",
+          "japanese": "それはインターネットの大部分を読み、人間の言語がどのように聞こえることになっているかを知っているが、（カ）とは少しも関係がない。"
+        }
+      ],
+      "card_sentence": {
+        "before": "whatsoever：",
+        "hidden": "少しも",
+        "after": ""
+      },
+      "created_at": "2026-08-26",
+      "learned_on": "2026-08-26"
+    },
+    {
+      "id": "senshu2024-ii-knowledgeable",
+      "source": {
+        "book": "専修大学 2024",
+        "unit": "II",
+        "location": "本文 p.9",
+        "excerpt": "actually knowledgeable or meaningful"
+      },
+      "target": "knowledgeable：知識のある",
+      "category": "term",
+      "prompt": "knowledgeable：知識のある",
+      "answer_core": "知識のある",
+      "usage_examples": [
+        {
+          "english": "The belief in this kind of AI as actually knowledgeable or meaningful is dangerous.",
+          "japanese": "この種のAIを実際に知識がある、あるいは意味のあるものだと信じることは危険である。"
+        }
+      ],
+      "card_sentence": {
+        "before": "knowledgeable：",
+        "hidden": "知識のある",
+        "after": ""
+      },
+      "created_at": "2026-08-26",
+      "learned_on": "2026-08-26"
+    },
+    {
+      "id": "senshu2024-ii-well",
+      "source": {
+        "book": "専修大学 2024",
+        "unit": "II",
+        "location": "本文 p.9",
+        "excerpt": "poisoning the well of collective thought"
+      },
+      "target": "well：井戸",
+      "category": "term",
+      "prompt": "well：井戸",
+      "answer_core": "井戸",
+      "usage_examples": [
+        {
+          "english": "It risks poisoning the well of collective thought, and of our ability to think at all.",
+          "japanese": "それは集合的思考の井戸、そして私たちがそもそも考える能力を汚染する危険がある。"
+        }
+      ],
+      "card_sentence": {
+        "before": "well：",
+        "hidden": "井戸",
+        "after": ""
+      },
+      "created_at": "2026-08-26",
+      "learned_on": "2026-08-26"
+    },
+    {
+      "id": "senshu2024-ii-at-all",
+      "source": {
+        "book": "専修大学 2024",
+        "unit": "II",
+        "location": "本文 p.9",
+        "excerpt": "our ability to think at all"
+      },
+      "target": "at all：強調",
+      "category": "term",
+      "prompt": "at all：強調",
+      "answer_core": "強調",
+      "usage_examples": [
+        {
+          "english": "It risks poisoning the well of collective thought, and of our ability to think at all.",
+          "japanese": "それは集合的思考の井戸、そして私たちがそもそも考える能力を汚染する危険がある。"
+        }
+      ],
+      "card_sentence": {
+        "before": "at all：",
+        "hidden": "強調",
+        "after": ""
+      },
+      "created_at": "2026-08-26",
+      "learned_on": "2026-08-26"
+    },
+    {
+      "id": "senshu2024-ii-there-has-never-been",
+      "source": {
+        "book": "専修大学 2024",
+        "unit": "II",
+        "location": "本文 p.9",
+        "excerpt": "There has never been a time"
+      },
+      "target": "There has never been：これまでに一度もなかった",
+      "category": "term",
+      "prompt": "There has never been：これまでに一度もなかった",
+      "answer_core": "これまでに一度もなかった",
+      "usage_examples": [
+        {
+          "english": "There has never been a time when our ability as individuals to research and critically evaluate knowledge on our own behalf has been more necessary.",
+          "japanese": "個人として自分自身のために知識を調べ、批判的に評価する私たちの能力が、これほど必要とされた時代はこれまで一度もなかった。"
+        }
+      ],
+      "card_sentence": {
+        "before": "There has never been：",
+        "hidden": "これまでに一度もなかった",
+        "after": ""
+      },
+      "created_at": "2026-08-26",
+      "learned_on": "2026-08-26"
+    },
+    {
+      "id": "senshu2024-ii-as-individuals",
+      "source": {
+        "book": "専修大学 2024",
+        "unit": "II",
+        "location": "本文 p.9",
+        "excerpt": "our ability as individuals"
+      },
+      "target": "as individuals：ひとりひとり",
+      "category": "term",
+      "prompt": "as individuals：ひとりひとり",
+      "answer_core": "ひとりひとり",
+      "usage_examples": [
+        {
+          "english": "There has never been a time when our ability as individuals to research and critically evaluate knowledge on our own behalf has been more necessary.",
+          "japanese": "個人として一人ひとりが、自分自身のために知識を調べ、批判的に評価する能力が、これほど必要とされた時代はこれまで一度もなかった。"
+        }
+      ],
+      "card_sentence": {
+        "before": "as individuals：",
+        "hidden": "ひとりひとり",
+        "after": ""
+      },
+      "created_at": "2026-08-26",
+      "learned_on": "2026-08-26"
+    },
+    {
+      "id": "senshu2024-ii-on-our-own",
+      "source": {
+        "book": "専修大学 2024",
+        "unit": "II",
+        "location": "本文 p.9",
+        "excerpt": "on our own behalf"
+      },
+      "target": "on (our) own：独力で",
+      "category": "term",
+      "prompt": "on (our) own：独力で",
+      "answer_core": "独力で",
+      "usage_examples": [
+        {
+          "english": "There has never been a time when our ability as individuals to research and critically evaluate knowledge on our own behalf has been more necessary.",
+          "japanese": "個人として自分自身のために知識を調べ、批判的に評価する私たちの能力が、これほど必要とされた時代はこれまで一度もなかった。"
+        }
+      ],
+      "card_sentence": {
+        "before": "on (our) own：",
+        "hidden": "独力で",
+        "after": ""
+      },
+      "created_at": "2026-08-26",
+      "learned_on": "2026-08-26"
+    },
+    {
+      "id": "senshu2024-ii-behalf",
+      "source": {
+        "book": "専修大学 2024",
+        "unit": "II",
+        "location": "本文 p.9",
+        "excerpt": "on our own behalf"
+      },
+      "target": "behalf：代わりに or ために",
+      "category": "term",
+      "prompt": "behalf：代わりに or ために",
+      "answer_core": "代わりに or ために",
+      "usage_examples": [
+        {
+          "english": "There has never been a time when our ability as individuals to research and critically evaluate knowledge on our own behalf has been more necessary.",
+          "japanese": "個人として自分自身のために知識を調べ、批判的に評価する私たちの能力が、これほど必要とされた時代はこれまで一度もなかった。"
+        }
+      ],
+      "card_sentence": {
+        "before": "behalf：",
+        "hidden": "代わりに or ために",
+        "after": ""
+      },
+      "created_at": "2026-08-26",
+      "learned_on": "2026-08-26"
+    },
+    {
+      "id": "senshu2024-ii-on-behalf-possessive",
+      "source": {
+        "book": "専修大学 2024",
+        "unit": "II",
+        "location": "本文 p.9",
+        "excerpt": "on our own behalf"
+      },
+      "target": "on behalf of (us) 等の熟語は on our behalf にできる",
+      "category": "tip",
+      "prompt": "on behalf of (us) 等の熟語は on our behalf にできる",
+      "answer_core": "on our behalf にできる",
+      "usage_examples": [
+        {
+          "english": "There has never been a time when our ability as individuals to research and critically evaluate knowledge on our own behalf has been more necessary.",
+          "japanese": "個人として自分自身のために知識を調べ、批判的に評価する私たちの能力が、これほど必要とされた時代はこれまで一度もなかった。"
+        }
+      ],
+      "card_sentence": {
+        "before": "on behalf of (us) 等の熟語は ",
+        "hidden": "on our behalf にできる",
+        "after": ""
+      },
+      "created_at": "2026-08-26",
+      "learned_on": "2026-08-26"
+    },
+    {
+      "id": "senshu2024-ii-single-only-one",
+      "source": {
+        "book": "専修大学 2024",
+        "unit": "II",
+        "location": "本文 p.9",
+        "excerpt": "Training a single AI model"
+      },
+      "target": "single：たった一つ",
+      "category": "term",
+      "prompt": "single：たった一つ",
+      "answer_core": "たった一つ",
+      "usage_examples": [
+        {
+          "english": "Training a single AI model—according to research published in 2019—might emit the equivalent of more than 284 tons of carbon dioxide, which is nearly five times as much as the entire lifetime of the average American car, including its manufacture.",
+          "japanese": "2019年に発表された研究によれば、たった一つのAIモデルを訓練するだけで、284トンを超える二酸化炭素に相当する量を排出する可能性があり、それは平均的なアメリカ車の製造を含む全寿命での排出量のほぼ5倍である。"
+        }
+      ],
+      "card_sentence": {
+        "before": "single：",
+        "hidden": "たった一つ",
+        "after": ""
+      },
+      "created_at": "2026-08-26",
+      "learned_on": "2026-08-26"
+    },
+    {
+      "id": "senshu2024-ii-all-while",
+      "source": {
+        "book": "専修大学 2024",
+        "unit": "II",
+        "location": "本文 p.10",
+        "excerpt": "all while the planet continues to heat up"
+      },
+      "target": "all while：その間ずっと！",
+      "category": "term",
+      "prompt": "all while：その間ずっと！",
+      "answer_core": "その間ずっと！",
+      "usage_examples": [
+        {
+          "english": "These emissions are expected to grow by nearly 50% over the next five years, all while the planet continues to heat up, throwing up superstorms and driving species to extinction.",
+          "japanese": "これらの排出量は今後5年間でほぼ50％増えると予想され、その間ずっと地球は温暖化し続け、巨大嵐を引き起こし、生物種を絶滅へ追いやっている。"
+        }
+      ],
+      "card_sentence": {
+        "before": "all while：",
+        "hidden": "その間ずっと！",
+        "after": ""
+      },
+      "created_at": "2026-08-26",
+      "learned_on": "2026-08-26"
+    },
+    {
+      "id": "senshu2024-ii-something-postmodifier",
+      "source": {
+        "book": "専修大学 2024",
+        "unit": "II",
+        "location": "本文 p.10",
+        "excerpt": "anything more utterly unwise than artificial intelligence"
+      },
+      "target": "something系がきたら後ろ見る",
+      "category": "tip",
+      "prompt": "something系がきたら後ろ見る",
+      "answer_core": "後ろ見る",
+      "usage_examples": [
+        {
+          "english": "It's hard to think of anything more utterly unwise than artificial intelligence, as it is practiced in the current era.",
+          "japanese": "現在の時代に行われている人工知能ほど、これ以上まったく賢明でないものを考えるのは難しい。"
+        }
+      ],
+      "card_sentence": {
+        "before": "something系がきたら",
+        "hidden": "後ろ見る",
+        "after": ""
+      },
+      "created_at": "2026-08-26",
+      "learned_on": "2026-08-26"
+    },
+    {
+      "id": "senshu2024-ii-utter",
+      "source": {
+        "book": "専修大学 2024",
+        "unit": "II",
+        "location": "本文 p.10",
+        "excerpt": "more utterly unwise"
+      },
+      "target": "utter：発する or 完全に",
+      "category": "term",
+      "prompt": "utter：発する or 完全に",
+      "answer_core": "発する or 完全に",
+      "usage_examples": [
+        {
+          "english": "It's hard to think of anything more utterly unwise than artificial intelligence, as it is practiced in the current era.",
+          "japanese": "現在の時代に行われている人工知能ほど、これ以上まったく賢明でないものを考えるのは難しい。"
+        }
+      ],
+      "card_sentence": {
+        "before": "utter：",
+        "hidden": "発する or 完全に",
+        "after": ""
+      },
+      "created_at": "2026-08-26",
+      "learned_on": "2026-08-26"
+    },
+    {
+      "id": "senshu2024-ii-exploit",
+      "source": {
+        "book": "専修大学 2024",
+        "unit": "II",
+        "location": "本文 p.10",
+        "excerpt": "don't exploit, misuse and mislead us"
+      },
+      "target": "exploit：活用する or 搾取する",
+      "category": "term",
+      "prompt": "exploit：活用する or 搾取する",
+      "answer_core": "活用する or 搾取する",
+      "usage_examples": [
+        {
+          "english": "Can we imagine powerful information sorting and communicating technologies that don't exploit, misuse and mislead us?",
+          "japanese": "私たちを搾取せず、悪用せず、誤導しない強力な情報整理・通信技術を想像できるだろうか。"
+        }
+      ],
+      "card_sentence": {
+        "before": "exploit：",
+        "hidden": "活用する or 搾取する",
+        "after": ""
+      },
+      "created_at": "2026-08-26",
+      "learned_on": "2026-08-26"
+    },
+    {
+      "id": "senshu2024-ii-misuse",
+      "source": {
+        "book": "専修大学 2024",
+        "unit": "II",
+        "location": "本文 p.10",
+        "excerpt": "don't exploit, misuse and mislead us"
+      },
+      "target": "misuse：悪用",
+      "category": "term",
+      "prompt": "misuse：悪用",
+      "answer_core": "悪用",
+      "usage_examples": [
+        {
+          "english": "Can we imagine powerful information sorting and communicating technologies that don't exploit, misuse and mislead us?",
+          "japanese": "私たちを搾取せず、悪用せず、誤導しない強力な情報整理・通信技術を想像できるだろうか。"
+        }
+      ],
+      "card_sentence": {
+        "before": "misuse：",
+        "hidden": "悪用",
+        "after": ""
+      },
+      "created_at": "2026-08-26",
+      "learned_on": "2026-08-26"
+    },
+    {
+      "id": "senshu2024-ii-mislead",
+      "source": {
+        "book": "専修大学 2024",
+        "unit": "II",
+        "location": "本文 p.10",
+        "excerpt": "don't exploit, misuse and mislead us"
+      },
+      "target": "mislead：誤導する",
+      "category": "term",
+      "prompt": "mislead：誤導する",
+      "answer_core": "誤導する",
+      "usage_examples": [
+        {
+          "english": "Can we imagine powerful information sorting and communicating technologies that don't exploit, misuse and mislead us?",
+          "japanese": "私たちを搾取せず、悪用せず、誤導しない強力な情報整理・通信技術を想像できるだろうか。"
+        }
+      ],
+      "card_sentence": {
+        "before": "mislead：",
+        "hidden": "誤導する",
+        "after": ""
+      },
+      "created_at": "2026-08-26",
+      "learned_on": "2026-08-26"
+    },
+    {
+      "id": "senshu2024-ii-have-come-to-define",
+      "source": {
+        "book": "専修大学 2024",
+        "unit": "II",
+        "location": "本文 p.10",
+        "excerpt": "have come to define the current wave of AI"
+      },
+      "target": "have come to define→形作っていく",
+      "category": "tip",
+      "prompt": "have come to define→形作っていく",
+      "answer_core": "形作っていく",
+      "usage_examples": [
+        {
+          "english": "Yes, we can—once we step outside the corporate power networks that have come to define the current wave of AI.",
+          "japanese": "できる。現在のAIの波を形作るようになった企業権力のネットワークの外へ一歩出ればよい。"
+        }
+      ],
+      "card_sentence": {
+        "before": "have come to define→",
+        "hidden": "形作っていく",
+        "after": ""
+      },
+      "created_at": "2026-08-26",
+      "learned_on": "2026-08-26"
+    },
+    {
+      "id": "senshu2024-ii-come-past-participle",
+      "source": {
+        "book": "専修大学 2024",
+        "unit": "II",
+        "location": "本文 p.10",
+        "excerpt": "have come to define"
+      },
+      "target": "comeの過去分詞はcome",
+      "category": "tip",
+      "prompt": "comeの過去分詞はcome",
+      "answer_core": "come",
+      "usage_examples": [
+        {
+          "english": "Yes, we can—once we step outside the corporate power networks that have come to define the current wave of AI.",
+          "japanese": "できる。現在のAIの波を形作るようになった企業権力のネットワークの外へ一歩出ればよい。"
+        }
+      ],
+      "card_sentence": {
+        "before": "comeの過去分詞は",
+        "hidden": "come",
+        "after": ""
+      },
+      "created_at": "2026-08-26",
+      "learned_on": "2026-08-26"
     }
   ]
 }
