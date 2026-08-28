@@ -854,6 +854,209 @@
     },
     {
       "id": "senshu2024-i-built-up", "source": {"book": "専修大学 2024", "unit": "I", "location": "本文 p.2", "excerpt": "build up a greater desire to sleep"}, "target": "built up：accumulated", "category": "term", "prompt": "built up：accumulated", "answer_core": "accumulated", "usage_examples": [{"english": "We build up a greater desire to sleep.", "japanese": "私たちは、より強い睡眠欲求を蓄積していく。"}], "card_sentence": {"before": "built up：", "hidden": "accumulated", "after": ""}, "difficulty": "basic", "created_at": "2026-08-27", "learned_on": "2026-08-27"
+    },
+    {
+      "id": "waseda2024-ii-navigate",
+      "source": {"book": "早稲田大学 2024", "unit": "II", "location": "本文 p.3 第1段落", "excerpt": "the most essential skills for navigating American adult life"},
+      "target": "navigate：cope with", "category": "term", "prompt": "navigate：cope with", "answer_core": "cope with",
+      "usage_examples": [{"english": "Communication skills are essential for navigating American adult life.", "japanese": "コミュニケーション能力は、アメリカでの大人の生活に対処していくために不可欠である。"}],
+      "card_sentence": {"before": "navigate：", "hidden": "cope with", "after": ""}, "difficulty": "basic", "created_at": "2026-08-28", "learned_on": "2026-08-28"
+    },
+    {
+      "id": "waseda2024-ii-hire",
+      "source": {"book": "早稲田大学 2024", "unit": "II", "location": "本文 p.3 第1段落", "excerpt": "better communicators are hired more often"},
+      "target": "hire：employ", "category": "term", "prompt": "hire：employ", "answer_core": "employ",
+      "usage_examples": [{"english": "Better communicators are hired more often.", "japanese": "コミュニケーションが上手な人ほど、より頻繁に雇われる。"}],
+      "card_sentence": {"before": "hire：", "hidden": "employ", "after": ""}, "difficulty": "basic", "created_at": "2026-08-28", "learned_on": "2026-08-28"
+    },
+    {
+      "id": "waseda2024-ii-personal",
+      "source": {"book": "早稲田大学 2024", "unit": "II", "location": "本文 p.3 第1段落", "excerpt": "manage personal emotions"},
+      "target": "personal：private", "category": "term", "prompt": "personal：private", "answer_core": "private",
+      "usage_examples": [{"english": "The ability to manage personal emotions is a predictor of success.", "japanese": "個人的な感情を管理する能力は、成功の予測要因である。"}],
+      "card_sentence": {"before": "personal：", "hidden": "private", "after": ""}, "difficulty": "basic", "created_at": "2026-08-28", "learned_on": "2026-08-28"
+    },
+    {
+      "id": "waseda2024-ii-also-known-as",
+      "source": {"book": "早稲田大学 2024", "unit": "II", "location": "本文 p.3 第1段落", "excerpt": "also known as emotional intelligence"},
+      "target": "also known as：としても知られている", "category": "term", "prompt": "also known as：としても知られている", "answer_core": "としても知られている",
+      "usage_examples": [{"english": "This ability is also known as emotional intelligence.", "japanese": "この能力は、感情的知性としても知られている。"}],
+      "card_sentence": {"before": "also known as：", "hidden": "としても知られている", "after": ""}, "difficulty": "basic", "created_at": "2026-08-28", "learned_on": "2026-08-28"
+    },
+    {
+      "id": "waseda2024-ii-by-product",
+      "source": {"book": "早稲田大学 2024", "unit": "II", "location": "本文 p.3 第2段落", "excerpt": "they are also a by-product of theater class"},
+      "target": "by-product：副産物", "category": "term", "prompt": "by-product：副産物", "answer_core": "副産物",
+      "usage_examples": [{"english": "These skills are also a by-product of theater class.", "japanese": "これらの技能は、演劇の授業の副産物でもある。"}],
+      "card_sentence": {"before": "by-product：", "hidden": "副産物", "after": ""}, "difficulty": "basic", "created_at": "2026-08-28", "learned_on": "2026-08-28"
+    },
+    {
+      "id": "waseda2024-ii-look-at",
+      "source": {"book": "早稲田大学 2024", "unit": "II", "location": "本文 p.3 第2段落", "excerpt": "the longest look at theater's impact on kids to date"},
+      "target": "look at…調べる", "category": "term", "prompt": "look at…調べる", "answer_core": "調べる",
+      "usage_examples": [{"english": "Researchers looked at theater's impact on kids.", "japanese": "研究者たちは、演劇が子どもに与える影響を調べた。"}],
+      "card_sentence": {"before": "look at…", "hidden": "調べる", "after": ""}, "difficulty": "basic", "created_at": "2026-08-28", "learned_on": "2026-08-28"
+    },
+    {
+      "id": "waseda2024-ii-involve",
+      "source": {"book": "早稲田大学 2024", "unit": "II", "location": "本文 p.3 第3段落", "excerpt": "Theater involves active learning"},
+      "target": "involve：include", "category": "term", "prompt": "involve：include", "answer_core": "include",
+      "usage_examples": [{"english": "Theater involves active learning.", "japanese": "演劇には能動的な学習が含まれる。"}],
+      "card_sentence": {"before": "involve：", "hidden": "include", "after": ""}, "difficulty": "basic", "created_at": "2026-08-28", "learned_on": "2026-08-28"
+    },
+    {
+      "id": "waseda2024-ii-durable",
+      "source": {"book": "早稲田大学 2024", "unit": "II", "location": "本文 p.3 第3段落", "excerpt": "it's more durable, it lasts longer"},
+      "target": "durable：lasting", "category": "term", "prompt": "durable：lasting", "answer_core": "lasting",
+      "usage_examples": [{"english": "When you put something in your body, it's more durable and it lasts longer.", "japanese": "何かを身体で取り込むと、それはより長持ちし、より長く残る。"}],
+      "card_sentence": {"before": "durable：", "hidden": "lasting", "after": ""}, "difficulty": "advanced", "created_at": "2026-08-28", "learned_on": "2026-08-28"
+    },
+    {
+      "id": "waseda2024-ii-more-than-one",
+      "source": {"book": "早稲田大学 2024", "unit": "II", "location": "本文 p.3 第3段落", "excerpt": "theater involves more than one mode"},
+      "target": "more than one：多数", "category": "term", "prompt": "more than one：多数", "answer_core": "多数",
+      "usage_examples": [{"english": "Theater involves more than one mode.", "japanese": "演劇には複数のモードが含まれる。"}],
+      "card_sentence": {"before": "more than one：", "hidden": "多数", "after": ""}, "difficulty": "basic", "created_at": "2026-08-28", "learned_on": "2026-08-28"
+    },
+    {
+      "id": "waseda2024-ii-couch",
+      "source": {"book": "早稲田大学 2024", "unit": "II", "location": "本文 p.3 第4段落", "excerpt": "the couch is suddenly a frog castle"},
+      "target": "couch：ソファー", "category": "term", "prompt": "couch：ソファー", "answer_core": "ソファー",
+      "usage_examples": [{"english": "The couch is suddenly a frog castle.", "japanese": "ソファーが突然、カエルの城になる。"}],
+      "card_sentence": {"before": "couch：", "hidden": "ソファー", "after": ""}, "difficulty": "basic", "created_at": "2026-08-28", "learned_on": "2026-08-28"
+    },
+    {
+      "id": "waseda2024-ii-correlate-to",
+      "source": {"book": "早稲田大学 2024", "unit": "II", "location": "本文 p.3 第4段落", "excerpt": "which correlates directly to empathy scores in adulthood"},
+      "target": "correlate to：相関する", "category": "term", "prompt": "correlate to：相関する", "answer_core": "相関する",
+      "usage_examples": [{"english": "This correlates directly to empathy scores in adulthood.", "japanese": "これは成人期の共感性スコアと直接相関する。"}],
+      "card_sentence": {"before": "correlate to：", "hidden": "相関する", "after": ""}, "difficulty": "basic", "created_at": "2026-08-28", "learned_on": "2026-08-28"
+    },
+    {
+      "id": "waseda2024-ii-autism",
+      "source": {"book": "早稲田大学 2024", "unit": "II", "location": "本文 p.3 第6段落", "excerpt": "For children with autism"},
+      "target": "autism：自閉症", "category": "term", "prompt": "autism：自閉症", "answer_core": "自閉症",
+      "usage_examples": [{"english": "For children with autism, improv techniques increase eye attention and reciprocity of conversation.", "japanese": "自閉症の子どもでは、即興の技法が視線への注意や会話の相互性を高める。"}],
+      "card_sentence": {"before": "autism：", "hidden": "自閉症", "after": ""}, "difficulty": "advanced", "created_at": "2026-08-28", "learned_on": "2026-08-28"
+    },
+    {
+      "id": "waseda2024-ii-exchange",
+      "source": {"book": "早稲田大学 2024", "unit": "II", "location": "設問3 選択肢a", "excerpt": "exchange"},
+      "target": "exchange：やり取り", "category": "term", "prompt": "exchange：やり取り", "answer_core": "やり取り",
+      "usage_examples": [{"english": "Theater depends on an exchange of listening and responding.", "japanese": "演劇は、聞くことと応答することのやり取りに支えられている。"}],
+      "card_sentence": {"before": "exchange：", "hidden": "やり取り", "after": ""}, "difficulty": "basic", "created_at": "2026-08-28", "learned_on": "2026-08-28"
+    },
+    {
+      "id": "waseda2024-ii-level-the-playing-field",
+      "source": {"book": "早稲田大学 2024", "unit": "II", "location": "本文 p.3 第6段落", "excerpt": "the arts level the playing field for children of different abilities"},
+      "target": "level the playing field：公平にする", "category": "term", "prompt": "level the playing field：公平にする", "answer_core": "公平にする",
+      "usage_examples": [{"english": "The arts level the playing field for children of different abilities.", "japanese": "芸術は、能力の異なる子どもたちにとって条件を公平にする。"}],
+      "card_sentence": {"before": "level the playing field：", "hidden": "公平にする", "after": ""}, "difficulty": "basic", "created_at": "2026-08-28", "learned_on": "2026-08-28"
+    },
+    {
+      "id": "waseda2024-ii-school-year",
+      "source": {"book": "早稲田大学 2024", "unit": "II", "location": "本文 p.4 第1段落", "excerpt": "During the 2021-2022 school year"},
+      "target": "school year：年度", "category": "term", "prompt": "school year：年度", "answer_core": "年度",
+      "usage_examples": [{"english": "During the 2021-2022 school year, more than 4,000 immigrant youths enrolled in public schools.", "japanese": "2021〜2022年度には、4,000人を超える移民の若者が公立学校に在籍した。"}],
+      "card_sentence": {"before": "school year：", "hidden": "年度", "after": ""}, "difficulty": "basic", "created_at": "2026-08-28", "learned_on": "2026-08-28"
+    },
+    {
+      "id": "waseda2024-ii-before-spatial",
+      "source": {"book": "早稲田大学 2024", "unit": "II", "location": "本文 p.4 第1段落", "excerpt": "held a map before a class of 18 teenagers"},
+      "target": "beforeは空間的に〜の前という意味がある", "category": "tip", "prompt": "beforeは空間的に〜の前という意味がある", "answer_core": "空間的に〜の前という意味がある",
+      "usage_examples": [{"english": "She held a map before a class of 18 teenagers.", "japanese": "彼女は18人の10代の生徒たちの前で地図を掲げた。"}],
+      "card_sentence": {"before": "beforeは", "hidden": "空間的に〜の前という意味がある", "after": ""}, "difficulty": "basic", "created_at": "2026-08-28", "learned_on": "2026-08-28"
+    },
+    {
+      "id": "waseda2024-ii-be-there-to",
+      "source": {"book": "早稲田大学 2024", "unit": "II", "location": "本文 p.4 第1段落", "excerpt": "They spoke little English and were there to express themselves."},
+      "target": "be there to：するためにそこにいる", "category": "term", "prompt": "be there to：するためにそこにいる", "answer_core": "するためにそこにいる",
+      "usage_examples": [{"english": "They spoke little English and were there to express themselves.", "japanese": "彼らは英語をほとんど話せず、自分を表現するためにそこにいた。"}],
+      "card_sentence": {"before": "be there to：", "hidden": "するためにそこにいる", "after": ""}, "difficulty": "basic", "created_at": "2026-08-28", "learned_on": "2026-08-28"
+    },
+    {
+      "id": "waseda2024-ii-call-back",
+      "source": {"book": "早稲田大学 2024", "unit": "II", "location": "本文 p.4 第2段落", "excerpt": "Half called back, 'I like high school!'"},
+      "target": "call back：返す", "category": "term", "prompt": "call back：返す", "answer_core": "返す",
+      "usage_examples": [{"english": "Half called back, 'I like high school!'", "japanese": "半数の生徒が『高校が好きです！』と返した。"}],
+      "card_sentence": {"before": "call back：", "hidden": "返す", "after": ""}, "difficulty": "basic", "created_at": "2026-08-28", "learned_on": "2026-08-28"
+    },
+    {
+      "id": "waseda2024-ii-drawing",
+      "source": {"book": "早稲田大学 2024", "unit": "II", "location": "本文 p.4 第3段落", "excerpt": "Beside a drawing of a shirt and pants"},
+      "target": "drawing：絵", "category": "term", "prompt": "drawing：絵", "answer_core": "絵",
+      "usage_examples": [{"english": "Beside a drawing of a shirt and pants, she wrote 'buy some clothes' in English.", "japanese": "シャツとズボンの絵の横に、彼女は英語で『服を買う』と書いた。"}],
+      "card_sentence": {"before": "drawing：", "hidden": "絵", "after": ""}, "difficulty": "basic", "created_at": "2026-08-28", "learned_on": "2026-08-28"
+    },
+    {
+      "id": "waseda2024-ii-ultimately",
+      "source": {"book": "早稲田大学 2024", "unit": "II", "location": "本文 p.4 第4段落", "excerpt": "Connecting is ultimately the goal of communication"},
+      "target": "ultimately：最終的に", "category": "term", "prompt": "ultimately：最終的に", "answer_core": "最終的に",
+      "usage_examples": [{"english": "Connecting is ultimately the goal of communication.", "japanese": "つながることが、最終的にはコミュニケーションの目標である。"}],
+      "card_sentence": {"before": "ultimately：", "hidden": "最終的に", "after": ""}, "difficulty": "basic", "created_at": "2026-08-28", "learned_on": "2026-08-28"
+    },
+    {
+      "id": "waseda2024-ii-reason-why-omission",
+      "source": {"book": "早稲田大学 2024", "unit": "II", "location": "本文 p.4 第4段落", "excerpt": "it is the reason the actor Alan Alda began using improv exercises with scientists"},
+      "target": "reasonの後はよく関係副詞のwhyが省かれる", "category": "tip", "prompt": "reasonの後はよく関係副詞のwhyが省かれる", "answer_core": "関係副詞のwhyが省かれる",
+      "usage_examples": [{"english": "It is the reason the actor Alan Alda began using improv exercises with scientists.", "japanese": "それが、俳優アラン・アルダが科学者たちと即興練習を使い始めた理由である。"}],
+      "card_sentence": {"before": "reasonの後はよく", "hidden": "関係副詞のwhyが省かれる", "after": ""}, "difficulty": "basic", "created_at": "2026-08-28", "learned_on": "2026-08-28"
+    },
+    {
+      "id": "waseda2024-ii-land-with",
+      "source": {"book": "早稲田大学 2024", "unit": "II", "location": "本文 p.4 第4段落", "excerpt": "This doesn't always land with a general audience"},
+      "target": "land with：行き着く", "category": "term", "prompt": "land with：行き着く", "answer_core": "行き着く",
+      "usage_examples": [{"english": "This doesn't always land with a general audience.", "japanese": "これは一般の聴衆には必ずしもうまく伝わらない。"}],
+      "card_sentence": {"before": "land with：", "hidden": "行き着く", "after": ""}, "difficulty": "advanced", "created_at": "2026-08-28", "learned_on": "2026-08-28"
+    },
+    {
+      "id": "waseda2024-ii-give-permission",
+      "source": {"book": "早稲田大学 2024", "unit": "II", "location": "本文 p.4 第4段落", "excerpt": "give ourselves permission to fail and move on"},
+      "target": "give permission：許可を与える", "category": "term", "prompt": "give permission：許可を与える", "answer_core": "許可を与える",
+      "usage_examples": [{"english": "We give ourselves permission to fail and move on.", "japanese": "私たちは、自分に失敗して先へ進む許可を与える。"}],
+      "card_sentence": {"before": "give permission：", "hidden": "許可を与える", "after": ""}, "difficulty": "basic", "created_at": "2026-08-28", "learned_on": "2026-08-28"
+    },
+    {
+      "id": "waseda2024-ii-not-just",
+      "source": {"book": "早稲田大学 2024", "unit": "II", "location": "本文 p.4 第5段落", "excerpt": "And not just the outgoing kids"},
+      "target": "not just：だけでない", "category": "term", "prompt": "not just：だけでない", "answer_core": "だけでない",
+      "usage_examples": [{"english": "And not just the outgoing kids—for the shy, theater opens them up.", "japanese": "しかも社交的な子どもだけではない。内気な子どもたちには、演劇が心を開かせる。"}],
+      "card_sentence": {"before": "not just：", "hidden": "だけでない", "after": ""}, "difficulty": "basic", "created_at": "2026-08-28", "learned_on": "2026-08-28"
+    },
+    {
+      "id": "waseda2024-ii-outgoing",
+      "source": {"book": "早稲田大学 2024", "unit": "II", "location": "本文 p.4 第5段落", "excerpt": "the outgoing kids"},
+      "target": "outgoing：社交的", "category": "term", "prompt": "outgoing：社交的", "answer_core": "社交的",
+      "usage_examples": [{"english": "And not just the outgoing kids—for the shy, theater opens them up.", "japanese": "しかも社交的な子どもだけではない。内気な子どもたちには、演劇が心を開かせる。"}],
+      "card_sentence": {"before": "outgoing：", "hidden": "社交的", "after": ""}, "difficulty": "basic", "created_at": "2026-08-28", "learned_on": "2026-08-28"
+    },
+    {
+      "id": "waseda2024-ii-unlike-read-carefully",
+      "source": {"book": "早稲田大学 2024", "unit": "II", "location": "本文 p.4 最終段落", "excerpt": "Unlike in sports, you're not competing with anyone."},
+      "target": "unlikeをスラスラ読まない", "category": "tip", "prompt": "unlikeをスラスラ読まない", "answer_core": "スラスラ読まない",
+      "usage_examples": [{"english": "Unlike in sports, you're not competing with anyone.", "japanese": "スポーツとは違って、誰かと競争しているわけではない。"}],
+      "card_sentence": {"before": "unlikeを", "hidden": "スラスラ読まない", "after": ""}, "difficulty": "basic", "created_at": "2026-08-28", "learned_on": "2026-08-28"
+    },
+    {
+      "id": "waseda2024-ii-be-existence",
+      "source": {"book": "早稲田大学 2024", "unit": "II", "location": "本文 p.4 最終段落", "excerpt": "the least judgmental place you can be is in a theater class"},
+      "target": "beで終わるのがあれば、強く「存在」の意を意識する", "category": "tip", "prompt": "beで終わるのがあれば、強く「存在」の意を意識する", "answer_core": "強く「存在」の意を意識する",
+      "usage_examples": [{"english": "The least judgmental place you can be is in a theater class.", "japanese": "自分がいられる最も批判されにくい場所は、演劇の授業の中である。"}],
+      "card_sentence": {"before": "beで終わるのがあれば、", "hidden": "強く「存在」の意を意識する", "after": ""}, "difficulty": "basic", "created_at": "2026-08-28", "learned_on": "2026-08-28"
+    },
+    {
+      "id": "waseda2024-ii-most-least",
+      "source": {"book": "早稲田大学 2024", "unit": "II", "location": "本文 p.4 最終段落", "excerpt": "the least judgmental place"},
+      "target": "the most↔the least", "category": "term", "prompt": "the most↔the least", "answer_core": "the least",
+      "usage_examples": [{"english": "The least judgmental place you can be is in a theater class.", "japanese": "自分がいられる最も批判されにくい場所は、演劇の授業の中である。"}],
+      "card_sentence": {"before": "the most↔", "hidden": "the least", "after": ""}, "difficulty": "basic", "created_at": "2026-08-28", "learned_on": "2026-08-28"
+    },
+    {
+      "id": "waseda2024-ii-come-out-of",
+      "source": {"book": "早稲田大学 2024", "unit": "II", "location": "本文 p.4 最終段落", "excerpt": "children coming out of the pandemic"},
+      "target": "come out of…困難から脱する", "category": "term", "prompt": "come out of…困難から脱する", "answer_core": "困難から脱する",
+      "usage_examples": [{"english": "For children with anxiety, like so many children coming out of the pandemic, theater can help.", "japanese": "不安を抱える子ども、たとえばパンデミックという困難から抜け出してきた多くの子どもにとって、演劇は助けになり得る。"}],
+      "card_sentence": {"before": "come out of…", "hidden": "困難から脱する", "after": ""}, "difficulty": "basic", "created_at": "2026-08-28", "learned_on": "2026-08-28"
     }
   ]
 }
