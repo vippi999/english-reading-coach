@@ -1057,6 +1057,41 @@
       "target": "come out of…困難から脱する", "category": "term", "prompt": "come out of…困難から脱する", "answer_core": "困難から脱する",
       "usage_examples": [{"english": "For children with anxiety, like so many children coming out of the pandemic, theater can help.", "japanese": "不安を抱える子ども、たとえばパンデミックという困難から抜け出してきた多くの子どもにとって、演劇は助けになり得る。"}],
       "card_sentence": {"before": "come out of…", "hidden": "困難から脱する", "after": ""}, "difficulty": "basic", "created_at": "2026-08-28", "learned_on": "2026-08-28"
+    },
+    {
+      "id": "waseda2024-ii-but-also-polarity",
+      "source": {"book": "早稲田大学 2024", "unit": "II", "location": "本文 p.3 第2段落", "excerpt": "But they are also a by-product of theater class"},
+      "target": "butの後にalsoがあれば、ネガ、ポジ変わらない。", "category": "tip", "prompt": "butの後にalsoがあれば、ネガ、ポジ変わらない。", "answer_core": "ネガ、ポジ変わらない",
+      "usage_examples": [{"english": "But they are also a by-product of theater class.", "japanese": "しかし、それらは演劇の授業の副産物でもある。"}],
+      "card_sentence": {"before": "butの後にalsoがあれば、", "hidden": "ネガ、ポジ変わらない", "after": "。"}, "difficulty": "basic", "created_at": "2026-08-29", "learned_on": "2026-08-29"
+    },
+    {
+      "id": "waseda2024-ii-while-meanings",
+      "source": {"book": "早稲田大学 2024", "unit": "II", "location": "本文 p.4 第2段落", "excerpt": "while saying a sentence in English"},
+      "target": "whileは 間、だけど、だけれども", "category": "tip", "prompt": "whileは 間、だけど、だけれども", "answer_core": "間、だけど、だけれども",
+      "usage_examples": [{"english": "They were asked to walk to the center, while saying a sentence in English.", "japanese": "彼らは英語で一文を言いながら中央まで歩くよう求められた。"}],
+      "card_sentence": {"before": "whileは ", "hidden": "間、だけど、だけれども", "after": ""}, "difficulty": "basic", "created_at": "2026-08-29", "learned_on": "2026-08-29"
+    },
+    {
+      "id": "waseda2024-ii-its-something-postmodifier",
+      "source": {"book": "早稲田大学 2024", "unit": "II", "location": "本文 p.3-4", "excerpt": ""},
+      "target": "「it's something 後ろから説明」に慣れる", "category": "tip", "prompt": "「it's something 後ろから説明」に慣れる", "answer_core": "後ろから説明",
+      "usage_examples": [{"english": "It's something you have to practice.", "japanese": "それは、練習しなければならないものだ。"}],
+      "card_sentence": {"before": "「it's something ", "hidden": "後ろから説明", "after": "」に慣れる"}, "difficulty": "basic", "created_at": "2026-08-29", "learned_on": "2026-08-29"
+    },
+    {
+      "id": "waseda2024-ii-comma-noun-apposition",
+      "source": {"book": "早稲田大学 2024", "unit": "II", "location": "本文 p.4 第5段落", "excerpt": "Sara Williams, mother to Charlotte, cites theater as the foundation for her daughter's self-awareness."},
+      "target": "コンマの後ろに名詞がもう一度出てきたら、前の名詞を言い換えているかも", "category": "tip", "prompt": "コンマの後ろに名詞がもう一度出てきたら、前の名詞を言い換えているかも", "answer_core": "前の名詞を言い換えているかも",
+      "usage_examples": [{"english": "Sara Williams, mother to Charlotte, cites theater as the foundation for her daughter's self-awareness.", "japanese": "サラ・ウィリアムズは、シャーロットの母親で、演劇を娘の自己認識の土台として挙げている。"}],
+      "card_sentence": {"before": "コンマの後ろに名詞がもう一度出てきたら、", "hidden": "前の名詞を言い換えているかも", "after": ""}, "difficulty": "basic", "created_at": "2026-08-29", "learned_on": "2026-08-29"
+    },
+    {
+      "id": "waseda2024-ii-help-bare-infinitive",
+      "source": {"book": "早稲田大学 2024", "unit": "II", "location": "本文 p.3 第4段落", "excerpt": "It helps young children build emotional understanding, regulation and executive function"},
+      "target": "help原型で役立つ", "category": "tip", "prompt": "help原型で役立つ", "answer_core": "役立つ",
+      "usage_examples": [{"english": "It helps young children build emotional understanding.", "japanese": "それは幼い子どもが感情理解を育むのに役立つ。"}],
+      "card_sentence": {"before": "help原型で", "hidden": "役立つ", "after": ""}, "difficulty": "basic", "created_at": "2026-08-29", "learned_on": "2026-08-29"
     }
   ]
 }
