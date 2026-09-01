@@ -8,6 +8,10 @@
 *.heic
 *.pdf
 
+# モバイルで直接表示するデザインプレビューだけは公開する
+!design-previews/
+!design-previews/**/*.png
+
 # OSの一時ファイル
 Thumbs.db
 .DS_Store
