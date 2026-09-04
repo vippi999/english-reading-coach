@@ -139,6 +139,30 @@
       "unit": "III",
       "completedOn": "2026-09-04",
       "status": "completed"
+    },
+    {
+      "book": "専修大学 2023",
+      "unit": "1",
+      "completedOn": "2026-09-04",
+      "status": "completed"
+    },
+    {
+      "book": "専修大学 2023",
+      "unit": "2",
+      "completedOn": "2026-09-04",
+      "status": "completed"
+    },
+    {
+      "book": "日本大学 2024",
+      "unit": "4",
+      "completedOn": "2026-09-04",
+      "status": "completed"
+    },
+    {
+      "book": "日本大学 2024",
+      "unit": "5",
+      "completedOn": "2026-09-04",
+      "status": "completed"
     }
   ]
 }
