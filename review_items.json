@@ -232,7 +232,9 @@
       "id": "rules1-l3-through", "source": {"book": "The Rules 1", "unit": "Lesson 3", "location": "Session 3", "excerpt": "through the act of storytelling"}, "target": "through", "category": "word_or_chunk", "prompt": "through", "answer_core": "〜を通して", "usage_examples": [{"english": "through the act of storytelling", "japanese": "物語を語る行為を通して"}], "card_sentence": {"before": "through：", "hidden": "〜を通して", "after": ""}, "initial_processing": "thoughtの過去形などへ引かれ、意味を取れなかった。", "cue": "th-r-o-u-g-hの綴りを一語として見る。", "created_at": "2026-07-15", "learned_on": "2026-07-15"
     },
     {
-      "id": "rules1-l3-preposition-which", "source": {"book": "The Rules 1", "unit": "Lesson 3", "location": "Session 3", "excerpt": "time and space during which the emotional needs ... are nurtured"}, "target": "前置詞 + which", "category": "grammar_or_quantity", "prompt": "前置詞 + which", "answer_core": "whichを先行詞に置き換えて、前置詞ごと元の形に戻す。", "usage_examples": [{"english": "time during which children can rest", "japanese": "子どもが休めるその時間の間に"}], "card_sentence": {"before": "前置詞＋whichは、whichを先行詞に置き換えて、", "hidden": "前置詞ごと元の形に戻す", "after": "。"}, "initial_processing": "during whichを前置詞＋関係代名詞と認識できず、whichの指示先にも迷った。", "cue": "which＝先行詞として、後ろの節の末尾へ前置詞と一緒に戻す。", "created_at": "2026-07-15", "learned_on": "2026-07-15"
+      "id": "rules1-l3-preposition-which", "source": {"book": "The Rules 1", "unit": "Lesson 3", "location": "Session 3", "excerpt": "time and space during which the emotional needs ... are nurtured"}, "target": "前置詞 + which", "category": "grammar_or_quantity", "prompt": "前置詞 + which", "answer_core": "whichを先行詞に置き換えて、前置詞ごと元の形に戻す。", "usage_examples": [{"english": "time during which children can rest", "japanese": "子どもが休めるその時間の間に"}],
+      "card_sentence": {"before": "前置詞＋whichは、whichを先行詞に置き換えて、", "hidden": "前置詞ごと元の形に戻す", "after": "。"},
+      "initial_processing": "during whichを前置詞＋関係代名詞と認識できず、whichの指示先にも迷った。", "cue": "which＝先行詞として、後ろの節の末尾へ前置詞と一緒に戻す。", "created_at": "2026-07-15", "learned_on": "2026-07-15"
     },
     {
       "id": "rules1-l3-this-noun-summary", "source": {"book": "The Rules 1", "unit": "Lesson 3", "location": "Session 3", "excerpt": "this shared experience"}, "target": "this + 名詞", "category": "grammar_or_quantity", "prompt": "this + 名詞", "answer_core": "前の内容を、その名詞としてまとめて受ける。", "usage_examples": [{"english": "this shared experience", "japanese": "この共有体験"}], "card_sentence": {"before": "this＋名詞は、", "hidden": "前の内容をその名詞としてまとめて受ける", "after": "。"}, "initial_processing": "参考書の「まとめ表現」として覚えたいと判断した。", "cue": "thisの後ろの名詞が、前の内容を何として束ねるかを見る。", "created_at": "2026-07-15", "learned_on": "2026-07-15"
@@ -1060,35 +1062,35 @@
     },
     {
       "id": "waseda2024-ii-but-also-polarity",
-      "source": {"book": "早稲田大学 2024", "unit": "II", "location": "本文 p.3 第2段落", "excerpt": "But they are also a by-product of theater class"},
+      "source": {"book": "早稲田大学 2024", "unit": "III", "location": "", "excerpt": ""},
       "target": "butの後にalsoがあれば、ネガ、ポジ変わらない。", "category": "tip", "prompt": "butの後にalsoがあれば、ネガ、ポジ変わらない。", "answer_core": "ネガ、ポジ変わらない",
       "usage_examples": [{"english": "But they are also a by-product of theater class.", "japanese": "しかし、それらは演劇の授業の副産物でもある。"}],
       "card_sentence": {"before": "butの後にalsoがあれば、", "hidden": "ネガ、ポジ変わらない", "after": "。"}, "difficulty": "basic", "created_at": "2026-08-29", "learned_on": "2026-08-29"
     },
     {
       "id": "waseda2024-ii-while-meanings",
-      "source": {"book": "早稲田大学 2024", "unit": "II", "location": "本文 p.4 第2段落", "excerpt": "while saying a sentence in English"},
+      "source": {"book": "早稲田大学 2024", "unit": "III", "location": "", "excerpt": ""},
       "target": "whileは 間、だけど、だけれども", "category": "tip", "prompt": "whileは 間、だけど、だけれども", "answer_core": "間、だけど、だけれども",
       "usage_examples": [{"english": "They were asked to walk to the center, while saying a sentence in English.", "japanese": "彼らは英語で一文を言いながら中央まで歩くよう求められた。"}],
       "card_sentence": {"before": "whileは ", "hidden": "間、だけど、だけれども", "after": ""}, "difficulty": "basic", "created_at": "2026-08-29", "learned_on": "2026-08-29"
     },
     {
       "id": "waseda2024-ii-its-something-postmodifier",
-      "source": {"book": "早稲田大学 2024", "unit": "II", "location": "本文 p.3-4", "excerpt": ""},
+      "source": {"book": "早稲田大学 2024", "unit": "III", "location": "", "excerpt": ""},
       "target": "「it's something 後ろから説明」に慣れる", "category": "tip", "prompt": "「it's something 後ろから説明」に慣れる", "answer_core": "後ろから説明",
       "usage_examples": [{"english": "It's something you have to practice.", "japanese": "それは、練習しなければならないものだ。"}],
       "card_sentence": {"before": "「it's something ", "hidden": "後ろから説明", "after": "」に慣れる"}, "difficulty": "basic", "created_at": "2026-08-29", "learned_on": "2026-08-29"
     },
     {
       "id": "waseda2024-ii-comma-noun-apposition",
-      "source": {"book": "早稲田大学 2024", "unit": "II", "location": "本文 p.4 第5段落", "excerpt": "Sara Williams, mother to Charlotte, cites theater as the foundation for her daughter's self-awareness."},
+      "source": {"book": "早稲田大学 2024", "unit": "III", "location": "", "excerpt": ""},
       "target": "コンマの後ろに名詞がもう一度出てきたら、前の名詞を言い換えているかも", "category": "tip", "prompt": "コンマの後ろに名詞がもう一度出てきたら、前の名詞を言い換えているかも", "answer_core": "前の名詞を言い換えているかも",
       "usage_examples": [{"english": "Sara Williams, mother to Charlotte, cites theater as the foundation for her daughter's self-awareness.", "japanese": "サラ・ウィリアムズは、シャーロットの母親で、演劇を娘の自己認識の土台として挙げている。"}],
       "card_sentence": {"before": "コンマの後ろに名詞がもう一度出てきたら、", "hidden": "前の名詞を言い換えているかも", "after": ""}, "difficulty": "basic", "created_at": "2026-08-29", "learned_on": "2026-08-29"
     },
     {
       "id": "waseda2024-ii-help-bare-infinitive",
-      "source": {"book": "早稲田大学 2024", "unit": "II", "location": "本文 p.3 第4段落", "excerpt": "It helps young children build emotional understanding, regulation and executive function"},
+      "source": {"book": "早稲田大学 2024", "unit": "III", "location": "", "excerpt": ""},
       "target": "help原型で役立つ", "category": "tip", "prompt": "help原型で役立つ", "answer_core": "役立つ",
       "usage_examples": [{"english": "It helps young children build emotional understanding.", "japanese": "それは幼い子どもが感情理解を育むのに役立つ。"}],
       "card_sentence": {"before": "help原型で", "hidden": "役立つ", "after": ""}, "difficulty": "basic", "created_at": "2026-08-29", "learned_on": "2026-08-29"
