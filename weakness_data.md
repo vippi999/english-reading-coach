@@ -89,3 +89,9 @@
 | 2026-09-04 | 専修大学 2023・2 |  | riot：暴動★／fight back：反撃する／set A on fire：火をつける／manyは主語になる／credit A with B：もたらしたとされる／完了形の受身はbeen追加されてるだけ／exposeの受身は、触れる／coverage：報道／betweenは3つ以上をつなげれる／prior to A：Aより前 (M)／disown：縁を切る★／exclusively：〜だけ／by doing：することによって(M)／incorporate：取り入れる／object to：反対する(V)／否定のasasはそこまで／left out ：除外／on the ground：現地(M) |
 | 2026-09-04 | 日本大学 2024・4 |  | laterが副詞句にあった場合、その後の地点がが現在をさしている／great：巨大／tidal wave：tsunami／neverは、no everを意識する／rather thanの後はそうでないほう |
 | 2026-09-04 | 日本大学 2024・5 |  | wasting：wasteの分詞／outer space：宇宙空間／引用符がある場合、物に人に使う動詞を使っている／make use of：を利用している／a few of：のうちの少数／there will be：あの構文の未来 |
+| 2026-09-05 | 近畿大学 2025・7 |  | virtually：事実上／renown：有名★／compose：作曲する／understandably：当然ながら★／be drawn to：惹かれる／heard：hearの過去形、pp／learn：学ぶorできるようになる／appreciate：感謝するor理解する／association：団体／aspire：目指す★ |
+| 2026-09-05 | 近畿大学 2025・2 |  | coffin：⚰️／fetus：胎児★ |
+| 2026-09-05 | 東洋大学 2024・1 |  | ask for：求める／depend on：依存or次第で／just the right：ぴったり／fit into：収まる／translate into：翻訳or結果になる／more of：むしろ／first and foremost：第1に／must be able toはcanを強制する／fewは少ないというよりないほうを言いたい／someoneの後は関係詞きがち |
+| 2026-09-05 | 東洋大学 2024・2 |  | game：獲物／a window into：手がかり／paper：論文／intentional：intentの形容詞／rival動詞：匹敵する／take down：仕留める／remain of women：女性の遺体 |
+| 2026-09-05 | 京都産業大学 2023・1 |  | shockは驚くだけ／be at it：それをやっている／cities：cityの複数形 |
+| 2026-09-05 | 京都産業大学 2023・2 |  | fond：好む★／go both ways：両方当てはまる／come across：run across／note動詞：書き留めるor気づく／howは直後の副詞とセット |
