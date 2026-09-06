@@ -95,3 +95,7 @@
 | 2026-09-05 | 東洋大学 2024・2 |  | game：獲物／a window into：手がかり／paper：論文／intentional：intentの形容詞／rival動詞：匹敵する／take down：仕留める／remain of women：女性の遺体 |
 | 2026-09-05 | 京都産業大学 2023・1 |  | shockは驚くだけ／be at it：それをやっている／cities：cityの複数形 |
 | 2026-09-05 | 京都産業大学 2023・2 |  | fond：好む★／go both ways：両方当てはまる／come across：run across／note動詞：書き留めるor気づく／howは直後の副詞とセット |
+| 2026-09-07 | 東洋大学 2023 |  | it take 人 時間(努力)は、人がよく省略される／determination：決心／realize：気づくor実現する／suggest型は、svocを取るものもある／take A to B：連れていく／push through ：やり抜く／keep up with：遅れずついていく(V) |
+| 2026-09-07 | 甲南大学 2021・1 |  | design･･･考案する／lives：lifeの複数／place importance on：重視する(V)／bring up：話を持ち出す(V)／to a significant degree：かなりの程度(M) |
+| 2026-09-07 | 甲南大学 2021・2 |  | bakeryは店、breadがパン／beer：🍺／foodがgenerousでたっぷりの食事／thereforeは、この論理でいくとこうなるよね／on showはM／on the move：移動中 |
+| 2026-09-07 | 甲南大学 2021・3 |  | 所有格 only 名詞の訳気をつける／dawn：夜明け／to this end：この目的のために、／direction：方向or指示／eclipse：日食★ |
