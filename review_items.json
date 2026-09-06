@@ -9143,6 +9143,1005 @@
       "difficulty": "basic",
       "created_at": "2026-09-04",
       "learned_on": "2026-09-04"
+    },
+    {
+      "id": "kinki2025-7-virtually",
+      "source": {
+        "book": "近畿大学 2025",
+        "unit": "7",
+        "location": "本文",
+        "excerpt": "virtually"
+      },
+      "target": "virtually：事実上",
+      "category": "term",
+      "prompt": "virtually：事実上",
+      "answer_core": "事実上",
+      "usage_examples": [
+        {
+          "english": "The new rule virtually ended the practice.",
+          "japanese": "新しい規則によって、その慣行は事実上終わった。"
+        }
+      ],
+      "card_sentence": {
+        "before": "virtually：",
+        "hidden": "事実上",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-05",
+      "learned_on": "2026-09-05"
+    },
+    {
+      "id": "kinki2025-7-renown",
+      "source": {
+        "book": "近畿大学 2025",
+        "unit": "7",
+        "location": "本文",
+        "excerpt": "renown"
+      },
+      "target": "renown：有名",
+      "category": "term",
+      "prompt": "renown：有名",
+      "answer_core": "有名",
+      "usage_examples": [
+        {
+          "english": "She is an artist of international renown.",
+          "japanese": "彼女は国際的に有名な芸術家だ。"
+        }
+      ],
+      "card_sentence": {
+        "before": "renown：",
+        "hidden": "有名",
+        "after": ""
+      },
+      "difficulty": "advanced",
+      "created_at": "2026-09-05",
+      "learned_on": "2026-09-05"
+    },
+    {
+      "id": "kinki2025-7-compose",
+      "source": {
+        "book": "近畿大学 2025",
+        "unit": "7",
+        "location": "本文",
+        "excerpt": "compose"
+      },
+      "target": "compose：作曲する",
+      "category": "term",
+      "prompt": "compose：作曲する",
+      "answer_core": "作曲する",
+      "usage_examples": [
+        {
+          "english": "She composed the music for the film.",
+          "japanese": "彼女はその映画の音楽を作曲した。"
+        }
+      ],
+      "card_sentence": {
+        "before": "compose：",
+        "hidden": "作曲する",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-05",
+      "learned_on": "2026-09-05"
+    },
+    {
+      "id": "kinki2025-7-understandably",
+      "source": {
+        "book": "近畿大学 2025",
+        "unit": "7",
+        "location": "本文",
+        "excerpt": "understandably"
+      },
+      "target": "understandably：当然ながら",
+      "category": "term",
+      "prompt": "understandably：当然ながら",
+      "answer_core": "当然ながら",
+      "usage_examples": [
+        {
+          "english": "Understandably, she was nervous before the interview.",
+          "japanese": "当然ながら、彼女は面接前に緊張していた。"
+        }
+      ],
+      "card_sentence": {
+        "before": "understandably：",
+        "hidden": "当然ながら",
+        "after": ""
+      },
+      "difficulty": "advanced",
+      "created_at": "2026-09-05",
+      "learned_on": "2026-09-05"
+    },
+    {
+      "id": "kinki2025-7-be-drawn-to",
+      "source": {
+        "book": "近畿大学 2025",
+        "unit": "7",
+        "location": "本文",
+        "excerpt": "be drawn to"
+      },
+      "target": "be drawn to：惹かれる",
+      "category": "term",
+      "prompt": "be drawn to：惹かれる",
+      "answer_core": "惹かれる",
+      "usage_examples": [
+        {
+          "english": "Many visitors are drawn to the quiet town.",
+          "japanese": "多くの観光客がその静かな町に惹かれる。"
+        }
+      ],
+      "card_sentence": {
+        "before": "be drawn to：",
+        "hidden": "惹かれる",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-05",
+      "learned_on": "2026-09-05"
+    },
+    {
+      "id": "kinki2025-7-heard",
+      "source": {
+        "book": "近畿大学 2025",
+        "unit": "7",
+        "location": "本文",
+        "excerpt": "heard"
+      },
+      "target": "heard：hearの過去形、pp",
+      "category": "term",
+      "prompt": "heard：hearの過去形、pp",
+      "answer_core": "hearの過去形、pp",
+      "usage_examples": [
+        {
+          "english": "I heard the news yesterday; I had never heard it before.",
+          "japanese": "私は昨日その知らせを聞いた。それ以前には聞いたことがなかった。"
+        }
+      ],
+      "card_sentence": {
+        "before": "heard：",
+        "hidden": "hearの過去形、pp",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-05",
+      "learned_on": "2026-09-05"
+    },
+    {
+      "id": "kinki2025-7-learn",
+      "source": {
+        "book": "近畿大学 2025",
+        "unit": "7",
+        "location": "本文",
+        "excerpt": "learn"
+      },
+      "target": "learn：学ぶorできるようになる",
+      "category": "term",
+      "prompt": "learn：学ぶorできるようになる",
+      "answer_core": "できるようになる",
+      "usage_examples": [
+        {
+          "english": "He learned to swim at the age of six.",
+          "japanese": "彼は6歳で泳げるようになった。"
+        }
+      ],
+      "card_sentence": {
+        "before": "learn：学ぶor",
+        "hidden": "できるようになる",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-05",
+      "learned_on": "2026-09-05"
+    },
+    {
+      "id": "kinki2025-7-appreciate",
+      "source": {
+        "book": "近畿大学 2025",
+        "unit": "7",
+        "location": "本文",
+        "excerpt": "appreciate"
+      },
+      "target": "appreciate：感謝するor理解する",
+      "category": "term",
+      "prompt": "appreciate：感謝するor理解する",
+      "answer_core": "理解する",
+      "usage_examples": [
+        {
+          "english": "I appreciate how difficult the decision was.",
+          "japanese": "その決断がどれほど難しかったか理解している。"
+        }
+      ],
+      "card_sentence": {
+        "before": "appreciate：感謝するor",
+        "hidden": "理解する",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-05",
+      "learned_on": "2026-09-05"
+    },
+    {
+      "id": "kinki2025-7-association",
+      "source": {
+        "book": "近畿大学 2025",
+        "unit": "7",
+        "location": "本文",
+        "excerpt": "association"
+      },
+      "target": "association：団体",
+      "category": "term",
+      "prompt": "association：団体",
+      "answer_core": "団体",
+      "usage_examples": [
+        {
+          "english": "She joined a local business association.",
+          "japanese": "彼女は地元の事業者団体に入った。"
+        }
+      ],
+      "card_sentence": {
+        "before": "association：",
+        "hidden": "団体",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-05",
+      "learned_on": "2026-09-05"
+    },
+    {
+      "id": "kinki2025-7-aspire",
+      "source": {
+        "book": "近畿大学 2025",
+        "unit": "7",
+        "location": "本文",
+        "excerpt": "aspire"
+      },
+      "target": "aspire：目指す",
+      "category": "term",
+      "prompt": "aspire：目指す",
+      "answer_core": "目指す",
+      "usage_examples": [
+        {
+          "english": "He aspires to become a doctor.",
+          "japanese": "彼は医師になることを目指している。"
+        }
+      ],
+      "card_sentence": {
+        "before": "aspire：",
+        "hidden": "目指す",
+        "after": ""
+      },
+      "difficulty": "advanced",
+      "created_at": "2026-09-05",
+      "learned_on": "2026-09-05"
+    },
+    {
+      "id": "kinki2025-2-coffin",
+      "source": {
+        "book": "近畿大学 2025",
+        "unit": "2",
+        "location": "本文",
+        "excerpt": "coffin"
+      },
+      "target": "coffin：⚰️",
+      "category": "term",
+      "prompt": "coffin：⚰️",
+      "answer_core": "⚰️",
+      "usage_examples": [
+        {
+          "english": "The coffin was carried into the church.",
+          "japanese": "棺は教会の中へ運ばれた。"
+        }
+      ],
+      "card_sentence": {
+        "before": "coffin：",
+        "hidden": "⚰️",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-05",
+      "learned_on": "2026-09-05"
+    },
+    {
+      "id": "kinki2025-2-fetus",
+      "source": {
+        "book": "近畿大学 2025",
+        "unit": "2",
+        "location": "本文",
+        "excerpt": "fetus"
+      },
+      "target": "fetus：胎児",
+      "category": "term",
+      "prompt": "fetus：胎児",
+      "answer_core": "胎児",
+      "usage_examples": [
+        {
+          "english": "The fetus develops rapidly during this period.",
+          "japanese": "胎児はこの時期に急速に発達する。"
+        }
+      ],
+      "card_sentence": {
+        "before": "fetus：",
+        "hidden": "胎児",
+        "after": ""
+      },
+      "difficulty": "advanced",
+      "created_at": "2026-09-05",
+      "learned_on": "2026-09-05"
+    },
+    {
+      "id": "toyo2024-1-ask-for",
+      "source": {
+        "book": "東洋大学 2024",
+        "unit": "1",
+        "location": "本文",
+        "excerpt": "ask for"
+      },
+      "target": "ask for：求める",
+      "category": "term",
+      "prompt": "ask for：求める",
+      "answer_core": "求める",
+      "usage_examples": [
+        {
+          "english": "She asked for more time.",
+          "japanese": "彼女はさらに時間を求めた。"
+        }
+      ],
+      "card_sentence": {
+        "before": "ask for：",
+        "hidden": "求める",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-05",
+      "learned_on": "2026-09-05"
+    },
+    {
+      "id": "toyo2024-1-depend-on",
+      "source": {
+        "book": "東洋大学 2024",
+        "unit": "1",
+        "location": "本文",
+        "excerpt": "depend on"
+      },
+      "target": "depend on：依存or次第で",
+      "category": "term",
+      "prompt": "depend on：依存or次第で",
+      "answer_core": "次第で",
+      "usage_examples": [
+        {
+          "english": "The result depends on the weather.",
+          "japanese": "結果は天候次第だ。"
+        }
+      ],
+      "card_sentence": {
+        "before": "depend on：依存or",
+        "hidden": "次第で",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-05",
+      "learned_on": "2026-09-05"
+    },
+    {
+      "id": "toyo2024-1-just-the-right",
+      "source": {
+        "book": "東洋大学 2024",
+        "unit": "1",
+        "location": "本文",
+        "excerpt": "just the right"
+      },
+      "target": "just the right：ぴったり",
+      "category": "term",
+      "prompt": "just the right：ぴったり",
+      "answer_core": "ぴったり",
+      "usage_examples": [
+        {
+          "english": "This bag is just the right size for me.",
+          "japanese": "このかばんは私にぴったりの大きさだ。"
+        }
+      ],
+      "card_sentence": {
+        "before": "just the right：",
+        "hidden": "ぴったり",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-05",
+      "learned_on": "2026-09-05"
+    },
+    {
+      "id": "toyo2024-1-fit-into",
+      "source": {
+        "book": "東洋大学 2024",
+        "unit": "1",
+        "location": "本文",
+        "excerpt": "fit into"
+      },
+      "target": "fit into：収まる",
+      "category": "term",
+      "prompt": "fit into：収まる",
+      "answer_core": "収まる",
+      "usage_examples": [
+        {
+          "english": "All the books fit into one box.",
+          "japanese": "すべての本が一つの箱に収まる。"
+        }
+      ],
+      "card_sentence": {
+        "before": "fit into：",
+        "hidden": "収まる",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-05",
+      "learned_on": "2026-09-05"
+    },
+    {
+      "id": "toyo2024-1-translate-into",
+      "source": {
+        "book": "東洋大学 2024",
+        "unit": "1",
+        "location": "本文",
+        "excerpt": "translate into"
+      },
+      "target": "translate into：翻訳or結果になる",
+      "category": "term",
+      "prompt": "translate into：翻訳or結果になる",
+      "answer_core": "結果になる",
+      "usage_examples": [
+        {
+          "english": "Practice does not always translate into better results.",
+          "japanese": "練習が必ずしもより良い結果になるとは限らない。"
+        }
+      ],
+      "card_sentence": {
+        "before": "translate into：翻訳or",
+        "hidden": "結果になる",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-05",
+      "learned_on": "2026-09-05"
+    },
+    {
+      "id": "toyo2024-1-more-of",
+      "source": {
+        "book": "東洋大学 2024",
+        "unit": "1",
+        "location": "本文",
+        "excerpt": "more of"
+      },
+      "target": "more of：むしろ",
+      "category": "term",
+      "prompt": "more of：むしろ",
+      "answer_core": "むしろ",
+      "usage_examples": [
+        {
+          "english": "It was more of a warning than a suggestion.",
+          "japanese": "それは提案というより、むしろ警告だった。"
+        }
+      ],
+      "card_sentence": {
+        "before": "more of：",
+        "hidden": "むしろ",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-05",
+      "learned_on": "2026-09-05"
+    },
+    {
+      "id": "toyo2024-1-first-and-foremost",
+      "source": {
+        "book": "東洋大学 2024",
+        "unit": "1",
+        "location": "本文",
+        "excerpt": "first and foremost"
+      },
+      "target": "first and foremost：第1に",
+      "category": "term",
+      "prompt": "first and foremost：第1に",
+      "answer_core": "第1に",
+      "usage_examples": [
+        {
+          "english": "First and foremost, we need accurate information.",
+          "japanese": "何よりもまず、正確な情報が必要だ。"
+        }
+      ],
+      "card_sentence": {
+        "before": "first and foremost：",
+        "hidden": "第1に",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-05",
+      "learned_on": "2026-09-05"
+    },
+    {
+      "id": "toyo2024-1-must-be-able-to",
+      "source": {
+        "book": "東洋大学 2024",
+        "unit": "1",
+        "location": "本文",
+        "excerpt": "must be able toはcanを強制する"
+      },
+      "target": "must be able toはcanを強制する",
+      "category": "tip",
+      "prompt": "must be able toはcanを強制する",
+      "answer_core": "canを強制する",
+      "usage_examples": [
+        {
+          "english": "Applicants must be able to use a computer.",
+          "japanese": "応募者はコンピューターを使えなければならない。"
+        }
+      ],
+      "card_sentence": {
+        "before": "must be able toは",
+        "hidden": "canを強制する",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-05",
+      "learned_on": "2026-09-05"
+    },
+    {
+      "id": "toyo2024-1-few-negative",
+      "source": {
+        "book": "東洋大学 2024",
+        "unit": "1",
+        "location": "本文",
+        "excerpt": "fewは少ないというよりないほうを言いたい"
+      },
+      "target": "fewは少ないというよりないほうを言いたい",
+      "category": "tip",
+      "prompt": "fewは少ないというよりないほうを言いたい",
+      "answer_core": "少ないというよりないほうを言いたい",
+      "usage_examples": [
+        {
+          "english": "Few students understood the question.",
+          "japanese": "その問題を理解した学生はほとんどいなかった。"
+        }
+      ],
+      "card_sentence": {
+        "before": "fewは",
+        "hidden": "少ないというよりないほうを言いたい",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-05",
+      "learned_on": "2026-09-05"
+    },
+    {
+      "id": "toyo2024-1-someone-relative",
+      "source": {
+        "book": "東洋大学 2024",
+        "unit": "1",
+        "location": "本文",
+        "excerpt": "someoneの後は関係詞きがち"
+      },
+      "target": "someoneの後は関係詞きがち",
+      "category": "tip",
+      "prompt": "someoneの後は関係詞きがち",
+      "answer_core": "関係詞きがち",
+      "usage_examples": [
+        {
+          "english": "We need someone who can lead the team.",
+          "japanese": "私たちにはチームを率いられる人が必要だ。"
+        }
+      ],
+      "card_sentence": {
+        "before": "someoneの後は",
+        "hidden": "関係詞きがち",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-05",
+      "learned_on": "2026-09-05"
+    },
+    {
+      "id": "toyo2024-2-game-prey",
+      "source": {
+        "book": "東洋大学 2024",
+        "unit": "2",
+        "location": "本文",
+        "excerpt": "game"
+      },
+      "target": "game：獲物",
+      "category": "term",
+      "prompt": "game：獲物",
+      "answer_core": "獲物",
+      "usage_examples": [
+        {
+          "english": "The hunters followed the game through the forest.",
+          "japanese": "狩人たちは森の中で獲物を追った。"
+        }
+      ],
+      "card_sentence": {
+        "before": "game：",
+        "hidden": "獲物",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-05",
+      "learned_on": "2026-09-05"
+    },
+    {
+      "id": "toyo2024-2-a-window-into",
+      "source": {
+        "book": "東洋大学 2024",
+        "unit": "2",
+        "location": "本文",
+        "excerpt": "a window into"
+      },
+      "target": "a window into：手がかり",
+      "category": "term",
+      "prompt": "a window into：手がかり",
+      "answer_core": "手がかり",
+      "usage_examples": [
+        {
+          "english": "The letters offer a window into her private life.",
+          "japanese": "その手紙は彼女の私生活を知る手がかりになる。"
+        }
+      ],
+      "card_sentence": {
+        "before": "a window into：",
+        "hidden": "手がかり",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-05",
+      "learned_on": "2026-09-05"
+    },
+    {
+      "id": "toyo2024-2-paper",
+      "source": {
+        "book": "東洋大学 2024",
+        "unit": "2",
+        "location": "本文",
+        "excerpt": "paper"
+      },
+      "target": "paper：論文",
+      "category": "term",
+      "prompt": "paper：論文",
+      "answer_core": "論文",
+      "usage_examples": [
+        {
+          "english": "She published a paper on animal behavior.",
+          "japanese": "彼女は動物行動に関する論文を発表した。"
+        }
+      ],
+      "card_sentence": {
+        "before": "paper：",
+        "hidden": "論文",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-05",
+      "learned_on": "2026-09-05"
+    },
+    {
+      "id": "toyo2024-2-intentional",
+      "source": {
+        "book": "東洋大学 2024",
+        "unit": "2",
+        "location": "本文",
+        "excerpt": "intentional"
+      },
+      "target": "intentional：intentの形容詞",
+      "category": "term",
+      "prompt": "intentional：intentの形容詞",
+      "answer_core": "intentの形容詞",
+      "usage_examples": [
+        {
+          "english": "The change was intentional.",
+          "japanese": "その変更は意図的だった。"
+        }
+      ],
+      "card_sentence": {
+        "before": "intentional：",
+        "hidden": "intentの形容詞",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-05",
+      "learned_on": "2026-09-05"
+    },
+    {
+      "id": "toyo2024-2-rival-verb",
+      "source": {
+        "book": "東洋大学 2024",
+        "unit": "2",
+        "location": "本文",
+        "excerpt": "rival動詞"
+      },
+      "target": "rival動詞：匹敵する",
+      "category": "term",
+      "prompt": "rival動詞：匹敵する",
+      "answer_core": "匹敵する",
+      "usage_examples": [
+        {
+          "english": "Few cities rival Kyoto in beauty.",
+          "japanese": "美しさで京都に匹敵する都市はほとんどない。"
+        }
+      ],
+      "card_sentence": {
+        "before": "rival動詞：",
+        "hidden": "匹敵する",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-05",
+      "learned_on": "2026-09-05"
+    },
+    {
+      "id": "toyo2024-2-take-down",
+      "source": {
+        "book": "東洋大学 2024",
+        "unit": "2",
+        "location": "本文",
+        "excerpt": "take down"
+      },
+      "target": "take down：仕留める",
+      "category": "term",
+      "prompt": "take down：仕留める",
+      "answer_core": "仕留める",
+      "usage_examples": [
+        {
+          "english": "The hunters took down a deer.",
+          "japanese": "狩人たちは鹿を仕留めた。"
+        }
+      ],
+      "card_sentence": {
+        "before": "take down：",
+        "hidden": "仕留める",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-05",
+      "learned_on": "2026-09-05"
+    },
+    {
+      "id": "toyo2024-2-remains-of-women",
+      "source": {
+        "book": "東洋大学 2024",
+        "unit": "2",
+        "location": "本文",
+        "excerpt": "remains of women"
+      },
+      "target": "remains of women：女性の遺体",
+      "category": "term",
+      "prompt": "remains of women：女性の遺体",
+      "answer_core": "女性の遺体",
+      "usage_examples": [
+        {
+          "english": "Archaeologists found the remains of two women.",
+          "japanese": "考古学者たちは2人の女性の遺体を発見した。"
+        }
+      ],
+      "card_sentence": {
+        "before": "remains of women：",
+        "hidden": "女性の遺体",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-05",
+      "learned_on": "2026-09-05"
+    },
+    {
+      "id": "kyotosangyo2023-1-shock",
+      "source": {
+        "book": "京都産業大学 2023",
+        "unit": "1",
+        "location": "本文",
+        "excerpt": "shockは驚くだけ"
+      },
+      "target": "shockは驚くだけ",
+      "category": "tip",
+      "prompt": "shockは驚くだけ",
+      "answer_core": "驚くだけ",
+      "usage_examples": [
+        {
+          "english": "The news shocked everyone in the room.",
+          "japanese": "その知らせは部屋にいた全員を驚かせた。"
+        }
+      ],
+      "card_sentence": {
+        "before": "shockは",
+        "hidden": "驚くだけ",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-05",
+      "learned_on": "2026-09-05"
+    },
+    {
+      "id": "kyotosangyo2023-1-be-at-it",
+      "source": {
+        "book": "京都産業大学 2023",
+        "unit": "1",
+        "location": "本文",
+        "excerpt": "be at it"
+      },
+      "target": "be at it：それをやっている",
+      "category": "term",
+      "prompt": "be at it：それをやっている",
+      "answer_core": "それをやっている",
+      "usage_examples": [
+        {
+          "english": "They had been at it for hours.",
+          "japanese": "彼らは何時間もそれをやっていた。"
+        }
+      ],
+      "card_sentence": {
+        "before": "be at it：",
+        "hidden": "それをやっている",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-05",
+      "learned_on": "2026-09-05"
+    },
+    {
+      "id": "kyotosangyo2023-1-cities",
+      "source": {
+        "book": "京都産業大学 2023",
+        "unit": "1",
+        "location": "本文",
+        "excerpt": "cities"
+      },
+      "target": "cities：cityの複数形",
+      "category": "term",
+      "prompt": "cities：cityの複数形",
+      "answer_core": "cityの複数形",
+      "usage_examples": [
+        {
+          "english": "Many cities face similar problems.",
+          "japanese": "多くの都市が似た問題に直面している。"
+        }
+      ],
+      "card_sentence": {
+        "before": "cities：",
+        "hidden": "cityの複数形",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-05",
+      "learned_on": "2026-09-05"
+    },
+    {
+      "id": "kyotosangyo2023-2-fond",
+      "source": {
+        "book": "京都産業大学 2023",
+        "unit": "2",
+        "location": "本文",
+        "excerpt": "fond"
+      },
+      "target": "fond：好む",
+      "category": "term",
+      "prompt": "fond：好む",
+      "answer_core": "好む",
+      "usage_examples": [
+        {
+          "english": "She is fond of classical music.",
+          "japanese": "彼女はクラシック音楽を好む。"
+        }
+      ],
+      "card_sentence": {
+        "before": "fond：",
+        "hidden": "好む",
+        "after": ""
+      },
+      "difficulty": "advanced",
+      "created_at": "2026-09-05",
+      "learned_on": "2026-09-05"
+    },
+    {
+      "id": "kyotosangyo2023-2-go-both-ways",
+      "source": {
+        "book": "京都産業大学 2023",
+        "unit": "2",
+        "location": "本文",
+        "excerpt": "go both ways"
+      },
+      "target": "go both ways：両方当てはまる",
+      "category": "term",
+      "prompt": "go both ways：両方当てはまる",
+      "answer_core": "両方当てはまる",
+      "usage_examples": [
+        {
+          "english": "Trust goes both ways.",
+          "japanese": "信頼は一方通行ではない。"
+        }
+      ],
+      "card_sentence": {
+        "before": "go both ways：",
+        "hidden": "両方当てはまる",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-05",
+      "learned_on": "2026-09-05"
+    },
+    {
+      "id": "kyotosangyo2023-2-come-across",
+      "source": {
+        "book": "京都産業大学 2023",
+        "unit": "2",
+        "location": "本文",
+        "excerpt": "come across"
+      },
+      "target": "come across：run across",
+      "category": "term",
+      "prompt": "come across：run across",
+      "answer_core": "run across",
+      "usage_examples": [
+        {
+          "english": "I came across an old photo in the drawer.",
+          "japanese": "私は引き出しの中で古い写真を偶然見つけた。"
+        }
+      ],
+      "card_sentence": {
+        "before": "come across：",
+        "hidden": "run across",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-05",
+      "learned_on": "2026-09-05"
+    },
+    {
+      "id": "kyotosangyo2023-2-note-verb",
+      "source": {
+        "book": "京都産業大学 2023",
+        "unit": "2",
+        "location": "本文",
+        "excerpt": "note動詞"
+      },
+      "target": "note動詞：書き留めるor気づく",
+      "category": "term",
+      "prompt": "note動詞：書き留めるor気づく",
+      "answer_core": "気づく",
+      "usage_examples": [
+        {
+          "english": "She noted that the door was open.",
+          "japanese": "彼女はドアが開いていることに気づいた。"
+        }
+      ],
+      "card_sentence": {
+        "before": "note動詞：書き留めるor",
+        "hidden": "気づく",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-05",
+      "learned_on": "2026-09-05"
+    },
+    {
+      "id": "kyotosangyo2023-2-how-adverb",
+      "source": {
+        "book": "京都産業大学 2023",
+        "unit": "2",
+        "location": "本文",
+        "excerpt": "howは直後の副詞とセット"
+      },
+      "target": "howは直後の副詞とセット",
+      "category": "tip",
+      "prompt": "howは直後の副詞とセット",
+      "answer_core": "直後の副詞とセット",
+      "usage_examples": [
+        {
+          "english": "I was surprised by how quickly he answered.",
+          "japanese": "私は彼がどれほど素早く答えたかに驚いた。"
+        }
+      ],
+      "card_sentence": {
+        "before": "howは",
+        "hidden": "直後の副詞とセット",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-05",
+      "learned_on": "2026-09-05"
     }
   ]
 }
