@@ -15,7 +15,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           fetch-depth: 0
 
@@ -40,6 +40,31 @@ jobs:
           if not queue_paths:
               print('No queue files found.')
               raise SystemExit(0)
+
+          def validate_card(card):
+              required = ['id', 'source', 'target', 'category', 'prompt', 'answer_core', 'usage_examples', 'card_sentence', 'difficulty', 'created_at', 'learned_on']
+              missing = [key for key in required if key not in card]
+              if missing:
+                  raise ValueError(f"Missing fields for {card.get('id', '<no id>')}: {missing}")
+              if card['category'] not in {'term', 'tip'}:
+                  raise ValueError(f"Queued card must use term/tip category: {card['id']}")
+              if card['difficulty'] not in {'basic', 'advanced'}:
+                  raise ValueError(f"Invalid difficulty: {card['id']}")
+              if '★' in card['target'] or '★' in card['prompt']:
+                  raise ValueError(f"Star must not be stored in card text: {card['id']}")
+              source = card['source']
+              if 'book' not in source or 'unit' not in source:
+                  raise ValueError(f"Source book/unit required: {card['id']}")
+              examples = card['usage_examples']
+              if not examples:
+                  raise ValueError(f"At least one usage example required: {card['id']}")
+              for ex in examples:
+                  if not ex.get('english') or not ex.get('japanese'):
+                      raise ValueError(f"Usage example must contain English and Japanese: {card['id']}")
+              sentence = card['card_sentence']
+              for key in ('before', 'hidden', 'after'):
+                  if key not in sentence:
+                      raise ValueError(f"card_sentence.{key} missing: {card['id']}")
 
           added = 0
           restored = 0
@@ -71,6 +96,7 @@ jobs:
                           restored += 1
 
               for card in payload.get('cards', []):
+                  validate_card(card)
                   cid = card['id']
                   if cid in by_id:
                       if by_id[cid] != card:
