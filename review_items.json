@@ -10142,6 +10142,1896 @@
       "difficulty": "basic",
       "created_at": "2026-09-05",
       "learned_on": "2026-09-05"
+    },
+    {
+      "id": "senshu2023-1-at-all-negative-emphasis",
+      "source": {
+        "book": "専修大学 2023",
+        "unit": "1",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "at allは否定の強調",
+      "category": "tip",
+      "prompt": "at allは否定の強調",
+      "answer_core": "強調",
+      "usage_examples": [
+        {
+          "english": "I don't understand it at all.",
+          "japanese": "私はそれをまったく理解していない。"
+        }
+      ],
+      "card_sentence": {
+        "before": "at allは否定の",
+        "hidden": "強調",
+        "after": "。"
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-04",
+      "learned_on": "2026-09-04"
+    },
+    {
+      "id": "senshu2023-1-go-on-doing-to-do",
+      "source": {
+        "book": "専修大学 2023",
+        "unit": "1",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "go on doingは〜し続けるだが、go on to doは、その後、というイメージ",
+      "category": "tip",
+      "prompt": "go on doingは〜し続けるだが、go on to doは、その後、というイメージ",
+      "answer_core": "その後、というイメージ",
+      "usage_examples": [
+        {
+          "english": "He went on to explain the next point.",
+          "japanese": "彼はその後、次の点を説明した。"
+        }
+      ],
+      "card_sentence": {
+        "before": "go on doingは〜し続けるだが、go on to doは、",
+        "hidden": "その後、というイメージ",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-04",
+      "learned_on": "2026-09-04"
+    },
+    {
+      "id": "senshu2023-1-even-with",
+      "source": {
+        "book": "専修大学 2023",
+        "unit": "1",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "even with：たとえもっていても",
+      "category": "term",
+      "prompt": "even with：たとえもっていても",
+      "answer_core": "たとえもっていても",
+      "usage_examples": [
+        {
+          "english": "Even with enough time, the task can be difficult.",
+          "japanese": "十分な時間があっても、その課題は難しいことがある。"
+        }
+      ],
+      "card_sentence": {
+        "before": "even with：",
+        "hidden": "たとえもっていても",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-04",
+      "learned_on": "2026-09-04"
+    },
+    {
+      "id": "senshu2023-1-you-objective",
+      "source": {
+        "book": "専修大学 2023",
+        "unit": "1",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "youの目的格はyou",
+      "category": "tip",
+      "prompt": "youの目的格はyou",
+      "answer_core": "you",
+      "usage_examples": [
+        {
+          "english": "I will help you.",
+          "japanese": "私はあなたを助けます。"
+        }
+      ],
+      "card_sentence": {
+        "before": "youの目的格は",
+        "hidden": "you",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-04",
+      "learned_on": "2026-09-04"
+    },
+    {
+      "id": "senshu2023-1-tricky",
+      "source": {
+        "book": "専修大学 2023",
+        "unit": "1",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "tricky：難しい",
+      "category": "term",
+      "prompt": "tricky：難しい",
+      "answer_core": "難しい",
+      "usage_examples": [
+        {
+          "english": "This question is tricky.",
+          "japanese": "この問題は難しい。"
+        }
+      ],
+      "card_sentence": {
+        "before": "tricky：",
+        "hidden": "難しい",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-04",
+      "learned_on": "2026-09-04"
+    },
+    {
+      "id": "senshu2023-1-rate-verb",
+      "source": {
+        "book": "専修大学 2023",
+        "unit": "1",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "rate動詞：評価する",
+      "category": "term",
+      "prompt": "rate動詞：評価する",
+      "answer_core": "評価する",
+      "usage_examples": [
+        {
+          "english": "Participants rated the service highly.",
+          "japanese": "参加者はそのサービスを高く評価した。"
+        }
+      ],
+      "card_sentence": {
+        "before": "rate動詞：",
+        "hidden": "評価する",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-04",
+      "learned_on": "2026-09-04"
+    },
+    {
+      "id": "senshu2023-1-passive-be-get",
+      "source": {
+        "book": "専修大学 2023",
+        "unit": "1",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "受動態のbeをgetにすることがある",
+      "category": "tip",
+      "prompt": "受動態のbeをgetにすることがある",
+      "answer_core": "getにすることがある",
+      "usage_examples": [
+        {
+          "english": "He got injured during the game.",
+          "japanese": "彼は試合中にけがをした。"
+        }
+      ],
+      "card_sentence": {
+        "before": "受動態のbeを",
+        "hidden": "getにすることがある",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-04",
+      "learned_on": "2026-09-04"
+    },
+    {
+      "id": "senshu2023-1-popularize",
+      "source": {
+        "book": "専修大学 2023",
+        "unit": "1",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "popularize：普及する",
+      "category": "term",
+      "prompt": "popularize：普及する",
+      "answer_core": "普及する",
+      "usage_examples": [
+        {
+          "english": "The internet helped popularize the idea.",
+          "japanese": "インターネットはその考えを普及させるのに役立った。"
+        }
+      ],
+      "card_sentence": {
+        "before": "popularize：",
+        "hidden": "普及する",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-04",
+      "learned_on": "2026-09-04"
+    },
+    {
+      "id": "senshu2023-1-define-regard-pattern",
+      "source": {
+        "book": "専修大学 2023",
+        "unit": "1",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "define･･･regard型",
+      "category": "tip",
+      "prompt": "define･･･regard型",
+      "answer_core": "regard型",
+      "usage_examples": [
+        {
+          "english": "The law defines this act as a crime.",
+          "japanese": "その法律はこの行為を犯罪と定義している。"
+        }
+      ],
+      "card_sentence": {
+        "before": "define･･･",
+        "hidden": "regard型",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-04",
+      "learned_on": "2026-09-04"
+    },
+    {
+      "id": "senshu2023-1-according-to",
+      "source": {
+        "book": "専修大学 2023",
+        "unit": "1",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "according to：よるとor応じて",
+      "category": "term",
+      "prompt": "according to：よるとor応じて",
+      "answer_core": "よるとor応じて",
+      "usage_examples": [
+        {
+          "english": "According to the report, sales increased.",
+          "japanese": "その報告によると、売上は増加した。"
+        }
+      ],
+      "card_sentence": {
+        "before": "according to：",
+        "hidden": "よるとor応じて",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-04",
+      "learned_on": "2026-09-04"
+    },
+    {
+      "id": "senshu2023-1-find-oc-feel",
+      "source": {
+        "book": "専修大学 2023",
+        "unit": "1",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "find OCで そう感じる",
+      "category": "tip",
+      "prompt": "find OCで そう感じる",
+      "answer_core": "そう感じる",
+      "usage_examples": [
+        {
+          "english": "I found the book interesting.",
+          "japanese": "私はその本を面白いと感じた。"
+        }
+      ],
+      "card_sentence": {
+        "before": "find OCで ",
+        "hidden": "そう感じる",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-04",
+      "learned_on": "2026-09-04"
+    },
+    {
+      "id": "senshu2023-1-draw-a-from-b",
+      "source": {
+        "book": "専修大学 2023",
+        "unit": "1",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "draw A from B：get A from B",
+      "category": "term",
+      "prompt": "draw A from B：get A from B",
+      "answer_core": "get A from B",
+      "usage_examples": [
+        {
+          "english": "We can draw useful lessons from history.",
+          "japanese": "私たちは歴史から有益な教訓を得ることができる。"
+        }
+      ],
+      "card_sentence": {
+        "before": "draw A from B：",
+        "hidden": "get A from B",
+        "after": ""
+      },
+      "difficulty": "advanced",
+      "created_at": "2026-09-04",
+      "learned_on": "2026-09-04"
+    },
+    {
+      "id": "senshu2023-1-notion-of-rule",
+      "source": {
+        "book": "専修大学 2023",
+        "unit": "1",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "notionもofのついてのルール",
+      "category": "tip",
+      "prompt": "notionもofのついてのルール",
+      "answer_core": "ofのついてのルール",
+      "usage_examples": [
+        {
+          "english": "The notion of success varies from person to person.",
+          "japanese": "成功についての考え方は人によって異なる。"
+        }
+      ],
+      "card_sentence": {
+        "before": "notionも",
+        "hidden": "ofのついてのルール",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-04",
+      "learned_on": "2026-09-04"
+    },
+    {
+      "id": "senshu2023-1-increasingly",
+      "source": {
+        "book": "専修大学 2023",
+        "unit": "1",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "increasingly：ますます",
+      "category": "term",
+      "prompt": "increasingly：ますます",
+      "answer_core": "ますます",
+      "usage_examples": [
+        {
+          "english": "Online learning is becoming increasingly common.",
+          "japanese": "オンライン学習はますます一般的になっている。"
+        }
+      ],
+      "card_sentence": {
+        "before": "increasingly：",
+        "hidden": "ますます",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-04",
+      "learned_on": "2026-09-04"
+    },
+    {
+      "id": "senshu2023-1-suggest-meaning",
+      "source": {
+        "book": "専修大学 2023",
+        "unit": "1",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "suggestがsuggest型になっていない時、示唆するという意味",
+      "category": "tip",
+      "prompt": "suggestがsuggest型になっていない時、示唆するという意味",
+      "answer_core": "示唆するという意味",
+      "usage_examples": [
+        {
+          "english": "The data suggest a strong connection.",
+          "japanese": "そのデータは強い関連を示唆している。"
+        }
+      ],
+      "card_sentence": {
+        "before": "suggestがsuggest型になっていない時、",
+        "hidden": "示唆するという意味",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-04",
+      "learned_on": "2026-09-04"
+    },
+    {
+      "id": "senshu2023-1-matter-verb-notice",
+      "source": {
+        "book": "専修大学 2023",
+        "unit": "1",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "matterの動詞は気づきにくい。",
+      "category": "tip",
+      "prompt": "matterの動詞は気づきにくい。",
+      "answer_core": "気づきにくい。",
+      "usage_examples": [
+        {
+          "english": "What matters is how you use the information.",
+          "japanese": "重要なのは、その情報をどう使うかだ。"
+        }
+      ],
+      "card_sentence": {
+        "before": "matterの動詞は",
+        "hidden": "気づきにくい。",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-04",
+      "learned_on": "2026-09-04"
+    },
+    {
+      "id": "senshu2023-1-excel-at",
+      "source": {
+        "book": "専修大学 2023",
+        "unit": "1",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "excel at：秀る",
+      "category": "term",
+      "prompt": "excel at：秀る",
+      "answer_core": "秀る",
+      "usage_examples": [
+        {
+          "english": "She excels at solving difficult problems.",
+          "japanese": "彼女は難しい問題を解くことに秀でている。"
+        }
+      ],
+      "card_sentence": {
+        "before": "excel at：",
+        "hidden": "秀る",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-04",
+      "learned_on": "2026-09-04"
+    },
+    {
+      "id": "senshu2023-1-discourage-from-doing",
+      "source": {
+        "book": "専修大学 2023",
+        "unit": "1",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "discourage A from doing：思いとどまらせる",
+      "category": "term",
+      "prompt": "discourage A from doing：思いとどまらせる",
+      "answer_core": "思いとどまらせる",
+      "usage_examples": [
+        {
+          "english": "The high cost discouraged them from buying it.",
+          "japanese": "高い費用が彼らにそれを買うことを思いとどまらせた。"
+        }
+      ],
+      "card_sentence": {
+        "before": "discourage A from doing：",
+        "hidden": "思いとどまらせる",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-04",
+      "learned_on": "2026-09-04"
+    },
+    {
+      "id": "senshu2023-2-riot",
+      "source": {
+        "book": "専修大学 2023",
+        "unit": "2",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "riot：暴動",
+      "category": "term",
+      "prompt": "riot：暴動",
+      "answer_core": "暴動",
+      "usage_examples": [
+        {
+          "english": "The riot continued for several hours.",
+          "japanese": "暴動は数時間続いた。"
+        }
+      ],
+      "card_sentence": {
+        "before": "riot：",
+        "hidden": "暴動",
+        "after": ""
+      },
+      "difficulty": "advanced",
+      "created_at": "2026-09-04",
+      "learned_on": "2026-09-04"
+    },
+    {
+      "id": "senshu2023-2-fight-back",
+      "source": {
+        "book": "専修大学 2023",
+        "unit": "2",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "fight back：反撃する",
+      "category": "term",
+      "prompt": "fight back：反撃する",
+      "answer_core": "反撃する",
+      "usage_examples": [
+        {
+          "english": "The residents decided to fight back.",
+          "japanese": "住民たちは反撃することを決めた。"
+        }
+      ],
+      "card_sentence": {
+        "before": "fight back：",
+        "hidden": "反撃する",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-04",
+      "learned_on": "2026-09-04"
+    },
+    {
+      "id": "senshu2023-2-set-a-on-fire",
+      "source": {
+        "book": "専修大学 2023",
+        "unit": "2",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "set A on fire：火をつける",
+      "category": "term",
+      "prompt": "set A on fire：火をつける",
+      "answer_core": "火をつける",
+      "usage_examples": [
+        {
+          "english": "Someone set the building on fire.",
+          "japanese": "誰かがその建物に火をつけた。"
+        }
+      ],
+      "card_sentence": {
+        "before": "set A on fire：",
+        "hidden": "火をつける",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-04",
+      "learned_on": "2026-09-04"
+    },
+    {
+      "id": "senshu2023-2-many-subject",
+      "source": {
+        "book": "専修大学 2023",
+        "unit": "2",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "manyは主語になる",
+      "category": "tip",
+      "prompt": "manyは主語になる",
+      "answer_core": "主語になる",
+      "usage_examples": [
+        {
+          "english": "Many were injured in the accident.",
+          "japanese": "多くの人がその事故でけがをした。"
+        }
+      ],
+      "card_sentence": {
+        "before": "manyは",
+        "hidden": "主語になる",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-04",
+      "learned_on": "2026-09-04"
+    },
+    {
+      "id": "senshu2023-2-credit-a-with-b",
+      "source": {
+        "book": "専修大学 2023",
+        "unit": "2",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "credit A with B：もたらしたとされる",
+      "category": "term",
+      "prompt": "credit A with B：もたらしたとされる",
+      "answer_core": "もたらしたとされる",
+      "usage_examples": [
+        {
+          "english": "The reform is credited with bringing major changes.",
+          "japanese": "その改革は大きな変化をもたらしたとされている。"
+        }
+      ],
+      "card_sentence": {
+        "before": "credit A with B：",
+        "hidden": "もたらしたとされる",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-04",
+      "learned_on": "2026-09-04"
+    },
+    {
+      "id": "senshu2023-2-perfect-passive-been",
+      "source": {
+        "book": "専修大学 2023",
+        "unit": "2",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "完了形の受身はbeen追加されてるだけ",
+      "category": "tip",
+      "prompt": "完了形の受身はbeen追加されてるだけ",
+      "answer_core": "been追加されてるだけ",
+      "usage_examples": [
+        {
+          "english": "The rule has been changed.",
+          "japanese": "その規則は変更されている。"
+        }
+      ],
+      "card_sentence": {
+        "before": "完了形の受身は",
+        "hidden": "been追加されてるだけ",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-04",
+      "learned_on": "2026-09-04"
+    },
+    {
+      "id": "senshu2023-2-expose-passive",
+      "source": {
+        "book": "専修大学 2023",
+        "unit": "2",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "exposeの受身は、触れる",
+      "category": "tip",
+      "prompt": "exposeの受身は、触れる",
+      "answer_core": "触れる",
+      "usage_examples": [
+        {
+          "english": "Children were exposed to different cultures.",
+          "japanese": "子どもたちは異なる文化に触れた。"
+        }
+      ],
+      "card_sentence": {
+        "before": "exposeの受身は、",
+        "hidden": "触れる",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-04",
+      "learned_on": "2026-09-04"
+    },
+    {
+      "id": "senshu2023-2-coverage",
+      "source": {
+        "book": "専修大学 2023",
+        "unit": "2",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "coverage：報道",
+      "category": "term",
+      "prompt": "coverage：報道",
+      "answer_core": "報道",
+      "usage_examples": [
+        {
+          "english": "The event received extensive media coverage.",
+          "japanese": "その出来事はメディアで広く報道された。"
+        }
+      ],
+      "card_sentence": {
+        "before": "coverage：",
+        "hidden": "報道",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-04",
+      "learned_on": "2026-09-04"
+    },
+    {
+      "id": "senshu2023-2-between-three-plus",
+      "source": {
+        "book": "専修大学 2023",
+        "unit": "2",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "betweenは3つ以上をつなげれる",
+      "category": "tip",
+      "prompt": "betweenは3つ以上をつなげれる",
+      "answer_core": "3つ以上をつなげれる",
+      "usage_examples": [
+        {
+          "english": "The agreement was made between the three countries.",
+          "japanese": "その協定は3か国の間で結ばれた。"
+        }
+      ],
+      "card_sentence": {
+        "before": "betweenは",
+        "hidden": "3つ以上をつなげれる",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-04",
+      "learned_on": "2026-09-04"
+    },
+    {
+      "id": "senshu2023-2-prior-to",
+      "source": {
+        "book": "専修大学 2023",
+        "unit": "2",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "prior to A：Aより前 (M)",
+      "category": "term",
+      "prompt": "prior to A：Aより前 (M)",
+      "answer_core": "Aより前 (M)",
+      "usage_examples": [
+        {
+          "english": "Prior to the meeting, we reviewed the data.",
+          "japanese": "会議の前に、私たちはデータを確認した。"
+        }
+      ],
+      "card_sentence": {
+        "before": "prior to A：",
+        "hidden": "Aより前 (M)",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-04",
+      "learned_on": "2026-09-04"
+    },
+    {
+      "id": "senshu2023-2-disown",
+      "source": {
+        "book": "専修大学 2023",
+        "unit": "2",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "disown：縁を切る",
+      "category": "term",
+      "prompt": "disown：縁を切る",
+      "answer_core": "縁を切る",
+      "usage_examples": [
+        {
+          "english": "His family threatened to disown him.",
+          "japanese": "彼の家族は彼と縁を切ると脅した。"
+        }
+      ],
+      "card_sentence": {
+        "before": "disown：",
+        "hidden": "縁を切る",
+        "after": ""
+      },
+      "difficulty": "advanced",
+      "created_at": "2026-09-04",
+      "learned_on": "2026-09-04"
+    },
+    {
+      "id": "senshu2023-2-exclusively",
+      "source": {
+        "book": "専修大学 2023",
+        "unit": "2",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "exclusively：〜だけ",
+      "category": "term",
+      "prompt": "exclusively：〜だけ",
+      "answer_core": "〜だけ",
+      "usage_examples": [
+        {
+          "english": "The service is available exclusively to members.",
+          "japanese": "そのサービスは会員だけが利用できる。"
+        }
+      ],
+      "card_sentence": {
+        "before": "exclusively：",
+        "hidden": "〜だけ",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-04",
+      "learned_on": "2026-09-04"
+    },
+    {
+      "id": "senshu2023-2-by-doing",
+      "source": {
+        "book": "専修大学 2023",
+        "unit": "2",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "by doing：することによって(M)",
+      "category": "term",
+      "prompt": "by doing：することによって(M)",
+      "answer_core": "することによって(M)",
+      "usage_examples": [
+        {
+          "english": "You can improve by practicing every day.",
+          "japanese": "毎日練習することによって上達できる。"
+        }
+      ],
+      "card_sentence": {
+        "before": "by doing：",
+        "hidden": "することによって(M)",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-04",
+      "learned_on": "2026-09-04"
+    },
+    {
+      "id": "senshu2023-2-incorporate",
+      "source": {
+        "book": "専修大学 2023",
+        "unit": "2",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "incorporate：取り入れる",
+      "category": "term",
+      "prompt": "incorporate：取り入れる",
+      "answer_core": "取り入れる",
+      "usage_examples": [
+        {
+          "english": "The plan incorporates several new ideas.",
+          "japanese": "その計画はいくつかの新しい考えを取り入れている。"
+        }
+      ],
+      "card_sentence": {
+        "before": "incorporate：",
+        "hidden": "取り入れる",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-04",
+      "learned_on": "2026-09-04"
+    },
+    {
+      "id": "senshu2023-2-object-to",
+      "source": {
+        "book": "専修大学 2023",
+        "unit": "2",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "object to：反対する(V)",
+      "category": "term",
+      "prompt": "object to：反対する(V)",
+      "answer_core": "反対する(V)",
+      "usage_examples": [
+        {
+          "english": "Many residents objected to the proposal.",
+          "japanese": "多くの住民がその提案に反対した。"
+        }
+      ],
+      "card_sentence": {
+        "before": "object to：",
+        "hidden": "反対する(V)",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-04",
+      "learned_on": "2026-09-04"
+    },
+    {
+      "id": "senshu2023-2-negative-as-as",
+      "source": {
+        "book": "専修大学 2023",
+        "unit": "2",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "否定のasasはそこまで",
+      "category": "tip",
+      "prompt": "否定のasasはそこまで",
+      "answer_core": "そこまで",
+      "usage_examples": [
+        {
+          "english": "The task was not as difficult as I expected.",
+          "japanese": "その課題は私が予想したほど難しくなかった。"
+        }
+      ],
+      "card_sentence": {
+        "before": "否定のasasは",
+        "hidden": "そこまで",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-04",
+      "learned_on": "2026-09-04"
+    },
+    {
+      "id": "senshu2023-2-left-out",
+      "source": {
+        "book": "専修大学 2023",
+        "unit": "2",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "left out ：除外",
+      "category": "term",
+      "prompt": "left out ：除外",
+      "answer_core": "除外",
+      "usage_examples": [
+        {
+          "english": "Several important details were left out.",
+          "japanese": "いくつかの重要な詳細が除外されていた。"
+        }
+      ],
+      "card_sentence": {
+        "before": "left out ：",
+        "hidden": "除外",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-04",
+      "learned_on": "2026-09-04"
+    },
+    {
+      "id": "senshu2023-2-on-the-ground",
+      "source": {
+        "book": "専修大学 2023",
+        "unit": "2",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "on the ground：現地(M)",
+      "category": "term",
+      "prompt": "on the ground：現地(M)",
+      "answer_core": "現地(M)",
+      "usage_examples": [
+        {
+          "english": "Reporters on the ground described the situation.",
+          "japanese": "現地の記者たちが状況を伝えた。"
+        }
+      ],
+      "card_sentence": {
+        "before": "on the ground：",
+        "hidden": "現地(M)",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-04",
+      "learned_on": "2026-09-04"
+    },
+    {
+      "id": "nihon2024-4-later-adverb-current",
+      "source": {
+        "book": "日本大学 2024",
+        "unit": "4",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "laterが副詞句にあった場合、その後の地点がが現在をさしている",
+      "category": "tip",
+      "prompt": "laterが副詞句にあった場合、その後の地点がが現在をさしている",
+      "answer_core": "その後の地点がが現在をさしている",
+      "usage_examples": [
+        {
+          "english": "Years later, the town is still recovering.",
+          "japanese": "数年後の現在も、その町はなお復興の途中にある。"
+        }
+      ],
+      "card_sentence": {
+        "before": "laterが副詞句にあった場合、",
+        "hidden": "その後の地点がが現在をさしている",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-04",
+      "learned_on": "2026-09-04"
+    },
+    {
+      "id": "nihon2024-4-great-huge",
+      "source": {
+        "book": "日本大学 2024",
+        "unit": "4",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "great：巨大",
+      "category": "term",
+      "prompt": "great：巨大",
+      "answer_core": "巨大",
+      "usage_examples": [
+        {
+          "english": "A great wave struck the coast.",
+          "japanese": "巨大な波が海岸を襲った。"
+        }
+      ],
+      "card_sentence": {
+        "before": "great：",
+        "hidden": "巨大",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-04",
+      "learned_on": "2026-09-04"
+    },
+    {
+      "id": "nihon2024-4-tidal-wave",
+      "source": {
+        "book": "日本大学 2024",
+        "unit": "4",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "tidal wave：tsunami",
+      "category": "term",
+      "prompt": "tidal wave：tsunami",
+      "answer_core": "tsunami",
+      "usage_examples": [
+        {
+          "english": "A tidal wave destroyed many houses.",
+          "japanese": "津波が多くの家を破壊した。"
+        }
+      ],
+      "card_sentence": {
+        "before": "tidal wave：",
+        "hidden": "tsunami",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-04",
+      "learned_on": "2026-09-04"
+    },
+    {
+      "id": "nihon2024-4-never-no-ever",
+      "source": {
+        "book": "日本大学 2024",
+        "unit": "4",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "neverは、no everを意識する",
+      "category": "tip",
+      "prompt": "neverは、no everを意識する",
+      "answer_core": "no everを意識する",
+      "usage_examples": [
+        {
+          "english": "I have never seen such a large wave.",
+          "japanese": "私はこれほど大きな波を一度も見たことがない。"
+        }
+      ],
+      "card_sentence": {
+        "before": "neverは、",
+        "hidden": "no everを意識する",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-04",
+      "learned_on": "2026-09-04"
+    },
+    {
+      "id": "nihon2024-4-rather-than-other",
+      "source": {
+        "book": "日本大学 2024",
+        "unit": "4",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "rather thanの後はそうでないほう",
+      "category": "tip",
+      "prompt": "rather thanの後はそうでないほう",
+      "answer_core": "そうでないほう",
+      "usage_examples": [
+        {
+          "english": "The damage was caused by water rather than wind.",
+          "japanese": "その被害は風ではなく水によって引き起こされた。"
+        }
+      ],
+      "card_sentence": {
+        "before": "rather thanの後は",
+        "hidden": "そうでないほう",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-04",
+      "learned_on": "2026-09-04"
+    },
+    {
+      "id": "nihon2024-5-wasting-participle",
+      "source": {
+        "book": "日本大学 2024",
+        "unit": "5",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "wasting：wasteの分詞",
+      "category": "term",
+      "prompt": "wasting：wasteの分詞",
+      "answer_core": "wasteの分詞",
+      "usage_examples": [
+        {
+          "english": "We should avoid wasting energy.",
+          "japanese": "私たちはエネルギーを無駄にすることを避けるべきだ。"
+        }
+      ],
+      "card_sentence": {
+        "before": "wasting：",
+        "hidden": "wasteの分詞",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-04",
+      "learned_on": "2026-09-04"
+    },
+    {
+      "id": "nihon2024-5-outer-space",
+      "source": {
+        "book": "日本大学 2024",
+        "unit": "5",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "outer space：宇宙空間",
+      "category": "term",
+      "prompt": "outer space：宇宙空間",
+      "answer_core": "宇宙空間",
+      "usage_examples": [
+        {
+          "english": "Satellites travel through outer space.",
+          "japanese": "人工衛星は宇宙空間を移動する。"
+        }
+      ],
+      "card_sentence": {
+        "before": "outer space：",
+        "hidden": "宇宙空間",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-04",
+      "learned_on": "2026-09-04"
+    },
+    {
+      "id": "nihon2024-5-quotation-object-person-verb",
+      "source": {
+        "book": "日本大学 2024",
+        "unit": "5",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "引用符がある場合、物に人に使う動詞を使っている",
+      "category": "tip",
+      "prompt": "引用符がある場合、物に人に使う動詞を使っている",
+      "answer_core": "物に人に使う動詞を使っている",
+      "usage_examples": [
+        {
+          "english": "Scientists called the object a “space umbrella.”",
+          "japanese": "科学者たちはその物体を「宇宙の傘」と呼んだ。"
+        }
+      ],
+      "card_sentence": {
+        "before": "引用符がある場合、",
+        "hidden": "物に人に使う動詞を使っている",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-04",
+      "learned_on": "2026-09-04"
+    },
+    {
+      "id": "nihon2024-5-make-use-of",
+      "source": {
+        "book": "日本大学 2024",
+        "unit": "5",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "make use of：を利用している",
+      "category": "term",
+      "prompt": "make use of：を利用している",
+      "answer_core": "を利用している",
+      "usage_examples": [
+        {
+          "english": "The system makes use of solar energy.",
+          "japanese": "そのシステムは太陽エネルギーを利用している。"
+        }
+      ],
+      "card_sentence": {
+        "before": "make use of：",
+        "hidden": "を利用している",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-04",
+      "learned_on": "2026-09-04"
+    },
+    {
+      "id": "nihon2024-5-a-few-of",
+      "source": {
+        "book": "日本大学 2024",
+        "unit": "5",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "a few of：のうちの少数",
+      "category": "term",
+      "prompt": "a few of：のうちの少数",
+      "answer_core": "のうちの少数",
+      "usage_examples": [
+        {
+          "english": "A few of the satellites stopped working.",
+          "japanese": "人工衛星のうち少数が作動しなくなった。"
+        }
+      ],
+      "card_sentence": {
+        "before": "a few of：",
+        "hidden": "のうちの少数",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-04",
+      "learned_on": "2026-09-04"
+    },
+    {
+      "id": "nihon2024-5-there-will-be",
+      "source": {
+        "book": "日本大学 2024",
+        "unit": "5",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "there will be：あの構文の未来",
+      "category": "term",
+      "prompt": "there will be：あの構文の未来",
+      "answer_core": "あの構文の未来",
+      "usage_examples": [
+        {
+          "english": "There will be more satellites in the future.",
+          "japanese": "将来、さらに多くの人工衛星が存在するだろう。"
+        }
+      ],
+      "card_sentence": {
+        "before": "there will be：",
+        "hidden": "あの構文の未来",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-04",
+      "learned_on": "2026-09-04"
+    },
+    {
+      "id": "toyo2023-it-take-person-time-effort",
+      "source": {
+        "book": "東洋大学 2023",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "it take 人 時間(努力)は、人がよく省略される",
+      "category": "tip",
+      "prompt": "it take 人 時間(努力)は、人がよく省略される",
+      "answer_core": "人がよく省略される",
+      "usage_examples": [
+        {
+          "english": "It takes time to build trust.",
+          "japanese": "信頼を築くには時間がかかる。"
+        }
+      ],
+      "card_sentence": {
+        "before": "it take 人 時間(努力)は、",
+        "hidden": "人がよく省略される",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-07",
+      "learned_on": "2026-09-07"
+    },
+    {
+      "id": "toyo2023-determination",
+      "source": {
+        "book": "東洋大学 2023",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "determination：決心",
+      "category": "term",
+      "prompt": "determination：決心",
+      "answer_core": "決心",
+      "usage_examples": [
+        {
+          "english": "Her determination helped her finish the race.",
+          "japanese": "彼女の決心が、レースを完走する助けになった。"
+        }
+      ],
+      "card_sentence": {
+        "before": "determination：",
+        "hidden": "決心",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-07",
+      "learned_on": "2026-09-07"
+    },
+    {
+      "id": "toyo2023-realize",
+      "source": {
+        "book": "東洋大学 2023",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "realize：気づくor実現する",
+      "category": "term",
+      "prompt": "realize：気づくor実現する",
+      "answer_core": "実現する",
+      "usage_examples": [
+        {
+          "english": "He realized his dream of becoming a doctor.",
+          "japanese": "彼は医師になるという夢を実現した。"
+        }
+      ],
+      "card_sentence": {
+        "before": "realize：気づくor",
+        "hidden": "実現する",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-07",
+      "learned_on": "2026-09-07"
+    },
+    {
+      "id": "toyo2023-suggest-svoc",
+      "source": {
+        "book": "東洋大学 2023",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "suggest型は、svocを取るものもある",
+      "category": "tip",
+      "prompt": "suggest型は、svocを取るものもある",
+      "answer_core": "svocを取るものもある",
+      "usage_examples": [
+        {
+          "english": "The evidence suggests the treatment to be effective.",
+          "japanese": "その証拠は、その治療が有効であることを示唆している。"
+        }
+      ],
+      "card_sentence": {
+        "before": "suggest型は、",
+        "hidden": "svocを取るものもある",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-07",
+      "learned_on": "2026-09-07"
+    },
+    {
+      "id": "toyo2023-take-a-to-b",
+      "source": {
+        "book": "東洋大学 2023",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "take A to B：連れていく",
+      "category": "term",
+      "prompt": "take A to B：連れていく",
+      "answer_core": "連れていく",
+      "usage_examples": [
+        {
+          "english": "The guide took us to the station.",
+          "japanese": "案内人は私たちを駅まで連れていった。"
+        }
+      ],
+      "card_sentence": {
+        "before": "take A to B：",
+        "hidden": "連れていく",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-07",
+      "learned_on": "2026-09-07"
+    },
+    {
+      "id": "toyo2023-push-through",
+      "source": {
+        "book": "東洋大学 2023",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "push through ：やり抜く",
+      "category": "term",
+      "prompt": "push through ：やり抜く",
+      "answer_core": "やり抜く",
+      "usage_examples": [
+        {
+          "english": "She pushed through the final week of training.",
+          "japanese": "彼女はトレーニングの最後の1週間をやり抜いた。"
+        }
+      ],
+      "card_sentence": {
+        "before": "push through ：",
+        "hidden": "やり抜く",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-07",
+      "learned_on": "2026-09-07"
+    },
+    {
+      "id": "toyo2023-keep-up-with",
+      "source": {
+        "book": "東洋大学 2023",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "keep up with：遅れずついていく(V)",
+      "category": "term",
+      "prompt": "keep up with：遅れずついていく(V)",
+      "answer_core": "遅れずついていく(V)",
+      "usage_examples": [
+        {
+          "english": "I read every day to keep up with the class.",
+          "japanese": "私は授業に遅れずついていくために毎日読む。"
+        }
+      ],
+      "card_sentence": {
+        "before": "keep up with：",
+        "hidden": "遅れずついていく(V)",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-07",
+      "learned_on": "2026-09-07"
+    },
+    {
+      "id": "konan2021-1-design-devise",
+      "source": {
+        "book": "甲南大学 2021",
+        "unit": "1",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "design･･･考案する",
+      "category": "term",
+      "prompt": "design･･･考案する",
+      "answer_core": "考案する",
+      "usage_examples": [
+        {
+          "english": "They designed a new system for the school.",
+          "japanese": "彼らは学校のための新しい仕組みを考案した。"
+        }
+      ],
+      "card_sentence": {
+        "before": "design･･･",
+        "hidden": "考案する",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-07",
+      "learned_on": "2026-09-07"
+    },
+    {
+      "id": "konan2021-1-lives-life-plural",
+      "source": {
+        "book": "甲南大学 2021",
+        "unit": "1",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "lives：lifeの複数",
+      "category": "term",
+      "prompt": "lives：lifeの複数",
+      "answer_core": "lifeの複数",
+      "usage_examples": [
+        {
+          "english": "The new treatment saved many lives.",
+          "japanese": "その新しい治療は多くの命を救った。"
+        }
+      ],
+      "card_sentence": {
+        "before": "lives：",
+        "hidden": "lifeの複数",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-07",
+      "learned_on": "2026-09-07"
+    },
+    {
+      "id": "konan2021-1-place-importance-on",
+      "source": {
+        "book": "甲南大学 2021",
+        "unit": "1",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "place importance on：重視する(V)",
+      "category": "term",
+      "prompt": "place importance on：重視する(V)",
+      "answer_core": "重視する(V)",
+      "usage_examples": [
+        {
+          "english": "The school places importance on clear communication.",
+          "japanese": "その学校は明確なコミュニケーションを重視している。"
+        }
+      ],
+      "card_sentence": {
+        "before": "place importance on：",
+        "hidden": "重視する(V)",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-07",
+      "learned_on": "2026-09-07"
+    },
+    {
+      "id": "konan2021-1-bring-up",
+      "source": {
+        "book": "甲南大学 2021",
+        "unit": "1",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "bring up：話を持ち出す(V)",
+      "category": "term",
+      "prompt": "bring up：話を持ち出す(V)",
+      "answer_core": "話を持ち出す(V)",
+      "usage_examples": [
+        {
+          "english": "She brought up the problem during the meeting.",
+          "japanese": "彼女は会議中にその問題の話を持ち出した。"
+        }
+      ],
+      "card_sentence": {
+        "before": "bring up：",
+        "hidden": "話を持ち出す(V)",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-07",
+      "learned_on": "2026-09-07"
+    },
+    {
+      "id": "konan2021-1-to-a-significant-degree",
+      "source": {
+        "book": "甲南大学 2021",
+        "unit": "1",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "to a significant degree：かなりの程度(M)",
+      "category": "term",
+      "prompt": "to a significant degree：かなりの程度(M)",
+      "answer_core": "かなりの程度(M)",
+      "usage_examples": [
+        {
+          "english": "The two plans differ to a significant degree.",
+          "japanese": "その2つの計画はかなりの程度異なる。"
+        }
+      ],
+      "card_sentence": {
+        "before": "to a significant degree：",
+        "hidden": "かなりの程度(M)",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-07",
+      "learned_on": "2026-09-07"
+    },
+    {
+      "id": "konan2021-2-bakery-bread",
+      "source": {
+        "book": "甲南大学 2021",
+        "unit": "2",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "bakeryは店、breadがパン",
+      "category": "tip",
+      "prompt": "bakeryは店、breadがパン",
+      "answer_core": "パン",
+      "usage_examples": [
+        {
+          "english": "I bought bread at the bakery.",
+          "japanese": "私はパン屋でパンを買った。"
+        }
+      ],
+      "card_sentence": {
+        "before": "bakeryは店、breadが",
+        "hidden": "パン",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-07",
+      "learned_on": "2026-09-07"
+    },
+    {
+      "id": "konan2021-2-beer",
+      "source": {
+        "book": "甲南大学 2021",
+        "unit": "2",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "beer：🍺",
+      "category": "term",
+      "prompt": "beer：🍺",
+      "answer_core": "🍺",
+      "usage_examples": [
+        {
+          "english": "They served beer with dinner.",
+          "japanese": "夕食と一緒にビールが出された。"
+        }
+      ],
+      "card_sentence": {
+        "before": "beer：",
+        "hidden": "🍺",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-07",
+      "learned_on": "2026-09-07"
+    },
+    {
+      "id": "konan2021-2-food-generous",
+      "source": {
+        "book": "甲南大学 2021",
+        "unit": "2",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "foodがgenerousでたっぷりの食事",
+      "category": "tip",
+      "prompt": "foodがgenerousでたっぷりの食事",
+      "answer_core": "たっぷりの食事",
+      "usage_examples": [
+        {
+          "english": "The hotel served us a generous meal.",
+          "japanese": "そのホテルは私たちにたっぷりの食事を出した。"
+        }
+      ],
+      "card_sentence": {
+        "before": "foodがgenerousで",
+        "hidden": "たっぷりの食事",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-07",
+      "learned_on": "2026-09-07"
+    },
+    {
+      "id": "konan2021-2-therefore-logic",
+      "source": {
+        "book": "甲南大学 2021",
+        "unit": "2",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "thereforeは、この論理でいくとこうなるよね",
+      "category": "tip",
+      "prompt": "thereforeは、この論理でいくとこうなるよね",
+      "answer_core": "この論理でいくとこうなるよね",
+      "usage_examples": [
+        {
+          "english": "The road was closed; therefore, we took another route.",
+          "japanese": "道路が閉鎖されていた。したがって、私たちは別の道を通った。"
+        }
+      ],
+      "card_sentence": {
+        "before": "thereforeは、",
+        "hidden": "この論理でいくとこうなるよね",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-07",
+      "learned_on": "2026-09-07"
+    },
+    {
+      "id": "konan2021-2-on-show",
+      "source": {
+        "book": "甲南大学 2021",
+        "unit": "2",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "on showはM",
+      "category": "tip",
+      "prompt": "on showはM",
+      "answer_core": "M",
+      "usage_examples": [
+        {
+          "english": "The paintings on show at the museum are famous.",
+          "japanese": "その博物館で展示されている絵画は有名だ。"
+        }
+      ],
+      "card_sentence": {
+        "before": "on showは",
+        "hidden": "M",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-07",
+      "learned_on": "2026-09-07"
+    },
+    {
+      "id": "konan2021-2-on-the-move",
+      "source": {
+        "book": "甲南大学 2021",
+        "unit": "2",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "on the move：移動中",
+      "category": "term",
+      "prompt": "on the move：移動中",
+      "answer_core": "移動中",
+      "usage_examples": [
+        {
+          "english": "The family is constantly on the move.",
+          "japanese": "その家族は絶えず移動中だ。"
+        }
+      ],
+      "card_sentence": {
+        "before": "on the move：",
+        "hidden": "移動中",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-07",
+      "learned_on": "2026-09-07"
+    },
+    {
+      "id": "konan2021-3-possessive-only-noun",
+      "source": {
+        "book": "甲南大学 2021",
+        "unit": "3",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "所有格 only 名詞の訳気をつける",
+      "category": "tip",
+      "prompt": "所有格 only 名詞の訳気をつける",
+      "answer_core": "気をつける",
+      "usage_examples": [
+        {
+          "english": "She is his only daughter.",
+          "japanese": "彼女は彼の一人だけの娘だ。"
+        }
+      ],
+      "card_sentence": {
+        "before": "所有格 only 名詞の訳",
+        "hidden": "気をつける",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-07",
+      "learned_on": "2026-09-07"
+    },
+    {
+      "id": "konan2021-3-dawn",
+      "source": {
+        "book": "甲南大学 2021",
+        "unit": "3",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "dawn：夜明け",
+      "category": "term",
+      "prompt": "dawn：夜明け",
+      "answer_core": "夜明け",
+      "usage_examples": [
+        {
+          "english": "We left at dawn.",
+          "japanese": "私たちは夜明けに出発した。"
+        }
+      ],
+      "card_sentence": {
+        "before": "dawn：",
+        "hidden": "夜明け",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-07",
+      "learned_on": "2026-09-07"
+    },
+    {
+      "id": "konan2021-3-to-this-end",
+      "source": {
+        "book": "甲南大学 2021",
+        "unit": "3",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "to this end：この目的のために、",
+      "category": "term",
+      "prompt": "to this end：この目的のために、",
+      "answer_core": "この目的のために、",
+      "usage_examples": [
+        {
+          "english": "To this end, the school introduced a new program.",
+          "japanese": "この目的のために、その学校は新しいプログラムを導入した。"
+        }
+      ],
+      "card_sentence": {
+        "before": "to this end：",
+        "hidden": "この目的のために、",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-07",
+      "learned_on": "2026-09-07"
+    },
+    {
+      "id": "konan2021-3-direction",
+      "source": {
+        "book": "甲南大学 2021",
+        "unit": "3",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "direction：方向or指示",
+      "category": "term",
+      "prompt": "direction：方向or指示",
+      "answer_core": "指示",
+      "usage_examples": [
+        {
+          "english": "The manager gave clear direction to the team.",
+          "japanese": "その管理者はチームに明確な指示を出した。"
+        }
+      ],
+      "card_sentence": {
+        "before": "direction：方向or",
+        "hidden": "指示",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-07",
+      "learned_on": "2026-09-07"
+    },
+    {
+      "id": "konan2021-3-eclipse",
+      "source": {
+        "book": "甲南大学 2021",
+        "unit": "3",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "eclipse：日食",
+      "category": "term",
+      "prompt": "eclipse：日食",
+      "answer_core": "日食",
+      "usage_examples": [
+        {
+          "english": "A total solar eclipse was visible from the city.",
+          "japanese": "その都市から皆既日食が見えた。"
+        }
+      ],
+      "card_sentence": {
+        "before": "eclipse：",
+        "hidden": "日食",
+        "after": ""
+      },
+      "difficulty": "advanced",
+      "created_at": "2026-09-07",
+      "learned_on": "2026-09-07"
     }
   ]
 }
