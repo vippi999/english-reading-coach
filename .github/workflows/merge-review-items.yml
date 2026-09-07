@@ -1,0 +1,126 @@
+name: Merge review item queue
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'review_queue/*.json'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  merge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Merge queued cards
+        run: |
+          python - <<'PY'
+          import glob
+          import json
+          import pathlib
+          import subprocess
+
+          review_path = pathlib.Path('review_items.json')
+          seed_path = pathlib.Path('study_seed.json')
+          review = json.loads(review_path.read_text(encoding='utf-8'))
+          seed = json.loads(seed_path.read_text(encoding='utf-8'))
+
+          items = review.setdefault('items', [])
+          by_id = {item['id']: item for item in items}
+          lessons = seed.setdefault('completedLessons', [])
+
+          queue_paths = sorted(glob.glob('review_queue/*.json'))
+          if not queue_paths:
+              print('No queue files found.')
+              raise SystemExit(0)
+
+          added = 0
+          restored = 0
+          lessons_changed = 0
+
+          for queue_path in queue_paths:
+              payload = json.loads(pathlib.Path(queue_path).read_text(encoding='utf-8'))
+
+              for spec in payload.get('recover', []):
+                  commit = spec['commit']
+                  old_text = subprocess.check_output(
+                      ['git', 'show', f'{commit}:review_items.json'],
+                      text=True,
+                      encoding='utf-8',
+                  )
+                  old = json.loads(old_text)
+                  books = set(spec.get('source_books', []))
+                  created_at = spec.get('created_at')
+                  for card in old.get('items', []):
+                      source = card.get('source', {})
+                      if books and source.get('book') not in books:
+                          continue
+                      if created_at and card.get('created_at') != created_at:
+                          continue
+                      cid = card['id']
+                      if cid not in by_id:
+                          items.append(card)
+                          by_id[cid] = card
+                          restored += 1
+
+              for card in payload.get('cards', []):
+                  cid = card['id']
+                  if cid in by_id:
+                      if by_id[cid] != card:
+                          raise ValueError(f'ID collision with different content: {cid}')
+                      continue
+                  items.append(card)
+                  by_id[cid] = card
+                  added += 1
+
+              for incoming in payload.get('completedLessons', []):
+                  found = None
+                  for existing in lessons:
+                      if existing.get('book') == incoming.get('book') and existing.get('unit', '') == incoming.get('unit', ''):
+                          found = existing
+                          break
+                  if found is None:
+                      lessons.append(incoming)
+                      lessons_changed += 1
+                  else:
+                      changed = False
+                      for key, value in incoming.items():
+                          if found.get(key) != value:
+                              found[key] = value
+                              changed = True
+                      if changed:
+                          lessons_changed += 1
+
+              pathlib.Path(queue_path).unlink()
+
+          ids = [item['id'] for item in items]
+          if len(ids) != len(set(ids)):
+              raise ValueError('Duplicate review item IDs detected after merge')
+
+          review_path.write_text(json.dumps(review, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+          seed_path.write_text(json.dumps(seed, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+
+          print(f'Restored historical cards: {restored}')
+          print(f'Added queued cards: {added}')
+          print(f'Completed lessons changed: {lessons_changed}')
+          print(f'Total review items: {len(items)}')
+          PY
+
+      - name: Commit merged data
+        run: |
+          if git diff --quiet; then
+            echo 'No changes to commit.'
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add review_items.json study_seed.json review_queue
+          git commit -m 'Merge queued reading cards'
+          git push
