@@ -29,8 +29,11 @@ jobs:
 
           review_path = pathlib.Path('review_items.json')
           seed_path = pathlib.Path('study_seed.json')
+          weakness_path = pathlib.Path('weakness_data.md')
+
           review = json.loads(review_path.read_text(encoding='utf-8'))
           seed = json.loads(seed_path.read_text(encoding='utf-8'))
+          weakness = weakness_path.read_text(encoding='utf-8')
 
           items = review.setdefault('items', [])
           by_id = {item['id']: item for item in items}
@@ -68,10 +71,27 @@ jobs:
 
           added = 0
           restored = 0
+          renamed_cards = 0
+          renamed_lessons = 0
           lessons_changed = 0
+          weakness_rows_added = 0
 
           for queue_path in queue_paths:
               payload = json.loads(pathlib.Path(queue_path).read_text(encoding='utf-8'))
+
+              for rename in payload.get('renameBooks', []):
+                  old = rename['from']
+                  new = rename['to']
+                  for card in items:
+                      source = card.get('source', {})
+                      if source.get('book') == old:
+                          source['book'] = new
+                          renamed_cards += 1
+                  for lesson in lessons:
+                      if lesson.get('book') == old:
+                          lesson['book'] = new
+                          renamed_lessons += 1
+                  weakness = weakness.replace(old, new)
 
               for spec in payload.get('recover', []):
                   commit = spec['commit']
@@ -124,6 +144,13 @@ jobs:
                       if changed:
                           lessons_changed += 1
 
+              for row in payload.get('weaknessRows', []):
+                  if row not in weakness:
+                      if not weakness.endswith('\n'):
+                          weakness += '\n'
+                      weakness += row.rstrip('\n') + '\n'
+                      weakness_rows_added += 1
+
               pathlib.Path(queue_path).unlink()
 
           ids = [item['id'] for item in items]
@@ -132,10 +159,14 @@ jobs:
 
           review_path.write_text(json.dumps(review, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
           seed_path.write_text(json.dumps(seed, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+          weakness_path.write_text(weakness, encoding='utf-8')
 
+          print(f'Renamed cards: {renamed_cards}')
+          print(f'Renamed completed lessons: {renamed_lessons}')
           print(f'Restored historical cards: {restored}')
           print(f'Added queued cards: {added}')
           print(f'Completed lessons changed: {lessons_changed}')
+          print(f'Weakness rows added: {weakness_rows_added}')
           print(f'Total review items: {len(items)}')
           PY
 
@@ -147,6 +178,6 @@ jobs:
           fi
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add review_items.json study_seed.json review_queue
+          git add review_items.json study_seed.json weakness_data.md review_queue
           git commit -m 'Merge queued reading cards'
           git push
