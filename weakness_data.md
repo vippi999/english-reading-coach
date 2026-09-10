@@ -100,3 +100,4 @@
 | 2026-09-07 | 甲南大学 2021・2 |  | bakeryは店、breadがパン／beer：🍺／foodがgenerousでたっぷりの食事／thereforeは、この論理でいくとこうなるよね／on showはM／on the move：移動中 |
 | 2026-09-07 | 甲南大学 2021・3 |  | 所有格 only 名詞の訳気をつける／dawn：夜明け／to this end：この目的のために、／direction：方向or指示／eclipse：日食★ |
 | 2026-09-08 | 早稲田社学 2024・5 |  | come away feeling：離れて、思う。／fromかきかおす／be common in：そこで一般的／contrive：不自然★／this sort：この種の／make a choice：きめる(V)／reasonable：合理的な／ranging：rangeの分詞／what should be：であるべきであるもの／consequential：重要な／payの受身は受け取る／findings：研究結果／verify：正しいか確認する★／conceive：思いつく★／overlap：一部重なる★／devastate：破壊する★／valid：妥当or有効 |
+| 2026-09-10 | 早稲田社学 2024・4 |  | yield：屈するor産出する／halveは動詞で半分／on the back of：を受けて、／in some way：どうにかして／together：一緒にor合わせて／deplete：枯渇させる★／evident：明らか／causeはsvoc！／merely見たらnot onlyのやつじゃないか？／be slow to do：なかなかしない(V)／A over Bは、Aの方が上、イイネって感じ／replaceはwith／sort out：整理or解決する／〜化と訳すのは、イゼーション、アイゼーション／make：状態にする |
