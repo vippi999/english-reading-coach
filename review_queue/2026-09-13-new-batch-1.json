@@ -1,0 +1,515 @@
+{
+  "cards": [
+    {
+      "id": "nihon2024-8-people-in-postmodifier",
+      "source": {
+        "book": "日本大学 2024",
+        "unit": "8",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "people inは、後ろから人の説明",
+      "category": "tip",
+      "prompt": "people inは、後ろから人の説明",
+      "answer_core": "後ろから人の説明",
+      "usage_examples": [
+        {
+          "english": "People in this town are very friendly.",
+          "japanese": "この町の人々はとても親切だ。"
+        }
+      ],
+      "card_sentence": {
+        "before": "people inは、",
+        "hidden": "後ろから人の説明",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-13",
+      "learned_on": "2026-09-13"
+    },
+    {
+      "id": "nihon2024-8-take-from",
+      "source": {
+        "book": "日本大学 2024",
+        "unit": "8",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "take from：取る",
+      "category": "term",
+      "prompt": "take from：取る",
+      "answer_core": "取る",
+      "usage_examples": [
+        {
+          "english": "She took the book from the shelf.",
+          "japanese": "彼女は棚からその本を取った。"
+        }
+      ],
+      "card_sentence": {
+        "before": "take from：",
+        "hidden": "取る",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-13",
+      "learned_on": "2026-09-13"
+    },
+    {
+      "id": "nihon2024-8-no-one-but",
+      "source": {
+        "book": "日本大学 2024",
+        "unit": "8",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "no one but：だけ",
+      "category": "term",
+      "prompt": "no one but：だけ",
+      "answer_core": "だけ",
+      "usage_examples": [
+        {
+          "english": "No one but Tom knew the answer.",
+          "japanese": "トムだけがその答えを知っていた。"
+        }
+      ],
+      "card_sentence": {
+        "before": "no one but：",
+        "hidden": "だけ",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-13",
+      "learned_on": "2026-09-13"
+    },
+    {
+      "id": "senshu2024-3-though-two-clauses",
+      "source": {
+        "book": "専修大学 2024",
+        "unit": "3",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "thoughは、これから2文使われますよを意識",
+      "category": "tip",
+      "prompt": "thoughは、これから2文使われますよを意識",
+      "answer_core": "これから2文使われますよを意識",
+      "usage_examples": [
+        {
+          "english": "Though it was raining, we went out.",
+          "japanese": "雨が降っていたが、私たちは外出した。"
+        }
+      ],
+      "card_sentence": {
+        "before": "thoughは、",
+        "hidden": "これから2文使われますよを意識",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-13",
+      "learned_on": "2026-09-13"
+    },
+    {
+      "id": "senshu2024-3-have-trouble",
+      "source": {
+        "book": "専修大学 2024",
+        "unit": "3",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "have trouble ：苦労する",
+      "category": "term",
+      "prompt": "have trouble ：苦労する",
+      "answer_core": "苦労する",
+      "usage_examples": [
+        {
+          "english": "I have trouble sleeping.",
+          "japanese": "私は眠るのに苦労する。"
+        }
+      ],
+      "card_sentence": {
+        "before": "have trouble ：",
+        "hidden": "苦労する",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-13",
+      "learned_on": "2026-09-13"
+    },
+    {
+      "id": "senshu2024-3-control-for",
+      "source": {
+        "book": "専修大学 2024",
+        "unit": "3",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "control for ：条件を取り除いたり",
+      "category": "term",
+      "prompt": "control for ：条件を取り除いたり",
+      "answer_core": "条件を取り除いたり",
+      "usage_examples": [
+        {
+          "english": "The study controlled for age.",
+          "japanese": "その研究では年齢の影響を取り除いた。"
+        }
+      ],
+      "card_sentence": {
+        "before": "control for ：",
+        "hidden": "条件を取り除いたり",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-13",
+      "learned_on": "2026-09-13"
+    },
+    {
+      "id": "senshu2024-3-get-a-out-of-b",
+      "source": {
+        "book": "専修大学 2024",
+        "unit": "3",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "get A out of B：Bから取り出されるA",
+      "category": "term",
+      "prompt": "get A out of B：Bから取り出されるA",
+      "answer_core": "Bから取り出されるA",
+      "usage_examples": [
+        {
+          "english": "She got the key out of the box.",
+          "japanese": "彼女は箱から鍵を取り出した。"
+        }
+      ],
+      "card_sentence": {
+        "before": "get A out of B：",
+        "hidden": "Bから取り出されるA",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-13",
+      "learned_on": "2026-09-13"
+    },
+    {
+      "id": "senshu2024-3-make-more-of",
+      "source": {
+        "book": "専修大学 2024",
+        "unit": "3",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "make more of：もっと活用する",
+      "category": "term",
+      "prompt": "make more of：もっと活用する",
+      "answer_core": "もっと活用する",
+      "usage_examples": [
+        {
+          "english": "We should make more of this chance.",
+          "japanese": "私たちはこの機会をもっと活用すべきだ。"
+        }
+      ],
+      "card_sentence": {
+        "before": "make more of：",
+        "hidden": "もっと活用する",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-13",
+      "learned_on": "2026-09-13"
+    },
+    {
+      "id": "konan2023-1-proposal",
+      "source": {
+        "book": "甲南大学 2023",
+        "unit": "1",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "proposal：提案or計画案",
+      "category": "term",
+      "prompt": "proposal：提案or計画案",
+      "answer_core": "計画案",
+      "usage_examples": [
+        {
+          "english": "They accepted the proposal.",
+          "japanese": "彼らはその提案を受け入れた。"
+        }
+      ],
+      "card_sentence": {
+        "before": "proposal：提案or",
+        "hidden": "計画案",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-13",
+      "learned_on": "2026-09-13"
+    },
+    {
+      "id": "konan2023-1-serve-as",
+      "source": {
+        "book": "甲南大学 2023",
+        "unit": "1",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "serve as：として機能する",
+      "category": "term",
+      "prompt": "serve as：として機能する",
+      "answer_core": "として機能する",
+      "usage_examples": [
+        {
+          "english": "This room serves as an office.",
+          "japanese": "この部屋は事務所として機能する。"
+        }
+      ],
+      "card_sentence": {
+        "before": "serve as：",
+        "hidden": "として機能する",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-13",
+      "learned_on": "2026-09-13"
+    },
+    {
+      "id": "konan2023-1-with-the-intent-of",
+      "source": {
+        "book": "甲南大学 2023",
+        "unit": "1",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "with the intent of：を目的として(前)",
+      "category": "term",
+      "prompt": "with the intent of：を目的として(前)",
+      "answer_core": "を目的として(前)",
+      "usage_examples": [
+        {
+          "english": "He left with the intent of returning.",
+          "japanese": "彼は戻るつもりで出発した。"
+        }
+      ],
+      "card_sentence": {
+        "before": "with the intent of：",
+        "hidden": "を目的として(前)",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-13",
+      "learned_on": "2026-09-13"
+    },
+    {
+      "id": "konan2023-1-contract-contractor",
+      "source": {
+        "book": "甲南大学 2023",
+        "unit": "1",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "contractで契約、人で請負業者",
+      "category": "tip",
+      "prompt": "contractで契約、人で請負業者",
+      "answer_core": "契約、人で請負業者",
+      "usage_examples": [
+        {
+          "english": "The contractor signed the contract.",
+          "japanese": "請負業者が契約書に署名した。"
+        }
+      ],
+      "card_sentence": {
+        "before": "contractで",
+        "hidden": "契約、人で請負業者",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-13",
+      "learned_on": "2026-09-13"
+    },
+    {
+      "id": "konan2023-1-pit",
+      "source": {
+        "book": "甲南大学 2023",
+        "unit": "1",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "pit：くぼみ",
+      "category": "term",
+      "prompt": "pit：くぼみ",
+      "answer_core": "くぼみ",
+      "usage_examples": [
+        {
+          "english": "The ball fell into a pit.",
+          "japanese": "ボールはくぼみに落ちた。"
+        }
+      ],
+      "card_sentence": {
+        "before": "pit：",
+        "hidden": "くぼみ",
+        "after": ""
+      },
+      "difficulty": "advanced",
+      "created_at": "2026-09-13",
+      "learned_on": "2026-09-13"
+    },
+    {
+      "id": "konan2023-1-seek-to",
+      "source": {
+        "book": "甲南大学 2023",
+        "unit": "1",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "seek to：しようと務める",
+      "category": "term",
+      "prompt": "seek to：しようと務める",
+      "answer_core": "しようと務める",
+      "usage_examples": [
+        {
+          "english": "They seek to reduce waste.",
+          "japanese": "彼らは廃棄物を減らそうと努めている。"
+        }
+      ],
+      "card_sentence": {
+        "before": "seek to：",
+        "hidden": "しようと務める",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-13",
+      "learned_on": "2026-09-13"
+    },
+    {
+      "id": "konan2023-1-condemn",
+      "source": {
+        "book": "甲南大学 2023",
+        "unit": "1",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "condemn：非難する",
+      "category": "term",
+      "prompt": "condemn：非難する",
+      "answer_core": "非難する",
+      "usage_examples": [
+        {
+          "english": "Many people condemned the decision.",
+          "japanese": "多くの人がその決定を非難した。"
+        }
+      ],
+      "card_sentence": {
+        "before": "condemn：",
+        "hidden": "非難する",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-13",
+      "learned_on": "2026-09-13"
+    },
+    {
+      "id": "konan2023-1-in-favor-of",
+      "source": {
+        "book": "甲南大学 2023",
+        "unit": "1",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "in favor of：賛成して",
+      "category": "term",
+      "prompt": "in favor of：賛成して",
+      "answer_core": "賛成して",
+      "usage_examples": [
+        {
+          "english": "Most members were in favor of the plan.",
+          "japanese": "ほとんどのメンバーがその計画に賛成していた。"
+        }
+      ],
+      "card_sentence": {
+        "before": "in favor of：",
+        "hidden": "賛成して",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-13",
+      "learned_on": "2026-09-13"
+    },
+    {
+      "id": "konan2023-1-rule-judge",
+      "source": {
+        "book": "甲南大学 2023",
+        "unit": "1",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "rule･･･判決をする",
+      "category": "term",
+      "prompt": "rule･･･判決をする",
+      "answer_core": "判決をする",
+      "usage_examples": [
+        {
+          "english": "The judge ruled against him.",
+          "japanese": "裁判官は彼に不利な判決を下した。"
+        }
+      ],
+      "card_sentence": {
+        "before": "rule･･･",
+        "hidden": "判決をする",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-13",
+      "learned_on": "2026-09-13"
+    },
+    {
+      "id": "konan2023-1-to-please",
+      "source": {
+        "book": "甲南大学 2023",
+        "unit": "1",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "to please：喜ばせる",
+      "category": "term",
+      "prompt": "to please：喜ばせる",
+      "answer_core": "喜ばせる",
+      "usage_examples": [
+        {
+          "english": "She tried to please her teacher.",
+          "japanese": "彼女は先生を喜ばせようとした。"
+        }
+      ],
+      "card_sentence": {
+        "before": "to please：",
+        "hidden": "喜ばせる",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-13",
+      "learned_on": "2026-09-13"
+    }
+  ],
+  "completedLessons": [
+    {
+      "book": "日本大学 2024",
+      "unit": "8",
+      "completedOn": "2026-09-13",
+      "status": "completed"
+    },
+    {
+      "book": "専修大学 2024",
+      "unit": "3",
+      "completedOn": "2026-09-13",
+      "status": "completed"
+    },
+    {
+      "book": "甲南大学 2023",
+      "unit": "1",
+      "completedOn": "2026-09-13",
+      "status": "completed"
+    }
+  ],
+  "weaknessRows": [
+    "| 2026-09-13 | 日本大学 2024・8 |  | people inは、後ろから人の説明／take from：取る／no one but：だけ |",
+    "| 2026-09-13 | 専修大学 2024・3 |  | thoughは、これから2文使われますよを意識／have trouble ：苦労する／control for ：条件を取り除いたり／get A out of B：Bから取り出されるA／make more of：もっと活用する |",
+    "| 2026-09-13 | 甲南大学 2023・1 |  | proposal：提案or計画案／serve as：として機能する／with the intent of：を目的として(前)／contractで契約、人で請負業者／pit：くぼみ★／seek to：しようと務める／condemn：非難する／in favor of：賛成して／rule･･･判決をする／to please：喜ばせる |"
+  ]
+}
