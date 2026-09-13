@@ -235,6 +235,24 @@
       "unit": "4",
       "completedOn": "2026-09-10",
       "status": "completed"
+    },
+    {
+      "book": "日本大学 2024",
+      "unit": "8",
+      "completedOn": "2026-09-13",
+      "status": "completed"
+    },
+    {
+      "book": "専修大学 2024",
+      "unit": "3",
+      "completedOn": "2026-09-13",
+      "status": "completed"
+    },
+    {
+      "book": "甲南大学 2023",
+      "unit": "1",
+      "completedOn": "2026-09-13",
+      "status": "completed"
     }
   ]
 }
