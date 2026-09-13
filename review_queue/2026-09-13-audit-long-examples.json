@@ -1,0 +1,8 @@
+{
+  "auditLongExamples": [
+    {
+      "min_chars": 100,
+      "max_results": 500
+    }
+  ]
+}
