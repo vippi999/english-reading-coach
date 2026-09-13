@@ -75,6 +75,7 @@ jobs:
           renamed_lessons = 0
           lessons_changed = 0
           weakness_rows_added = 0
+          usage_examples_updated = 0
 
           for queue_path in queue_paths:
               payload = json.loads(pathlib.Path(queue_path).read_text(encoding='utf-8'))
@@ -126,6 +127,39 @@ jobs:
                   by_id[cid] = card
                   added += 1
 
+              for edit in payload.get('usageExampleUpdates', []):
+                  cid = edit['id']
+                  if cid not in by_id:
+                      raise ValueError(f'Unknown review item ID for usage example update: {cid}')
+                  english = edit['english'].strip()
+                  japanese = edit['japanese'].strip()
+                  if not english or not japanese:
+                      raise ValueError(f'Usage example update must contain English and Japanese: {cid}')
+                  expected_min_chars = edit.get('expectedMinOldEnglishChars')
+                  old_examples = by_id[cid].get('usage_examples') or []
+                  old_english = old_examples[0].get('english', '') if old_examples else ''
+                  if expected_min_chars is not None and len(old_english) < int(expected_min_chars):
+                      raise ValueError(f'Old example shorter than expected for {cid}: {len(old_english)}')
+                  by_id[cid]['usage_examples'] = [{'english': english, 'japanese': japanese}]
+                  usage_examples_updated += 1
+
+              for audit in payload.get('auditLongExamples', []):
+                  min_chars = int(audit.get('min_chars', 120))
+                  max_results = int(audit.get('max_results', 500))
+                  matches = []
+                  for card in items:
+                      examples = card.get('usage_examples') or []
+                      if not examples:
+                          continue
+                      english = examples[0].get('english', '')
+                      if len(english) >= min_chars:
+                          matches.append((len(english), card['id'], card.get('target', ''), english))
+                  matches.sort(reverse=True)
+                  print(f'LONG_EXAMPLE_AUDIT min_chars={min_chars} matches={len(matches)}')
+                  for length, cid, target, english in matches[:max_results]:
+                      compact = english.replace('\n', ' ').replace('|', '／')
+                      print(f'LONG_EXAMPLE|{length}|{cid}|{target}|{compact}')
+
               for incoming in payload.get('completedLessons', []):
                   found = None
                   for existing in lessons:
@@ -165,6 +199,7 @@ jobs:
           print(f'Renamed completed lessons: {renamed_lessons}')
           print(f'Restored historical cards: {restored}')
           print(f'Added queued cards: {added}')
+          print(f'Usage examples updated: {usage_examples_updated}')
           print(f'Completed lessons changed: {lessons_changed}')
           print(f'Weakness rows added: {weakness_rows_added}')
           print(f'Total review items: {len(items)}')
