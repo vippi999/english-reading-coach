@@ -253,6 +253,18 @@
       "unit": "1",
       "completedOn": "2026-09-13",
       "status": "completed"
+    },
+    {
+      "book": "明治大学情 2024",
+      "unit": "2",
+      "completedOn": "2026-09-26",
+      "status": "completed"
+    },
+    {
+      "book": "明治大学情 2024",
+      "unit": "1",
+      "completedOn": "2026-09-26",
+      "status": "completed"
     }
   ]
 }

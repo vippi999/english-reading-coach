@@ -104,3 +104,5 @@
 | 2026-09-13 | 日本大学 2024・8 |  | people inは、後ろから人の説明／take from：取る／no one but：だけ |
 | 2026-09-13 | 専修大学 2024・3 |  | thoughは、これから2文使われますよを意識／have trouble ：苦労する／control for ：条件を取り除いたり／get A out of B：Bから取り出されるA／make more of：もっと活用する |
 | 2026-09-13 | 甲南大学 2023・1 |  | proposal：提案or計画案／serve as：として機能する／with the intent of：を目的として(前)／contractで契約、人で請負業者／pit：くぼみ★／seek to：しようと務める／condemn：非難する／in favor of：賛成して／rule･･･判決をする／to please：喜ばせる |
+| 2026-09-26 | 明治大学情 2024・2 |  | put away ：とっておく／conceive：考え／goの後に動詞が並ぶことがある／attraction：魅力／longing：切望／how単独：どのように／how形容詞副詞：どれくらい／疑問詞to doは、「べき」と訳す／some surely have：そうした人もいる／beside oneself：取り乱して／put through：経験させる |
+| 2026-09-26 | 明治大学情 2024・1 |  | be fond of：好んでいる／seeのsvocは、ingを取る知覚動詞orみなす／nowhereはnowじゃないです。／動詞になるのはacrossじゃなくて、cross／fewは数えられるものが、／a handful ofはひと握り！100ではないw／effectがstrongerなら、より影響をうける／occurは自動詞／not always result in：常にそういう結果にならなくても／adverse：形容詞で、不利な／it depends：場合による／work for：上手くいく／alone together：2人だけ／deserve：値する |
