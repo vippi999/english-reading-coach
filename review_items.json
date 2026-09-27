@@ -14057,6 +14057,411 @@
       "difficulty": "basic",
       "created_at": "2026-09-26",
       "learned_on": "2026-09-26"
+    },
+    {
+      "id": "meijidaigakusei-cities",
+      "source": {
+        "book": "明治大学政",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "cities：cityの複数形!!!!",
+      "category": "term",
+      "prompt": "cities：cityの複数形!!!!",
+      "answer_core": "cityの複数形!!!!",
+      "usage_examples": [
+        {
+          "english": "Many cities face the same problem.",
+          "japanese": "多くの都市が同じ問題に直面している。"
+        }
+      ],
+      "card_sentence": {
+        "before": "cities：",
+        "hidden": "cityの複数形!!!!",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-27",
+      "learned_on": "2026-09-27"
+    },
+    {
+      "id": "meijidaigakusei-set-out",
+      "source": {
+        "book": "明治大学政",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "set out：始める",
+      "category": "term",
+      "prompt": "set out：始める",
+      "answer_core": "始める",
+      "usage_examples": [
+        {
+          "english": "They set out to solve the problem.",
+          "japanese": "彼らはその問題を解決し始めた。"
+        }
+      ],
+      "card_sentence": {
+        "before": "set out：",
+        "hidden": "始める",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-27",
+      "learned_on": "2026-09-27"
+    },
+    {
+      "id": "meijidaigakusei-seem-present-svc",
+      "source": {
+        "book": "明治大学政",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "seemは現在形です。svcもよくとる。",
+      "category": "tip",
+      "prompt": "seemは現在形です。svcもよくとる。",
+      "answer_core": "現在形です。svcもよくとる。",
+      "usage_examples": [
+        {
+          "english": "He seems tired.",
+          "japanese": "彼は疲れているように見える。"
+        }
+      ],
+      "card_sentence": {
+        "before": "seemは",
+        "hidden": "現在形です。svcもよくとる。",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-27",
+      "learned_on": "2026-09-27"
+    },
+    {
+      "id": "meijidaigakusei-be-skilled-at",
+      "source": {
+        "book": "明治大学政",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "be skilled at：be good at",
+      "category": "term",
+      "prompt": "be skilled at：be good at",
+      "answer_core": "be good at",
+      "usage_examples": [
+        {
+          "english": "She is skilled at drawing.",
+          "japanese": "彼女は絵を描くのが得意だ。"
+        }
+      ],
+      "card_sentence": {
+        "before": "be skilled at：",
+        "hidden": "be good at",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-27",
+      "learned_on": "2026-09-27"
+    },
+    {
+      "id": "meijidaigakusei-show-up",
+      "source": {
+        "book": "明治大学政",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "show up：姿を表す",
+      "category": "term",
+      "prompt": "show up：姿を表す",
+      "answer_core": "姿を表す",
+      "usage_examples": [
+        {
+          "english": "He finally showed up.",
+          "japanese": "彼はついに姿を現した。"
+        }
+      ],
+      "card_sentence": {
+        "before": "show up：",
+        "hidden": "姿を表す",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-27",
+      "learned_on": "2026-09-27"
+    },
+    {
+      "id": "meijidaigakusei-just-world",
+      "source": {
+        "book": "明治大学政",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "just world：公平な世界",
+      "category": "term",
+      "prompt": "just world：公平な世界",
+      "answer_core": "公平な世界",
+      "usage_examples": [
+        {
+          "english": "People want to believe in a just world.",
+          "japanese": "人は公平な世界を信じたがる。"
+        }
+      ],
+      "card_sentence": {
+        "before": "just world：",
+        "hidden": "公平な世界",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-27",
+      "learned_on": "2026-09-27"
+    },
+    {
+      "id": "meijidaigakusei-relative-that-s",
+      "source": {
+        "book": "明治大学政",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "関代はthat'sにしていい",
+      "category": "tip",
+      "prompt": "関代はthat'sにしていい",
+      "answer_core": "that'sにしていい",
+      "usage_examples": [
+        {
+          "english": "This is the book that's on the desk.",
+          "japanese": "これは机の上にある本だ。"
+        }
+      ],
+      "card_sentence": {
+        "before": "関代は",
+        "hidden": "that'sにしていい",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-27",
+      "learned_on": "2026-09-27"
+    },
+    {
+      "id": "meijidaigakusei-futile",
+      "source": {
+        "book": "明治大学政",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "futile：無駄な",
+      "category": "term",
+      "prompt": "futile：無駄な",
+      "answer_core": "無駄な",
+      "usage_examples": [
+        {
+          "english": "The effort proved futile.",
+          "japanese": "その努力は無駄に終わった。"
+        }
+      ],
+      "card_sentence": {
+        "before": "futile：",
+        "hidden": "無駄な",
+        "after": ""
+      },
+      "difficulty": "advanced",
+      "created_at": "2026-09-27",
+      "learned_on": "2026-09-27"
+    },
+    {
+      "id": "meijidaigakusei-20-somethings",
+      "source": {
+        "book": "明治大学政",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "20-somethings：20代の人々",
+      "category": "term",
+      "prompt": "20-somethings：20代の人々",
+      "answer_core": "20代の人々",
+      "usage_examples": [
+        {
+          "english": "The event attracts many 20-somethings.",
+          "japanese": "その催しは多くの20代の人々を引きつける。"
+        }
+      ],
+      "card_sentence": {
+        "before": "20-somethings：",
+        "hidden": "20代の人々",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-27",
+      "learned_on": "2026-09-27"
+    },
+    {
+      "id": "meijidaigakusei-a-third",
+      "source": {
+        "book": "明治大学政",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "a third：3分の1.",
+      "category": "term",
+      "prompt": "a third：3分の1.",
+      "answer_core": "3分の1.",
+      "usage_examples": [
+        {
+          "english": "A third of the students were absent.",
+          "japanese": "生徒の3分の1が欠席した。"
+        }
+      ],
+      "card_sentence": {
+        "before": "a third：",
+        "hidden": "3分の1.",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-27",
+      "learned_on": "2026-09-27"
+    },
+    {
+      "id": "meijidaigakusei-arguably",
+      "source": {
+        "book": "明治大学政",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "arguably：おそらくー",
+      "category": "term",
+      "prompt": "arguably：おそらくー",
+      "answer_core": "おそらくー",
+      "usage_examples": [
+        {
+          "english": "This is arguably his best work.",
+          "japanese": "これはおそらく彼の最高傑作だ。"
+        }
+      ],
+      "card_sentence": {
+        "before": "arguably：",
+        "hidden": "おそらくー",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-27",
+      "learned_on": "2026-09-27"
+    },
+    {
+      "id": "meijidaigakusei-crave",
+      "source": {
+        "book": "明治大学政",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "crave：強く欲する",
+      "category": "term",
+      "prompt": "crave：強く欲する",
+      "answer_core": "強く欲する",
+      "usage_examples": [
+        {
+          "english": "Many people crave attention.",
+          "japanese": "多くの人は注目を強く欲する。"
+        }
+      ],
+      "card_sentence": {
+        "before": "crave：",
+        "hidden": "強く欲する",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-27",
+      "learned_on": "2026-09-27"
+    },
+    {
+      "id": "meijidaigakusei-engineer-verb",
+      "source": {
+        "book": "明治大学政",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "engineer動詞：設計する",
+      "category": "term",
+      "prompt": "engineer動詞：設計する",
+      "answer_core": "設計する",
+      "usage_examples": [
+        {
+          "english": "They engineered a new system.",
+          "japanese": "彼らは新しいシステムを設計した。"
+        }
+      ],
+      "card_sentence": {
+        "before": "engineer動詞：",
+        "hidden": "設計する",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-27",
+      "learned_on": "2026-09-27"
+    },
+    {
+      "id": "meijidaigakusei-meanwhile",
+      "source": {
+        "book": "明治大学政",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "meanwhile：一方で",
+      "category": "term",
+      "prompt": "meanwhile：一方で",
+      "answer_core": "一方で",
+      "usage_examples": [
+        {
+          "english": "I studied; meanwhile, he slept.",
+          "japanese": "私が勉強する一方で、彼は寝ていた。"
+        }
+      ],
+      "card_sentence": {
+        "before": "meanwhile：",
+        "hidden": "一方で",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-27",
+      "learned_on": "2026-09-27"
+    },
+    {
+      "id": "meijidaigakusei-beyond-additionally",
+      "source": {
+        "book": "明治大学政",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "beyond：加えて",
+      "category": "term",
+      "prompt": "beyond：加えて",
+      "answer_core": "加えて",
+      "usage_examples": [
+        {
+          "english": "Beyond cost, we must consider time.",
+          "japanese": "費用に加えて、時間も考慮する必要がある。"
+        }
+      ],
+      "card_sentence": {
+        "before": "beyond：",
+        "hidden": "加えて",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-27",
+      "learned_on": "2026-09-27"
     }
   ]
 }
