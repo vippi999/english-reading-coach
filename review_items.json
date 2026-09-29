@@ -14462,6 +14462,573 @@
       "difficulty": "basic",
       "created_at": "2026-09-27",
       "learned_on": "2026-09-27"
+    },
+    {
+      "id": "polaris1-1-accompany",
+      "source": {
+        "book": "ポラリス1",
+        "unit": "1",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "accompany：伴って、",
+      "category": "term",
+      "prompt": "accompany：伴って、",
+      "answer_core": "伴って、",
+      "usage_examples": [
+        {
+          "english": "A fever may accompany the illness.",
+          "japanese": "その病気には発熱が伴うことがある。"
+        }
+      ],
+      "card_sentence": {
+        "before": "accompany：",
+        "hidden": "伴って、",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-15",
+      "learned_on": "2026-09-15"
+    },
+    {
+      "id": "polaris1-1-hold-up",
+      "source": {
+        "book": "ポラリス1",
+        "unit": "1",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "hold up：上げるor遅らせる",
+      "category": "term",
+      "prompt": "hold up：上げるor遅らせる",
+      "answer_core": "遅らせる",
+      "usage_examples": [
+        {
+          "english": "Heavy traffic held us up.",
+          "japanese": "ひどい渋滞で私たちは遅れた。"
+        }
+      ],
+      "card_sentence": {
+        "before": "hold up：上げるor",
+        "hidden": "遅らせる",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-15",
+      "learned_on": "2026-09-15"
+    },
+    {
+      "id": "polaris1-1-bruise",
+      "source": {
+        "book": "ポラリス1",
+        "unit": "1",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "bruise：あざ",
+      "category": "term",
+      "prompt": "bruise：あざ",
+      "answer_core": "あざ",
+      "usage_examples": [
+        {
+          "english": "He had a bruise on his arm.",
+          "japanese": "彼の腕にはあざがあった。"
+        }
+      ],
+      "card_sentence": {
+        "before": "bruise：",
+        "hidden": "あざ",
+        "after": ""
+      },
+      "difficulty": "advanced",
+      "created_at": "2026-09-15",
+      "learned_on": "2026-09-15"
+    },
+    {
+      "id": "polaris1-1-it-is-common-for-a",
+      "source": {
+        "book": "ポラリス1",
+        "unit": "1",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "It is common for A：よくあることだ。",
+      "category": "term",
+      "prompt": "It is common for A：よくあることだ。",
+      "answer_core": "よくあることだ。",
+      "usage_examples": [
+        {
+          "english": "It is common for children to ask many questions.",
+          "japanese": "子どもがたくさん質問するのはよくあることだ。"
+        }
+      ],
+      "card_sentence": {
+        "before": "It is common for A：",
+        "hidden": "よくあることだ。",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-15",
+      "learned_on": "2026-09-15"
+    },
+    {
+      "id": "polaris1-1-visually-impaired",
+      "source": {
+        "book": "ポラリス1",
+        "unit": "1",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "visually impaired：視覚障害",
+      "category": "term",
+      "prompt": "visually impaired：視覚障害",
+      "answer_core": "視覚障害",
+      "usage_examples": [
+        {
+          "english": "The sign helps visually impaired people.",
+          "japanese": "その標識は視覚障害のある人を助ける。"
+        }
+      ],
+      "card_sentence": {
+        "before": "visually impaired：",
+        "hidden": "視覚障害",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-15",
+      "learned_on": "2026-09-15"
+    },
+    {
+      "id": "polaris1-1-pose",
+      "source": {
+        "book": "ポラリス1",
+        "unit": "1",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "pose：引き起こす",
+      "category": "term",
+      "prompt": "pose：引き起こす",
+      "answer_core": "引き起こす",
+      "usage_examples": [
+        {
+          "english": "This may pose a serious problem.",
+          "japanese": "これは深刻な問題を引き起こすかもしれない。"
+        }
+      ],
+      "card_sentence": {
+        "before": "pose：",
+        "hidden": "引き起こす",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-15",
+      "learned_on": "2026-09-15"
+    },
+    {
+      "id": "polaris1-1-stairways",
+      "source": {
+        "book": "ポラリス1",
+        "unit": "1",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "stairways：階段",
+      "category": "term",
+      "prompt": "stairways：階段",
+      "answer_core": "階段",
+      "usage_examples": [
+        {
+          "english": "The building has two stairways.",
+          "japanese": "その建物には階段が2つある。"
+        }
+      ],
+      "card_sentence": {
+        "before": "stairways：",
+        "hidden": "階段",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-15",
+      "learned_on": "2026-09-15"
+    },
+    {
+      "id": "polaris1-1-tactile-paving",
+      "source": {
+        "book": "ポラリス1",
+        "unit": "1",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "tactile paving ：点字ブロック",
+      "category": "term",
+      "prompt": "tactile paving ：点字ブロック",
+      "answer_core": "点字ブロック",
+      "usage_examples": [
+        {
+          "english": "Tactile paving guides visually impaired people.",
+          "japanese": "点字ブロックは視覚障害のある人を案内する。"
+        }
+      ],
+      "card_sentence": {
+        "before": "tactile paving ：",
+        "hidden": "点字ブロック",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-15",
+      "learned_on": "2026-09-15"
+    },
+    {
+      "id": "polaris1-2-work-her-way-through",
+      "source": {
+        "book": "ポラリス1",
+        "unit": "2",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "work (her) way through：苦労して進む",
+      "category": "term",
+      "prompt": "work (her) way through：苦労して進む",
+      "answer_core": "苦労して進む",
+      "usage_examples": [
+        {
+          "english": "She worked her way through the crowd.",
+          "japanese": "彼女は人混みの中を苦労して進んだ。"
+        }
+      ],
+      "card_sentence": {
+        "before": "work (her) way through：",
+        "hidden": "苦労して進む",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-15",
+      "learned_on": "2026-09-15"
+    },
+    {
+      "id": "polaris1-2-winding",
+      "source": {
+        "book": "ポラリス1",
+        "unit": "2",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "winding：曲がりくねった",
+      "category": "term",
+      "prompt": "winding：曲がりくねった",
+      "answer_core": "曲がりくねった",
+      "usage_examples": [
+        {
+          "english": "We followed a winding road.",
+          "japanese": "私たちは曲がりくねった道を進んだ。"
+        }
+      ],
+      "card_sentence": {
+        "before": "winding：",
+        "hidden": "曲がりくねった",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-15",
+      "learned_on": "2026-09-15"
+    },
+    {
+      "id": "polaris1-2-top-verb",
+      "source": {
+        "book": "ポラリス1",
+        "unit": "2",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "top動詞：上回る",
+      "category": "term",
+      "prompt": "top動詞：上回る",
+      "answer_core": "上回る",
+      "usage_examples": [
+        {
+          "english": "Sales topped one million dollars.",
+          "japanese": "売上は100万ドルを上回った。"
+        }
+      ],
+      "card_sentence": {
+        "before": "top動詞：",
+        "hidden": "上回る",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-15",
+      "learned_on": "2026-09-15"
+    },
+    {
+      "id": "polaris1-2-compete-with",
+      "source": {
+        "book": "ポラリス1",
+        "unit": "2",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "compete with：競合する",
+      "category": "term",
+      "prompt": "compete with：競合する",
+      "answer_core": "競合する",
+      "usage_examples": [
+        {
+          "english": "Small shops compete with large chains.",
+          "japanese": "小さな店は大手チェーンと競合する。"
+        }
+      ],
+      "card_sentence": {
+        "before": "compete with：",
+        "hidden": "競合する",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-15",
+      "learned_on": "2026-09-15"
+    },
+    {
+      "id": "polaris1-2-a-day-of",
+      "source": {
+        "book": "ポラリス1",
+        "unit": "2",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "a day ofなんちゃらで、なんちゃらする日",
+      "category": "tip",
+      "prompt": "a day ofなんちゃらで、なんちゃらする日",
+      "answer_core": "なんちゃらする日",
+      "usage_examples": [
+        {
+          "english": "We had a day of sightseeing.",
+          "japanese": "私たちは観光をする日を過ごした。"
+        }
+      ],
+      "card_sentence": {
+        "before": "a day ofなんちゃらで、",
+        "hidden": "なんちゃらする日",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-15",
+      "learned_on": "2026-09-15"
+    },
+    {
+      "id": "polaris1-2-spur",
+      "source": {
+        "book": "ポラリス1",
+        "unit": "2",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "spur：促す",
+      "category": "term",
+      "prompt": "spur：促す",
+      "answer_core": "促す",
+      "usage_examples": [
+        {
+          "english": "The news spurred him to act.",
+          "japanese": "その知らせは彼に行動を促した。"
+        }
+      ],
+      "card_sentence": {
+        "before": "spur：",
+        "hidden": "促す",
+        "after": ""
+      },
+      "difficulty": "advanced",
+      "created_at": "2026-09-15",
+      "learned_on": "2026-09-15"
+    },
+    {
+      "id": "polaris1-3-observe-svoc",
+      "source": {
+        "book": "ポラリス1",
+        "unit": "3",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "observeはSVOCをとる",
+      "category": "tip",
+      "prompt": "observeはSVOCをとる",
+      "answer_core": "SVOCをとる",
+      "usage_examples": [
+        {
+          "english": "We observed the birds building a nest.",
+          "japanese": "私たちは鳥が巣を作っているのを観察した。"
+        }
+      ],
+      "card_sentence": {
+        "before": "observeは",
+        "hidden": "SVOCをとる",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-15",
+      "learned_on": "2026-09-15"
+    },
+    {
+      "id": "polaris1-3-regulate",
+      "source": {
+        "book": "ポラリス1",
+        "unit": "3",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "regulate：規制or調整",
+      "category": "term",
+      "prompt": "regulate：規制or調整",
+      "answer_core": "調整",
+      "usage_examples": [
+        {
+          "english": "The body regulates its temperature.",
+          "japanese": "体は体温を調整する。"
+        }
+      ],
+      "card_sentence": {
+        "before": "regulate：規制or",
+        "hidden": "調整",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-15",
+      "learned_on": "2026-09-15"
+    },
+    {
+      "id": "polaris1-3-miss-out-on",
+      "source": {
+        "book": "ポラリス1",
+        "unit": "3",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "miss out on：見逃す",
+      "category": "term",
+      "prompt": "miss out on：見逃す",
+      "answer_core": "見逃す",
+      "usage_examples": [
+        {
+          "english": "You may miss out on a good chance.",
+          "japanese": "よい機会を見逃すかもしれない。"
+        }
+      ],
+      "card_sentence": {
+        "before": "miss out on：",
+        "hidden": "見逃す",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-15",
+      "learned_on": "2026-09-15"
+    },
+    {
+      "id": "polaris1-3-in-an-effort-to",
+      "source": {
+        "book": "ポラリス1",
+        "unit": "3",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "in an effort to：しようとして",
+      "category": "term",
+      "prompt": "in an effort to：しようとして",
+      "answer_core": "しようとして",
+      "usage_examples": [
+        {
+          "english": "They left early in an effort to avoid traffic.",
+          "japanese": "彼らは渋滞を避けようとして早く出発した。"
+        }
+      ],
+      "card_sentence": {
+        "before": "in an effort to：",
+        "hidden": "しようとして",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-15",
+      "learned_on": "2026-09-15"
+    },
+    {
+      "id": "polaris1-3-loud",
+      "source": {
+        "book": "ポラリス1",
+        "unit": "3",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "loud：音が大",
+      "category": "term",
+      "prompt": "loud：音が大",
+      "answer_core": "音が大",
+      "usage_examples": [
+        {
+          "english": "The music was too loud.",
+          "japanese": "音楽の音が大きすぎた。"
+        }
+      ],
+      "card_sentence": {
+        "before": "loud：",
+        "hidden": "音が大",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-15",
+      "learned_on": "2026-09-15"
+    },
+    {
+      "id": "polaris1-3-a-scene-of",
+      "source": {
+        "book": "ポラリス1",
+        "unit": "3",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "a scene of：という感じ",
+      "category": "term",
+      "prompt": "a scene of：という感じ",
+      "answer_core": "という感じ",
+      "usage_examples": [
+        {
+          "english": "It was a scene of complete chaos.",
+          "japanese": "完全な混乱という感じだった。"
+        }
+      ],
+      "card_sentence": {
+        "before": "a scene of：",
+        "hidden": "という感じ",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-15",
+      "learned_on": "2026-09-15"
+    },
+    {
+      "id": "polaris1-3-im-just-boring",
+      "source": {
+        "book": "ポラリス1",
+        "unit": "3",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "I'm just boringは、ただつまらない人です。",
+      "category": "tip",
+      "prompt": "I'm just boringは、ただつまらない人です。",
+      "answer_core": "ただつまらない人です。",
+      "usage_examples": [
+        {
+          "english": "I'm just boring, not bored.",
+          "japanese": "私はただつまらない人で、退屈しているわけではない。"
+        }
+      ],
+      "card_sentence": {
+        "before": "I'm just boringは、",
+        "hidden": "ただつまらない人です。",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-09-15",
+      "learned_on": "2026-09-15"
     }
   ]
 }

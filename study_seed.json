@@ -271,6 +271,24 @@
       "unit": "",
       "completedOn": "2026-09-27",
       "status": "completed"
+    },
+    {
+      "book": "ポラリス1",
+      "unit": "1",
+      "completedOn": "2026-09-15",
+      "status": "completed"
+    },
+    {
+      "book": "ポラリス1",
+      "unit": "2",
+      "completedOn": "2026-09-15",
+      "status": "completed"
+    },
+    {
+      "book": "ポラリス1",
+      "unit": "3",
+      "completedOn": "2026-09-15",
+      "status": "completed"
     }
   ]
 }

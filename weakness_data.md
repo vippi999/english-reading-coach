@@ -107,3 +107,6 @@
 | 2026-09-26 | 明治大学情 2024・2 |  | put away ：とっておく／conceive：考え／goの後に動詞が並ぶことがある／attraction：魅力／longing：切望／how単独：どのように／how形容詞副詞：どれくらい／疑問詞to doは、「べき」と訳す／some surely have：そうした人もいる／beside oneself：取り乱して／put through：経験させる |
 | 2026-09-26 | 明治大学情 2024・1 |  | be fond of：好んでいる／seeのsvocは、ingを取る知覚動詞orみなす／nowhereはnowじゃないです。／動詞になるのはacrossじゃなくて、cross／fewは数えられるものが、／a handful ofはひと握り！100ではないw／effectがstrongerなら、より影響をうける／occurは自動詞／not always result in：常にそういう結果にならなくても／adverse：形容詞で、不利な／it depends：場合による／work for：上手くいく／alone together：2人だけ／deserve：値する |
 | 2026-09-27 | 明治大学政 |  | cities：cityの複数形!!!!／set out：始める／seemは現在形です。svcもよくとる。／be skilled at：be good at／show up：姿を表す／just world：公平な世界／関代はthat'sにしていい／futile：無駄な★／20-somethings：20代の人々／a third：3分の1.／arguably：おそらくー／crave：強く欲する／engineer動詞：設計する／meanwhile：一方で／beyond：加えて |
+| 2026-09-15 | ポラリス1・1 |  | accompany：伴って、／hold up：上げるor遅らせる／bruise：あざ★／It is common for A：よくあることだ。／visually impaired：視覚障害／pose：引き起こす／stairways：階段／tactile paving ：点字ブロック |
+| 2026-09-15 | ポラリス1・2 |  | work (her) way through：苦労して進む／winding：曲がりくねった／top動詞：上回る／compete with：競合する／a day ofなんちゃらで、なんちゃらする日／spur：促す★ |
+| 2026-09-15 | ポラリス1・3 |  | observeはSVOCをとる／regulate：規制or調整／miss out on：見逃す／in an effort to：しようとして／loud：音が大／a scene of：という感じ／I'm just boringは、ただつまらない人です。 |
