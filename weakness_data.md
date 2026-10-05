@@ -110,3 +110,5 @@
 | 2026-09-15 | ポラリス1・1 |  | accompany：伴って、／hold up：上げるor遅らせる／bruise：あざ★／It is common for A：よくあることだ。／visually impaired：視覚障害／pose：引き起こす／stairways：階段／tactile paving ：点字ブロック |
 | 2026-09-15 | ポラリス1・2 |  | work (her) way through：苦労して進む／winding：曲がりくねった／top動詞：上回る／compete with：競合する／a day ofなんちゃらで、なんちゃらする日／spur：促す★ |
 | 2026-09-15 | ポラリス1・3 |  | observeはSVOCをとる／regulate：規制or調整／miss out on：見逃す／in an effort to：しようとして／loud：音が大／a scene of：という感じ／I'm just boringは、ただつまらない人です。 |
+| 2026-10-03 | 明治大学政 2020・2 |  | as long as：する限り、、、／far from：するどころか／be tried：裁判にかけられる／tell A off：叱る／expect：予測するor期待する／attain：達成する／driveはenable型で、追いやる／take away：取り除く／inward：内側／let’s face it：現実を認めよう／svocはnot to doにできる。／separate A from B：区別する／peril：危険★／spot動：見つける／do little to do：役立たない／institution：施設or制度／positive：事実に基づく |
+| 2026-10-03 | 明治大学政 2020・1 |  | spectacle：見世物／demand：必要とする／represent：表すor代表する／stage動：上演する／serve･･･役に立つ／facilitate：用意にする／offは供給源を意味／deny A B：与えない。take型。 |
