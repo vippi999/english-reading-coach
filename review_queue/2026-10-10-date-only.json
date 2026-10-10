@@ -1,0 +1,1547 @@
+{
+  "cards": [
+    {
+      "id": "dateonly20261010-01-decisively",
+      "source": {
+        "book": "",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "decisively：断固として",
+      "category": "term",
+      "prompt": "decisively：断固として",
+      "answer_core": "断固として",
+      "usage_examples": [
+        {
+          "english": "The leader acted decisively.",
+          "japanese": "その指導者は断固として行動した。"
+        }
+      ],
+      "card_sentence": {
+        "before": "decisively：",
+        "hidden": "断固として",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-10-10",
+      "learned_on": "2026-10-10"
+    },
+    {
+      "id": "dateonly20261010-02-commitment",
+      "source": {
+        "book": "",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "commitment：献身する",
+      "category": "term",
+      "prompt": "commitment：献身する",
+      "answer_core": "献身する",
+      "usage_examples": [
+        {
+          "english": "Her commitment impressed everyone.",
+          "japanese": "彼女の献身は皆に感銘を与えた。"
+        }
+      ],
+      "card_sentence": {
+        "before": "commitment：",
+        "hidden": "献身する",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-10-10",
+      "learned_on": "2026-10-10"
+    },
+    {
+      "id": "dateonly20261010-03-the-constitution",
+      "source": {
+        "book": "",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "the Constitution：憲法",
+      "category": "term",
+      "prompt": "the Constitution：憲法",
+      "answer_core": "憲法",
+      "usage_examples": [
+        {
+          "english": "The Constitution protects basic rights.",
+          "japanese": "憲法は基本的な権利を守る。"
+        }
+      ],
+      "card_sentence": {
+        "before": "the Constitution：",
+        "hidden": "憲法",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-10-10",
+      "learned_on": "2026-10-10"
+    },
+    {
+      "id": "dateonly20261010-04-nature-or",
+      "source": {
+        "book": "",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "nature：自然or本質",
+      "category": "term",
+      "prompt": "nature：自然or本質",
+      "answer_core": "自然or本質",
+      "usage_examples": [
+        {
+          "english": "We discussed the nature of the problem.",
+          "japanese": "私たちはその問題の本質について話し合った。"
+        }
+      ],
+      "card_sentence": {
+        "before": "nature：",
+        "hidden": "自然or本質",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-10-10",
+      "learned_on": "2026-10-10"
+    },
+    {
+      "id": "dateonly20261010-05-the-object-of",
+      "source": {
+        "book": "",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "the object of：の対象",
+      "category": "term",
+      "prompt": "the object of：の対象",
+      "answer_core": "の対象",
+      "usage_examples": [
+        {
+          "english": "He became the object of criticism.",
+          "japanese": "彼は批判の対象になった。"
+        }
+      ],
+      "card_sentence": {
+        "before": "the object of：",
+        "hidden": "の対象",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-10-10",
+      "learned_on": "2026-10-10"
+    },
+    {
+      "id": "dateonly20261010-06-other",
+      "source": {
+        "book": "",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "otherは、そのほかだからどんなのか考える",
+      "category": "tip",
+      "prompt": "otherは、そのほかだからどんなのか考える",
+      "answer_core": "otherは、そのほかだからどんなのか考える",
+      "usage_examples": [
+        {
+          "english": "Other students chose a different option.",
+          "japanese": "そのほかの生徒は別の選択肢を選んだ。"
+        }
+      ],
+      "card_sentence": {
+        "before": "",
+        "hidden": "otherは、そのほかだからどんなのか考える",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-10-10",
+      "learned_on": "2026-10-10"
+    },
+    {
+      "id": "dateonly20261010-07-flies",
+      "source": {
+        "book": "",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "flies：ハエ",
+      "category": "term",
+      "prompt": "flies：ハエ",
+      "answer_core": "ハエ",
+      "usage_examples": [
+        {
+          "english": "Flies gathered near the food.",
+          "japanese": "ハエが食べ物の近くに集まった。"
+        }
+      ],
+      "card_sentence": {
+        "before": "flies：",
+        "hidden": "ハエ",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-10-10",
+      "learned_on": "2026-10-10"
+    },
+    {
+      "id": "dateonly20261010-08-afterwards",
+      "source": {
+        "book": "",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "afterwardsは、副詞でその後",
+      "category": "tip",
+      "prompt": "afterwardsは、副詞でその後",
+      "answer_core": "afterwardsは、副詞でその後",
+      "usage_examples": [
+        {
+          "english": "We ate dinner and talked afterwards.",
+          "japanese": "私たちは夕食を食べ、その後話した。"
+        }
+      ],
+      "card_sentence": {
+        "before": "",
+        "hidden": "afterwardsは、副詞でその後",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-10-10",
+      "learned_on": "2026-10-10"
+    },
+    {
+      "id": "dateonly20261010-09-rate",
+      "source": {
+        "book": "",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "rate動詞：評価する",
+      "category": "term",
+      "prompt": "rate動詞：評価する",
+      "answer_core": "評価する",
+      "usage_examples": [
+        {
+          "english": "Users rated the service highly.",
+          "japanese": "利用者はそのサービスを高く評価した。"
+        }
+      ],
+      "card_sentence": {
+        "before": "rate動詞：",
+        "hidden": "評価する",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-10-10",
+      "learned_on": "2026-10-10"
+    },
+    {
+      "id": "dateonly20261010-10-deliberate",
+      "source": {
+        "book": "",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "deliberate：意図的",
+      "category": "term",
+      "prompt": "deliberate：意図的",
+      "answer_core": "意図的",
+      "usage_examples": [
+        {
+          "english": "It was a deliberate choice.",
+          "japanese": "それは意図的な選択だった。"
+        }
+      ],
+      "card_sentence": {
+        "before": "deliberate：",
+        "hidden": "意図的",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-10-10",
+      "learned_on": "2026-10-10"
+    },
+    {
+      "id": "dateonly20261010-11-deliver",
+      "source": {
+        "book": "",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "deliver：もたらす",
+      "category": "term",
+      "prompt": "deliver：もたらす",
+      "answer_core": "もたらす",
+      "usage_examples": [
+        {
+          "english": "The policy delivered good results.",
+          "japanese": "その政策は良い結果をもたらした。"
+        }
+      ],
+      "card_sentence": {
+        "before": "deliver：",
+        "hidden": "もたらす",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-10-10",
+      "learned_on": "2026-10-10"
+    },
+    {
+      "id": "dateonly20261010-12-what-if",
+      "source": {
+        "book": "",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "what if：どうなる？",
+      "category": "term",
+      "prompt": "what if：どうなる？",
+      "answer_core": "どうなる？",
+      "usage_examples": [
+        {
+          "english": "What if the plan fails?",
+          "japanese": "その計画が失敗したらどうなる？"
+        }
+      ],
+      "card_sentence": {
+        "before": "what if：",
+        "hidden": "どうなる？",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-10-10",
+      "learned_on": "2026-10-10"
+    },
+    {
+      "id": "dateonly20261010-13-measure",
+      "source": {
+        "book": "",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "measure：措置",
+      "category": "term",
+      "prompt": "measure：措置",
+      "answer_core": "措置",
+      "usage_examples": [
+        {
+          "english": "The government introduced new measures.",
+          "japanese": "政府は新たな措置を導入した。"
+        }
+      ],
+      "card_sentence": {
+        "before": "measure：",
+        "hidden": "措置",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-10-10",
+      "learned_on": "2026-10-10"
+    },
+    {
+      "id": "dateonly20261010-14-what-s-be-like-s",
+      "source": {
+        "book": "",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "what S be like ＝ Sがどのようなものか",
+      "category": "tip",
+      "prompt": "what S be like ＝ Sがどのようなものか",
+      "answer_core": "what S be like ＝ Sがどのようなものか",
+      "usage_examples": [
+        {
+          "english": "I wonder what the future will be like.",
+          "japanese": "未来がどのようなものか気になる。"
+        }
+      ],
+      "card_sentence": {
+        "before": "",
+        "hidden": "what S be like ＝ Sがどのようなものか",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-10-10",
+      "learned_on": "2026-10-10"
+    },
+    {
+      "id": "dateonly20261010-15-find-ones-way-into",
+      "source": {
+        "book": "",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "find one's way into：入り込む",
+      "category": "term",
+      "prompt": "find one's way into：入り込む",
+      "answer_core": "入り込む",
+      "usage_examples": [
+        {
+          "english": "Dust found its way into the room.",
+          "japanese": "ほこりが部屋に入り込んだ。"
+        }
+      ],
+      "card_sentence": {
+        "before": "find one's way into：",
+        "hidden": "入り込む",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-10-10",
+      "learned_on": "2026-10-10"
+    },
+    {
+      "id": "dateonly20261010-16-response",
+      "source": {
+        "book": "",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "response：対策",
+      "category": "term",
+      "prompt": "response：対策",
+      "answer_core": "対策",
+      "usage_examples": [
+        {
+          "english": "The city announced a new response.",
+          "japanese": "市は新たな対策を発表した。"
+        }
+      ],
+      "card_sentence": {
+        "before": "response：",
+        "hidden": "対策",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-10-10",
+      "learned_on": "2026-10-10"
+    },
+    {
+      "id": "dateonly20261010-17-impair",
+      "source": {
+        "book": "",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "impair：損なう",
+      "category": "term",
+      "prompt": "impair：損なう",
+      "answer_core": "損なう",
+      "usage_examples": [
+        {
+          "english": "Lack of sleep can impair judgment.",
+          "japanese": "睡眠不足は判断力を損なうことがある。"
+        }
+      ],
+      "card_sentence": {
+        "before": "impair：",
+        "hidden": "損なう",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-10-10",
+      "learned_on": "2026-10-10"
+    },
+    {
+      "id": "dateonly20261010-18-coin-bill",
+      "source": {
+        "book": "",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "coinが硬貨、billが紙幣",
+      "category": "tip",
+      "prompt": "coinが硬貨、billが紙幣",
+      "answer_core": "coinが硬貨、billが紙幣",
+      "usage_examples": [
+        {
+          "english": "I paid with a coin and a bill.",
+          "japanese": "私は硬貨と紙幣で支払った。"
+        }
+      ],
+      "card_sentence": {
+        "before": "",
+        "hidden": "coinが硬貨、billが紙幣",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-10-10",
+      "learned_on": "2026-10-10"
+    },
+    {
+      "id": "dateonly20261010-19-appeal-or",
+      "source": {
+        "book": "",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "appeal：訴えor魅力",
+      "category": "term",
+      "prompt": "appeal：訴えor魅力",
+      "answer_core": "訴えor魅力",
+      "usage_examples": [
+        {
+          "english": "The idea has broad appeal.",
+          "japanese": "その考えには幅広い魅力がある。"
+        }
+      ],
+      "card_sentence": {
+        "before": "appeal：",
+        "hidden": "訴えor魅力",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-10-10",
+      "learned_on": "2026-10-10"
+    },
+    {
+      "id": "dateonly20261010-20-ba-backed-up",
+      "source": {
+        "book": "",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "ba backed up：裏付けられている",
+      "category": "term",
+      "prompt": "ba backed up：裏付けられている",
+      "answer_core": "裏付けられている",
+      "usage_examples": [
+        {
+          "english": "The claim is backed up by evidence.",
+          "japanese": "その主張は証拠によって裏付けられている。"
+        }
+      ],
+      "card_sentence": {
+        "before": "ba backed up：",
+        "hidden": "裏付けられている",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-10-10",
+      "learned_on": "2026-10-10"
+    },
+    {
+      "id": "dateonly20261010-21-then",
+      "source": {
+        "book": "",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "thenはその時〜〜〜〜〜ー〜ー〜",
+      "category": "tip",
+      "prompt": "thenはその時〜〜〜〜〜ー〜ー〜",
+      "answer_core": "thenはその時〜〜〜〜〜ー〜ー〜",
+      "usage_examples": [
+        {
+          "english": "I was living in Tokyo then.",
+          "japanese": "私はその時東京に住んでいた。"
+        }
+      ],
+      "card_sentence": {
+        "before": "",
+        "hidden": "thenはその時〜〜〜〜〜ー〜ー〜",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-10-10",
+      "learned_on": "2026-10-10"
+    },
+    {
+      "id": "dateonly20261010-22-get-on-with",
+      "source": {
+        "book": "",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "get on with：進める",
+      "category": "term",
+      "prompt": "get on with：進める",
+      "answer_core": "進める",
+      "usage_examples": [
+        {
+          "english": "Let's get on with the work.",
+          "japanese": "仕事を進めよう。"
+        }
+      ],
+      "card_sentence": {
+        "before": "get on with：",
+        "hidden": "進める",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-10-10",
+      "learned_on": "2026-10-10"
+    },
+    {
+      "id": "dateonly20261010-23-dying",
+      "source": {
+        "book": "",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "dying：死にかけている",
+      "category": "term",
+      "prompt": "dying：死にかけている",
+      "answer_core": "死にかけている",
+      "usage_examples": [
+        {
+          "english": "The plant is dying.",
+          "japanese": "その植物は死にかけている。"
+        }
+      ],
+      "card_sentence": {
+        "before": "dying：",
+        "hidden": "死にかけている",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-10-10",
+      "learned_on": "2026-10-10"
+    },
+    {
+      "id": "dateonly20261010-24-it-is-who",
+      "source": {
+        "book": "",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "it is…who：強調構文です",
+      "category": "tip",
+      "prompt": "it is…who：強調構文です",
+      "answer_core": "強調構文です",
+      "usage_examples": [
+        {
+          "english": "It is Tom who solved the problem.",
+          "japanese": "その問題を解いたのはトムだ。"
+        }
+      ],
+      "card_sentence": {
+        "before": "it is…who：",
+        "hidden": "強調構文です",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-10-10",
+      "learned_on": "2026-10-10"
+    },
+    {
+      "id": "dateonly20261010-25-all-of-which",
+      "source": {
+        "book": "",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "all of which：その全て",
+      "category": "term",
+      "prompt": "all of which：その全て",
+      "answer_core": "その全て",
+      "usage_examples": [
+        {
+          "english": "She bought three books, all of which were useful.",
+          "japanese": "彼女は3冊の本を買い、その全てが役立った。"
+        }
+      ],
+      "card_sentence": {
+        "before": "all of which：",
+        "hidden": "その全て",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-10-10",
+      "learned_on": "2026-10-10"
+    },
+    {
+      "id": "dateonly20261010-26-into-out-of",
+      "source": {
+        "book": "",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "into↔out ofでどちらも前置詞",
+      "category": "tip",
+      "prompt": "into↔out ofでどちらも前置詞",
+      "answer_core": "into↔out ofでどちらも前置詞",
+      "usage_examples": [
+        {
+          "english": "He went into the room and out of it again.",
+          "japanese": "彼は部屋に入り、また外へ出た。"
+        }
+      ],
+      "card_sentence": {
+        "before": "",
+        "hidden": "into↔out ofでどちらも前置詞",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-10-10",
+      "learned_on": "2026-10-10"
+    },
+    {
+      "id": "dateonly20261010-27-self-fulfilling",
+      "source": {
+        "book": "",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "self-fulfilling：思い込みが本当にそうなってしまう意",
+      "category": "term",
+      "prompt": "self-fulfilling：思い込みが本当にそうなってしまう意",
+      "answer_core": "思い込みが本当にそうなってしまう意",
+      "usage_examples": [
+        {
+          "english": "Fear can become self-fulfilling.",
+          "japanese": "恐れは思い込みどおりの結果を招くことがある。"
+        }
+      ],
+      "card_sentence": {
+        "before": "self-fulfilling：",
+        "hidden": "思い込みが本当にそうなってしまう意",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-10-10",
+      "learned_on": "2026-10-10"
+    },
+    {
+      "id": "dateonly20261010-28-trick",
+      "source": {
+        "book": "",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "trick：だます",
+      "category": "term",
+      "prompt": "trick：だます",
+      "answer_core": "だます",
+      "usage_examples": [
+        {
+          "english": "He tricked me into agreeing.",
+          "japanese": "彼は私をだまして同意させた。"
+        }
+      ],
+      "card_sentence": {
+        "before": "trick：",
+        "hidden": "だます",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-10-10",
+      "learned_on": "2026-10-10"
+    },
+    {
+      "id": "dateonly20261010-29-too-to",
+      "source": {
+        "book": "",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "too to：しすぎてできない",
+      "category": "tip",
+      "prompt": "too to：しすぎてできない",
+      "answer_core": "しすぎてできない",
+      "usage_examples": [
+        {
+          "english": "The box is too heavy to lift.",
+          "japanese": "その箱は重すぎて持ち上げられない。"
+        }
+      ],
+      "card_sentence": {
+        "before": "too to：",
+        "hidden": "しすぎてできない",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-10-10",
+      "learned_on": "2026-10-10"
+    },
+    {
+      "id": "dateonly20261010-30-something",
+      "source": {
+        "book": "",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "訳しにくいsomething：もの",
+      "category": "tip",
+      "prompt": "訳しにくいsomething：もの",
+      "answer_core": "もの",
+      "usage_examples": [
+        {
+          "english": "I need something to eat.",
+          "japanese": "私は食べるものが必要だ。"
+        }
+      ],
+      "card_sentence": {
+        "before": "訳しにくいsomething：",
+        "hidden": "もの",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-10-10",
+      "learned_on": "2026-10-10"
+    },
+    {
+      "id": "dateonly20261010-31-in-response",
+      "source": {
+        "book": "",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "in response：それを受け",
+      "category": "term",
+      "prompt": "in response：それを受け",
+      "answer_core": "それを受け",
+      "usage_examples": [
+        {
+          "english": "In response, the company changed its policy.",
+          "japanese": "それを受け、会社は方針を変えた。"
+        }
+      ],
+      "card_sentence": {
+        "before": "in response：",
+        "hidden": "それを受け",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-10-10",
+      "learned_on": "2026-10-10"
+    },
+    {
+      "id": "dateonly20261010-32-third-party",
+      "source": {
+        "book": "",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "third party：第三者",
+      "category": "term",
+      "prompt": "third party：第三者",
+      "answer_core": "第三者",
+      "usage_examples": [
+        {
+          "english": "A third party checked the agreement.",
+          "japanese": "第三者がその契約を確認した。"
+        }
+      ],
+      "card_sentence": {
+        "before": "third party：",
+        "hidden": "第三者",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-10-10",
+      "learned_on": "2026-10-10"
+    },
+    {
+      "id": "dateonly20261010-33-stock-prices",
+      "source": {
+        "book": "",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "stock prices：株価",
+      "category": "term",
+      "prompt": "stock prices：株価",
+      "answer_core": "株価",
+      "usage_examples": [
+        {
+          "english": "Stock prices fell sharply.",
+          "japanese": "株価は急落した。"
+        }
+      ],
+      "card_sentence": {
+        "before": "stock prices：",
+        "hidden": "株価",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-10-10",
+      "learned_on": "2026-10-10"
+    },
+    {
+      "id": "dateonly20261010-34-a-and-never-b-a-b",
+      "source": {
+        "book": "",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "A, and never B ： Aであるべきで、決してBではない",
+      "category": "tip",
+      "prompt": "A, and never B ： Aであるべきで、決してBではない",
+      "answer_core": " Aであるべきで、決してBではない",
+      "usage_examples": [
+        {
+          "english": "It should be a choice, and never an order.",
+          "japanese": "それは選択であるべきで、決して命令であってはならない。"
+        }
+      ],
+      "card_sentence": {
+        "before": "A, and never B ：",
+        "hidden": " Aであるべきで、決してBではない",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-10-10",
+      "learned_on": "2026-10-10"
+    },
+    {
+      "id": "dateonly20261010-35-drive",
+      "source": {
+        "book": "",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "drive：引き起こす",
+      "category": "term",
+      "prompt": "drive：引き起こす",
+      "answer_core": "引き起こす",
+      "usage_examples": [
+        {
+          "english": "High demand drove prices higher.",
+          "japanese": "高い需要が価格上昇を引き起こした。"
+        }
+      ],
+      "card_sentence": {
+        "before": "drive：",
+        "hidden": "引き起こす",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-10-10",
+      "learned_on": "2026-10-10"
+    },
+    {
+      "id": "dateonly20261010-36-while-also",
+      "source": {
+        "book": "",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "while alsoはもう一個の特徴が追加",
+      "category": "tip",
+      "prompt": "while alsoはもう一個の特徴が追加",
+      "answer_core": "while alsoはもう一個の特徴が追加",
+      "usage_examples": [
+        {
+          "english": "The tool is cheap while also being reliable.",
+          "japanese": "その道具は安く、さらに信頼性もある。"
+        }
+      ],
+      "card_sentence": {
+        "before": "",
+        "hidden": "while alsoはもう一個の特徴が追加",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-10-10",
+      "learned_on": "2026-10-10"
+    },
+    {
+      "id": "dateonly20261010-37-demographic",
+      "source": {
+        "book": "",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "demographic：人口統計",
+      "category": "term",
+      "prompt": "demographic：人口統計",
+      "answer_core": "人口統計",
+      "usage_examples": [
+        {
+          "english": "The study examined demographic changes.",
+          "japanese": "その研究は人口統計上の変化を調べた。"
+        }
+      ],
+      "card_sentence": {
+        "before": "demographic：",
+        "hidden": "人口統計",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-10-10",
+      "learned_on": "2026-10-10"
+    },
+    {
+      "id": "dateonly20261010-38-competency",
+      "source": {
+        "book": "",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "competency：能力",
+      "category": "term",
+      "prompt": "competency：能力",
+      "answer_core": "能力",
+      "usage_examples": [
+        {
+          "english": "The job requires technical competency.",
+          "japanese": "その仕事には技術的な能力が必要だ。"
+        }
+      ],
+      "card_sentence": {
+        "before": "competency：",
+        "hidden": "能力",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-10-10",
+      "learned_on": "2026-10-10"
+    },
+    {
+      "id": "dateonly20261010-39-mismatch",
+      "source": {
+        "book": "",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "mismatch：不一致。それだけの意味",
+      "category": "term",
+      "prompt": "mismatch：不一致。それだけの意味",
+      "answer_core": "不一致。それだけの意味",
+      "usage_examples": [
+        {
+          "english": "There is a mismatch between supply and demand.",
+          "japanese": "需要と供給に不一致がある。"
+        }
+      ],
+      "card_sentence": {
+        "before": "mismatch：",
+        "hidden": "不一致。それだけの意味",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-10-10",
+      "learned_on": "2026-10-10"
+    },
+    {
+      "id": "dateonly20261010-40-coupled-with",
+      "source": {
+        "book": "",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "coupled with：結びついて",
+      "category": "term",
+      "prompt": "coupled with：結びついて",
+      "answer_core": "結びついて",
+      "usage_examples": [
+        {
+          "english": "Stress coupled with poor sleep caused problems.",
+          "japanese": "ストレスが睡眠不足と結びついて問題を引き起こした。"
+        }
+      ],
+      "card_sentence": {
+        "before": "coupled with：",
+        "hidden": "結びついて",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-10-10",
+      "learned_on": "2026-10-10"
+    },
+    {
+      "id": "dateonly20261010-41-exert",
+      "source": {
+        "book": "",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "exert：力を及ぼす",
+      "category": "term",
+      "prompt": "exert：力を及ぼす",
+      "answer_core": "力を及ぼす",
+      "usage_examples": [
+        {
+          "english": "Parents exert influence on children.",
+          "japanese": "親は子どもに影響力を及ぼす。"
+        }
+      ],
+      "card_sentence": {
+        "before": "exert：",
+        "hidden": "力を及ぼす",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-10-10",
+      "learned_on": "2026-10-10"
+    },
+    {
+      "id": "dateonly20261010-42-capitalize-on",
+      "source": {
+        "book": "",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "capitalize on：上手く利用する",
+      "category": "term",
+      "prompt": "capitalize on：上手く利用する",
+      "answer_core": "上手く利用する",
+      "usage_examples": [
+        {
+          "english": "The company capitalized on the new trend.",
+          "japanese": "その会社は新しい流行を上手く利用した。"
+        }
+      ],
+      "card_sentence": {
+        "before": "capitalize on：",
+        "hidden": "上手く利用する",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-10-10",
+      "learned_on": "2026-10-10"
+    },
+    {
+      "id": "dateonly20261010-43-consequence-or",
+      "source": {
+        "book": "",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "consequence：結果or影響",
+      "category": "term",
+      "prompt": "consequence：結果or影響",
+      "answer_core": "結果or影響",
+      "usage_examples": [
+        {
+          "english": "The decision had serious consequences.",
+          "japanese": "その決定は深刻な影響をもたらした。"
+        }
+      ],
+      "card_sentence": {
+        "before": "consequence：",
+        "hidden": "結果or影響",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-10-10",
+      "learned_on": "2026-10-10"
+    },
+    {
+      "id": "dateonly20261010-44-headcount",
+      "source": {
+        "book": "",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "headcount：従業員数",
+      "category": "term",
+      "prompt": "headcount：従業員数",
+      "answer_core": "従業員数",
+      "usage_examples": [
+        {
+          "english": "The company reduced its headcount.",
+          "japanese": "その会社は従業員数を減らした。"
+        }
+      ],
+      "card_sentence": {
+        "before": "headcount：",
+        "hidden": "従業員数",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-10-10",
+      "learned_on": "2026-10-10"
+    },
+    {
+      "id": "dateonly20261010-45-sweeping",
+      "source": {
+        "book": "",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "sweeping：広範囲に",
+      "category": "term",
+      "prompt": "sweeping：広範囲に",
+      "answer_core": "広範囲に",
+      "usage_examples": [
+        {
+          "english": "The law brought sweeping changes.",
+          "japanese": "その法律は広範囲の変化をもたらした。"
+        }
+      ],
+      "card_sentence": {
+        "before": "sweeping：",
+        "hidden": "広範囲に",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-10-10",
+      "learned_on": "2026-10-10"
+    },
+    {
+      "id": "dateonly20261010-46-anticipate",
+      "source": {
+        "book": "",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "anticipate：予測する",
+      "category": "term",
+      "prompt": "anticipate：予測する",
+      "answer_core": "予測する",
+      "usage_examples": [
+        {
+          "english": "We anticipated higher demand.",
+          "japanese": "私たちは需要の増加を予測した。"
+        }
+      ],
+      "card_sentence": {
+        "before": "anticipate：",
+        "hidden": "予測する",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-10-10",
+      "learned_on": "2026-10-10"
+    },
+    {
+      "id": "dateonly20261010-47-soften",
+      "source": {
+        "book": "",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "soften：柔らかく",
+      "category": "term",
+      "prompt": "soften：柔らかく",
+      "answer_core": "柔らかく",
+      "usage_examples": [
+        {
+          "english": "Heat will soften the butter.",
+          "japanese": "熱でバターが柔らかくなる。"
+        }
+      ],
+      "card_sentence": {
+        "before": "soften：",
+        "hidden": "柔らかく",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-10-10",
+      "learned_on": "2026-10-10"
+    },
+    {
+      "id": "dateonly20261010-48-meant",
+      "source": {
+        "book": "",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "meantの根底は意図",
+      "category": "tip",
+      "prompt": "meantの根底は意図",
+      "answer_core": "meantの根底は意図",
+      "usage_examples": [
+        {
+          "english": "The message was meant to help.",
+          "japanese": "そのメッセージは助ける意図で書かれた。"
+        }
+      ],
+      "card_sentence": {
+        "before": "",
+        "hidden": "meantの根底は意図",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-10-10",
+      "learned_on": "2026-10-10"
+    },
+    {
+      "id": "dateonly20261010-49-by",
+      "source": {
+        "book": "",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "基準のby！",
+      "category": "tip",
+      "prompt": "基準のby！",
+      "answer_core": "基準のby！",
+      "usage_examples": [
+        {
+          "english": "We judged the plan by its results.",
+          "japanese": "私たちは結果を基準にその計画を判断した。"
+        }
+      ],
+      "card_sentence": {
+        "before": "",
+        "hidden": "基準のby！",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-10-10",
+      "learned_on": "2026-10-10"
+    },
+    {
+      "id": "dateonly20261010-50-what",
+      "source": {
+        "book": "",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "whatは先行詞なしで関代つかえる。",
+      "category": "tip",
+      "prompt": "whatは先行詞なしで関代つかえる。",
+      "answer_core": "whatは先行詞なしで関代つかえる。",
+      "usage_examples": [
+        {
+          "english": "I understand what you mean.",
+          "japanese": "私はあなたの言っていることが分かる。"
+        }
+      ],
+      "card_sentence": {
+        "before": "",
+        "hidden": "whatは先行詞なしで関代つかえる。",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-10-10",
+      "learned_on": "2026-10-10"
+    },
+    {
+      "id": "dateonly20261010-51-ship",
+      "source": {
+        "book": "",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "shipは名詞化",
+      "category": "tip",
+      "prompt": "shipは名詞化",
+      "answer_core": "shipは名詞化",
+      "usage_examples": [
+        {
+          "english": "Friendship is important.",
+          "japanese": "友情は大切だ。"
+        }
+      ],
+      "card_sentence": {
+        "before": "",
+        "hidden": "shipは名詞化",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-10-10",
+      "learned_on": "2026-10-10"
+    },
+    {
+      "id": "dateonly20261010-52-dispose-to-dispose-of",
+      "source": {
+        "book": "",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "dispose to したい気分 dispose of 捨てる",
+      "category": "tip",
+      "prompt": "dispose to したい気分 dispose of 捨てる",
+      "answer_core": "dispose to したい気分 dispose of 捨てる",
+      "usage_examples": [
+        {
+          "english": "She disposed of the old papers.",
+          "japanese": "彼女は古い書類を捨てた。"
+        }
+      ],
+      "card_sentence": {
+        "before": "",
+        "hidden": "dispose to したい気分 dispose of 捨てる",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-10-10",
+      "learned_on": "2026-10-10"
+    },
+    {
+      "id": "dateonly20261010-53-totally",
+      "source": {
+        "book": "",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "totally：完全に",
+      "category": "term",
+      "prompt": "totally：完全に",
+      "answer_core": "完全に",
+      "usage_examples": [
+        {
+          "english": "I totally agree.",
+          "japanese": "私は完全に同意する。"
+        }
+      ],
+      "card_sentence": {
+        "before": "totally：",
+        "hidden": "完全に",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-10-10",
+      "learned_on": "2026-10-10"
+    },
+    {
+      "id": "dateonly20261010-54-adequacy",
+      "source": {
+        "book": "",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "adequacy：妥当",
+      "category": "term",
+      "prompt": "adequacy：妥当",
+      "answer_core": "妥当",
+      "usage_examples": [
+        {
+          "english": "They questioned the adequacy of the plan.",
+          "japanese": "彼らはその計画の妥当性を疑問視した。"
+        }
+      ],
+      "card_sentence": {
+        "before": "adequacy：",
+        "hidden": "妥当",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-10-10",
+      "learned_on": "2026-10-10"
+    },
+    {
+      "id": "dateonly20261010-55-peer-or",
+      "source": {
+        "book": "",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "peer：名詞 同年代 or 動詞 じっとみる",
+      "category": "term",
+      "prompt": "peer：名詞 同年代 or 動詞 じっとみる",
+      "answer_core": "名詞 同年代 or 動詞 じっとみる",
+      "usage_examples": [
+        {
+          "english": "She peered through the window.",
+          "japanese": "彼女は窓越しにじっと見た。"
+        }
+      ],
+      "card_sentence": {
+        "before": "peer：",
+        "hidden": "名詞 同年代 or 動詞 じっとみる",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-10-10",
+      "learned_on": "2026-10-10"
+    },
+    {
+      "id": "dateonly20261010-56-use-svoc-o",
+      "source": {
+        "book": "",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "useのsvocは 〜するためにOを使う",
+      "category": "tip",
+      "prompt": "useのsvocは 〜するためにOを使う",
+      "answer_core": "useのsvocは 〜するためにOを使う",
+      "usage_examples": [
+        {
+          "english": "We use this tool to cut wood.",
+          "japanese": "私たちは木を切るためにこの道具を使う。"
+        }
+      ],
+      "card_sentence": {
+        "before": "",
+        "hidden": "useのsvocは 〜するためにOを使う",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-10-10",
+      "learned_on": "2026-10-10"
+    },
+    {
+      "id": "dateonly20261010-57-provide-with-to-for",
+      "source": {
+        "book": "",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "provide型はwithだけではなく、物と人を入れ替えてtoやforでも使われる",
+      "category": "tip",
+      "prompt": "provide型はwithだけではなく、物と人を入れ替えてtoやforでも使われる",
+      "answer_core": "provide型はwithだけではなく、物と人を入れ替えてtoやforでも使われる",
+      "usage_examples": [
+        {
+          "english": "They provided food for the guests.",
+          "japanese": "彼らは客のために食べ物を用意した。"
+        }
+      ],
+      "card_sentence": {
+        "before": "",
+        "hidden": "provide型はwithだけではなく、物と人を入れ替えてtoやforでも使われる",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-10-10",
+      "learned_on": "2026-10-10"
+    }
+  ],
+  "completedLessons": [],
+  "weaknessRows": [
+    "| 2026-10-10 |  |  | decisively：断固として／commitment：献身する／the Constitution：憲法／nature：自然or本質／the object of：の対象／otherは、そのほかだからどんなのか考える／flies：ハエ／afterwardsは、副詞でその後／rate動詞：評価する／deliberate：意図的／deliver：もたらす／what if：どうなる？／measure：措置／what S be like ＝ Sがどのようなものか／find one's way into：入り込む／response：対策／impair：損なう／coinが硬貨、billが紙幣／appeal：訴えor魅力／ba backed up：裏付けられている／thenはその時〜〜〜〜〜ー〜ー〜／get on with：進める／dying：死にかけている／it is…who：強調構文です／all of which：その全て／into↔out ofでどちらも前置詞／self-fulfilling：思い込みが本当にそうなってしまう意／trick：だます／too to：しすぎてできない／訳しにくいsomething：もの／in response：それを受け／third party：第三者／stock prices：株価／A, and never B ： Aであるべきで、決してBではない／drive：引き起こす／while alsoはもう一個の特徴が追加／demographic：人口統計／competency：能力／mismatch：不一致。それだけの意味／coupled with：結びついて／exert：力を及ぼす／capitalize on：上手く利用する／consequence：結果or影響／headcount：従業員数／sweeping：広範囲に／anticipate：予測する／soften：柔らかく／meantの根底は意図／基準のby！／whatは先行詞なしで関代つかえる。／shipは名詞化／dispose to したい気分 dispose of 捨てる／totally：完全に／adequacy：妥当／peer：名詞 同年代 or 動詞 じっとみる／useのsvocは 〜するためにOを使う／provide型はwithだけではなく、物と人を入れ替えてtoやforでも使われる |"
+  ]
+}
