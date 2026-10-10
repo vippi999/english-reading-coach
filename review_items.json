@@ -15797,7 +15797,7 @@
       "target": "nature：自然or本質",
       "category": "term",
       "prompt": "nature：自然or本質",
-      "answer_core": "自然or本質",
+      "answer_core": "本質",
       "usage_examples": [
         {
           "english": "We discussed the nature of the problem.",
@@ -15805,8 +15805,8 @@
         }
       ],
       "card_sentence": {
-        "before": "nature：",
-        "hidden": "自然or本質",
+        "before": "nature：自然or",
+        "hidden": "本質",
         "after": ""
       },
       "difficulty": "basic",
@@ -15851,7 +15851,7 @@
       "target": "otherは、そのほかだからどんなのか考える",
       "category": "tip",
       "prompt": "otherは、そのほかだからどんなのか考える",
-      "answer_core": "otherは、そのほかだからどんなのか考える",
+      "answer_core": "そのほかだからどんなのか考える",
       "usage_examples": [
         {
           "english": "Other students chose a different option.",
@@ -15859,8 +15859,8 @@
         }
       ],
       "card_sentence": {
-        "before": "",
-        "hidden": "otherは、そのほかだからどんなのか考える",
+        "before": "otherは、",
+        "hidden": "そのほかだからどんなのか考える",
         "after": ""
       },
       "difficulty": "basic",
@@ -15905,7 +15905,7 @@
       "target": "afterwardsは、副詞でその後",
       "category": "tip",
       "prompt": "afterwardsは、副詞でその後",
-      "answer_core": "afterwardsは、副詞でその後",
+      "answer_core": "その後",
       "usage_examples": [
         {
           "english": "We ate dinner and talked afterwards.",
@@ -15913,8 +15913,8 @@
         }
       ],
       "card_sentence": {
-        "before": "",
-        "hidden": "afterwardsは、副詞でその後",
+        "before": "afterwardsは、副詞で",
+        "hidden": "その後",
         "after": ""
       },
       "difficulty": "basic",
@@ -16043,8 +16043,8 @@
       "answer_core": "措置",
       "usage_examples": [
         {
-          "english": "The government introduced new measures.",
-          "japanese": "政府は新たな措置を導入した。"
+          "english": "This measure reduced pollution.",
+          "japanese": "この措置は汚染を減らした。"
         }
       ],
       "card_sentence": {
@@ -16067,7 +16067,7 @@
       "target": "what S be like ＝ Sがどのようなものか",
       "category": "tip",
       "prompt": "what S be like ＝ Sがどのようなものか",
-      "answer_core": "what S be like ＝ Sがどのようなものか",
+      "answer_core": "Sがどのようなものか",
       "usage_examples": [
         {
           "english": "I wonder what the future will be like.",
@@ -16075,8 +16075,8 @@
         }
       ],
       "card_sentence": {
-        "before": "",
-        "hidden": "what S be like ＝ Sがどのようなものか",
+        "before": "what S be like ＝ ",
+        "hidden": "Sがどのようなものか",
         "after": ""
       },
       "difficulty": "basic",
@@ -16124,8 +16124,8 @@
       "answer_core": "対策",
       "usage_examples": [
         {
-          "english": "The city announced a new response.",
-          "japanese": "市は新たな対策を発表した。"
+          "english": "The government prepared a response to the crisis.",
+          "japanese": "政府は危機への対策を準備した。"
         }
       ],
       "card_sentence": {
@@ -16175,7 +16175,7 @@
       "target": "coinが硬貨、billが紙幣",
       "category": "tip",
       "prompt": "coinが硬貨、billが紙幣",
-      "answer_core": "coinが硬貨、billが紙幣",
+      "answer_core": "紙幣",
       "usage_examples": [
         {
           "english": "I paid with a coin and a bill.",
@@ -16183,8 +16183,8 @@
         }
       ],
       "card_sentence": {
-        "before": "",
-        "hidden": "coinが硬貨、billが紙幣",
+        "before": "coinが硬貨、billが",
+        "hidden": "紙幣",
         "after": ""
       },
       "difficulty": "basic",
@@ -16202,7 +16202,7 @@
       "target": "appeal：訴えor魅力",
       "category": "term",
       "prompt": "appeal：訴えor魅力",
-      "answer_core": "訴えor魅力",
+      "answer_core": "魅力",
       "usage_examples": [
         {
           "english": "The idea has broad appeal.",
@@ -16210,8 +16210,8 @@
         }
       ],
       "card_sentence": {
-        "before": "appeal：",
-        "hidden": "訴えor魅力",
+        "before": "appeal：訴えor",
+        "hidden": "魅力",
         "after": ""
       },
       "difficulty": "basic",
@@ -16256,7 +16256,7 @@
       "target": "thenはその時〜〜〜〜〜ー〜ー〜",
       "category": "tip",
       "prompt": "thenはその時〜〜〜〜〜ー〜ー〜",
-      "answer_core": "thenはその時〜〜〜〜〜ー〜ー〜",
+      "answer_core": "その時〜〜〜〜〜ー〜ー〜",
       "usage_examples": [
         {
           "english": "I was living in Tokyo then.",
@@ -16264,8 +16264,8 @@
         }
       ],
       "card_sentence": {
-        "before": "",
-        "hidden": "thenはその時〜〜〜〜〜ー〜ー〜",
+        "before": "thenは",
+        "hidden": "その時〜〜〜〜〜ー〜ー〜",
         "after": ""
       },
       "difficulty": "basic",
@@ -16391,7 +16391,7 @@
       "target": "into↔out ofでどちらも前置詞",
       "category": "tip",
       "prompt": "into↔out ofでどちらも前置詞",
-      "answer_core": "into↔out ofでどちらも前置詞",
+      "answer_core": "どちらも前置詞",
       "usage_examples": [
         {
           "english": "He went into the room and out of it again.",
@@ -16399,8 +16399,8 @@
         }
       ],
       "card_sentence": {
-        "before": "",
-        "hidden": "into↔out ofでどちらも前置詞",
+        "before": "into↔out ofで",
+        "hidden": "どちらも前置詞",
         "after": ""
       },
       "difficulty": "basic",
@@ -16421,8 +16421,8 @@
       "answer_core": "思い込みが本当にそうなってしまう意",
       "usage_examples": [
         {
-          "english": "Fear can become self-fulfilling.",
-          "japanese": "恐れは思い込みどおりの結果を招くことがある。"
+          "english": "The rumor became a self-fulfilling prophecy.",
+          "japanese": "そのうわさは思い込みどおりの結果を招いた。"
         }
       ],
       "card_sentence": {
@@ -16661,7 +16661,7 @@
       "target": "while alsoはもう一個の特徴が追加",
       "category": "tip",
       "prompt": "while alsoはもう一個の特徴が追加",
-      "answer_core": "while alsoはもう一個の特徴が追加",
+      "answer_core": "もう一個の特徴が追加",
       "usage_examples": [
         {
           "english": "The tool is cheap while also being reliable.",
@@ -16669,8 +16669,8 @@
         }
       ],
       "card_sentence": {
-        "before": "",
-        "hidden": "while alsoはもう一個の特徴が追加",
+        "before": "while alsoは",
+        "hidden": "もう一個の特徴が追加",
         "after": ""
       },
       "difficulty": "basic",
@@ -16742,7 +16742,7 @@
       "target": "mismatch：不一致。それだけの意味",
       "category": "term",
       "prompt": "mismatch：不一致。それだけの意味",
-      "answer_core": "不一致。それだけの意味",
+      "answer_core": "それだけの意味",
       "usage_examples": [
         {
           "english": "There is a mismatch between supply and demand.",
@@ -16750,8 +16750,8 @@
         }
       ],
       "card_sentence": {
-        "before": "mismatch：",
-        "hidden": "不一致。それだけの意味",
+        "before": "mismatch：不一致。",
+        "hidden": "それだけの意味",
         "after": ""
       },
       "difficulty": "basic",
@@ -16850,7 +16850,7 @@
       "target": "consequence：結果or影響",
       "category": "term",
       "prompt": "consequence：結果or影響",
-      "answer_core": "結果or影響",
+      "answer_core": "影響",
       "usage_examples": [
         {
           "english": "The decision had serious consequences.",
@@ -16858,8 +16858,8 @@
         }
       ],
       "card_sentence": {
-        "before": "consequence：",
-        "hidden": "結果or影響",
+        "before": "consequence：結果or",
+        "hidden": "影響",
         "after": ""
       },
       "difficulty": "basic",
@@ -16985,7 +16985,7 @@
       "target": "meantの根底は意図",
       "category": "tip",
       "prompt": "meantの根底は意図",
-      "answer_core": "meantの根底は意図",
+      "answer_core": "意図",
       "usage_examples": [
         {
           "english": "The message was meant to help.",
@@ -16993,8 +16993,8 @@
         }
       ],
       "card_sentence": {
-        "before": "",
-        "hidden": "meantの根底は意図",
+        "before": "meantの根底は",
+        "hidden": "意図",
         "after": ""
       },
       "difficulty": "basic",
@@ -17012,7 +17012,7 @@
       "target": "基準のby！",
       "category": "tip",
       "prompt": "基準のby！",
-      "answer_core": "基準のby！",
+      "answer_core": "by！",
       "usage_examples": [
         {
           "english": "We judged the plan by its results.",
@@ -17020,8 +17020,8 @@
         }
       ],
       "card_sentence": {
-        "before": "",
-        "hidden": "基準のby！",
+        "before": "基準の",
+        "hidden": "by！",
         "after": ""
       },
       "difficulty": "basic",
@@ -17039,7 +17039,7 @@
       "target": "whatは先行詞なしで関代つかえる。",
       "category": "tip",
       "prompt": "whatは先行詞なしで関代つかえる。",
-      "answer_core": "whatは先行詞なしで関代つかえる。",
+      "answer_core": "先行詞なしで関代つかえる。",
       "usage_examples": [
         {
           "english": "I understand what you mean.",
@@ -17047,8 +17047,8 @@
         }
       ],
       "card_sentence": {
-        "before": "",
-        "hidden": "whatは先行詞なしで関代つかえる。",
+        "before": "whatは",
+        "hidden": "先行詞なしで関代つかえる。",
         "after": ""
       },
       "difficulty": "basic",
@@ -17066,7 +17066,7 @@
       "target": "shipは名詞化",
       "category": "tip",
       "prompt": "shipは名詞化",
-      "answer_core": "shipは名詞化",
+      "answer_core": "名詞化",
       "usage_examples": [
         {
           "english": "Friendship is important.",
@@ -17074,8 +17074,8 @@
         }
       ],
       "card_sentence": {
-        "before": "",
-        "hidden": "shipは名詞化",
+        "before": "shipは",
+        "hidden": "名詞化",
         "after": ""
       },
       "difficulty": "basic",
@@ -17093,7 +17093,7 @@
       "target": "dispose to したい気分 dispose of 捨てる",
       "category": "tip",
       "prompt": "dispose to したい気分 dispose of 捨てる",
-      "answer_core": "dispose to したい気分 dispose of 捨てる",
+      "answer_core": "捨てる",
       "usage_examples": [
         {
           "english": "She disposed of the old papers.",
@@ -17101,8 +17101,8 @@
         }
       ],
       "card_sentence": {
-        "before": "",
-        "hidden": "dispose to したい気分 dispose of 捨てる",
+        "before": "dispose to したい気分 dispose of ",
+        "hidden": "捨てる",
         "after": ""
       },
       "difficulty": "basic",
@@ -17150,8 +17150,8 @@
       "answer_core": "妥当",
       "usage_examples": [
         {
-          "english": "They questioned the adequacy of the plan.",
-          "japanese": "彼らはその計画の妥当性を疑問視した。"
+          "english": "We assessed the adequacy of the evidence.",
+          "japanese": "私たちは証拠の妥当性を評価した。"
         }
       ],
       "card_sentence": {
@@ -17174,7 +17174,7 @@
       "target": "peer：名詞 同年代 or 動詞 じっとみる",
       "category": "term",
       "prompt": "peer：名詞 同年代 or 動詞 じっとみる",
-      "answer_core": "名詞 同年代 or 動詞 じっとみる",
+      "answer_core": "動詞 じっとみる",
       "usage_examples": [
         {
           "english": "She peered through the window.",
@@ -17182,8 +17182,8 @@
         }
       ],
       "card_sentence": {
-        "before": "peer：",
-        "hidden": "名詞 同年代 or 動詞 じっとみる",
+        "before": "peer：名詞 同年代 or ",
+        "hidden": "動詞 じっとみる",
         "after": ""
       },
       "difficulty": "basic",
@@ -17201,7 +17201,7 @@
       "target": "useのsvocは 〜するためにOを使う",
       "category": "tip",
       "prompt": "useのsvocは 〜するためにOを使う",
-      "answer_core": "useのsvocは 〜するためにOを使う",
+      "answer_core": "〜するためにOを使う",
       "usage_examples": [
         {
           "english": "We use this tool to cut wood.",
@@ -17209,8 +17209,8 @@
         }
       ],
       "card_sentence": {
-        "before": "",
-        "hidden": "useのsvocは 〜するためにOを使う",
+        "before": "useのsvocは ",
+        "hidden": "〜するためにOを使う",
         "after": ""
       },
       "difficulty": "basic",
@@ -17228,7 +17228,7 @@
       "target": "provide型はwithだけではなく、物と人を入れ替えてtoやforでも使われる",
       "category": "tip",
       "prompt": "provide型はwithだけではなく、物と人を入れ替えてtoやforでも使われる",
-      "answer_core": "provide型はwithだけではなく、物と人を入れ替えてtoやforでも使われる",
+      "answer_core": "物と人を入れ替えてtoやforでも使われる",
       "usage_examples": [
         {
           "english": "They provided food for the guests.",
@@ -17236,8 +17236,8 @@
         }
       ],
       "card_sentence": {
-        "before": "",
-        "hidden": "provide型はwithだけではなく、物と人を入れ替えてtoやforでも使われる",
+        "before": "provide型はwithだけではなく、",
+        "hidden": "物と人を入れ替えてtoやforでも使われる",
         "after": ""
       },
       "difficulty": "basic",
