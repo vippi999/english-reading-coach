@@ -112,74 +112,6 @@
       "review_history": []
     },
     {
-      "id": "rules1-l1-thirty-times-greater",
-      "source": {
-        "book": "The Rules 1",
-        "unit": "Lesson 1",
-        "location": "Session 1",
-        "excerpt": "thirty times greater"
-      },
-      "target": "thirty times greater",
-      "category": "grammar_or_quantity",
-      "prompt_mode": "quantity",
-      "prompt": "thirty times greater は、比較元に対してどれくらいか。",
-      "answer_core": "30倍",
-      "usage_examples": [
-        {
-          "english": "The risk was thirty times greater than before.",
-          "japanese": "そのリスクは以前の30倍だった。"
-        }
-      ],
-      "card_sentence": {
-        "before": "thirty times greaterは、比較元の",
-        "hidden": "30倍",
-        "after": "を表す。"
-      },
-      "accepted_keywords": [
-        "30倍",
-        "三十倍"
-      ],
-      "initial_processing": "3 millionを3倍のように誤確定した可能性",
-      "cue": "倍率だけでなく比較元の数値も保持して検算する",
-      "status": "learning",
-      "created_at": "2026-07-13",
-      "review_history": []
-    },
-    {
-      "id": "rules1-l1-soccers-rivals",
-      "source": {
-        "book": "The Rules 1",
-        "unit": "Lesson 1",
-        "location": "Session 1",
-        "excerpt": "one of soccer's rivals"
-      },
-      "target": "one of soccer's rivals",
-      "category": "word_or_chunk",
-      "prompt_mode": "context_meaning",
-      "prompt": "one of soccer's rivals は、何の一つか。",
-      "answer_core": "サッカーのライバル競技の一つ",
-      "usage_examples": [
-        {
-          "english": "Basketball is one of soccer's rivals for young viewers.",
-          "japanese": "バスケットボールは、若い視聴者をめぐるサッカーのライバル競技の一つだ。"
-        }
-      ],
-      "card_sentence": {
-        "before": "one of soccer's rivalsは、",
-        "hidden": "サッカーのライバル競技の一つ",
-        "after": "と読む。"
-      },
-      "accepted_keywords": [
-        "ライバル競技",
-        "サッカーと競合する競技"
-      ],
-      "initial_processing": "soccer'sをサッカーをする人々のように取り、敵チームへ寄せた",
-      "cue": "所有格の対象が人か競技かを後続と文脈で確認する",
-      "status": "learning",
-      "created_at": "2026-07-13",
-      "review_history": []
-    },
-    {
       "id": "rules1-l1-have-always-been",
       "source": {
         "book": "The Rules 1",
@@ -209,41 +141,6 @@
       ],
       "initial_processing": "現在完了とalwaysの組み合わせを速度内で処理できなかった",
       "cue": "alwaysを現在完了の継続範囲に入れる",
-      "status": "learning",
-      "created_at": "2026-07-13",
-      "review_history": []
-    },
-    {
-      "id": "rules1-l1-get-excited-about",
-      "source": {
-        "book": "The Rules 1",
-        "unit": "Lesson 1",
-        "location": "Session 1",
-        "excerpt": "have never gotten very excited about soccer"
-      },
-      "target": "get excited about",
-      "category": "grammar_or_quantity",
-      "prompt_mode": "context_meaning",
-      "prompt": "get excited about は、どんな状態変化・意味か。",
-      "answer_core": "〜に興奮する／熱中する状態になる",
-      "usage_examples": [
-        {
-          "english": "Children get excited about the school festival.",
-          "japanese": "子どもたちは学校祭にわくわくする。"
-        }
-      ],
-      "card_sentence": {
-        "before": "get excited aboutは、",
-        "hidden": "「〜に興奮する／熱中する状態になる」",
-        "after": "。"
-      },
-      "accepted_keywords": [
-        "興奮する",
-        "熱中する",
-        "状態になる"
-      ],
-      "initial_processing": "excitedを『楽しむ』のように曖昧に処理し、-ing/-edも混線した",
-      "cue": "get + 形容詞。-edは感情を感じる側",
       "status": "learning",
       "created_at": "2026-07-13",
       "review_history": []
@@ -314,41 +211,6 @@
       ],
       "initial_processing": "単純過去ではなくdid + growになる理由が分からなかった",
       "cue": "肯定文でdo/did + 原形なら強調を疑う",
-      "status": "learning",
-      "created_at": "2026-07-13",
-      "review_history": []
-    },
-    {
-      "id": "rules1-l1-prompt-verb",
-      "source": {
-        "book": "The Rules 1",
-        "unit": "Lesson 1",
-        "location": "Session 1",
-        "excerpt": "These events prompted an increase"
-      },
-      "target": "prompt A",
-      "category": "word_or_chunk",
-      "prompt_mode": "context_meaning",
-      "prompt": "prompt A は、この文でどんな品詞・意味か。",
-      "answer_core": "動詞で、Aを促す／引き起こす",
-      "usage_examples": [
-        {
-          "english": "The speech prompted Aiko to apply for the program.",
-          "japanese": "そのスピーチが、アキコにそのプログラムへの応募を促した。"
-        }
-      ],
-      "card_sentence": {
-        "before": "prompt Aは「即座」ではなく、",
-        "hidden": "Aを促したり引き起こしたりする",
-        "after": "という意味になる。"
-      },
-      "accepted_keywords": [
-        "動詞",
-        "促す",
-        "引き起こす"
-      ],
-      "initial_processing": "形容詞prompt『即座の』を当てた",
-      "cue": "主語の直後で述語動詞の位置か確認する",
       "status": "learning",
       "created_at": "2026-07-13",
       "review_history": []
@@ -550,34 +412,6 @@
       "learned_on": "2026-07-13"
     },
     {
-      "id": "rules1-l2-appositive-that-cvs",
-      "source": {
-        "book": "The Rules 1",
-        "unit": "Lesson 2",
-        "location": "Session 2",
-        "excerpt": "Of primary importance is the fact that ..."
-      },
-      "target": "同格のthatを使ったSVC",
-      "category": "grammar_or_quantity",
-      "prompt": "同格のthatを使ったSVCは、どんな語順になりやすいか。",
-      "answer_core": "CVSになりやすい。",
-      "usage_examples": [
-        {
-          "english": "Of primary importance is the fact that ...",
-          "japanese": "特に重要なのは、…という事実だ。"
-        }
-      ],
-      "card_sentence": {
-        "before": "同格のthatを使ったSVCは、",
-        "hidden": "CVSになりやすい",
-        "after": "。"
-      },
-      "initial_processing": "意味は取れたが、同格のthatを含むSVCがCVSになりやすい型としては整理していなかった。",
-      "cue": "Cが前に出て、the fact that以下のSが後ろに来る形を見る。",
-      "created_at": "2026-07-13",
-      "learned_on": "2026-07-13"
-    },
-    {
       "id": "rules1-l1-moreover",
       "source": {
         "book": "The Rules 1",
@@ -690,62 +524,6 @@
       "learned_on": "2026-07-13"
     },
     {
-      "id": "rules1-l1-such-as",
-      "source": {
-        "book": "The Rules 1",
-        "unit": "Lesson 1",
-        "location": "Session 1",
-        "excerpt": "such soccer-loving areas as California"
-      },
-      "target": "such 〜〜〜 as B",
-      "category": "word_or_chunk",
-      "prompt": "such 〜〜〜 as B",
-      "answer_core": "Bのような〜〜〜",
-      "usage_examples": [
-        {
-          "english": "such soccer-loving areas as California",
-          "japanese": "カリフォルニアのようなサッカー好きの地域"
-        }
-      ],
-      "card_sentence": {
-        "before": "such 〜〜〜 as Bは",
-        "hidden": "「Bのような〜〜〜」",
-        "after": "で、suchとasの間が長いこともある。"
-      },
-      "initial_processing": "suchとasが離れていてまとまりを取れなかった。",
-      "cue": "suchとasを対応させる。",
-      "created_at": "2026-07-13",
-      "learned_on": "2026-07-13"
-    },
-    {
-      "id": "rules1-l1-due-to-arrow",
-      "source": {
-        "book": "The Rules 1",
-        "unit": "Lesson 1",
-        "location": "Session 1",
-        "excerpt": "due to"
-      },
-      "target": "due to",
-      "category": "discourse_marker",
-      "prompt": "due to",
-      "answer_core": "右向き矢印",
-      "usage_examples": [
-        {
-          "english": "The game stopped due to rain.",
-          "japanese": "雨のため試合が止まった。"
-        }
-      ],
-      "card_sentence": {
-        "before": "due toは",
-        "hidden": "右向き矢印",
-        "after": "。"
-      },
-      "initial_processing": "原因から結果への向きを即時処理できなかった。",
-      "cue": "due toの右側が原因。",
-      "created_at": "2026-07-13",
-      "learned_on": "2026-07-13"
-    },
-    {
       "id": "rules1-l1-both-subject",
       "source": {
         "book": "The Rules 1",
@@ -830,34 +608,6 @@
       "learned_on": "2026-07-13"
     },
     {
-      "id": "rules1-l1-whereas",
-      "source": {
-        "book": "The Rules 1",
-        "unit": "Lesson 1",
-        "location": "Session 1",
-        "excerpt": "whereas"
-      },
-      "target": "whereas",
-      "category": "discourse_marker",
-      "prompt": "whereas",
-      "answer_core": "対比を表す。",
-      "usage_examples": [
-        {
-          "english": "Soccer is global, whereas football is mainly American.",
-          "japanese": "サッカーは世界的だが、一方でフットボールは主にアメリカのものだ。"
-        }
-      ],
-      "card_sentence": {
-        "before": "whereasは",
-        "hidden": "対比",
-        "after": "を表す。"
-      },
-      "initial_processing": "前後の対比をすぐに取れなかった。",
-      "cue": "前後を対照させる。",
-      "created_at": "2026-07-13",
-      "learned_on": "2026-07-13"
-    },
-    {
       "id": "rules1-l1-thus",
       "source": {
         "book": "The Rules 1",
@@ -938,34 +688,6 @@
       },
       "initial_processing": "時間の意味で処理した。",
       "cue": "前後の内容が対立していないかを見る。",
-      "created_at": "2026-07-13",
-      "learned_on": "2026-07-13"
-    },
-    {
-      "id": "rules1-l2-parallel-verbs",
-      "source": {
-        "book": "The Rules 1",
-        "unit": "Lesson 2",
-        "location": "Session 2",
-        "excerpt": "V1, V2, and V3"
-      },
-      "target": "V1・V2・and V3の並列",
-      "category": "grammar_or_quantity",
-      "prompt": "V1・V2・and V3の並列",
-      "answer_core": "同じ主語に三つの動詞が並ぶ。",
-      "usage_examples": [
-        {
-          "english": "They open businesses, create jobs, and build ties.",
-          "japanese": "彼らは事業を始め、雇用を生み、つながりを築く。"
-        }
-      ],
-      "card_sentence": {
-        "before": "同じ主語に",
-        "hidden": "V1・V2・and V3",
-        "after": "が並ぶことがある。"
-      },
-      "initial_processing": "三つ目の動詞を主語と誤認した。",
-      "cue": "andの後ろと前の品詞・形をそろえる。",
       "created_at": "2026-07-13",
       "learned_on": "2026-07-13"
     },
@@ -1134,34 +856,6 @@
       },
       "initial_processing": "身体・生命関係の意味へ寄せ、『重要な』が出なかった。",
       "cue": "必要不可欠さか、生命力・活気かを周囲から判断する。",
-      "created_at": "2026-07-15",
-      "learned_on": "2026-07-15"
-    },
-    {
-      "id": "rules1-l3-as-s-v-like",
-      "source": {
-        "book": "The Rules 1",
-        "unit": "Lesson 3",
-        "location": "Session 3",
-        "excerpt": "as many health care workers believe"
-      },
-      "target": "as S V",
-      "category": "grammar_or_quantity",
-      "prompt": "as S V",
-      "answer_core": "SがVするように",
-      "usage_examples": [
-        {
-          "english": "as many health care workers believe",
-          "japanese": "多くの医療従事者が考えるように"
-        }
-      ],
-      "card_sentence": {
-        "before": "as S V：",
-        "hidden": "SがVするように",
-        "after": ""
-      },
-      "initial_processing": "asを速度内で処理できず、読み飛ばした。",
-      "cue": "asの後ろにS・Vがあり、主文への挿入説明になっているかを見る。",
       "created_at": "2026-07-15",
       "learned_on": "2026-07-15"
     },
@@ -1446,62 +1140,6 @@
       "learned_on": "2026-07-15"
     },
     {
-      "id": "rules1-l3-give-passive",
-      "source": {
-        "book": "The Rules 1",
-        "unit": "Lesson 3",
-        "location": "Session 3",
-        "excerpt": "the child is given the emotional distance"
-      },
-      "target": "人 is given もの",
-      "category": "grammar_or_quantity",
-      "prompt": "人 is given もの",
-      "answer_core": "give 人 ものの受動態",
-      "usage_examples": [
-        {
-          "english": "The child is given enough time.",
-          "japanese": "その子どもには十分な時間が与えられる。"
-        }
-      ],
-      "card_sentence": {
-        "before": "人 is given ものは、",
-        "hidden": "give 人 ものの受動態",
-        "after": "。"
-      },
-      "initial_processing": "初読では長さのため処理を諦めたが、見直すとgive 人 ものの受動態だと分かった。",
-      "cue": "be givenの前が受け取る人、後ろが与えられるもの。",
-      "created_at": "2026-07-15",
-      "learned_on": "2026-07-15"
-    },
-    {
-      "id": "rules1-l3-make-meaning-out-of",
-      "source": {
-        "book": "The Rules 1",
-        "unit": "Lesson 3",
-        "location": "Session 3",
-        "excerpt": "make meaning out of their experiences"
-      },
-      "target": "make meaning out of A",
-      "category": "word_or_chunk",
-      "prompt": "make meaning out of A",
-      "answer_core": "Aから意味を見いだす",
-      "usage_examples": [
-        {
-          "english": "make meaning out of an experience",
-          "japanese": "経験から意味を見いだす"
-        }
-      ],
-      "card_sentence": {
-        "before": "make meaning out of A：",
-        "hidden": "Aから意味を見いだす",
-        "after": ""
-      },
-      "initial_processing": "out ofを含むまとまりが分からなかった。",
-      "cue": "make meaning / out of Aで切る。",
-      "created_at": "2026-07-15",
-      "learned_on": "2026-07-15"
-    },
-    {
       "id": "rules1-l3-through",
       "source": {
         "book": "The Rules 1",
@@ -1698,62 +1336,6 @@
       "learned_on": "2026-07-15"
     },
     {
-      "id": "rules1-l3-not-just",
-      "source": {
-        "book": "The Rules 1",
-        "unit": "Lesson 3",
-        "location": "Session 3",
-        "excerpt": "not just for sick children"
-      },
-      "target": "not just A",
-      "category": "word_or_chunk",
-      "prompt": "not just A",
-      "answer_core": "Aだけではない",
-      "usage_examples": [
-        {
-          "english": "not just for children",
-          "japanese": "子どものためだけではない"
-        }
-      ],
-      "card_sentence": {
-        "before": "not just A：",
-        "hidden": "Aだけではない",
-        "after": ""
-      },
-      "initial_processing": "justの訳し方に迷い、初読では適当に流した。",
-      "cue": "notとjustをまとめて処理する。",
-      "created_at": "2026-07-15",
-      "learned_on": "2026-07-15"
-    },
-    {
-      "id": "rules1-l3-take-over",
-      "source": {
-        "book": "The Rules 1",
-        "unit": "Lesson 3",
-        "location": "Session 3",
-        "excerpt": "The pleasure ... often takes over"
-      },
-      "target": "pleasure + take over",
-      "category": "word_or_chunk",
-      "prompt": "pleasureがtake over",
-      "answer_core": "喜びでいっぱいになる",
-      "usage_examples": [
-        {
-          "english": "The excitement took over.",
-          "japanese": "興奮がその場を支配した。"
-        }
-      ],
-      "card_sentence": {
-        "before": "pleasureがtake overで、",
-        "hidden": "喜びでいっぱいになる",
-        "after": "。"
-      },
-      "initial_processing": "take overの意味を知らなかった。",
-      "cue": "pleasureが主体となって心を占めるイメージで読む。",
-      "created_at": "2026-07-15",
-      "learned_on": "2026-07-15"
-    },
-    {
       "id": "rules1-l3-such-noun",
       "source": {
         "book": "The Rules 1",
@@ -1866,62 +1448,6 @@
       "learned_on": "2026-07-15"
     },
     {
-      "id": "rules1-l3-tell-each-other-stories",
-      "source": {
-        "book": "The Rules 1",
-        "unit": "Lesson 3",
-        "location": "Session 3",
-        "excerpt": "We tell each other stories"
-      },
-      "target": "tell each other stories",
-      "category": "grammar_or_quantity",
-      "prompt": "tell each other stories",
-      "answer_core": "互いに物語を語る",
-      "usage_examples": [
-        {
-          "english": "We tell each other stories.",
-          "japanese": "私たちは互いに物語を語る。"
-        }
-      ],
-      "card_sentence": {
-        "before": "tell each other stories：",
-        "hidden": "互いに物語を語る",
-        "after": ""
-      },
-      "initial_processing": "storiesを動詞かもしれないと考えた。",
-      "cue": "tellが動詞、each otherが相手、storiesが目的語。",
-      "created_at": "2026-07-15",
-      "learned_on": "2026-07-15"
-    },
-    {
-      "id": "rules1-l3-as-ellipsis-proverb",
-      "source": {
-        "book": "The Rules 1",
-        "unit": "Lesson 3",
-        "location": "Session 3",
-        "excerpt": "as ..."
-      },
-      "target": "as（省略・代動詞）",
-      "category": "grammar_or_quantity",
-      "prompt": "asに省略や代動詞があるとき",
-      "answer_core": "〜するように",
-      "card_sentence": {
-        "before": "asは省略や代動詞があれば、",
-        "hidden": "「〜するように」",
-        "after": "と訳す。"
-      },
-      "initial_processing": "asの働きを速度内で確定できなかった。",
-      "cue": "as節内で前と同じ動詞が省略されていないか、doなどの代動詞がないかを見る。",
-      "created_at": "2026-07-15",
-      "learned_on": "2026-07-15",
-      "usage_examples": [
-        {
-          "english": "Do as I say.",
-          "japanese": "私の言うようにしなさい。"
-        }
-      ]
-    },
-    {
       "id": "rules1-l3-need-noun",
       "source": {
         "book": "The Rules 1",
@@ -1974,118 +1500,6 @@
         {
           "english": "The medicine eased her suffering.",
           "japanese": "その薬は彼女の苦しみを和らげた。"
-        }
-      ]
-    },
-    {
-      "id": "rules1-l3-would-future-in-past",
-      "source": {
-        "book": "The Rules 1",
-        "unit": "Lesson 3",
-        "location": "Session 3",
-        "excerpt": "whether or not he would ever be the same again"
-      },
-      "target": "would（過去から見た未来）",
-      "category": "grammar_or_quantity",
-      "prompt": "wouldが表せる時間関係",
-      "answer_core": "過去時点から見た未来",
-      "card_sentence": {
-        "before": "wouldは、",
-        "hidden": "過去時点から見た未来",
-        "after": "も表す。"
-      },
-      "initial_processing": "wouldの時間関係を即時に取れなかった。",
-      "cue": "基準となる過去時点より後のことかを見る。",
-      "created_at": "2026-07-15",
-      "learned_on": "2026-07-15",
-      "usage_examples": [
-        {
-          "english": "He knew that he would need help.",
-          "japanese": "彼は、自分が助けを必要とするだろうと分かっていた。"
-        }
-      ]
-    },
-    {
-      "id": "rules1-l3-ever-any-time",
-      "source": {
-        "book": "The Rules 1",
-        "unit": "Lesson 3",
-        "location": "Session 3",
-        "excerpt": "would ever be the same again"
-      },
-      "target": "ever",
-      "category": "word_or_chunk",
-      "prompt": "ever",
-      "answer_core": "ある時点であっても（一度でも）",
-      "card_sentence": {
-        "before": "everは、",
-        "hidden": "「ある時点であっても（一度でも）」",
-        "after": "を表す副詞。"
-      },
-      "initial_processing": "everの働きを確定できなかった。",
-      "cue": "疑問・否定・条件などで、時間範囲のどこか一度でもという広がりを見る。",
-      "created_at": "2026-07-15",
-      "learned_on": "2026-07-15",
-      "usage_examples": [
-        {
-          "english": "Have you ever visited Kyoto?",
-          "japanese": "これまでに京都を訪れたことはありますか。"
-        }
-      ]
-    },
-    {
-      "id": "rules1-l3-even-repetition",
-      "source": {
-        "book": "The Rules 1",
-        "unit": "Lesson 3",
-        "location": "Session 3",
-        "excerpt": "It could harm him and even ..."
-      },
-      "target": "even（反復）",
-      "category": "discourse_marker",
-      "prompt": "反復を示すeven",
-      "answer_core": "大袈裟な反復の目印",
-      "card_sentence": {
-        "before": "evenは",
-        "hidden": "大袈裟な反復の目印",
-        "after": "。"
-      },
-      "initial_processing": "AIが一度『反復ではない』と誤って訂正したが、参考書写真で反復の用法を確認した。",
-      "cue": "evenを含む後続内容が、前の内容をさらに強く言い直していないかを見る。",
-      "created_at": "2026-07-15",
-      "learned_on": "2026-07-15",
-      "usage_examples": [
-        {
-          "english": "It could hurt him and even break his trust.",
-          "japanese": "それは彼を傷つけ、さらには信頼まで壊しかねない。"
-        }
-      ]
-    },
-    {
-      "id": "rules1-l3-out-of",
-      "source": {
-        "book": "The Rules 1",
-        "unit": "Lesson 3",
-        "location": "Session 3",
-        "excerpt": "make meaning out of their experiences"
-      },
-      "target": "out of",
-      "category": "word_or_chunk",
-      "prompt": "out of",
-      "answer_core": "外／〜から",
-      "card_sentence": {
-        "before": "out ofは",
-        "hidden": "「外」か「〜から」",
-        "after": "で訳す。"
-      },
-      "initial_processing": "out ofを含むまとまりで止まった。",
-      "cue": "空間的な外か、材料・起点を示す『〜から』かを文脈で見る。",
-      "created_at": "2026-07-15",
-      "learned_on": "2026-07-15",
-      "usage_examples": [
-        {
-          "english": "She made a bag out of old jeans.",
-          "japanese": "彼女は古いジーンズからバッグを作った。"
         }
       ]
     },
@@ -2146,62 +1560,6 @@
       ]
     },
     {
-      "id": "rules1-l3-the-way-clause",
-      "source": {
-        "book": "The Rules 1",
-        "unit": "Lesson 3",
-        "location": "Session 3",
-        "excerpt": "the way ..."
-      },
-      "target": "the way + S′V′",
-      "category": "grammar_or_quantity",
-      "prompt": "the wayの後ろ",
-      "answer_core": "S′V′が来る",
-      "card_sentence": {
-        "before": "the wayの後ろには",
-        "hidden": "S′V′",
-        "after": "が来る。"
-      },
-      "initial_processing": "the way以降のまとまりを即時に確定できなかった。",
-      "cue": "the wayを先行する名詞として、その後ろの節を待つ。",
-      "created_at": "2026-07-15",
-      "learned_on": "2026-07-15",
-      "usage_examples": [
-        {
-          "english": "I like the way she explains things.",
-          "japanese": "私は、彼女が説明するやり方が好きだ。"
-        }
-      ]
-    },
-    {
-      "id": "rules1-l4-here-after-done",
-      "source": {
-        "book": "The Rules 1",
-        "unit": "Lesson 4",
-        "location": "Session 4",
-        "excerpt": "Here is ... exercise after learning ... if done ..."
-      },
-      "target": "Here is／after／done",
-      "category": "word_or_chunk",
-      "prompt": "Here is／after／done",
-      "answer_core": "Here is は「ここに」、after は右向き矢印、done はおとなしく「される」と訳す。",
-      "usage_examples": [
-        {
-          "english": "Here is ... exercise after learning ... if done ...",
-          "japanese": "「ここに」／学習→運動／「される」"
-        }
-      ],
-      "card_sentence": {
-        "before": "Here is／after／done：",
-        "hidden": "「ここに」／右向き矢印／おとなしく「される」",
-        "after": ""
-      },
-      "initial_processing": "Here is・after・doneの読み方を第一段落で確認した。",
-      "cue": "Here isは「ここに」、afterは右向き矢印、doneはおとなしく「される」。",
-      "created_at": "2026-07-17",
-      "learned_on": "2026-07-17"
-    },
-    {
       "id": "rules1-l4-here-is",
       "source": {
         "book": "The Rules 1",
@@ -2228,58 +1586,6 @@
       "learned_on": "2026-07-18"
     },
     {
-      "id": "rules1-l4-after-arrow",
-      "source": {
-        "book": "The Rules 1",
-        "unit": "Lesson 4",
-        "location": "本文第1段落",
-        "excerpt": "exercise four hours after you learn something"
-      },
-      "target": "after",
-      "category": "tip",
-      "prompt": "afterの向き",
-      "answer_core": "afterは右向き矢印",
-      "usage_examples": [
-        {
-          "english": "We exercised after class.",
-          "japanese": "私たちは授業の後に運動した。"
-        }
-      ],
-      "card_sentence": {
-        "before": "afterは",
-        "hidden": "右向き矢印",
-        "after": "。"
-      },
-      "created_at": "2026-07-18",
-      "learned_on": "2026-07-18"
-    },
-    {
-      "id": "rules1-l4-but-pause",
-      "source": {
-        "book": "The Rules 1",
-        "unit": "Lesson 4",
-        "location": "本文第4段落",
-        "excerpt": "but more research is needed to understand this phenomenon"
-      },
-      "target": "but",
-      "category": "tip",
-      "prompt": "butが来たら",
-      "answer_core": "心の中で区切る",
-      "usage_examples": [
-        {
-          "english": "The idea is simple, but it needs more testing.",
-          "japanese": "その考えは単純だが、さらに検証が必要だ。"
-        }
-      ],
-      "card_sentence": {
-        "before": "butが来たら",
-        "hidden": "心の中で区切る",
-        "after": "。"
-      },
-      "created_at": "2026-07-18",
-      "learned_on": "2026-07-18"
-    },
-    {
       "id": "rules1-l4-link-a-with-b",
       "source": {
         "book": "The Rules 1",
@@ -2301,58 +1607,6 @@
         "before": "link A with B で、",
         "hidden": "結びつける",
         "after": "。"
-      },
-      "created_at": "2026-07-18",
-      "learned_on": "2026-07-18"
-    },
-    {
-      "id": "rules1-l4-those-who",
-      "source": {
-        "book": "The Rules 1",
-        "unit": "Lesson 4",
-        "location": "本文第3段落",
-        "excerpt": "Those who exercised four hours after the learning session"
-      },
-      "target": "those who",
-      "category": "tip",
-      "prompt": "those who",
-      "answer_core": "〜な人々",
-      "usage_examples": [
-        {
-          "english": "Those who practice improve.",
-          "japanese": "練習する人々は上達する。"
-        }
-      ],
-      "card_sentence": {
-        "before": "those who で、",
-        "hidden": "〜な人々",
-        "after": "。"
-      },
-      "created_at": "2026-07-18",
-      "learned_on": "2026-07-18"
-    },
-    {
-      "id": "rules1-l4-nested-relative-clauses",
-      "source": {
-        "book": "The Rules 1",
-        "unit": "Lesson 4",
-        "location": "関連理解",
-        "excerpt": ""
-      },
-      "target": "関係代名詞の入れ子",
-      "category": "tip",
-      "prompt": "詳しく説明されると",
-      "answer_core": "関代の中に関代が入ることがある",
-      "usage_examples": [
-        {
-          "english": "The people who read books that explain science learn a lot.",
-          "japanese": "科学を説明する本を読む人々は多くを学ぶ。"
-        }
-      ],
-      "card_sentence": {
-        "before": "詳しく説明されると、",
-        "hidden": "関代の中に関代が入る",
-        "after": "ことがある。"
       },
       "created_at": "2026-07-18",
       "learned_on": "2026-07-18"
@@ -2509,58 +1763,6 @@
         "before": "名詞構文の目的語は",
         "hidden": "ofかone's",
         "after": "で表し、主語はbyで表す。"
-      },
-      "created_at": "2026-07-20",
-      "learned_on": "2026-07-20"
-    },
-    {
-      "id": "eibunjukou-ge-ones-second",
-      "source": {
-        "book": "英文熟考 下",
-        "unit": "",
-        "location": "",
-        "excerpt": "one's"
-      },
-      "target": "one's",
-      "category": "tip",
-      "prompt": "one'sは",
-      "answer_core": "二個目",
-      "usage_examples": [
-        {
-          "english": "one's belief",
-          "japanese": "人の信念"
-        }
-      ],
-      "card_sentence": {
-        "before": "one's は",
-        "hidden": "二個目",
-        "after": "。"
-      },
-      "created_at": "2026-07-20",
-      "learned_on": "2026-07-20"
-    },
-    {
-      "id": "rules1-l5-last-continue",
-      "source": {
-        "book": "The Rules 1",
-        "unit": "Lesson 5",
-        "location": "本文第3段落",
-        "excerpt": "Each tour lasts approximately 90 minutes."
-      },
-      "target": "last",
-      "category": "tip",
-      "prompt": "last",
-      "answer_core": "続く。公演や、サービスなどにつかわれる",
-      "usage_examples": [
-        {
-          "english": "The show lasts two hours.",
-          "japanese": "その公演は2時間続く。"
-        }
-      ],
-      "card_sentence": {
-        "before": "last は",
-        "hidden": "続く",
-        "after": "。公演や、サービスなどにつかわれる。"
       },
       "created_at": "2026-07-20",
       "learned_on": "2026-07-20"
@@ -2748,32 +1950,6 @@
       "learned_on": "2026-07-22"
     },
     {
-      "id": "rules1-l7-and-such-pronoun",
-      "source": {
-        "book": "The Rules 1",
-        "unit": "Lesson 7",
-        "location": "本文第3段落",
-        "excerpt": "fish, birds, insects, animals and such"
-      },
-      "target": "and such",
-      "category": "tip",
-      "prompt": "and such は",
-      "answer_core": "代名詞的で取りまとめられている",
-      "usage_examples": [
-        {
-          "english": "They sell pens, notebooks, and such.",
-          "japanese": "そこではペンやノートなどを売っている。"
-        }
-      ],
-      "card_sentence": {
-        "before": "and such は",
-        "hidden": "代名詞的で取りまとめられている",
-        "after": "。"
-      },
-      "created_at": "2026-07-22",
-      "learned_on": "2026-07-22"
-    },
-    {
       "id": "rules1-l7-ask-me-if-noun-clause",
       "source": {
         "book": "The Rules 1",
@@ -2846,32 +2022,6 @@
       "card_sentence": {
         "before": "習慣を批判する意味で、",
         "hidden": "wouldが使われる",
-        "after": "。"
-      },
-      "created_at": "2026-07-22",
-      "learned_on": "2026-07-22"
-    },
-    {
-      "id": "rules1-l7-enough-ellipsis-context",
-      "source": {
-        "book": "The Rules 1",
-        "unit": "Lesson 7",
-        "location": "本文第5段落",
-        "excerpt": "When they were old enough"
-      },
-      "target": "enoughの説明",
-      "category": "tip",
-      "prompt": "enoughの説明は",
-      "answer_core": "省かれるので、文脈を理解する",
-      "usage_examples": [
-        {
-          "english": "She was old enough to travel alone.",
-          "japanese": "彼女は一人で旅行できるほど十分に成長していた。"
-        }
-      ],
-      "card_sentence": {
-        "before": "enoughの説明は、",
-        "hidden": "省かれるので、文脈を理解する",
         "after": "。"
       },
       "created_at": "2026-07-22",
@@ -3320,32 +2470,6 @@
       "learned_on": "2026-07-28"
     },
     {
-      "id": "zento-20260728-either-family",
-      "source": {
-        "book": "全統模試",
-        "unit": "",
-        "location": "",
-        "excerpt": ""
-      },
-      "target": "eitherは、文法的にboth 、not only とかと似てる部類",
-      "category": "tip",
-      "prompt": "eitherは、文法的にboth 、not only とかと似てる部類",
-      "answer_core": "both 、not only とかと似てる部類",
-      "usage_examples": [
-        {
-          "english": "Either answer is possible.",
-          "japanese": "どちらの答えもあり得ます。"
-        }
-      ],
-      "card_sentence": {
-        "before": "eitherは、文法的に",
-        "hidden": "both 、not only とかと似てる部類",
-        "after": "。"
-      },
-      "created_at": "2026-07-28",
-      "learned_on": "2026-07-28"
-    },
-    {
       "id": "zento-20260728-since-reason",
       "source": {
         "book": "全統模試",
@@ -3710,32 +2834,6 @@
       "learned_on": "2026-07-28"
     },
     {
-      "id": "zento-20260728-remember-being",
-      "source": {
-        "book": "全統模試",
-        "unit": "",
-        "location": "",
-        "excerpt": "remember being"
-      },
-      "target": "remember beingは過去を覚えている",
-      "category": "tip",
-      "prompt": "remember beingは過去を覚えている",
-      "answer_core": "過去を覚えている",
-      "usage_examples": [
-        {
-          "english": "I remember being nervous.",
-          "japanese": "緊張していたことを覚えています。"
-        }
-      ],
-      "card_sentence": {
-        "before": "remember beingは",
-        "hidden": "過去を覚えている",
-        "after": "。"
-      },
-      "created_at": "2026-07-28",
-      "learned_on": "2026-07-28"
-    },
-    {
       "id": "zento-20260728-adverb-that-degree",
       "source": {
         "book": "全統模試",
@@ -3944,32 +3042,6 @@
       "learned_on": "2026-07-28"
     },
     {
-      "id": "zento-20260728-by-the-time",
-      "source": {
-        "book": "全統模試",
-        "unit": "",
-        "location": "",
-        "excerpt": "by the time"
-      },
-      "target": "by the timeでsvが続く副詞節。その時までには",
-      "category": "tip",
-      "prompt": "by the timeでsvが続く副詞節。その時までには",
-      "answer_core": "その時までには",
-      "usage_examples": [
-        {
-          "english": "By the time you arrive, I will be ready.",
-          "japanese": "あなたが着くころまでには、準備できています。"
-        }
-      ],
-      "card_sentence": {
-        "before": "by the timeでsvが続く副詞節。",
-        "hidden": "その時までには",
-        "after": "。"
-      },
-      "created_at": "2026-07-28",
-      "learned_on": "2026-07-28"
-    },
-    {
       "id": "zento-20260728-tell-distinguish",
       "source": {
         "book": "全統模試",
@@ -4094,32 +3166,6 @@
       "card_sentence": {
         "before": "produce：",
         "hidden": "つくる",
-        "after": ""
-      },
-      "created_at": "2026-07-27",
-      "learned_on": "2026-07-27"
-    },
-    {
-      "id": "rules1-l8-20260727-subject-verb-confirm",
-      "source": {
-        "book": "The Rules 1",
-        "unit": "Lesson 8",
-        "location": "",
-        "excerpt": "主語と動詞の関係を"
-      },
-      "target": "主語と動詞の関係を憶測にしようとしない。確定させる。",
-      "category": "tip",
-      "prompt": "主語と動詞の関係を憶測にしようとしない。確定させる。",
-      "answer_core": "憶測にしようとしない。確定させる。",
-      "usage_examples": [
-        {
-          "english": "The new rule affects students.",
-          "japanese": "その新しい規則は生徒に影響する。"
-        }
-      ],
-      "card_sentence": {
-        "before": "主語と動詞の関係を",
-        "hidden": "憶測にしようとしない。確定させる。",
         "after": ""
       },
       "created_at": "2026-07-27",
@@ -4256,32 +3302,6 @@
       "learned_on": "2026-07-27"
     },
     {
-      "id": "rules1-l8-20260727-be-existence",
-      "source": {
-        "book": "The Rules 1",
-        "unit": "Lesson 8",
-        "location": "",
-        "excerpt": "be動詞はとりあえず とりあえず"
-      },
-      "target": "be動詞はとりあえず とりあえずある",
-      "category": "tip",
-      "prompt": "be動詞はとりあえず とりあえずある",
-      "answer_core": "ある",
-      "usage_examples": [
-        {
-          "english": "There is a problem.",
-          "japanese": "問題がある。"
-        }
-      ],
-      "card_sentence": {
-        "before": "be動詞はとりあえず とりあえず",
-        "hidden": "ある",
-        "after": ""
-      },
-      "created_at": "2026-07-27",
-      "learned_on": "2026-07-27"
-    },
-    {
       "id": "rules1-l8-20260727-modal-adverb",
       "source": {
         "book": "The Rules 1",
@@ -4412,58 +3432,6 @@
       "learned_on": "2026-08-23"
     },
     {
-      "id": "komazawa2022-q1-although-concession",
-      "source": {
-        "book": "駒澤大学 2022",
-        "unit": "問題1",
-        "location": "woodblock prints本文・第2段落",
-        "excerpt": "although the finest prints can now cost large sums of money"
-      },
-      "target": "although は譲歩",
-      "category": "tip",
-      "prompt": "although は譲歩",
-      "answer_core": "譲歩",
-      "usage_examples": [
-        {
-          "english": "although the finest prints can now cost large sums of money",
-          "japanese": "最上級の版画は今では多額の金がかかることもあるが"
-        }
-      ],
-      "card_sentence": {
-        "before": "although は",
-        "hidden": "譲歩",
-        "after": ""
-      },
-      "created_at": "2026-08-23",
-      "learned_on": "2026-08-23"
-    },
-    {
-      "id": "komazawa2022-q1-large-sums-of-money",
-      "source": {
-        "book": "駒澤大学 2022",
-        "unit": "問題1",
-        "location": "woodblock prints本文・第2段落",
-        "excerpt": "cost large sums of money"
-      },
-      "target": "large sums of money 名詞 of 名詞",
-      "category": "tip",
-      "prompt": "large sums of money 名詞 of 名詞",
-      "answer_core": "名詞 of 名詞",
-      "usage_examples": [
-        {
-          "english": "cost large sums of money",
-          "japanese": "多額の金がかかる"
-        }
-      ],
-      "card_sentence": {
-        "before": "large sums of money は",
-        "hidden": "名詞 of 名詞",
-        "after": ""
-      },
-      "created_at": "2026-08-23",
-      "learned_on": "2026-08-23"
-    },
-    {
       "id": "komazawa2022-q1-relative-clause-return-main",
       "source": {
         "book": "駒澤大学 2022",
@@ -4588,58 +3556,6 @@
       "card_sentence": {
         "before": "architectで、",
         "hidden": "人。chemistで、人。",
-        "after": ""
-      },
-      "created_at": "2026-08-23",
-      "learned_on": "2026-08-23"
-    },
-    {
-      "id": "komazawa2022-q2-pronoun-all-both",
-      "source": {
-        "book": "駒澤大学 2022",
-        "unit": "問題II",
-        "location": "Bauhaus本文・第2段落",
-        "excerpt": "Painting, architecture, fabric design, furniture-making, theater design, stained glass, woodworking, metalworking—these all found a place in the Bauhaus movement."
-      },
-      "target": "代名詞に後ろから all や bothで付け足す",
-      "category": "tip",
-      "prompt": "代名詞に後ろから all や bothで付け足す",
-      "answer_core": "all や bothで付け足す",
-      "usage_examples": [
-        {
-          "english": "They all agreed with the plan.",
-          "japanese": "彼らは全員その計画に賛成した。"
-        }
-      ],
-      "card_sentence": {
-        "before": "代名詞に後ろから ",
-        "hidden": "all や bothで付け足す",
-        "after": ""
-      },
-      "created_at": "2026-08-23",
-      "learned_on": "2026-08-23"
-    },
-    {
-      "id": "komazawa2022-q2-as-participle-as-normal",
-      "source": {
-        "book": "駒澤大学 2022",
-        "unit": "問題II",
-        "location": "Bauhaus本文・第3段落",
-        "excerpt": "The Bauhaus style of architecture featured sharp angles of glass, stone, and steel, together creating patterns and resulting in buildings that some historians characterize as looking as if no human had a hand in their creation."
-      },
-      "target": "as分詞asは至って普通",
-      "category": "tip",
-      "prompt": "as分詞asは至って普通",
-      "answer_core": "至って普通",
-      "usage_examples": [
-        {
-          "english": "The task was as demanding as expected.",
-          "japanese": "その課題は予想どおり大変だった。"
-        }
-      ],
-      "card_sentence": {
-        "before": "as分詞asは",
-        "hidden": "至って普通",
         "after": ""
       },
       "created_at": "2026-08-23",
@@ -4849,58 +3765,6 @@
         "before": "SVをandで繋ぐ時は、",
         "hidden": "直後にディスコースマーカーが来る場合がある",
         "after": "。"
-      },
-      "created_at": "2026-08-23",
-      "learned_on": "2026-08-23"
-    },
-    {
-      "id": "komazawa2022-q3-level-stage",
-      "source": {
-        "book": "駒澤大学 2022",
-        "unit": "問題III",
-        "location": "food waste本文・第2段落",
-        "excerpt": "at consumer level"
-      },
-      "target": "level：段階",
-      "category": "term",
-      "prompt": "level：段階",
-      "answer_core": "段階",
-      "usage_examples": [
-        {
-          "english": "At this level, the task gets harder.",
-          "japanese": "この段階では、その課題はより難しくなる。"
-        }
-      ],
-      "card_sentence": {
-        "before": "level：",
-        "hidden": "段階",
-        "after": ""
-      },
-      "created_at": "2026-08-23",
-      "learned_on": "2026-08-23"
-    },
-    {
-      "id": "komazawa2022-q3-note-point-out",
-      "source": {
-        "book": "駒澤大学 2022",
-        "unit": "問題III",
-        "location": "food waste本文・第3段落",
-        "excerpt": "The Food Waste Index notes that ..."
-      },
-      "target": "note：指摘する",
-      "category": "term",
-      "prompt": "note：指摘する",
-      "answer_core": "指摘する",
-      "usage_examples": [
-        {
-          "english": "The report notes that costs are rising.",
-          "japanese": "その報告書は費用が上昇していると指摘している。"
-        }
-      ],
-      "card_sentence": {
-        "before": "note：",
-        "hidden": "指摘する",
-        "after": ""
       },
       "created_at": "2026-08-23",
       "learned_on": "2026-08-23"
@@ -5530,32 +4394,6 @@
       "learned_on": "2026-08-25"
     },
     {
-      "id": "kinki2024-ii-noun-adjective-adverb",
-      "source": {
-        "book": "近畿大学 2024",
-        "unit": "II",
-        "location": "本文 p.5 第1段落",
-        "excerpt": "That's about the same size as the relatively small American state of Rhode Island."
-      },
-      "target": "名詞は形容詞で修飾されることができて、その形容詞は副詞で修飾されることができる。",
-      "category": "tip",
-      "prompt": "名詞は形容詞で修飾されることができて、その形容詞は副詞で修飾されることができる。",
-      "answer_core": "その形容詞は副詞で修飾されることができる",
-      "usage_examples": [
-        {
-          "english": "That's about the same size as the relatively small American state of Rhode Island.",
-          "japanese": "それは、比較的小さなアメリカの州であるロードアイランド州とほぼ同じ大きさである。"
-        }
-      ],
-      "card_sentence": {
-        "before": "名詞は形容詞で修飾されることができて、",
-        "hidden": "その形容詞は副詞で修飾されることができる",
-        "after": "。"
-      },
-      "created_at": "2026-08-25",
-      "learned_on": "2026-08-25"
-    },
-    {
       "id": "kinki2024-ii-in-the-same-way",
       "source": {
         "book": "近畿大学 2024",
@@ -5654,32 +4492,6 @@
       "card_sentence": {
         "before": "when it comes toは",
         "hidden": "〜場合にはという限定",
-        "after": ""
-      },
-      "created_at": "2026-08-25",
-      "learned_on": "2026-08-25"
-    },
-    {
-      "id": "kinki2024-ii-hold-true",
-      "source": {
-        "book": "近畿大学 2024",
-        "unit": "II",
-        "location": "本文 p.5 第2段落",
-        "excerpt": "definitely holds true"
-      },
-      "target": "true が hold して正しいまま",
-      "category": "tip",
-      "prompt": "true が hold して正しいまま",
-      "answer_core": "正しいまま",
-      "usage_examples": [
-        {
-          "english": "So, it seems that the old adage about an elephant's memory definitely holds true.",
-          "japanese": "したがって、ゾウの記憶についての昔からの格言は確かに正しいままであるようだ。"
-        }
-      ],
-      "card_sentence": {
-        "before": "true が hold して",
-        "hidden": "正しいまま",
         "after": ""
       },
       "created_at": "2026-08-25",
@@ -6128,32 +4940,6 @@
       "learned_on": "2026-08-26"
     },
     {
-      "id": "senshu2024-ii-something-postmodifier",
-      "source": {
-        "book": "専修大学 2024",
-        "unit": "II",
-        "location": "本文 p.10",
-        "excerpt": "anything more utterly unwise than artificial intelligence"
-      },
-      "target": "something系がきたら後ろ見る",
-      "category": "tip",
-      "prompt": "something系がきたら後ろ見る",
-      "answer_core": "後ろ見る",
-      "usage_examples": [
-        {
-          "english": "I need something useful.",
-          "japanese": "私は何か役に立つものが必要だ。"
-        }
-      ],
-      "card_sentence": {
-        "before": "something系がきたら",
-        "hidden": "後ろ見る",
-        "after": ""
-      },
-      "created_at": "2026-08-26",
-      "learned_on": "2026-08-26"
-    },
-    {
       "id": "senshu2024-ii-utter",
       "source": {
         "book": "専修大学 2024",
@@ -6252,58 +5038,6 @@
       "card_sentence": {
         "before": "mislead：",
         "hidden": "誤導する",
-        "after": ""
-      },
-      "created_at": "2026-08-26",
-      "learned_on": "2026-08-26"
-    },
-    {
-      "id": "senshu2024-ii-have-come-to-define",
-      "source": {
-        "book": "専修大学 2024",
-        "unit": "II",
-        "location": "本文 p.10",
-        "excerpt": "have come to define the current wave of AI"
-      },
-      "target": "have come to define→形作っていく",
-      "category": "tip",
-      "prompt": "have come to define→形作っていく",
-      "answer_core": "形作っていく",
-      "usage_examples": [
-        {
-          "english": "These values have come to define the company.",
-          "japanese": "これらの価値観がその会社を形作るようになった。"
-        }
-      ],
-      "card_sentence": {
-        "before": "have come to define→",
-        "hidden": "形作っていく",
-        "after": ""
-      },
-      "created_at": "2026-08-26",
-      "learned_on": "2026-08-26"
-    },
-    {
-      "id": "senshu2024-ii-come-past-participle",
-      "source": {
-        "book": "専修大学 2024",
-        "unit": "II",
-        "location": "本文 p.10",
-        "excerpt": "have come to define"
-      },
-      "target": "comeの過去分詞はcome",
-      "category": "tip",
-      "prompt": "comeの過去分詞はcome",
-      "answer_core": "come",
-      "usage_examples": [
-        {
-          "english": "They have come home.",
-          "japanese": "彼らは家に帰ってきた。"
-        }
-      ],
-      "card_sentence": {
-        "before": "comeの過去分詞は",
-        "hidden": "come",
         "after": ""
       },
       "created_at": "2026-08-26",
@@ -7903,33 +6637,6 @@
       "learned_on": "2026-08-29"
     },
     {
-      "id": "waseda2024-ii-help-bare-infinitive",
-      "source": {
-        "book": "早稲田社学 2024",
-        "unit": "III",
-        "location": "",
-        "excerpt": ""
-      },
-      "target": "help原型で役立つ",
-      "category": "tip",
-      "prompt": "help原型で役立つ",
-      "answer_core": "役立つ",
-      "usage_examples": [
-        {
-          "english": "It helps young children build emotional understanding.",
-          "japanese": "それは幼い子どもが感情理解を育むのに役立つ。"
-        }
-      ],
-      "card_sentence": {
-        "before": "help原型で",
-        "hidden": "役立つ",
-        "after": ""
-      },
-      "difficulty": "basic",
-      "created_at": "2026-08-29",
-      "learned_on": "2026-08-29"
-    },
-    {
       "id": "waseda2024-iii-scort-for",
       "source": {
         "book": "早稲田社学 2024",
@@ -8544,33 +7251,6 @@
       "card_sentence": {
         "before": "思考、発言、認識の動詞＋ofで、",
         "hidden": "〜について",
-        "after": ""
-      },
-      "difficulty": "basic",
-      "created_at": "2026-09-04",
-      "learned_on": "2026-09-04"
-    },
-    {
-      "id": "waseda2024-iii-expend",
-      "source": {
-        "book": "早稲田社学 2024",
-        "unit": "III",
-        "location": "",
-        "excerpt": ""
-      },
-      "target": "expend：expenceの動詞",
-      "category": "term",
-      "prompt": "expend：expenceの動詞",
-      "answer_core": "expenceの動詞",
-      "usage_examples": [
-        {
-          "english": "The body expends energy during exercise.",
-          "japanese": "体は運動中にエネルギーを消費する。"
-        }
-      ],
-      "card_sentence": {
-        "before": "expend：",
-        "hidden": "expenceの動詞",
         "after": ""
       },
       "difficulty": "basic",
@@ -9469,60 +8149,6 @@
       "learned_on": "2026-09-05"
     },
     {
-      "id": "toyo2024-1-ask-for",
-      "source": {
-        "book": "東洋大学 2024",
-        "unit": "1",
-        "location": "本文",
-        "excerpt": "ask for"
-      },
-      "target": "ask for：求める",
-      "category": "term",
-      "prompt": "ask for：求める",
-      "answer_core": "求める",
-      "usage_examples": [
-        {
-          "english": "She asked for more time.",
-          "japanese": "彼女はさらに時間を求めた。"
-        }
-      ],
-      "card_sentence": {
-        "before": "ask for：",
-        "hidden": "求める",
-        "after": ""
-      },
-      "difficulty": "basic",
-      "created_at": "2026-09-05",
-      "learned_on": "2026-09-05"
-    },
-    {
-      "id": "toyo2024-1-depend-on",
-      "source": {
-        "book": "東洋大学 2024",
-        "unit": "1",
-        "location": "本文",
-        "excerpt": "depend on"
-      },
-      "target": "depend on：依存or次第で",
-      "category": "term",
-      "prompt": "depend on：依存or次第で",
-      "answer_core": "次第で",
-      "usage_examples": [
-        {
-          "english": "The result depends on the weather.",
-          "japanese": "結果は天候次第だ。"
-        }
-      ],
-      "card_sentence": {
-        "before": "depend on：依存or",
-        "hidden": "次第で",
-        "after": ""
-      },
-      "difficulty": "basic",
-      "created_at": "2026-09-05",
-      "learned_on": "2026-09-05"
-    },
-    {
       "id": "toyo2024-1-just-the-right",
       "source": {
         "book": "東洋大学 2024",
@@ -9978,60 +8604,6 @@
         "after": ""
       },
       "difficulty": "basic",
-      "created_at": "2026-09-05",
-      "learned_on": "2026-09-05"
-    },
-    {
-      "id": "kyotosangyo2023-1-cities",
-      "source": {
-        "book": "京都産業大学 2023",
-        "unit": "1",
-        "location": "本文",
-        "excerpt": "cities"
-      },
-      "target": "cities：cityの複数形",
-      "category": "term",
-      "prompt": "cities：cityの複数形",
-      "answer_core": "cityの複数形",
-      "usage_examples": [
-        {
-          "english": "Many cities face similar problems.",
-          "japanese": "多くの都市が似た問題に直面している。"
-        }
-      ],
-      "card_sentence": {
-        "before": "cities：",
-        "hidden": "cityの複数形",
-        "after": ""
-      },
-      "difficulty": "basic",
-      "created_at": "2026-09-05",
-      "learned_on": "2026-09-05"
-    },
-    {
-      "id": "kyotosangyo2023-2-fond",
-      "source": {
-        "book": "京都産業大学 2023",
-        "unit": "2",
-        "location": "本文",
-        "excerpt": "fond"
-      },
-      "target": "fond：好む",
-      "category": "term",
-      "prompt": "fond：好む",
-      "answer_core": "好む",
-      "usage_examples": [
-        {
-          "english": "She is fond of classical music.",
-          "japanese": "彼女はクラシック音楽を好む。"
-        }
-      ],
-      "card_sentence": {
-        "before": "fond：",
-        "hidden": "好む",
-        "after": ""
-      },
-      "difficulty": "advanced",
       "created_at": "2026-09-05",
       "learned_on": "2026-09-05"
     },
@@ -10704,33 +9276,6 @@
       "card_sentence": {
         "before": "set A on fire：",
         "hidden": "火をつける",
-        "after": ""
-      },
-      "difficulty": "basic",
-      "created_at": "2026-09-04",
-      "learned_on": "2026-09-04"
-    },
-    {
-      "id": "senshu2023-2-many-subject",
-      "source": {
-        "book": "専修大学 2023",
-        "unit": "2",
-        "location": "",
-        "excerpt": ""
-      },
-      "target": "manyは主語になる",
-      "category": "tip",
-      "prompt": "manyは主語になる",
-      "answer_core": "主語になる",
-      "usage_examples": [
-        {
-          "english": "Many were injured in the accident.",
-          "japanese": "多くの人がその事故でけがをした。"
-        }
-      ],
-      "card_sentence": {
-        "before": "manyは",
-        "hidden": "主語になる",
         "after": ""
       },
       "difficulty": "basic",
@@ -11737,33 +10282,6 @@
       "learned_on": "2026-09-07"
     },
     {
-      "id": "konan2021-2-bakery-bread",
-      "source": {
-        "book": "甲南大学 2021",
-        "unit": "2",
-        "location": "",
-        "excerpt": ""
-      },
-      "target": "bakeryは店、breadがパン",
-      "category": "tip",
-      "prompt": "bakeryは店、breadがパン",
-      "answer_core": "パン",
-      "usage_examples": [
-        {
-          "english": "I bought bread at the bakery.",
-          "japanese": "私はパン屋でパンを買った。"
-        }
-      ],
-      "card_sentence": {
-        "before": "bakeryは店、breadが",
-        "hidden": "パン",
-        "after": ""
-      },
-      "difficulty": "basic",
-      "created_at": "2026-09-07",
-      "learned_on": "2026-09-07"
-    },
-    {
       "id": "konan2021-2-beer",
       "source": {
         "book": "甲南大学 2021",
@@ -11811,33 +10329,6 @@
       "card_sentence": {
         "before": "foodがgenerousで",
         "hidden": "たっぷりの食事",
-        "after": ""
-      },
-      "difficulty": "basic",
-      "created_at": "2026-09-07",
-      "learned_on": "2026-09-07"
-    },
-    {
-      "id": "konan2021-2-therefore-logic",
-      "source": {
-        "book": "甲南大学 2021",
-        "unit": "2",
-        "location": "",
-        "excerpt": ""
-      },
-      "target": "thereforeは、この論理でいくとこうなるよね",
-      "category": "tip",
-      "prompt": "thereforeは、この論理でいくとこうなるよね",
-      "answer_core": "この論理でいくとこうなるよね",
-      "usage_examples": [
-        {
-          "english": "The road was closed; therefore, we took another route.",
-          "japanese": "道路が閉鎖されていた。したがって、私たちは別の道を通った。"
-        }
-      ],
-      "card_sentence": {
-        "before": "thereforeは、",
-        "hidden": "この論理でいくとこうなるよね",
         "after": ""
       },
       "difficulty": "basic",
@@ -12054,33 +10545,6 @@
       "card_sentence": {
         "before": "come away feeling：",
         "hidden": "離れて、思う。",
-        "after": ""
-      },
-      "difficulty": "basic",
-      "created_at": "2026-09-08",
-      "learned_on": "2026-09-08"
-    },
-    {
-      "id": "wasedashagaku2024-5-from-kakikaosu",
-      "source": {
-        "book": "早稲田社学 2024",
-        "unit": "5",
-        "location": "",
-        "excerpt": ""
-      },
-      "target": "fromかきかおす",
-      "category": "tip",
-      "prompt": "fromかきかおす",
-      "answer_core": "かきかおす",
-      "usage_examples": [
-        {
-          "english": "The train runs from Tokyo to Osaka.",
-          "japanese": "その列車は東京から大阪まで走る。"
-        }
-      ],
-      "card_sentence": {
-        "before": "from",
-        "hidden": "かきかおす",
         "after": ""
       },
       "difficulty": "basic",
@@ -13431,33 +11895,6 @@
       "card_sentence": {
         "before": "conceive：",
         "hidden": "考え",
-        "after": ""
-      },
-      "difficulty": "basic",
-      "created_at": "2026-09-26",
-      "learned_on": "2026-09-26"
-    },
-    {
-      "id": "meijijoho2024-2-go-followed-by-verb",
-      "source": {
-        "book": "明治大学情 2024",
-        "unit": "2",
-        "location": "",
-        "excerpt": ""
-      },
-      "target": "goの後に動詞が並ぶことがある",
-      "category": "tip",
-      "prompt": "goの後に動詞が並ぶことがある",
-      "answer_core": "動詞が並ぶことがある",
-      "usage_examples": [
-        {
-          "english": "Go ask your teacher.",
-          "japanese": "先生に聞きに行きなさい。"
-        }
-      ],
-      "card_sentence": {
-        "before": "goの後に",
-        "hidden": "動詞が並ぶことがある",
         "after": ""
       },
       "difficulty": "basic",
@@ -15841,33 +14278,6 @@
       "learned_on": "2026-10-10"
     },
     {
-      "id": "dateonly20261010-06-other",
-      "source": {
-        "book": "",
-        "unit": "",
-        "location": "",
-        "excerpt": ""
-      },
-      "target": "otherは、そのほかだからどんなのか考える",
-      "category": "tip",
-      "prompt": "otherは、そのほかだからどんなのか考える",
-      "answer_core": "そのほかだからどんなのか考える",
-      "usage_examples": [
-        {
-          "english": "Other students chose a different option.",
-          "japanese": "そのほかの生徒は別の選択肢を選んだ。"
-        }
-      ],
-      "card_sentence": {
-        "before": "otherは、",
-        "hidden": "そのほかだからどんなのか考える",
-        "after": ""
-      },
-      "difficulty": "basic",
-      "created_at": "2026-10-10",
-      "learned_on": "2026-10-10"
-    },
-    {
       "id": "dateonly20261010-07-flies",
       "source": {
         "book": "",
@@ -16131,33 +14541,6 @@
       "card_sentence": {
         "before": "response：",
         "hidden": "対策",
-        "after": ""
-      },
-      "difficulty": "basic",
-      "created_at": "2026-10-10",
-      "learned_on": "2026-10-10"
-    },
-    {
-      "id": "dateonly20261010-17-impair",
-      "source": {
-        "book": "",
-        "unit": "",
-        "location": "",
-        "excerpt": ""
-      },
-      "target": "impair：損なう",
-      "category": "term",
-      "prompt": "impair：損なう",
-      "answer_core": "損なう",
-      "usage_examples": [
-        {
-          "english": "Lack of sleep can impair judgment.",
-          "japanese": "睡眠不足は判断力を損なうことがある。"
-        }
-      ],
-      "card_sentence": {
-        "before": "impair：",
-        "hidden": "損なう",
         "after": ""
       },
       "difficulty": "basic",
@@ -16489,33 +14872,6 @@
       "learned_on": "2026-10-10"
     },
     {
-      "id": "dateonly20261010-30-something",
-      "source": {
-        "book": "",
-        "unit": "",
-        "location": "",
-        "excerpt": ""
-      },
-      "target": "訳しにくいsomething：もの",
-      "category": "tip",
-      "prompt": "訳しにくいsomething：もの",
-      "answer_core": "もの",
-      "usage_examples": [
-        {
-          "english": "I need something to eat.",
-          "japanese": "私は食べるものが必要だ。"
-        }
-      ],
-      "card_sentence": {
-        "before": "訳しにくいsomething：",
-        "hidden": "もの",
-        "after": ""
-      },
-      "difficulty": "basic",
-      "created_at": "2026-10-10",
-      "learned_on": "2026-10-10"
-    },
-    {
       "id": "dateonly20261010-31-in-response",
       "source": {
         "book": "",
@@ -16725,33 +15081,6 @@
       "card_sentence": {
         "before": "competency：",
         "hidden": "能力",
-        "after": ""
-      },
-      "difficulty": "basic",
-      "created_at": "2026-10-10",
-      "learned_on": "2026-10-10"
-    },
-    {
-      "id": "dateonly20261010-39-mismatch",
-      "source": {
-        "book": "",
-        "unit": "",
-        "location": "",
-        "excerpt": ""
-      },
-      "target": "mismatch：不一致。それだけの意味",
-      "category": "term",
-      "prompt": "mismatch：不一致。それだけの意味",
-      "answer_core": "それだけの意味",
-      "usage_examples": [
-        {
-          "english": "There is a mismatch between supply and demand.",
-          "japanese": "需要と供給に不一致がある。"
-        }
-      ],
-      "card_sentence": {
-        "before": "mismatch：不一致。",
-        "hidden": "それだけの意味",
         "after": ""
       },
       "difficulty": "basic",
@@ -16975,33 +15304,6 @@
       "learned_on": "2026-10-10"
     },
     {
-      "id": "dateonly20261010-48-meant",
-      "source": {
-        "book": "",
-        "unit": "",
-        "location": "",
-        "excerpt": ""
-      },
-      "target": "meantの根底は意図",
-      "category": "tip",
-      "prompt": "meantの根底は意図",
-      "answer_core": "意図",
-      "usage_examples": [
-        {
-          "english": "The message was meant to help.",
-          "japanese": "そのメッセージは助ける意図で書かれた。"
-        }
-      ],
-      "card_sentence": {
-        "before": "meantの根底は",
-        "hidden": "意図",
-        "after": ""
-      },
-      "difficulty": "basic",
-      "created_at": "2026-10-10",
-      "learned_on": "2026-10-10"
-    },
-    {
       "id": "dateonly20261010-49-by",
       "source": {
         "book": "",
@@ -17076,33 +15378,6 @@
       "card_sentence": {
         "before": "shipは",
         "hidden": "名詞化",
-        "after": ""
-      },
-      "difficulty": "basic",
-      "created_at": "2026-10-10",
-      "learned_on": "2026-10-10"
-    },
-    {
-      "id": "dateonly20261010-52-dispose-to-dispose-of",
-      "source": {
-        "book": "",
-        "unit": "",
-        "location": "",
-        "excerpt": ""
-      },
-      "target": "dispose to したい気分 dispose of 捨てる",
-      "category": "tip",
-      "prompt": "dispose to したい気分 dispose of 捨てる",
-      "answer_core": "捨てる",
-      "usage_examples": [
-        {
-          "english": "She disposed of the old papers.",
-          "japanese": "彼女は古い書類を捨てた。"
-        }
-      ],
-      "card_sentence": {
-        "before": "dispose to したい気分 dispose of ",
-        "hidden": "捨てる",
         "after": ""
       },
       "difficulty": "basic",
