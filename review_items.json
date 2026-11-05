@@ -19568,6 +19568,654 @@
       "difficulty": "basic",
       "created_at": "2026-11-03",
       "learned_on": "2026-11-03"
+    },
+    {
+      "id": "dateonly20261105-01-values",
+      "source": {
+        "book": "",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "values：価値観",
+      "category": "term",
+      "prompt": "values：価値観",
+      "answer_core": "価値観",
+      "usage_examples": [
+        {
+          "english": "We have different values.",
+          "japanese": "私たちは異なる価値観を持っています。"
+        }
+      ],
+      "card_sentence": {
+        "before": "values：",
+        "hidden": "価値観",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-11-05",
+      "learned_on": "2026-11-05"
+    },
+    {
+      "id": "dateonly20261105-02-come-to-do",
+      "source": {
+        "book": "",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "come to do：するようになる",
+      "category": "term",
+      "prompt": "come to do：するようになる",
+      "answer_core": "するようになる",
+      "usage_examples": [
+        {
+          "english": "I came to understand her point.",
+          "japanese": "私は彼女の主張を理解するようになりました。"
+        }
+      ],
+      "card_sentence": {
+        "before": "come to do：",
+        "hidden": "するようになる",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-11-05",
+      "learned_on": "2026-11-05"
+    },
+    {
+      "id": "dateonly20261105-03-gain",
+      "source": {
+        "book": "",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "gain名詞：向上",
+      "category": "term",
+      "prompt": "gain名詞：向上",
+      "answer_core": "向上",
+      "usage_examples": [
+        {
+          "english": "The program led to gains in reading skills.",
+          "japanese": "そのプログラムは読解力の向上につながりました。"
+        }
+      ],
+      "card_sentence": {
+        "before": "gain名詞：",
+        "hidden": "向上",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-11-05",
+      "learned_on": "2026-11-05"
+    },
+    {
+      "id": "dateonly20261105-04-query-ai",
+      "source": {
+        "book": "",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "query：aiにおいては、私たちがする質問",
+      "category": "term",
+      "prompt": "query：aiにおいては、私たちがする質問",
+      "answer_core": "aiにおいては、私たちがする質問",
+      "usage_examples": [
+        {
+          "english": "I entered a query into the AI system.",
+          "japanese": "私はAIシステムに質問を入力しました。"
+        }
+      ],
+      "card_sentence": {
+        "before": "query：",
+        "hidden": "aiにおいては、私たちがする質問",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-11-05",
+      "learned_on": "2026-11-05"
+    },
+    {
+      "id": "dateonly20261105-05-nest",
+      "source": {
+        "book": "",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "nest：巣",
+      "category": "term",
+      "prompt": "nest：巣",
+      "answer_core": "巣",
+      "usage_examples": [
+        {
+          "english": "The bird built a nest.",
+          "japanese": "その鳥は巣を作りました。"
+        }
+      ],
+      "card_sentence": {
+        "before": "nest：",
+        "hidden": "巣",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-11-05",
+      "learned_on": "2026-11-05"
+    },
+    {
+      "id": "dateonly20261105-06-stranger",
+      "source": {
+        "book": "",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "stranger：見知らぬ人",
+      "category": "term",
+      "prompt": "stranger：見知らぬ人",
+      "answer_core": "見知らぬ人",
+      "usage_examples": [
+        {
+          "english": "A stranger asked for directions.",
+          "japanese": "見知らぬ人が道を尋ねました。"
+        }
+      ],
+      "card_sentence": {
+        "before": "stranger：",
+        "hidden": "見知らぬ人",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-11-05",
+      "learned_on": "2026-11-05"
+    },
+    {
+      "id": "dateonly20261105-07-make-ones-way",
+      "source": {
+        "book": "",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "make one's way：進んでいく",
+      "category": "term",
+      "prompt": "make one's way：進んでいく",
+      "answer_core": "進んでいく",
+      "usage_examples": [
+        {
+          "english": "We made our way through the crowd.",
+          "japanese": "私たちは人混みの中を進んでいきました。"
+        }
+      ],
+      "card_sentence": {
+        "before": "make one's way：",
+        "hidden": "進んでいく",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-11-05",
+      "learned_on": "2026-11-05"
+    },
+    {
+      "id": "dateonly20261105-08-have-yet-to-do",
+      "source": {
+        "book": "",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "have yet to do：まだ〜していない",
+      "category": "term",
+      "prompt": "have yet to do：まだ〜していない",
+      "answer_core": "まだ〜していない",
+      "usage_examples": [
+        {
+          "english": "I have yet to finish the report.",
+          "japanese": "私はまだその報告書を終えていません。"
+        }
+      ],
+      "card_sentence": {
+        "before": "have yet to do：",
+        "hidden": "まだ〜していない",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-11-05",
+      "learned_on": "2026-11-05"
+    },
+    {
+      "id": "dateonly20261105-09-be-free-to-do",
+      "source": {
+        "book": "",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "be free to do：～する自由がある → 自由に～できる",
+      "category": "term",
+      "prompt": "be free to do：～する自由がある → 自由に～できる",
+      "answer_core": "自由に～できる",
+      "usage_examples": [
+        {
+          "english": "You are free to leave at any time.",
+          "japanese": "あなたはいつでも自由に帰れます。"
+        }
+      ],
+      "card_sentence": {
+        "before": "be free to do：～する自由がある → ",
+        "hidden": "自由に～できる",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-11-05",
+      "learned_on": "2026-11-05"
+    },
+    {
+      "id": "dateonly20261105-10-prospect",
+      "source": {
+        "book": "",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "prospect：可能性",
+      "category": "term",
+      "prompt": "prospect：可能性",
+      "answer_core": "可能性",
+      "usage_examples": [
+        {
+          "english": "There is little prospect of success.",
+          "japanese": "成功の可能性はほとんどありません。"
+        }
+      ],
+      "card_sentence": {
+        "before": "prospect：",
+        "hidden": "可能性",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-11-05",
+      "learned_on": "2026-11-05"
+    },
+    {
+      "id": "dateonly20261105-11-substance-use",
+      "source": {
+        "book": "",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "substance use：アルコールや薬物の使用",
+      "category": "term",
+      "prompt": "substance use：アルコールや薬物の使用",
+      "answer_core": "アルコールや薬物の使用",
+      "usage_examples": [
+        {
+          "english": "The survey examined substance use among teens.",
+          "japanese": "その調査は10代のアルコールや薬物の使用を調べました。"
+        }
+      ],
+      "card_sentence": {
+        "before": "substance use：",
+        "hidden": "アルコールや薬物の使用",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-11-05",
+      "learned_on": "2026-11-05"
+    },
+    {
+      "id": "dateonly20261105-12-enthusiasm",
+      "source": {
+        "book": "",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "enthusiasm：熱意",
+      "category": "term",
+      "prompt": "enthusiasm：熱意",
+      "answer_core": "熱意",
+      "usage_examples": [
+        {
+          "english": "She showed enthusiasm for the project.",
+          "japanese": "彼女はその企画に熱意を示しました。"
+        }
+      ],
+      "card_sentence": {
+        "before": "enthusiasm：",
+        "hidden": "熱意",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-11-05",
+      "learned_on": "2026-11-05"
+    },
+    {
+      "id": "dateonly20261105-13-presume-assume",
+      "source": {
+        "book": "",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "presume：assume",
+      "category": "term",
+      "prompt": "presume：assume",
+      "answer_core": "assume",
+      "usage_examples": [
+        {
+          "english": "I presume that he is correct.",
+          "japanese": "私は彼が正しいと推測しています。"
+        }
+      ],
+      "card_sentence": {
+        "before": "presume：",
+        "hidden": "assume",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-11-05",
+      "learned_on": "2026-11-05"
+    },
+    {
+      "id": "dateonly20261105-14-call-off",
+      "source": {
+        "book": "",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "call off：中止",
+      "category": "term",
+      "prompt": "call off：中止",
+      "answer_core": "中止",
+      "usage_examples": [
+        {
+          "english": "They called off the meeting.",
+          "japanese": "彼らは会議を中止しました。"
+        }
+      ],
+      "card_sentence": {
+        "before": "call off：",
+        "hidden": "中止",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-11-05",
+      "learned_on": "2026-11-05"
+    },
+    {
+      "id": "dateonly20261105-15-optimize",
+      "source": {
+        "book": "",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "optimize",
+      "category": "term",
+      "prompt": "optimize",
+      "answer_core": "最適化する",
+      "usage_examples": [
+        {
+          "english": "We need to optimize the process.",
+          "japanese": "私たちはその工程を最適化する必要があります。"
+        }
+      ],
+      "card_sentence": {
+        "before": "optimize",
+        "hidden": "",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-11-05",
+      "learned_on": "2026-11-05"
+    },
+    {
+      "id": "dateonly20261105-16-word",
+      "source": {
+        "book": "",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "word動詞：表現する",
+      "category": "term",
+      "prompt": "word動詞：表現する",
+      "answer_core": "表現する",
+      "usage_examples": [
+        {
+          "english": "She worded the request carefully.",
+          "japanese": "彼女は依頼を慎重な言葉で表現しました。"
+        }
+      ],
+      "card_sentence": {
+        "before": "word動詞：",
+        "hidden": "表現する",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-11-05",
+      "learned_on": "2026-11-05"
+    },
+    {
+      "id": "dateonly20261105-17-wore-wear",
+      "source": {
+        "book": "",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "wore：wearの過去形",
+      "category": "term",
+      "prompt": "wore：wearの過去形",
+      "answer_core": "wearの過去形",
+      "usage_examples": [
+        {
+          "english": "He wore a blue coat yesterday.",
+          "japanese": "彼は昨日青いコートを着ていました。"
+        }
+      ],
+      "card_sentence": {
+        "before": "wore：",
+        "hidden": "wearの過去形",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-11-05",
+      "learned_on": "2026-11-05"
+    },
+    {
+      "id": "dateonly20261105-18-bring-up-or",
+      "source": {
+        "book": "",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "bring up：話持ち出すor育てる",
+      "category": "term",
+      "prompt": "bring up：話持ち出すor育てる",
+      "answer_core": "育てる",
+      "usage_examples": [
+        {
+          "english": "She brought up three children.",
+          "japanese": "彼女は3人の子どもを育てました。"
+        }
+      ],
+      "card_sentence": {
+        "before": "bring up：話持ち出すor",
+        "hidden": "育てる",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-11-05",
+      "learned_on": "2026-11-05"
+    },
+    {
+      "id": "dateonly20261105-19-soundly-or",
+      "source": {
+        "book": "",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "soundly：しっかりorぐっすり",
+      "category": "term",
+      "prompt": "soundly：しっかりorぐっすり",
+      "answer_core": "ぐっすり",
+      "usage_examples": [
+        {
+          "english": "He slept soundly all night.",
+          "japanese": "彼は一晩中ぐっすり眠りました。"
+        }
+      ],
+      "card_sentence": {
+        "before": "soundly：しっかりor",
+        "hidden": "ぐっすり",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-11-05",
+      "learned_on": "2026-11-05"
+    },
+    {
+      "id": "dateonly20261105-20-less-well",
+      "source": {
+        "book": "",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "less wellは、よりわるい",
+      "category": "tip",
+      "prompt": "less wellは、よりわるい",
+      "answer_core": "よりわるい",
+      "usage_examples": [
+        {
+          "english": "I performed less well this time.",
+          "japanese": "今回は以前ほどよい成績を出せませんでした。"
+        }
+      ],
+      "card_sentence": {
+        "before": "less wellは、",
+        "hidden": "よりわるい",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-11-05",
+      "learned_on": "2026-11-05"
+    },
+    {
+      "id": "dateonly20261105-21-agency-or",
+      "source": {
+        "book": "",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "agency：機関or主体性",
+      "category": "term",
+      "prompt": "agency：機関or主体性",
+      "answer_core": "主体性",
+      "usage_examples": [
+        {
+          "english": "Students should have agency in learning.",
+          "japanese": "生徒には学習における主体性が必要です。"
+        }
+      ],
+      "card_sentence": {
+        "before": "agency：機関or",
+        "hidden": "主体性",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-11-05",
+      "learned_on": "2026-11-05"
+    },
+    {
+      "id": "dateonly20261105-22-make-the-most-out-of-a-a",
+      "source": {
+        "book": "",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "make the most out of A：Aを最大限に活用",
+      "category": "term",
+      "prompt": "make the most out of A：Aを最大限に活用",
+      "answer_core": "Aを最大限に活用",
+      "usage_examples": [
+        {
+          "english": "Make the most out of this opportunity.",
+          "japanese": "この機会を最大限に活用してください。"
+        }
+      ],
+      "card_sentence": {
+        "before": "make the most out of A：",
+        "hidden": "Aを最大限に活用",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-11-05",
+      "learned_on": "2026-11-05"
+    },
+    {
+      "id": "dateonly20261105-23-break-down",
+      "source": {
+        "book": "",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "break down：分割する",
+      "category": "term",
+      "prompt": "break down：分割する",
+      "answer_core": "分割する",
+      "usage_examples": [
+        {
+          "english": "Let's break down the problem into parts.",
+          "japanese": "問題を部分に分割しましょう。"
+        }
+      ],
+      "card_sentence": {
+        "before": "break down：",
+        "hidden": "分割する",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-11-05",
+      "learned_on": "2026-11-05"
+    },
+    {
+      "id": "dateonly20261105-24-fail-to-do-cannot-do",
+      "source": {
+        "book": "",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "fail to do：cannot do",
+      "category": "term",
+      "prompt": "fail to do：cannot do",
+      "answer_core": "cannot do",
+      "usage_examples": [
+        {
+          "english": "He failed to notice the sign.",
+          "japanese": "彼はその標識に気づきませんでした。"
+        }
+      ],
+      "card_sentence": {
+        "before": "fail to do：",
+        "hidden": "cannot do",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-11-05",
+      "learned_on": "2026-11-05"
     }
   ]
 }
