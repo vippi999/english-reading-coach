@@ -1,0 +1,413 @@
+{
+  "cards": [
+    {
+      "id": "dateonly20261112-01-consist-of-comprise",
+      "source": {
+        "book": "",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "consist of= compriseで、構成になるのがコンポ",
+      "category": "tip",
+      "prompt": "consist of= compriseで、構成になるのがコンポ",
+      "answer_core": "構成になるのがコンポ",
+      "usage_examples": [
+        {
+          "english": "The team consists of five players.",
+          "japanese": "そのチームは5人の選手で構成されています。"
+        }
+      ],
+      "card_sentence": {
+        "before": "consist of= compriseで、",
+        "hidden": "構成になるのがコンポ",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-11-12",
+      "learned_on": "2026-11-12"
+    },
+    {
+      "id": "dateonly20261112-02-prejudice",
+      "source": {
+        "book": "",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "prejudice：偏見",
+      "category": "term",
+      "prompt": "prejudice：偏見",
+      "answer_core": "偏見",
+      "usage_examples": [
+        {
+          "english": "Prejudice can affect our judgment.",
+          "japanese": "偏見は私たちの判断に影響を与えることがあります。"
+        }
+      ],
+      "card_sentence": {
+        "before": "prejudice：",
+        "hidden": "偏見",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-11-12",
+      "learned_on": "2026-11-12"
+    },
+    {
+      "id": "dateonly20261112-03-come-away",
+      "source": {
+        "book": "",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "come away：離れる",
+      "category": "term",
+      "prompt": "come away：離れる",
+      "answer_core": "離れる",
+      "usage_examples": [
+        {
+          "english": "He came away from the crowd.",
+          "japanese": "彼は群衆から離れました。"
+        }
+      ],
+      "card_sentence": {
+        "before": "come away：",
+        "hidden": "離れる",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-11-12",
+      "learned_on": "2026-11-12"
+    },
+    {
+      "id": "dateonly20261112-04-come-along-or",
+      "source": {
+        "book": "",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "come along：一緒に来るor上達する",
+      "category": "term",
+      "prompt": "come along：一緒に来るor上達する",
+      "answer_core": "上達する",
+      "usage_examples": [
+        {
+          "english": "Her English is coming along well.",
+          "japanese": "彼女の英語は順調に上達しています。"
+        }
+      ],
+      "card_sentence": {
+        "before": "come along：一緒に来るor",
+        "hidden": "上達する",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-11-12",
+      "learned_on": "2026-11-12"
+    },
+    {
+      "id": "dateonly20261112-05-take-along",
+      "source": {
+        "book": "",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "take along：連れていく",
+      "category": "term",
+      "prompt": "take along：連れていく",
+      "answer_core": "連れていく",
+      "usage_examples": [
+        {
+          "english": "You can take your friend along.",
+          "japanese": "友人を連れていってもよいです。"
+        }
+      ],
+      "card_sentence": {
+        "before": "take along：",
+        "hidden": "連れていく",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-11-12",
+      "learned_on": "2026-11-12"
+    },
+    {
+      "id": "dateonly20261112-06-range-from",
+      "source": {
+        "book": "",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "range from：幅がある",
+      "category": "term",
+      "prompt": "range from：幅がある",
+      "answer_core": "幅がある",
+      "usage_examples": [
+        {
+          "english": "Prices range from ten to fifty dollars.",
+          "japanese": "価格には10ドルから50ドルまで幅があります。"
+        }
+      ],
+      "card_sentence": {
+        "before": "range from：",
+        "hidden": "幅がある",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-11-12",
+      "learned_on": "2026-11-12"
+    },
+    {
+      "id": "dateonly20261112-07-traditionally",
+      "source": {
+        "book": "",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "traditionally：これまで",
+      "category": "term",
+      "prompt": "traditionally：これまで",
+      "answer_core": "これまで",
+      "usage_examples": [
+        {
+          "english": "Traditionally, people used wood for this.",
+          "japanese": "これまで、人々はこれに木材を使ってきました。"
+        }
+      ],
+      "card_sentence": {
+        "before": "traditionally：",
+        "hidden": "これまで",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-11-12",
+      "learned_on": "2026-11-12"
+    },
+    {
+      "id": "dateonly20261112-08-enact",
+      "source": {
+        "book": "",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "enact：制定する",
+      "category": "term",
+      "prompt": "enact：制定する",
+      "answer_core": "制定する",
+      "usage_examples": [
+        {
+          "english": "The government enacted a new law.",
+          "japanese": "政府は新しい法律を制定しました。"
+        }
+      ],
+      "card_sentence": {
+        "before": "enact：",
+        "hidden": "制定する",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-11-12",
+      "learned_on": "2026-11-12"
+    },
+    {
+      "id": "dateonly20261112-09-extent-which",
+      "source": {
+        "book": "",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "extentはwhichとかで、どの程度かを説明",
+      "category": "tip",
+      "prompt": "extentはwhichとかで、どの程度かを説明",
+      "answer_core": "どの程度かを説明",
+      "usage_examples": [
+        {
+          "english": "We examined the extent to which they agreed.",
+          "japanese": "彼らがどの程度同意していたかを調べました。"
+        }
+      ],
+      "card_sentence": {
+        "before": "extentはwhichとかで、",
+        "hidden": "どの程度かを説明",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-11-12",
+      "learned_on": "2026-11-12"
+    },
+    {
+      "id": "dateonly20261112-10-tip",
+      "source": {
+        "book": "",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "英語の矛盾は、反するくらいに留めとく。",
+      "category": "tip",
+      "prompt": "英語の矛盾は、反するくらいに留めとく。",
+      "answer_core": "反するくらいに留めとく。",
+      "usage_examples": [
+        {
+          "english": "The results contradict his claim.",
+          "japanese": "その結果は彼の主張に反しています。"
+        }
+      ],
+      "card_sentence": {
+        "before": "英語の矛盾は、",
+        "hidden": "反するくらいに留めとく。",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-11-12",
+      "learned_on": "2026-11-12"
+    },
+    {
+      "id": "dateonly20261112-11-within",
+      "source": {
+        "book": "",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "within：内",
+      "category": "term",
+      "prompt": "within：内",
+      "answer_core": "内",
+      "usage_examples": [
+        {
+          "english": "Please reply within a week.",
+          "japanese": "1週間以内に返信してください。"
+        }
+      ],
+      "card_sentence": {
+        "before": "within：",
+        "hidden": "内",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-11-12",
+      "learned_on": "2026-11-12"
+    },
+    {
+      "id": "dateonly20261112-12-prompt",
+      "source": {
+        "book": "",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "prompt動詞：促す",
+      "category": "term",
+      "prompt": "prompt動詞：促す",
+      "answer_core": "促す",
+      "usage_examples": [
+        {
+          "english": "The news prompted her to act.",
+          "japanese": "その知らせは彼女に行動を促しました。"
+        }
+      ],
+      "card_sentence": {
+        "before": "prompt動詞：",
+        "hidden": "促す",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-11-12",
+      "learned_on": "2026-11-12"
+    },
+    {
+      "id": "dateonly20261112-13-asylum-sanctuary",
+      "source": {
+        "book": "",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "asylum、sanctuary：避難所",
+      "category": "term",
+      "prompt": "asylum、sanctuary：避難所",
+      "answer_core": "避難所",
+      "usage_examples": [
+        {
+          "english": "The church offered sanctuary to asylum seekers.",
+          "japanese": "その教会は亡命希望者に避難所を提供しました。"
+        }
+      ],
+      "card_sentence": {
+        "before": "asylum、sanctuary：",
+        "hidden": "避難所",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-11-12",
+      "learned_on": "2026-11-12"
+    },
+    {
+      "id": "dateonly20261112-14-domestic-or",
+      "source": {
+        "book": "",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "domestic：国内or家庭",
+      "category": "term",
+      "prompt": "domestic：国内or家庭",
+      "answer_core": "家庭",
+      "usage_examples": [
+        {
+          "english": "Domestic violence is a serious issue.",
+          "japanese": "家庭内暴力は深刻な問題です。"
+        }
+      ],
+      "card_sentence": {
+        "before": "domestic：国内or",
+        "hidden": "家庭",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-11-12",
+      "learned_on": "2026-11-12"
+    },
+    {
+      "id": "dateonly20261112-15-fatality",
+      "source": {
+        "book": "",
+        "unit": "",
+        "location": "",
+        "excerpt": ""
+      },
+      "target": "色々死傷表現あるけど、fatalityだけが死確定",
+      "category": "tip",
+      "prompt": "色々死傷表現あるけど、fatalityだけが死確定",
+      "answer_core": "死確定",
+      "usage_examples": [
+        {
+          "english": "The crash caused two fatalities.",
+          "japanese": "その衝突事故では2人が死亡しました。"
+        }
+      ],
+      "card_sentence": {
+        "before": "色々死傷表現あるけど、fatalityだけが",
+        "hidden": "死確定",
+        "after": ""
+      },
+      "difficulty": "basic",
+      "created_at": "2026-11-12",
+      "learned_on": "2026-11-12"
+    }
+  ],
+  "completedLessons": [],
+  "weaknessRows": [
+    "| 2026-11-12 |  |  | consist of= compriseで、構成になるのがコンポ／prejudice：偏見／come away：離れる／come along：一緒に来るor上達する／take along：連れていく／range from：幅がある／traditionally：これまで／enact：制定する／extentはwhichとかで、どの程度かを説明／英語の矛盾は、反するくらいに留めとく。／within：内／prompt動詞：促す／asylum、sanctuary：避難所／domestic：国内or家庭／色々死傷表現あるけど、fatalityだけが死確定 |"
+  ]
+}
