@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-11-19",
+  "items": [
+    {
+      "id": "math-tan-double-angle",
+      "category": "formula",
+      "title": "タンジェントの2倍角",
+      "subject": "数学Ⅱ",
+      "unit": "三角関数",
+      "before": "\\tan 2\\theta =",
+      "answer": "\\frac{2\\tan\\theta}{1-\\tan^2\\theta}",
+      "conditions": "tan θ が定義され、1 − tan²θ ≠ 0 のとき。右辺の分母はマイナス。",
+      "priority": 1,
+      "created_at": "2026-11-19",
+      "updated_at": "2026-11-19T00:00:00.000Z",
+      "memory": {
+        "mnemonic": "牛タン二倍、ニタニタしながら1枚淡々。",
+        "mnemonic_note": "「二倍」→ tan 2θ、「ニタニタ」→ 2tan θ、「1枚淡々」→ 1 − tan²θ。語呂が合わなければ、下の導き方だけでOK。",
+        "logic": "加法定理の2つの角を、どちらも θ にする。分子は同じものを足すので2倍、分母は同じものを掛けるので2乗になる。",
+        "steps": [
+          "\\tan(\\alpha+\\beta)=\\frac{\\tan\\alpha+\\tan\\beta}{1-\\tan\\alpha\\tan\\beta}",
+          "\\alpha=\\beta=\\theta",
+          "\\tan 2\\theta=\\frac{\\tan\\theta+\\tan\\theta}{1-\\tan\\theta\\tan\\theta}=\\frac{2\\tan\\theta}{1-\\tan^2\\theta}"
+        ],
+        "sources": [
+          {
+            "label": "河合塾マナビス：三角関数の公式の覚え方",
+            "url": "https://www.manavis.com/mana_magazine/how-to-remember-trigonometric-formulas/"
+          },
+          {
+            "label": "金沢工業大学：2倍角の公式",
+            "url": "https://w3e.kanazawa-it.ac.jp/math/category/sankakukansuu/kahouteiri/henkan-tex.cgi?pcview=2&target=%2Fmath%2Fcategory%2Fsankakukansuu%2Fkahouteiri%2Fnibaikaku-no-kousiki.html"
+          }
+        ]
+      },
+      "resolved_request_ids": []
+    }
+  ]
+}
